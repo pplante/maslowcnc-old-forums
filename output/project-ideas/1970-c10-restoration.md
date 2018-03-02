@@ -25,7 +25,7 @@ Right, when I was at SEMA a lot of the cars had really creative metal work in th
 
 Posted on **2017-06-04 12:53:29** by **rexklein**:
 
-[Maslow_K10](//muut.com/u/maslowcnc/s1/:maslowcnc:Pjvu:maslow_k10.png.jpg)
+[Maslow_K10](../../images/Pj/vu/Pjvu_maslow_k10.png.jpg)
 
 ---
 

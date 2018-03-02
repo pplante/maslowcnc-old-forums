@@ -3,7 +3,7 @@ Posted on **2017-04-11 07:42:34** by **mindeye**:
 
 Just sharing a quick project from last night. Designed and cut in about an hour! It needs a few tweaks but pretty good for a prototype.
 
- [IMG_20170410_210822261](//muut.com/u/maslowcnc/s3/:maslowcnc:mKD2:img_20170410_210822261.jpg.jpg)  [IMG_20170410_210851054](//muut.com/u/maslowcnc/s3/:maslowcnc:8CXL:img_20170410_210851054.jpg.jpg)  [IMG_20170410_210948273](//muut.com/u/maslowcnc/s3/:maslowcnc:OQxf:img_20170410_210948273.jpg.jpg)
+ [IMG_20170410_210822261](../../images/mK/D2/mKD2_img_20170410_210822261.jpg.jpg)  [IMG_20170410_210851054](../../images/8C/XL/8CXL_img_20170410_210851054.jpg.jpg)  [IMG_20170410_210948273](../../images/OQ/xf/OQxf_img_20170410_210948273.jpg.jpg)
 
 ---
 
@@ -65,7 +65,7 @@ very cool to see people already making stuff. I'd add a top brace and bottom cro
 
 Posted on **2017-04-11 20:17:02** by **mindeye**:
 
-I was shooting to make it collapsible for flat pack transport. To that end I added some 1/4" dowels and holes for them. I'd probably use 3/8" in a final design but it's good enough for now. In truth the length of the whole design needs another 2" anyhow. Currently, the laptop when fully opened puts the center of gravity behind the end of the stand which makes the laptop likely to skip over the front stops when shaken. [IMG_20170411_195859574](//muut.com/u/maslowcnc/s3/:maslowcnc:Fhkl:img_20170411_195859574.jpg.jpg)
+I was shooting to make it collapsible for flat pack transport. To that end I added some 1/4" dowels and holes for them. I'd probably use 3/8" in a final design but it's good enough for now. In truth the length of the whole design needs another 2" anyhow. Currently, the laptop when fully opened puts the center of gravity behind the end of the stand which makes the laptop likely to skip over the front stops when shaken. [IMG_20170411_195859574](../../images/Fh/kl/Fhkl_img_20170411_195859574.jpg.jpg)
 
 ---
 

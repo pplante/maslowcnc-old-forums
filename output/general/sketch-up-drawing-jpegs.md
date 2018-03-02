@@ -15,7 +15,7 @@ Posted on **2017-02-09 14:41:49** by **scottsm**:
 
 Here are some quick jpegs.
 
- [Machine Back](//muut.com/u/maslowcnc/s3/:maslowcnc:VrwE:machineback.jpg.jpg) [Machine Front](//muut.com/u/maslowcnc/s3/:maslowcnc:yd7N:machinefront.jpg.jpg) [Machine Iso](//muut.com/u/maslowcnc/s3/:maslowcnc:iLYR:machineiso.jpg.jpg) [Machine Side](//muut.com/u/maslowcnc/s3/:maslowcnc:R7HS:machineside.jpg.jpg)
+ [Machine Back](../../images/Vr/wE/VrwE_machineback.jpg.jpg) [Machine Front](../../images/yd/7N/yd7N_machinefront.jpg.jpg) [Machine Iso](../../images/iL/YR/iLYR_machineiso.jpg.jpg) [Machine Side](../../images/R7/HS/R7HS_machineside.jpg.jpg)
 
 ---
 

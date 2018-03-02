@@ -5,7 +5,7 @@ some time back I bought a Veridesk and loved it! Except I'm 6' 8" tall and the s
 
 Here's a link to Veridesk: http://www.varidesk.com/
 
- [Standing-desk-pro-plus-36_main-10a88d7d8eef66cbc9309ff1100d93b41](//muut.com/u/maslowcnc/s2/:maslowcnc:kMBc:standingdeskproplus36_main10a88d7d8eef66cbc9309ff1100d93b41.jpg.jpg)
+ [Standing-desk-pro-plus-36_main-10a88d7d8eef66cbc9309ff1100d93b41](../../images/kM/Bc/kMBc_standingdeskproplus36_main10a88d7d8eef66cbc9309ff1100d93b41.jpg.jpg)
 
 ---
 

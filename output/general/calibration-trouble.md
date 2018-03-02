@@ -33,7 +33,7 @@ I'm going to try to run through calibration start to finish again. Hoping it wor
 
 
 
-  [IMG_1613](//muut.com/u/maslowcnc/s3/:maslowcnc:LpnK:img_1613.jpg.jpg) [IMG_2475](//muut.com/u/maslowcnc/s3/:maslowcnc:lTIb:img_2475.jpg.jpg)
+  [IMG_1613](../../images/Lp/nK/LpnK_img_1613.jpg.jpg) [IMG_2475](../../images/lT/Ib/lTIb_img_2475.jpg.jpg)
 
 ---
 

@@ -25,7 +25,7 @@ That's not ideal. Can you post a screen shot so I can see what they look like?
 
 Posted on **2017-03-22 13:31:38** by **hnatkowicz**:
 
-[Graphic6](//muut.com/u/maslowcnc/s3/:maslowcnc:hlq0:graphic6.jpg.jpg)
+[Graphic6](../../images/hl/q0/hlq0_graphic6.jpg.jpg)
 
 ---
 

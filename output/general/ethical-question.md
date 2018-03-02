@@ -1,7 +1,7 @@
 ## Ethical Question
 Posted on **2017-01-11 14:06:43** by **Bar**:
 
-I have a little bit of an ethical question for the community. I saw a little table that I liked on the internet the other day here: http://www.untothislast.co.uk/collections/coffee-tables/products/compass-side-table-35cm It took maybe 15 minutes to draw up in Sketchup  [TableCAD](//muut.com/u/maslowcnc/s1/:maslowcnc:wF7F:tablecad.jpg.jpg) and I built my own version  [TablePicture](//muut.com/u/maslowcnc/s3/:maslowcnc:HwYk:tablepicture.jpg.jpg). I feel OK about building my own, but is it ethical (or even legal?) for me to share the files? 
+I have a little bit of an ethical question for the community. I saw a little table that I liked on the internet the other day here: http://www.untothislast.co.uk/collections/coffee-tables/products/compass-side-table-35cm It took maybe 15 minutes to draw up in Sketchup  [TableCAD](../../images/wF/7F/wF7F_tablecad.jpg.jpg) and I built my own version  [TablePicture](../../images/Hw/Yk/HwYk_tablepicture.jpg.jpg). I feel OK about building my own, but is it ethical (or even legal?) for me to share the files? 
 
 
 
@@ -151,7 +151,7 @@ I think it's actually stained plywood. The parts are cleverly designed to all be
 
 
 
-Its a little more apparent how they did it in some of the other colors, especially this one:  [Plywood edges](//muut.com/u/maslowcnc/s1/:maslowcnc:V6EQ:plywoodedges.jpg.jpg) 
+Its a little more apparent how they did it in some of the other colors, especially this one:  [Plywood edges](../../images/V6/EQ/V6EQ_plywoodedges.jpg.jpg) 
 
 
 

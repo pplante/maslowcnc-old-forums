@@ -17,7 +17,7 @@ What a cool idea!!!
 
 
 
-I cut a quick piece to test the press fit idea and getting parts to press fit enough that they are hard to pull apart is pretty easy. Here's a picture  [Press fit](//muut.com/u/maslowcnc/s3/:maslowcnc:MVFF:pressfit.jpg.jpg) of the part press fit onto some 3/4 plywood.
+I cut a quick piece to test the press fit idea and getting parts to press fit enough that they are hard to pull apart is pretty easy. Here's a picture  [Press fit](../../images/MV/FF/MVFF_pressfit.jpg.jpg) of the part press fit onto some 3/4 plywood.
 
 
 

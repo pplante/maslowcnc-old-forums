@@ -93,7 +93,7 @@ When done mounting or dismounting the router, unhook the bracket and hang it on 
 
 It took longer to take the pics and write this text than to whip up that bracket. LOL!!!
 
-In the second pic... Those little dark smears to the right of the bracket, that's my blood!! The saw machine at Lowes made TONS of very sharp splinters and I got stabbed quite a few times. :) I meant to brings gloves but forgot. I didn't arrange that in the pic on purpose but happened to notice it when editing the pics. [Router-hanger-bracket-01](//muut.com/u/maslowcnc/s2/:maslowcnc:ltv1:routerhangerbracket01.png.jpg) [Router-hanger-bracket-02](//muut.com/u/maslowcnc/s2/:maslowcnc:QZJ2:routerhangerbracket02.png.jpg)
+In the second pic... Those little dark smears to the right of the bracket, that's my blood!! The saw machine at Lowes made TONS of very sharp splinters and I got stabbed quite a few times. :) I meant to brings gloves but forgot. I didn't arrange that in the pic on purpose but happened to notice it when editing the pics. [Router-hanger-bracket-01](../../images/lt/v1/ltv1_routerhangerbracket01.png.jpg) [Router-hanger-bracket-02](../../images/QZ/J2/QZJ2_routerhangerbracket02.png.jpg)
 
 ---
 
@@ -117,7 +117,7 @@ they probably just need to put a sharper blade in the saw
 
 Posted on **2017-03-22 23:12:15** by **rexklein**:
 
-Please be patient with me I actually do this kind of thing for a living. please see attached screenshot add a column called leg piece it will unify all three sections giving the assembler 3 bites at the apple to understand. [2017-03-22_22-49-03](//muut.com/u/maslowcnc/s2/:maslowcnc:qsnG:20170322_224903.jpeg.jpg) 
+Please be patient with me I actually do this kind of thing for a living. please see attached screenshot add a column called leg piece it will unify all three sections giving the assembler 3 bites at the apple to understand. [2017-03-22_22-49-03](../../images/qs/nG/qsnG_20170322_224903.jpeg.jpg) 
 
 people's brains work differently some are diagram oriented some are list followers. Many (especially the confident) will use the cut list first. I think you will find that once labeled the list is actually out of numerical order with respect to piece. you can actually see in the last diagram that the order is jumbled. 
 
@@ -263,7 +263,7 @@ I have my temp set up with his original deisign, motors on the corner of the 4x8
 
 Posted on **2017-03-23 11:22:22** by **blsteinhauer88**:
 
-[IMG_0467](//muut.com/u/maslowcnc/s3/:maslowcnc:BTEM:img_0467.jpg.jpg) [IMG_0468](//muut.com/u/maslowcnc/s3/:maslowcnc:9tvn:img_0468.jpg.jpg)
+[IMG_0467](../../images/BT/EM/BTEM_img_0467.jpg.jpg) [IMG_0468](../../images/9t/vn/9tvn_img_0468.jpg.jpg)
 
 ---
 

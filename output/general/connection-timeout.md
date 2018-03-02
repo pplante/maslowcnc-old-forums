@@ -147,7 +147,7 @@ serial connection in the Arduino IDE is good.  I tried running Ground control fr
 
 Posted on **2017-07-12 10:47:40** by **charleswiltgen**:
 
-so when I try to follow install from source instructions I get this... [Capture](//muut.com/u/maslowcnc/s1/:maslowcnc:SYD4:capture.png.jpg).  Is there something I am doing wrong?
+so when I try to follow install from source instructions I get this... [Capture](../../images/SY/D4/SYD4_capture.png.jpg).  Is there something I am doing wrong?
 
 ---
 

@@ -9,11 +9,11 @@ Something went wrong in my first attempt with the scaling and everything came ou
 
 
 
- [Adapter](//muut.com/u/maslowcnc/s3/:maslowcnc:Pm9d:screenshot_20170512152825.png.jpg) 
+ [Adapter](../../images/Pm/9d/Pm9d_screenshot_20170512152825.png.jpg) 
 
 
 
- [Bracket](//muut.com/u/maslowcnc/s3/:maslowcnc:AYHj:screenshot_20170512152817.png.jpg)
+ [Bracket](../../images/AY/Hj/AYHj_screenshot_20170512152817.png.jpg)
 
 ---
 
@@ -25,7 +25,7 @@ My project was to build the new arm design. I also lowered my angle. Then again 
 
 Posted on **2017-05-12 16:05:29** by **blsteinhauer88**:
 
-[IMG_0769](//muut.com/u/maslowcnc/s3/:maslowcnc:54dp:img_0769.jpg.jpg) [IMG_0772](//muut.com/u/maslowcnc/s3/:maslowcnc:1fCH:img_0772.jpg.jpg)
+[IMG_0769](../../images/54/dp/54dp_img_0769.jpg.jpg) [IMG_0772](../../images/1f/CH/1fCH_img_0772.jpg.jpg)
 
 ---
 
@@ -37,7 +37,7 @@ Looking good!
 
 Posted on **2017-05-12 16:07:09** by **blsteinhauer88**:
 
-[Image](//muut.com/u/maslowcnc/s3/:maslowcnc:Gr7V:image.jpg.jpg)  Cutting my own retro tv stand for iPhone I found somewhere.
+[Image](../../images/Gr/7V/Gr7V_image.jpg.jpg)  Cutting my own retro tv stand for iPhone I found somewhere.
 
 ---
 
@@ -53,11 +53,11 @@ Here the big one next to the right size one and the CAD just for fun
 
 
 
- [Both brackets](//muut.com/u/maslowcnc/s3/:maslowcnc:vcMK:screenshot_20170512160846.png.jpg)  
+ [Both brackets](../../images/vc/MK/vcMK_screenshot_20170512160846.png.jpg)  
 
 
 
-[CAD](//muut.com/u/maslowcnc/s3/:maslowcnc:5N5y:screenshot_20170512161025.png.jpg)
+[CAD](../../images/5N/5y/5N5y_screenshot_20170512161025.png.jpg)
 
 ---
 
@@ -77,7 +77,7 @@ This project will probably just sit around and collect dust
 
 
 
- [Installed](//muut.com/u/maslowcnc/s3/:maslowcnc:LBZO:screenshot_20170512162636.png.jpg)
+ [Installed](../../images/LB/ZO/LBZO_screenshot_20170512162636.png.jpg)
 
 ---
 

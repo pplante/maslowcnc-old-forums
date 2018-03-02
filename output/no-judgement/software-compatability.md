@@ -25,7 +25,7 @@ I think that is a very good plan. Please let us know how it goes
 
 Posted on **2017-03-31 14:49:25** by **mikeberg**:
 
-I make a test with debian os and the same issue encounter :( kivy isn't compatible with old processor  [DSC_0307](//muut.com/u/maslowcnc/s3/:maslowcnc:MNXH:dsc_0307.jpg.jpg)
+I make a test with debian os and the same issue encounter :( kivy isn't compatible with old processor  [DSC_0307](../../images/MN/XH/MNXH_dsc_0307.jpg.jpg)
 
 ---
 
@@ -75,7 +75,7 @@ Posted on **2017-04-01 07:44:49** by **gero**:
 
 Posted on **2017-04-01 21:17:07** by **mikeberg**:
 
-i have tryed your code and its seem to help but my screen wont open [DSC_0309](//muut.com/u/maslowcnc/s3/:maslowcnc:mJGn:dsc_0309.jpg.jpg)
+i have tryed your code and its seem to help but my screen wont open [DSC_0309](../../images/mJ/Gn/mJGn_dsc_0309.jpg.jpg)
 
 ---
 
@@ -111,7 +111,7 @@ yep i finded one gcode sender it can be execute on all three platform named univ
 
 Posted on **2017-04-01 23:19:32** by **mikeberg**:
 
-My first. NC file test work very nicely on it, I'm offline with my arduino uno for now but im very confiant  [DSC_0310](//muut.com/u/maslowcnc/s3/:maslowcnc:7Bns:dsc_0310.jpg.jpg)
+My first. NC file test work very nicely on it, I'm offline with my arduino uno for now but im very confiant  [DSC_0310](../../images/7B/ns/7Bns_dsc_0310.jpg.jpg)
 
 ---
 

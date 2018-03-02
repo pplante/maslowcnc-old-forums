@@ -7,7 +7,7 @@ It can be very useful to know the feed rate in real time when maslow read gcode 
 
 Posted on **2017-06-08 22:46:29** by **mikeberg**:
 
-Maybe a virtual knob for adjusting feedrate can be very useful too  [DK_110](//muut.com/u/maslowcnc/s1/:maslowcnc:XPZl:dk_110.jpg.jpg)
+Maybe a virtual knob for adjusting feedrate can be very useful too  [DK_110](../../images/XP/Zl/XPZl_dk_110.jpg.jpg)
 
 ---
 

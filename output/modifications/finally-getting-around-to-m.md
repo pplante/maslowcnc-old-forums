@@ -13,11 +13,11 @@ Here is what is done so far.
 
 
 
-[20170514_191527](//muut.com/u/maslowcnc/s3/:maslowcnc:12ob:20170514_191527.jpg.jpg) 
+[20170514_191527](../../images/12/ob/12ob_20170514_191527.jpg.jpg) 
 
- [20170514_191546](//muut.com/u/maslowcnc/s3/:maslowcnc:lUcg:20170514_191546.jpg.jpg) 
+ [20170514_191546](../../images/lU/cg/lUcg_20170514_191546.jpg.jpg) 
 
- [20170514_191554](//muut.com/u/maslowcnc/s3/:maslowcnc:w3Qo:20170514_191554.jpg.jpg) 
+ [20170514_191554](../../images/w3/Qo/w3Qo_20170514_191554.jpg.jpg) 
 
 
 
@@ -93,13 +93,13 @@ If this works as I hope it will, it should open up a whole slew of new options.
 
 Posted on **2017-05-18 18:02:48** by **chadzimmerman**:
 
-Gave my daughter a project for school tomorrow. Welding the drive nut to the mounting bracket.  [20170518_203515](//muut.com/u/maslowcnc/s3/:maslowcnc:a7c0:20170518_203515.jpg.jpg)
+Gave my daughter a project for school tomorrow. Welding the drive nut to the mounting bracket.  [20170518_203515](../../images/a7/c0/a7c0_20170518_203515.jpg.jpg)
 
 ---
 
 Posted on **2017-05-19 13:13:50** by **chadzimmerman**:
 
-Assembled pieces.  She did a nice job with them.  [20170519_161013](//muut.com/u/maslowcnc/s3/:maslowcnc:XTvg:20170519_161013.jpg.jpg)
+Assembled pieces.  She did a nice job with them.  [20170519_161013](../../images/XT/vg/XTvg_20170519_161013.jpg.jpg)
 
 ---
 
@@ -115,13 +115,13 @@ Besides that, making some good progress today. I am close to the limit I can do 
 
 Anyway, some more teaser photos. 
 
- [20170520_155541](//muut.com/u/maslowcnc/s3/:maslowcnc:ODoB:20170520_155541.jpg.jpg) 
+ [20170520_155541](../../images/OD/oB/ODoB_20170520_155541.jpg.jpg) 
 
- [20170520_155515](//muut.com/u/maslowcnc/s3/:maslowcnc:AcnP:20170520_155515.jpg.jpg) 
+ [20170520_155515](../../images/Ac/nP/AcnP_20170520_155515.jpg.jpg) 
 
- [20170520_155630](//muut.com/u/maslowcnc/s3/:maslowcnc:9XXR:20170520_155630.jpg.jpg) 
+ [20170520_155630](../../images/9X/XR/9XXR_20170520_155630.jpg.jpg) 
 
- [20170520_155523](//muut.com/u/maslowcnc/s3/:maslowcnc:WT6s:20170520_155523.jpg.jpg) 
+ [20170520_155523](../../images/WT/6s/WT6s_20170520_155523.jpg.jpg) 
 
 
 
@@ -163,9 +163,9 @@ Yeah, yeah :p  I will switch to "uppy downy thing" then.
 
 Posted on **2017-05-23 16:55:20** by **chadzimmerman**:
 
-[20170523_172952](//muut.com/u/maslowcnc/s3/:maslowcnc:tv95:20170523_172952.jpg.jpg)
+[20170523_172952](../../images/tv/95/tv95_20170523_172952.jpg.jpg)
 
- [20170523_173027](//muut.com/u/maslowcnc/s3/:maslowcnc:ec3b:20170523_173027.jpg.jpg) 
+ [20170523_173027](../../images/ec/3b/ec3b_20170523_173027.jpg.jpg) 
 
 
 

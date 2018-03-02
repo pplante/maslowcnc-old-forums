@@ -13,7 +13,7 @@ It's not perfect, the motors are still a little jittery without the load of the 
 
 
 
-You'll know you are running the right version because [the version numbers will be 0.77](//muut.com/u/maslowcnc/s3/:maslowcnc:4V1n:version0.77.jpg.jpg) 
+You'll know you are running the right version because [the version numbers will be 0.77](../../images/4V/1n/4V1n_version0.77.jpg.jpg) 
 
 
 
@@ -103,7 +103,7 @@ brb
 
 Posted on **2017-06-21 08:21:49** by **rancher**:
 
-[IMG_4244](//muut.com/u/maslowcnc/s3/:maslowcnc:9jA6:img_4244.jpg.jpg)
+[IMG_4244](../../images/9j/A6/9jA6_img_4244.jpg.jpg)
 
 ---
 
@@ -161,17 +161,17 @@ One of three things is going on.
 
 
 
-2) Something fishy is going on with the serial port on the windows side. I've seen this behavior happen and then go away when opening and closing the the  [serial monitor like this](//muut.com/u/maslowcnc/s2/:maslowcnc:7FGC:serialmonitor.jpg.jpg) a couple of times or restarting the computer (I know right, turn it off and back on again...)
+2) Something fishy is going on with the serial port on the windows side. I've seen this behavior happen and then go away when opening and closing the the  [serial monitor like this](../../images/7F/GC/7FGC_serialmonitor.jpg.jpg) a couple of times or restarting the computer (I know right, turn it off and back on again...)
 
 
 
 3) Something new and weird is going on in which case the information that will help me track it down is 
 
-        a) What is shown in the serial monitor text  [like this](//muut.com/u/maslowcnc/s2/:maslowcnc:cAec:serialmonitortext.jpg.jpg) 
+        a) What is shown in the serial monitor text  [like this](../../images/cA/ec/cAec_serialmonitortext.jpg.jpg) 
 
-        b) What is displayed in the Ground Control text monitor  [like this](//muut.com/u/maslowcnc/s1/:maslowcnc:4Wx1:gctext.jpg.jpg) 
+        b) What is displayed in the Ground Control text monitor  [like this](../../images/4W/x1/4Wx1_gctext.jpg.jpg) 
 
-        c) What is displayed in the command  prompt terminal that opens with Ground Control  [like this](//muut.com/u/maslowcnc/s2/:maslowcnc:iVSF:cmdtext.jpg.jpg) 
+        c) What is displayed in the command  prompt terminal that opens with Ground Control  [like this](../../images/iV/SF/iVSF_cmdtext.jpg.jpg) 
 
 
 
@@ -203,27 +203,27 @@ Looks like Python version is an issue somehow.  My machine has been off the inte
 
 
 
-[Ground control display](//muut.com/u/maslowcnc/s3/:maslowcnc:LDmx:groundcontroldisplay.jpg.jpg)
+[Ground control display](../../images/LD/mx/LDmx_groundcontroldisplay.jpg.jpg)
 
 
 
- [Python Start1](//muut.com/u/maslowcnc/s3/:maslowcnc:kE7W:pythonstart1.jpg.jpg)
+ [Python Start1](../../images/kE/7W/kE7W_pythonstart1.jpg.jpg)
 
 
 
- [Python start2](//muut.com/u/maslowcnc/s3/:maslowcnc:GKo6:pythonstart2.jpg.jpg)
+ [Python start2](../../images/GK/o6/GKo6_pythonstart2.jpg.jpg)
 
 
 
- [Serial monitor GC running](//muut.com/u/maslowcnc/s3/:maslowcnc:Othl:serialmonitorgcrunning.jpg.jpg)
+ [Serial monitor GC running](../../images/Ot/hl/Othl_serialmonitorgcrunning.jpg.jpg)
 
 
 
- [Serial monitor on start](//muut.com/u/maslowcnc/s3/:maslowcnc:vedh:serialmonitoronstart.jpg.jpg)
+ [Serial monitor on start](../../images/ve/dh/vedh_serialmonitoronstart.jpg.jpg)
 
 
 
-  [Bonus](//muut.com/u/maslowcnc/s3/:maslowcnc:w4YC:bonus.jpg.jpg)
+  [Bonus](../../images/w4/YC/w4YC_bonus.jpg.jpg)
 
 ---
 
@@ -293,7 +293,7 @@ Posted on **2017-06-21 12:13:00** by **Bar**:
 
 
 
-in the terminal like this:  [like this](//muut.com/u/maslowcnc/s2/:maslowcnc:8GDs:pyserial.jpg.jpg) when the computer is connected to the internet. Just bringing the Arduino to make sure it connects is enough to know if things are working
+in the terminal like this:  [like this](../../images/8G/Ds/8GDs_pyserial.jpg.jpg) when the computer is connected to the internet. Just bringing the Arduino to make sure it connects is enough to know if things are working
 
 ---
 
@@ -565,7 +565,7 @@ It's cutting better than it ever has Bar.  I whipped out this 45 box in some scr
 
 
 
-  [Table and Box](//muut.com/u/maslowcnc/s3/:maslowcnc:40T9:tableandbox.jpg.jpg)
+  [Table and Box](../../images/40/T9/40T9_tableandbox.jpg.jpg)
 
 ---
 
@@ -593,7 +593,7 @@ Posted on **2017-06-21 20:37:39** by **blsteinhauer88**:
 
 A little jittery, but cut great! Thanks @bar
 
- [IMG_0045](//muut.com/u/maslowcnc/s3/:maslowcnc:rXjc:img_0045.jpg.jpg)
+ [IMG_0045](../../images/rX/jc/rXjc_img_0045.jpg.jpg)
 
 ---
 

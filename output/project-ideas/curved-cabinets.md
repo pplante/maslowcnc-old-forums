@@ -13,7 +13,7 @@ Eighth-inch ply is a floppy mess, until you torment it into a curve. Then it's a
 
 
 
- [08Airstream-0000](//muut.com/u/maslowcnc/s2/:maslowcnc:Ni0W:08airstream0000.jpg.jpg)
+ [08Airstream-0000](../../images/Ni/0W/Ni0W_08airstream0000.jpg.jpg)
 
 ---
 

@@ -91,9 +91,9 @@ Thanks guys, I do my best. Thank YOU for giving us the feedback and guidance abo
 
 Posted on **2017-03-29 10:00:39** by **blsteinhauer88**:
 
-I cut this before the circle fix with Makercam. [IMG_0486](//muut.com/u/maslowcnc/s3/:maslowcnc:MjRp:img_0486.jpg.jpg) a bit oval but looks good. Will try it again. 
+I cut this before the circle fix with Makercam. [IMG_0486](../../images/Mj/Rp/MjRp_img_0486.jpg.jpg) a bit oval but looks good. Will try it again. 
 
-Last night just trying to cut the Motor mounts ended up like this,  [IMG_0493](//muut.com/u/maslowcnc/s3/:maslowcnc:LMC4:img_0493.jpg.jpg) [IMG_0495](//muut.com/u/maslowcnc/s3/:maslowcnc:Aagx:img_0495.jpg.jpg)
+Last night just trying to cut the Motor mounts ended up like this,  [IMG_0493](../../images/LM/C4/LMC4_img_0493.jpg.jpg) [IMG_0495](../../images/Aa/gx/Aagx_img_0495.jpg.jpg)
 
 Cut from top center. Ground control was even showing the error circle. Don't know if just friction or what.  I cut again from bottom center and they are ok. 
 
@@ -161,7 +161,7 @@ I used easel last night after the tip here from @makermark. So much better than 
 
 Posted on **2017-03-31 11:59:44** by **blsteinhauer88**:
 
-[IMG_0501](//muut.com/u/maslowcnc/s3/:maslowcnc:yfiy:img_0501.jpg.jpg)
+[IMG_0501](../../images/yf/iy/yfiy_img_0501.jpg.jpg)
 
 ---
 

@@ -23,7 +23,7 @@ By "jumps" are you talking about how in the real time video you can see the bric
 
 
 
-Squares are a big thi ng that everyone keeps requesting so it's going to happen. I think I will get the parts to put together a z-axis today (fingers crossed) so it might be tomorrow before I cut a square, if you just want to see how straight a straight cut is, here's a picture of something I grabbed from the scrap pile  [Straight Cut](//muut.com/u/maslowcnc/s2/:maslowcnc:TfRs:straightcut.jpg.jpg). Because "straight" doesn't really mean anything to the machine, every line is handled the same, regardless of shape so you get the same accuracy cutting a square or a spline.
+Squares are a big thi ng that everyone keeps requesting so it's going to happen. I think I will get the parts to put together a z-axis today (fingers crossed) so it might be tomorrow before I cut a square, if you just want to see how straight a straight cut is, here's a picture of something I grabbed from the scrap pile  [Straight Cut](../../images/Tf/Rs/TfRs_straightcut.jpg.jpg). Because "straight" doesn't really mean anything to the machine, every line is handled the same, regardless of shape so you get the same accuracy cutting a square or a spline.
 
 
 

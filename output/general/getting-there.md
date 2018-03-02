@@ -1,7 +1,7 @@
 ## Getting there...
 Posted on **2017-03-24 12:19:41** by **hnatkowicz**:
 
-[IMG_0999](//muut.com/u/maslowcnc/s3/:maslowcnc:YXXr:img_0999.jpg.jpg)
+[IMG_0999](../../images/YX/Xr/YXXr_img_0999.jpg.jpg)
 
 ---
 
@@ -41,7 +41,7 @@ Thanks Bar! I'm really curious how clean of a cut is possible with this system. 
 
 Posted on **2017-03-24 12:47:51** by **hnatkowicz**:
 
-[IMG_0998](//muut.com/u/maslowcnc/s3/:maslowcnc:bjOz:img_0998.jpg.jpg) 
+[IMG_0998](../../images/bj/Oz/bjOz_img_0998.jpg.jpg) 
 
 
 

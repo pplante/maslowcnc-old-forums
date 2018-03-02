@@ -17,7 +17,7 @@ Can you put up a picture of it?
 
 Posted on **2017-04-02 17:12:49** by **ledsled71**:
 
-[14911782805501627729086](//muut.com/u/maslowcnc/s3/:maslowcnc:C7ML:14911782805501627729086.jpg.jpg)
+[14911782805501627729086](../../images/C7/ML/C7ML_14911782805501627729086.jpg.jpg)
 
 ---
 

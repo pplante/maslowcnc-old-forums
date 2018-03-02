@@ -1,7 +1,7 @@
 ## One of the first things I want to build is this bike rack.
 Posted on **2016-10-13 09:54:38** by **Bar**:
 
-https://www.pinterest.com/pin/561613016009636591          It was made by a company that seems to have disappeared, but there are some blueprints on pintrest I think I could trace. It's clearly designed to be cut from a single sheet of 4x8 plywood which is nice. [Desktop](//muut.com/u/maslowcnc/s1/:maslowcnc:tDot:desktop.png.jpg)  It shouldn't be too complicated to make with a CNC.
+https://www.pinterest.com/pin/561613016009636591          It was made by a company that seems to have disappeared, but there are some blueprints on pintrest I think I could trace. It's clearly designed to be cut from a single sheet of 4x8 plywood which is nice. [Desktop](../../images/tD/ot/tDot_desktop.png.jpg)  It shouldn't be too complicated to make with a CNC.
 
 ---
 

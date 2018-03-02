@@ -55,7 +55,7 @@ Posted on **2017-06-15 17:22:35** by **Bar**:
 
 Posted on **2017-06-16 12:31:41** by **gero**:
 
-[IMAG0851](//muut.com/u/maslowcnc/s3/:maslowcnc:YQ4j:imag0851.jpg.jpg)  5 sheets of 4mm 'whatever' are waiting in the garage just for the testpattern and lines across the sheet. Will try to come up with a solution tonight, to mount my lever that has a laser with a straight line, to a camera tripod. Just give me a GC/FW that I can get through calibration ;-) by morning (12 hours from now) and there will be a lot of dust :-)
+[IMAG0851](../../images/YQ/4j/YQ4j_imag0851.jpg.jpg)  5 sheets of 4mm 'whatever' are waiting in the garage just for the testpattern and lines across the sheet. Will try to come up with a solution tonight, to mount my lever that has a laser with a straight line, to a camera tripod. Just give me a GC/FW that I can get through calibration ;-) by morning (12 hours from now) and there will be a lot of dust :-)
 
 ---
 
@@ -65,7 +65,7 @@ An accurate way to measure straightness of cuts over long distances is to cut tw
 
 
 
- [Asset 1](//muut.com/u/maslowcnc/s1/:maslowcnc:kYki:asset1.png.jpg)
+ [Asset 1](../../images/kY/ki/kYki_asset1.png.jpg)
 
 ---
 
@@ -97,7 +97,7 @@ but in our case, the problem we have been fighting is the cut being curved up in
 
 Posted on **2017-06-17 08:50:21** by **gero**:
 
-The laser is set up and it seems that could work.  [IMAG0858](//muut.com/u/maslowcnc/s1/:maslowcnc:qvod:imag0858.jpg.jpg)   [IMAG0857](//muut.com/u/maslowcnc/s1/:maslowcnc:Iw2f:imag0857.jpg.jpg) No cutting as calibration is not working for me. 
+The laser is set up and it seems that could work.  [IMAG0858](../../images/qv/od/qvod_imag0858.jpg.jpg)   [IMAG0857](../../images/Iw/2f/Iw2f_imag0857.jpg.jpg) No cutting as calibration is not working for me. 
 
 Have we reached a stage where we should have a 'Stable Release' for cutting and 'Beta Release' for testing?
 
@@ -123,7 +123,7 @@ I was unable to control the sled.
 
 Posted on **2017-06-18 16:17:07** by **gero**:
 
-[IMAG0862](//muut.com/u/maslowcnc/s3/:maslowcnc:qHnd:imag0862.jpg.jpg)  [IMAG0863](//muut.com/u/maslowcnc/s3/:maslowcnc:uA4N:imag0863.jpg.jpg)
+[IMAG0862](../../images/qH/nd/qHnd_imag0862.jpg.jpg)  [IMAG0863](../../images/uA/4N/uA4N_imag0863.jpg.jpg)
 
 ---
 
@@ -183,13 +183,13 @@ Is what you are imagining a "mark the center of the plywood with a pen and move 
 
 Posted on **2017-06-18 19:02:17** by **blsteinhauer88**:
 
-[Image](//muut.com/u/maslowcnc/s3/:maslowcnc:LZ2A:image.jpg.jpg)
+[Image](../../images/LZ/2A/LZ2A_image.jpg.jpg)
 
 ---
 
 Posted on **2017-06-18 19:03:49** by **blsteinhauer88**:
 
-@davidlang, not bad,  [Image-0](//muut.com/u/maslowcnc/s3/:maslowcnc:eZg2:file_0image.jpg.jpg)
+@davidlang, not bad,  [Image-0](../../images/eZ/g2/eZg2_file_0image.jpg.jpg)
 
 ---
 

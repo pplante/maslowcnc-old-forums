@@ -1,7 +1,7 @@
 ## Test cuts from today with tabs
 Posted on **2016-10-28 19:07:35** by **Bar**:
 
-I did some test cuts of holding pieces in place with tabs today while working on the software which I thought were kinda cool. Check em out:  [Cam](//muut.com/u/maslowcnc/s1/:maslowcnc:ludQ:cam.png.jpg)  [Front](//muut.com/u/maslowcnc/s3/:maslowcnc:wwge:front.jpg.jpg)  [Back](//muut.com/u/maslowcnc/s3/:maslowcnc:97Qs:back.jpg.jpg)
+I did some test cuts of holding pieces in place with tabs today while working on the software which I thought were kinda cool. Check em out:  [Cam](../../images/lu/dQ/ludQ_cam.png.jpg)  [Front](../../images/ww/ge/wwge_front.jpg.jpg)  [Back](../../images/97/Qs/97Qs_back.jpg.jpg)
 
 ---
 

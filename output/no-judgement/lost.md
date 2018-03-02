@@ -1,7 +1,7 @@
 ## Lost
 Posted on **2017-03-24 08:23:04** by **hnatkowicz**:
 
-[Fail](//muut.com/u/maslowcnc/s3/:maslowcnc:rAGR:fail.jpg.jpg) 
+[Fail](../../images/rA/GR/rAGR_fail.jpg.jpg) 
 
 
 

@@ -5,7 +5,7 @@ I'm almost finished with the frame. I've ordered a set of locking caster wheels 
 
 
 
-I was experimenting with graphics on the arms. 50in/min and .20 depth was to fast for the detail. ;) [Image](//muut.com/u/maslowcnc/s3/:maslowcnc:JHnX:image.jpeg.jpg) [Image-1](//muut.com/u/maslowcnc/s3/:maslowcnc:Bajj:file_1image.jpeg.jpg) [Image-2](//muut.com/u/maslowcnc/s3/:maslowcnc:oFoI:file_2image.jpeg.jpg)
+I was experimenting with graphics on the arms. 50in/min and .20 depth was to fast for the detail. ;) [Image](../../images/JH/nX/JHnX_image.jpeg.jpg) [Image-1](../../images/Ba/jj/Bajj_file_1image.jpeg.jpg) [Image-2](../../images/oF/oI/oFoI_file_2image.jpeg.jpg)
 
 ---
 

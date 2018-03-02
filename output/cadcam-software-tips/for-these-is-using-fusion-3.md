@@ -25,19 +25,19 @@ You mean file.nc or a picture of my active options in 2d contour?
 
 Posted on **2017-06-14 10:53:14** by **mikeberg**:
 
-Same issue this morning... [DSC_0340](//muut.com/u/maslowcnc/s3/:maslowcnc:HwJU:dsc_0340.jpg.jpg)
+Same issue this morning... [DSC_0340](../../images/Hw/JU/HwJU_dsc_0340.jpg.jpg)
 
 ---
 
 Posted on **2017-06-14 10:58:50** by **mikeberg**:
 
-there is my feature sheet of contour [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:ilZF:2017.06.1413.55.png.jpg)  [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:KGYE:2017.06.1413.55_01.png.jpg)  [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:B0ED:2017.06.1413.55_02.png.jpg)  [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:XraI:2017.06.1413.56.png.jpg)  [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:vh0h:2017.06.1413.56_01.png.jpg)
+there is my feature sheet of contour [2017](../../images/il/ZF/ilZF_2017.06.1413.55.png.jpg)  [2017](../../images/KG/YE/KGYE_2017.06.1413.55_01.png.jpg)  [2017](../../images/B0/ED/B0ED_2017.06.1413.55_02.png.jpg)  [2017](../../images/Xr/aI/XraI_2017.06.1413.56.png.jpg)  [2017](../../images/vh/0h/vh0h_2017.06.1413.56_01.png.jpg)
 
 ---
 
 Posted on **2017-06-14 11:02:05** by **mikeberg**:
 
-and my post option  [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:yxDw:2017.06.1414.01.png.jpg)  [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:elGJ:2017.06.1414.01_01.png.jpg)  [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:DVNr:2017.06.1414.01_02.png.jpg)  [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:dKNQ:2017.06.1414.01_03.png.jpg)
+and my post option  [2017](../../images/yx/Dw/yxDw_2017.06.1414.01.png.jpg)  [2017](../../images/el/GJ/elGJ_2017.06.1414.01_01.png.jpg)  [2017](../../images/DV/Nr/DVNr_2017.06.1414.01_02.png.jpg)  [2017](../../images/dK/NQ/dKNQ_2017.06.1414.01_03.png.jpg)
 
 ---
 
@@ -15297,7 +15297,7 @@ M30
 
 Posted on **2017-06-14 12:00:49** by **gero**:
 
-Look great in CAMotics  [Mb](//muut.com/u/maslowcnc/s3/:maslowcnc:exg4:mb.jpg.jpg)
+Look great in CAMotics  [Mb](../../images/ex/g4/exg4_mb.jpg.jpg)
 
 ---
 

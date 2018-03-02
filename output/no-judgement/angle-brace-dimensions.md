@@ -71,13 +71,13 @@ I would love your thoughts if you try the new system. I've been very pleased so 
 
 Posted on **2017-05-08 14:52:30** by **tjennemann**:
 
-Here are some motor mounts i reverse engineered, I plan on having the finished structure built before i get all the hardware  [Arm Layout](//muut.com/u/maslowcnc/s1/:maslowcnc:yazb:armlayout.jpg.jpg)
+Here are some motor mounts i reverse engineered, I plan on having the finished structure built before i get all the hardware  [Arm Layout](../../images/ya/zb/yazb_armlayout.jpg.jpg)
 
 ---
 
 Posted on **2017-05-08 15:01:04** by **tjennemann**:
 
-Here is the frame layout [Frame Layout](//muut.com/u/maslowcnc/s1/:maslowcnc:bjfO:framelayout.jpg.jpg)  Same geometry just simplified
+Here is the frame layout [Frame Layout](../../images/bj/fO/bjfO_framelayout.jpg.jpg)  Same geometry just simplified
 
 ---
 
@@ -89,7 +89,7 @@ that's a lot of bracing on the frame legs, there really isn't that much force on
 
 Posted on **2017-05-08 15:08:51** by **tjennemann**:
 
-the 3/4" is more for an option to have a logo engraved. but it simplifies all the small cuts. plus i plan on cutting alot of mdf which is 95lbs. i rather it be over built. Also thinking of adding a few angles under the motor mounts. Figure it can't hurt [Motor Support](//muut.com/u/maslowcnc/s1/:maslowcnc:9iWX:motorsupport.jpg.jpg)
+the 3/4" is more for an option to have a logo engraved. but it simplifies all the small cuts. plus i plan on cutting alot of mdf which is 95lbs. i rather it be over built. Also thinking of adding a few angles under the motor mounts. Figure it can't hurt [Motor Support](../../images/9i/WX/9iWX_motorsupport.jpg.jpg)
 
 ---
 

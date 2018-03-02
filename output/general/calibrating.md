@@ -239,7 +239,7 @@ That's a great idea. You can manually enter the machine dimensions in the settin
 
 Posted on **2017-07-16 14:37:54** by **Bar**:
 
-Here are my  [Settings](//muut.com/u/maslowcnc/s3/:maslowcnc:vTlM:settings.jpg.jpg) if you want to get some reasonable values without measuring anything
+Here are my  [Settings](../../images/vT/lM/vTlM_settings.jpg.jpg) if you want to get some reasonable values without measuring anything
 
 ---
 

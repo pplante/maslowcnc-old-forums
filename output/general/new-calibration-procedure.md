@@ -61,7 +61,7 @@ I ran the calibration process until it completed so both of my ~600mm measuremen
 
 
 
-Then I ran the the straight line test and cut 80inch (~2000mmm) straight lines across the board at Y= +14 Inches, Y = 0, Y = -14inchs. [Straight line test](//muut.com/u/maslowcnc/s3/:maslowcnc:Wdz1:fourcuts.jpg.jpg) 
+Then I ran the the straight line test and cut 80inch (~2000mmm) straight lines across the board at Y= +14 Inches, Y = 0, Y = -14inchs. [Straight line test](../../images/Wd/z1/Wdz1_fourcuts.jpg.jpg) 
 
 
 
@@ -69,15 +69,15 @@ I borrowed a giant straight edge from the cabinet makers next door to measure th
 
 
 
-The bottom line domed up .096 Inches in the middle of the 80 inch span  [Bottom](//muut.com/u/maslowcnc/s3/:maslowcnc:b6QX:bottom.jpg.jpg) 
+The bottom line domed up .096 Inches in the middle of the 80 inch span  [Bottom](../../images/b6/QX/b6QX_bottom.jpg.jpg) 
 
 
 
-The middle line domed up .041 Inches in the middle of the 80 inch span [Middle](//muut.com/u/maslowcnc/s3/:maslowcnc:Mo6y:middle.jpg.jpg) 
+The middle line domed up .041 Inches in the middle of the 80 inch span [Middle](../../images/Mo/6y/Mo6y_middle.jpg.jpg) 
 
 
 
-The top line had some weird funkiness to it that I think has to do with the feedback system so I couldn't measure it accurately  [Top](//muut.com/u/maslowcnc/s3/:maslowcnc:xGNU:top.jpg.jpg) 
+The top line had some weird funkiness to it that I think has to do with the feedback system so I couldn't measure it accurately  [Top](../../images/xG/NU/xGNU_top.jpg.jpg) 
 
 
 

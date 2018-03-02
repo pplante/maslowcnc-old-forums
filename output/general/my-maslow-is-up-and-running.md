@@ -83,7 +83,7 @@ Jess, you may not want to remove the material from the interior of the sled plat
 
 
 
-FYI, this is the general idea for rotating sled attachment points that I've been thinking about.  The only way this would have a chance of working as currently drawn is if all pieces were HDPE (or similar): [Rotating sled concept](//muut.com/u/maslowcnc/s1/:maslowcnc:qTlG:rotatingsledconcept.png.jpg)
+FYI, this is the general idea for rotating sled attachment points that I've been thinking about.  The only way this would have a chance of working as currently drawn is if all pieces were HDPE (or similar): [Rotating sled concept](../../images/qT/lG/qTlG_rotatingsledconcept.png.jpg)
 
 ---
 
@@ -95,7 +95,7 @@ If you can incorporate rollerblade bearings they work well at angles with a load
 
 Posted on **2017-03-28 13:24:31** by **jknox**:
 
-Larry, great idea!  [Rotating sled concept2](//muut.com/u/maslowcnc/s1/:maslowcnc:AYU3:rotatingsledconcept2.png.jpg)
+Larry, great idea!  [Rotating sled concept2](../../images/AY/U3/AYU3_rotatingsledconcept2.png.jpg)
 
 ---
 
@@ -191,7 +191,7 @@ If you loop the chains around the motor sprockets and then hook them back up to 
 
 Posted on **2017-03-28 15:02:47** by **jknox**:
 
-Nice, this is a really creative design, I like it. I agree that the idler sprockets will be a much more elegant solution, and should be less prone to wear and jambs. David, is this the type of sprocket layout you're talking about: [Chain wrap](//muut.com/u/maslowcnc/s1/:maslowcnc:Q6vW:chainwrap.png.jpg) ?
+Nice, this is a really creative design, I like it. I agree that the idler sprockets will be a much more elegant solution, and should be less prone to wear and jambs. David, is this the type of sprocket layout you're talking about: [Chain wrap](../../images/Q6/vW/Q6vW_chainwrap.png.jpg) ?
 
 ---
 
@@ -321,7 +321,7 @@ I knew immediately that was where I belonged.
 
 Posted on **2017-04-01 12:57:49** by **blsteinhauer88**:
 
-Mine is built and making projects! [IMG_0503](//muut.com/u/maslowcnc/s3/:maslowcnc:DvXr:img_0503.jpg.jpg)
+Mine is built and making projects! [IMG_0503](../../images/Dv/Xr/DvXr_img_0503.jpg.jpg)
 
 ---
 

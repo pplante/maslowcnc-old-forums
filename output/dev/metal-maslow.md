@@ -45,7 +45,7 @@ Open to suggestions and will be back to update after the first real trials.
 
 
 
-  [Metal Maslow Frame](//muut.com/u/maslowcnc/s3/:maslowcnc:LtY4:metalmaslowframe.jpg.jpg)
+  [Metal Maslow Frame](../../images/Lt/Y4/LtY4_metalmaslowframe.jpg.jpg)
 
 ---
 
@@ -107,7 +107,7 @@ However, the first option allows for the legs to fold and store the machine more
 
 
 
- [Frame Legs option 1](//muut.com/u/maslowcnc/s2/:maslowcnc:1eHZ:framelegsoption1.png.jpg)  [Frame Legs option 2](//muut.com/u/maslowcnc/s1/:maslowcnc:viS9:framelegsoption2.png.jpg)
+ [Frame Legs option 1](../../images/1e/HZ/1eHZ_framelegsoption1.png.jpg)  [Frame Legs option 2](../../images/vi/S9/viS9_framelegsoption2.png.jpg)
 
 ---
 
@@ -167,7 +167,7 @@ Here is the frame standing on its own.
 
 
 
- [Metal Maslow Frame standing](//muut.com/u/maslowcnc/s3/:maslowcnc:UA6n:metalmaslowframestanding.jpg.jpg)
+ [Metal Maslow Frame standing](../../images/UA/6n/UA6n_metalmaslowframestanding.jpg.jpg)
 
 ---
 
@@ -225,7 +225,7 @@ Now onto fine tuning and cutting out some projects. I think it would be great to
 
  
 
- [Hangingsled](//muut.com/u/maslowcnc/s1/:maslowcnc:q23G:hangingsled.png.jpg)  [Testshape](//muut.com/u/maslowcnc/s1/:maslowcnc:jLoP:testshape.png.jpg)  [Router plate](//muut.com/u/maslowcnc/s1/:maslowcnc:Oc8Z:routerplate.png.jpg)
+ [Hangingsled](../../images/q2/3G/q23G_hangingsled.png.jpg)  [Testshape](../../images/jL/oP/jLoP_testshape.png.jpg)  [Router plate](../../images/Oc/8Z/Oc8Z_routerplate.png.jpg)
 
 ---
 

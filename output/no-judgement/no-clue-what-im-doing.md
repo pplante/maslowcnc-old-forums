@@ -137,7 +137,7 @@ I've already updated the software instructions based on your feedback. Thank you
 
 Posted on **2017-03-26 10:01:30** by **fsubigturk**:
 
-Okay so the programming is done I think, I no longer get the connected and disconnected but now when I hit test motors in ground control I get Left motor direction 1/2 fail and same with the right motor. I have the board hooked up like it shows I the picture. Is there something I'm doing wrong [Image](//muut.com/u/maslowcnc/s3/:maslowcnc:gVrw:image.jpg.jpg) [Image-1](//muut.com/u/maslowcnc/s3/:maslowcnc:539N:file_1image.jpg.jpg)
+Okay so the programming is done I think, I no longer get the connected and disconnected but now when I hit test motors in ground control I get Left motor direction 1/2 fail and same with the right motor. I have the board hooked up like it shows I the picture. Is there something I'm doing wrong [Image](../../images/gV/rw/gVrw_image.jpg.jpg) [Image-1](../../images/53/9N/539N_file_1image.jpg.jpg)
 
 ---
 
@@ -197,7 +197,7 @@ I couldn't agree more. Top of my todo list.
 
 Posted on **2017-03-26 12:18:42** by **fsubigturk**:
 
-[IMG_6129](//muut.com/u/maslowcnc/s3/:maslowcnc:DaVN:img_6129.jpg.jpg) here you go bar
+[IMG_6129](../../images/Da/VN/DaVN_img_6129.jpg.jpg) here you go bar
 
 ---
 

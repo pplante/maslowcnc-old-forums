@@ -1,7 +1,7 @@
 ## Legs are ready!
 Posted on **2017-05-27 13:38:54** by **mattnelson**:
 
-Finished the legs! [IMG_9957](//muut.com/u/maslowcnc/s3/:maslowcnc:iTln:img_9957.jpg.jpg)
+Finished the legs! [IMG_9957](../../images/iT/ln/iTln_img_9957.jpg.jpg)
 
 ---
 

@@ -31,7 +31,7 @@ Yeah I plan doing plans myself, so I wouldn't mind giving back to the community.
 
 
 
-  [Screen Shot 2017-04-05 at 10](//muut.com/u/maslowcnc/s2/:maslowcnc:dojl:screenshot20170405at10.27.34pm.png.jpg)
+  [Screen Shot 2017-04-05 at 10](../../images/do/jl/dojl_screenshot20170405at10.27.34pm.png.jpg)
 
 ---
 

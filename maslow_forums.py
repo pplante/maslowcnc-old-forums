@@ -2,25 +2,54 @@ import json
 import os
 import operator
 import datetime
+import re
+import urllib.request
 
 
 def get_author_name(post):
     if 'author' not in post or post['author'] is None:
         return 'Unknown User'
-    
+
     return post['author']['displayname']
+
 
 def get_date(post):
     return datetime.datetime.fromtimestamp(post['date'])
 
+
 def write_meta(fp, post):
-    fp.write(f"Posted on **{get_date(post)}** by **{get_author_name(post)}**:\n\n")
+    fp.write(
+        f"Posted on **{get_date(post)}** by **{get_author_name(post)}**:\n\n")
+
 
 def write_body(fp, post):
-    fp.write(post['body'].replace('\n', '\n\n'))
+    body = post['body'].replace('\n', '\n\n')
+
+    if '//muut.com' in body:
+        matches = re.findall(r'\((\/\/muut.com.+?)\)', body)
+
+        for match in matches:
+            filename = match[37:].replace(':', '_')
+            path = f'images/{filename[:2]}/{filename[2:4]}/'
+            os.makedirs(path, exist_ok=True)
+
+            file_path = os.path.join(path, filename)
+            if not os.path.exists(file_path):
+                url = f'https:{match}'
+                print('Downloading:', url)
+                response = urllib.request.urlopen(url)
+                
+                with open(file_path, 'wb') as dest:
+                    dest.write(response.read())
+
+            body = body.replace(match, f'../../{file_path}')
+
+    fp.write(body)
+
 
 def write_hr(fp):
     fp.write('\n\n---\n\n')
+
 
 def write_seed(fp, post):
     fp.write(f"## {post['title']}\n")
@@ -48,5 +77,6 @@ if __name__ == '__main__':
             with open(filename, 'w') as fp:
                 write_seed(fp, thread['seed'])
 
-                for reply in sorted(thread['replies'], key=operator.itemgetter('date')):
+                for reply in sorted(
+                        thread['replies'], key=operator.itemgetter('date')):
                     write_reply(fp, reply)

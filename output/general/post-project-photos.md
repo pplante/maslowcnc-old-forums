@@ -1,7 +1,7 @@
 ## Post Project Photos!
 Posted on **2017-04-15 22:50:32** by **blsteinhauer88**:
 
-Been working on a redesign of an open desk bench.  Turned out cool! [IMG_0554](//muut.com/u/maslowcnc/s3/:maslowcnc:5uKA:img_0554.jpg.jpg) [IMG_0555](//muut.com/u/maslowcnc/s3/:maslowcnc:ASVv:img_0555.jpg.jpg)
+Been working on a redesign of an open desk bench.  Turned out cool! [IMG_0554](../../images/5u/KA/5uKA_img_0554.jpg.jpg) [IMG_0555](../../images/AS/Vv/ASVv_img_0555.jpg.jpg)
 
 ---
 
@@ -61,7 +61,7 @@ All in all, what do you think the cut time was like?
 
 Posted on **2017-04-16 17:03:16** by **blsteinhauer88**:
 
-[IMG_0585](//muut.com/u/maslowcnc/s3/:maslowcnc:KqlR:img_0585.jpg.jpg) [IMG_0587](//muut.com/u/maslowcnc/s3/:maslowcnc:8JtA:img_0587.jpg.jpg) [IMG_0588](//muut.com/u/maslowcnc/s3/:maslowcnc:jdlq:img_0588.jpg.jpg) [IMG_0632](//muut.com/u/maslowcnc/s3/:maslowcnc:kYfL:img_0632.jpg.jpg) [IMG_0633](//muut.com/u/maslowcnc/s3/:maslowcnc:Amff:img_0633.jpg.jpg)
+[IMG_0585](../../images/Kq/lR/KqlR_img_0585.jpg.jpg) [IMG_0587](../../images/8J/tA/8JtA_img_0587.jpg.jpg) [IMG_0588](../../images/jd/lq/jdlq_img_0588.jpg.jpg) [IMG_0632](../../images/kY/fL/kYfL_img_0632.jpg.jpg) [IMG_0633](../../images/Am/ff/Amff_img_0633.jpg.jpg)
 
 ---
 
@@ -91,7 +91,7 @@ Wow, very nice job! Good example on what you can create with layers.
 
 Posted on **2017-04-28 06:39:43** by **blsteinhauer88**:
 
-Everyone is working hard testing. Let's see some projects. I tested how large a circle for a buddy's gym. It is off by about .5 inch tall. Also lines of code we're close to 18000. It came out very nice! [IMG_0690](//muut.com/u/maslowcnc/s3/:maslowcnc:td5U:img_0690.jpg.jpg)
+Everyone is working hard testing. Let's see some projects. I tested how large a circle for a buddy's gym. It is off by about .5 inch tall. Also lines of code we're close to 18000. It came out very nice! [IMG_0690](../../images/td/5U/td5U_img_0690.jpg.jpg)
 
 ---
 
@@ -125,11 +125,11 @@ I've been struggling with the g code on this address sign project I've been work
 
 
 
- [IMG_3960](//muut.com/u/maslowcnc/s3/:maslowcnc:aqHz:img_3960.jpg.jpg)
+ [IMG_3960](../../images/aq/Hz/aqHz_img_3960.jpg.jpg)
 
 
 
-[IMG_3961](//muut.com/u/maslowcnc/s3/:maslowcnc:pCjX:img_3961.jpg.jpg)
+[IMG_3961](../../images/pC/jX/pCjX_img_3961.jpg.jpg)
 
 ---
 

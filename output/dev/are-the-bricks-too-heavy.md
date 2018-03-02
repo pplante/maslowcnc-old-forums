@@ -169,7 +169,7 @@ Posted on **2017-05-03 09:41:13** by **scottsm**:
 
 Posted on **2017-05-03 09:53:22** by **gero**:
 
-No bricks would force me either to go quite a bit out with the chains on the brackets and the motor mounts, or increase my angle heavy.  [No-bricks](//muut.com/u/maslowcnc/s3/:maslowcnc:pNFB:nobricks.jpg.jpg)  Can't wait to catch up with you guys.
+No bricks would force me either to go quite a bit out with the chains on the brackets and the motor mounts, or increase my angle heavy.  [No-bricks](../../images/pN/FB/pNFB_nobricks.jpg.jpg)  Can't wait to catch up with you guys.
 
 ---
 
@@ -273,7 +273,7 @@ I did a tilt test for Davidlang at the extreme lower edges of the board.  It sho
 
 Posted on **2017-07-08 11:55:13** by **blsteinhauer88**:
 
-[IMG_0256](//muut.com/u/maslowcnc/s3/:maslowcnc:7Y1h:img_0256.jpg.jpg)
+[IMG_0256](../../images/7Y/1h/7Y1h_img_0256.jpg.jpg)
 
 ---
 

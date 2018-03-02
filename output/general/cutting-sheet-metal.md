@@ -53,7 +53,7 @@ if you start noticing the router vibrating like crazy its typically because the 
 
 Posted on **2017-03-29 16:44:42** by **rollandelliott**:
 
-[Image](//muut.com/u/maslowcnc/s3/:maslowcnc:lIS5:image.jpeg.jpg) here is 3x3" hole made in 20 gauge steel about 30 inch/ minute and 20lbs force.  10000 rpm 1/8" stick out with 3/16" bit
+[Image](../../images/lI/S5/lIS5_image.jpeg.jpg) here is 3x3" hole made in 20 gauge steel about 30 inch/ minute and 20lbs force.  10000 rpm 1/8" stick out with 3/16" bit
 
 ---
 

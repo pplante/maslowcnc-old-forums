@@ -85,7 +85,7 @@ I see the difference now.....I've been doing that all week!
 
 Posted on **2017-03-28 12:10:02** by **Bar**:
 
-AHHHH. I'm so sorry! This is what the firmware version number should  [look like](//muut.com/u/maslowcnc/s3/:maslowcnc:fUsz:firmwareversion.jpg.jpg) when you connect to the machine.
+AHHHH. I'm so sorry! This is what the firmware version number should  [look like](../../images/fU/sz/fUsz_firmwareversion.jpg.jpg) when you connect to the machine.
 
 ---
 
@@ -191,7 +191,7 @@ I'm so glad!
 
 Posted on **2017-03-28 12:26:20** by **Bar**:
 
-You want to download the very latest version which is in between releases like  [this](//muut.com/u/maslowcnc/s3/:maslowcnc:OxTT:download.jpg.jpg) !
+You want to download the very latest version which is in between releases like  [this](../../images/Ox/TT/OxTT_download.jpg.jpg) !
 
 ---
 

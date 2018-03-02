@@ -1,7 +1,7 @@
 ## Engraving without cutting ?
 Posted on **2017-02-11 17:44:05** by **excessnet**:
 
-I was just wondering, could the Maslow do engraving, do do thing like this : [IMG_20140522_151401](//muut.com/u/maslowcnc/s3/:maslowcnc:L8VL:img_20140522_151401.jpg.jpg) (Random image on internet)
+I was just wondering, could the Maslow do engraving, do do thing like this : [IMG_20140522_151401](../../images/L8/VL/L8VL_img_20140522_151401.jpg.jpg) (Random image on internet)
 
 ---
 

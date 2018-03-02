@@ -295,7 +295,7 @@ Another incredible birch ply lampshade
 
 http://www.coroflot.com/hellosailor/Pinecone
 
- [IMG_1142](//muut.com/u/maslowcnc/s1/:maslowcnc:iuEZ:img_1142.jpg.jpg)
+ [IMG_1142](../../images/iu/EZ/iuEZ_img_1142.jpg.jpg)
 
 ---
 

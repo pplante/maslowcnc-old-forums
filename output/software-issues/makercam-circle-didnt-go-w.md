@@ -19,7 +19,7 @@ So next I tried one of the example gcode files that came with the groundcontrol 
 
 Wonder what I/makercam did that groundcontrol didn't like.
 
- [Pencil-cutter](//muut.com/u/maslowcnc/s1/:maslowcnc:EDxo:pencilcutter.jpg.jpg) [Test-gcode](//muut.com/u/maslowcnc/s3/:maslowcnc:WFDv:testgcode.jpg.jpg)
+ [Pencil-cutter](../../images/ED/xo/EDxo_pencilcutter.jpg.jpg) [Test-gcode](../../images/WF/Dv/WFDv_testgcode.jpg.jpg)
 
 ---
 
@@ -61,7 +61,7 @@ That does seem off. I would expect the same behavior from both motors. When the 
 
 
 
-Can you confirm for me that the motors are plugged in to sockets 1 and 3 like in this  [Picture](//muut.com/u/maslowcnc/s1/:maslowcnc:4vK9:picture.jpg.jpg)?
+Can you confirm for me that the motors are plugged in to sockets 1 and 3 like in this  [Picture](../../images/4v/K9/4vK9_picture.jpg.jpg)?
 
 ---
 
@@ -77,7 +77,7 @@ Panel says for right side, testing (then a number) stall.   The left gave values
 
 Posted on **2017-03-18 22:38:33** by **blsteinhauer88**:
 
-[Image](//muut.com/u/maslowcnc/s3/:maslowcnc:nbC9:image.jpg.jpg)
+[Image](../../images/nb/C9/nbC9_image.jpg.jpg)
 
 ---
 
@@ -189,7 +189,7 @@ I think the issue you are seeing @aalbinger is different from what @blsteinhauer
 
 
 
-I think the issue of both motors deciding not to move anymore after a while comes from an issue with the kinematics being unable to find a solution for the machine geometry. I just added the ability to change the machine dimensions on the fly a couple days ago and I think I may have broken something in the process. When you are in that state of being stuck, can you look at the Arduino [Serial monitor](//muut.com/u/maslowcnc/s1/:maslowcnc:tDRZ:serialmonitor.jpg.jpg)  and see what information the the machine is sending back? You will have to close Ground Control in order to open the serial monitor.
+I think the issue of both motors deciding not to move anymore after a while comes from an issue with the kinematics being unable to find a solution for the machine geometry. I just added the ability to change the machine dimensions on the fly a couple days ago and I think I may have broken something in the process. When you are in that state of being stuck, can you look at the Arduino [Serial monitor](../../images/tD/RZ/tDRZ_serialmonitor.jpg.jpg)  and see what information the the machine is sending back? You will have to close Ground Control in order to open the serial monitor.
 
 ---
 
@@ -211,7 +211,7 @@ Just tested and loaded the Gear Gcode again.  Told it to run, and only the left 
 
 Posted on **2017-03-18 23:53:28** by **blsteinhauer88**:
 
-[Image](//muut.com/u/maslowcnc/s3/:maslowcnc:APgU:image.jpg.jpg)
+[Image](../../images/AP/gU/APgU_image.jpg.jpg)
 
 ---
 
@@ -227,7 +227,7 @@ Posted on **2017-03-19 09:32:14** by **Bar**:
 
 
 
-You can make the change from the drop down in the bottom right corner  [Serial monitor](//muut.com/u/maslowcnc/s1/:maslowcnc:Ge1M:serialmonitor.jpg.jpg)  .
+You can make the change from the drop down in the bottom right corner  [Serial monitor](../../images/Ge/1M/Ge1M_serialmonitor.jpg.jpg)  .
 
 
 

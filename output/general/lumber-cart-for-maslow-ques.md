@@ -1,7 +1,7 @@
 ## Lumber Cart for Maslow question
 Posted on **2017-03-24 11:12:48** by **tntahan**:
 
-So I am a person that tries to make everything way to complicated. I always try and save space, and make things mobile so I can move them out of the way/store them or whatever. So here is my idea, I saw this picture of a panel cutting lumber cart and thought it was a cool idea to have to rip plywood, and then thought maybe I can make this and use my Maslow on it (maybe even still make it so I can cut sheets with a circular saw too). Anyways, please see the picture, does anyone see any problems with making something like this that has casters on it? Will it make the machine wobble or anything because of that and might throw it out of alignment?  [4906c85f1dfc8d54243d65cd9a2c11d0](//muut.com/u/maslowcnc/s1/:maslowcnc:6pxH:4906c85f1dfc8d54243d65cd9a2c11d0.jpg.jpg)
+So I am a person that tries to make everything way to complicated. I always try and save space, and make things mobile so I can move them out of the way/store them or whatever. So here is my idea, I saw this picture of a panel cutting lumber cart and thought it was a cool idea to have to rip plywood, and then thought maybe I can make this and use my Maslow on it (maybe even still make it so I can cut sheets with a circular saw too). Anyways, please see the picture, does anyone see any problems with making something like this that has casters on it? Will it make the machine wobble or anything because of that and might throw it out of alignment?  [4906c85f1dfc8d54243d65cd9a2c11d0](../../images/6p/xH/6pxH_4906c85f1dfc8d54243d65cd9a2c11d0.jpg.jpg)
 
 ---
 

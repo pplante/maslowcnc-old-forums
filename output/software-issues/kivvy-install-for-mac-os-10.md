@@ -213,7 +213,7 @@ That's a good plan.
 
 
 
-When the calibration finishes, try clicking the arrow keys to move the machine around. Do you see commands being sent and the machine responding like this:  [Command responses](//muut.com/u/maslowcnc/s1/:maslowcnc:AQhW:commandresponses.jpg.jpg)
+When the calibration finishes, try clicking the arrow keys to move the machine around. Do you see commands being sent and the machine responding like this:  [Command responses](../../images/AQ/hW/AQhW_commandresponses.jpg.jpg)
 
 ---
 
@@ -277,7 +277,7 @@ Bar, I did have a repeatable serial connection issue where GC stopped communicat
 
 
 
- [IMG_0421](//muut.com/u/maslowcnc/s3/:maslowcnc:m6HG:img_0421.jpg.jpg) [IMG_0422](//muut.com/u/maslowcnc/s3/:maslowcnc:J11F:img_0422.jpg.jpg)
+ [IMG_0421](../../images/m6/HG/m6HG_img_0421.jpg.jpg) [IMG_0422](../../images/J1/1F/J11F_img_0422.jpg.jpg)
 
 ---
 

@@ -39,7 +39,7 @@ Yes. The H-bridge is actually 2-channel so you will get four channels on the Z-a
 
 Posted on **2016-11-14 17:38:18** by **Bar**:
 
-And here is a photo of the PCB  [DSC00338](//muut.com/u/maslowcnc/s3/:maslowcnc:c8TX:dsc00338.jpg.jpg)
+And here is a photo of the PCB  [DSC00338](../../images/c8/TX/c8TX_dsc00338.jpg.jpg)
 
 ---
 

@@ -5,11 +5,11 @@ While I was cutting some parts today I had some concentric circles which were ju
 
 
 
- [With pencil for scale](//muut.com/u/maslowcnc/s3/:maslowcnc:AZNU:screenshot_20170514155141.png.jpg) 
+ [With pencil for scale](../../images/AZ/NU/AZNU_screenshot_20170514155141.png.jpg) 
 
 
 
- [Seen through microscope](//muut.com/u/maslowcnc/s3/:maslowcnc:TvFI:screenshot_20170514155150.png.jpg)
+ [Seen through microscope](../../images/Tv/FI/TvFI_screenshot_20170514155150.png.jpg)
 
 ---
 

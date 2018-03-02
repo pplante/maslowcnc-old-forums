@@ -61,7 +61,7 @@ It is very tight, and a few of the holes are oblong, have to clean them up with 
 
 Posted on **2017-04-12 19:57:51** by **blsteinhauer88**:
 
-[IMG_0548](//muut.com/u/maslowcnc/s3/:maslowcnc:Jlwm:img_0548.jpg.jpg) [IMG_0549](//muut.com/u/maslowcnc/s3/:maslowcnc:XJlO:img_0549.jpg.jpg)
+[IMG_0548](../../images/Jl/wm/Jlwm_img_0548.jpg.jpg) [IMG_0549](../../images/XJ/lO/XJlO_img_0549.jpg.jpg)
 
 ---
 

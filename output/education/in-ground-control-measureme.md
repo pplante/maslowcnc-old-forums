@@ -1,7 +1,7 @@
 ## In ground control measurements
 Posted on **2017-04-06 12:34:05** by **carlosrivers**:
 
-In this picture, is the rectangle outline a constant 4x8 measurement? [Screen Shot 2017-04-06 at 12](//muut.com/u/maslowcnc/s3/:maslowcnc:GqRy:screenshot20170406at12.34.44pm.png.jpg)
+In this picture, is the rectangle outline a constant 4x8 measurement? [Screen Shot 2017-04-06 at 12](../../images/Gq/Ry/GqRy_screenshot20170406at12.34.44pm.png.jpg)
 
 ---
 

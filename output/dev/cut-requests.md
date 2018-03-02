@@ -59,7 +59,7 @@ Something from http://sketchchair.cc/ would be awesome, and would show repeatabi
 
 Posted on **2016-10-27 19:50:15** by **topcat**:
 
-Hey Bar I love this CNC, I would like to request a cut that will show off the accuracy of this machine. If you could show us an inlay that was cut on the Maslow to show off that 1/64 tolerance that would be amazing. Thanks  [48d345d19af0e9e0402f309d5ccb8277](//muut.com/u/maslowcnc/s1/:maslowcnc:KOYu:48d345d19af0e9e0402f309d5ccb8277.jpg.jpg)
+Hey Bar I love this CNC, I would like to request a cut that will show off the accuracy of this machine. If you could show us an inlay that was cut on the Maslow to show off that 1/64 tolerance that would be amazing. Thanks  [48d345d19af0e9e0402f309d5ccb8277](../../images/KO/Yu/KOYu_48d345d19af0e9e0402f309d5ccb8277.jpg.jpg)
 
 ---
 
@@ -167,7 +167,7 @@ Oh I'm going to do my whole house ;-)
 
 
 
-Pictures and video of the chair are in the update, but I thought I'd post them here too, because this is where the idea began.    [Far](//muut.com/u/maslowcnc/s1/:maslowcnc:OvmX:far.jpg.jpg)  [Middle](//muut.com/u/maslowcnc/s1/:maslowcnc:67Xt:middle.jpg.jpg)  [Close](//muut.com/u/maslowcnc/s1/:maslowcnc:Vbb7:close.jpg.jpg) 
+Pictures and video of the chair are in the update, but I thought I'd post them here too, because this is where the idea began.    [Far](../../images/Ov/mX/OvmX_far.jpg.jpg)  [Middle](../../images/67/Xt/67Xt_middle.jpg.jpg)  [Close](../../images/Vb/b7/Vbb7_close.jpg.jpg) 
 
 
 

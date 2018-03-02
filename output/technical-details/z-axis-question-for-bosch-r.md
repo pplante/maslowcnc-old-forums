@@ -49,7 +49,7 @@ The drive has no backlash because it's retained to the frame with a curved sprin
 
 Posted on **2017-02-11 09:36:12** by **gero**:
 
-What is the diameter if the coupler? On the Bosch GOF 2000 the shaft for Z-axis is close to the router housing.  [IMAG0304](//muut.com/u/maslowcnc/s1/:maslowcnc:lY6k:imag0304.jpg.jpg)
+What is the diameter if the coupler? On the Bosch GOF 2000 the shaft for Z-axis is close to the router housing.  [IMAG0304](../../images/lY/6k/lY6k_imag0304.jpg.jpg)
 
 ---
 
@@ -85,7 +85,7 @@ The knob has a slight taper and at the lowest edge is 1.125"
 
 The red line sketched in says that the edge of the adjustment knob is outside the diameter of the router, but that's an eyeball guess. Next time I'm near Lowes I'll stop in and look closer at that angle.
 
- [Bosch-1617-adjust-closeup-02](//muut.com/u/maslowcnc/s2/:maslowcnc:5J3c:bosch1617adjustcloseup02.png.jpg)
+ [Bosch-1617-adjust-closeup-02](../../images/5J/3c/5J3c_bosch1617adjustcloseup02.png.jpg)
 
 ---
 
@@ -127,7 +127,7 @@ On the minus side that 3/8" portion -starts- about 0.7" from the -end- of the sh
 
 The other 1/2 of the issue issue is whether the coupler is long enough to accept that 0.7" -and- still be able to grab the shaft.
 
- [Bosch-ra1161-lead-screw-01](//muut.com/u/maslowcnc/s2/:maslowcnc:90uh:boschra1161leadscrew01.png.jpg)
+ [Bosch-ra1161-lead-screw-01](../../images/90/uh/90uh_boschra1161leadscrew01.png.jpg)
 
 ---
 
@@ -145,7 +145,7 @@ or we could have a page with STLs for different shaft coupler sizes so that we c
 
 Posted on **2017-02-22 21:35:31** by **jbarchuk**:
 
-Here's another pic. The Q was whether a coupler would fit. I rigged up a few bits to show the space between the lead screw shaft and the router. Subtract 0.25" that the top of the router overhangs the bottom of the router. Subtract some clearance to taste. [Bosch-ra1611-lead-screw-02](//muut.com/u/maslowcnc/s2/:maslowcnc:gMEz:boschra1611leadscrew02.png.jpg)
+Here's another pic. The Q was whether a coupler would fit. I rigged up a few bits to show the space between the lead screw shaft and the router. Subtract 0.25" that the top of the router overhangs the bottom of the router. Subtract some clearance to taste. [Bosch-ra1611-lead-screw-02](../../images/gM/Ez/gMEz_boschra1611leadscrew02.png.jpg)
 
 ---
 
@@ -199,7 +199,7 @@ I tracked down one in the shop here and at least for the Bosh RA1161 Base S you 
 
 
 
- [IMG_20170330_114336677_HDR](//muut.com/u/maslowcnc/s1/:maslowcnc:T3TQ:img_20170330_114336677_hdr.jpg.jpg)
+ [IMG_20170330_114336677_HDR](../../images/T3/TQ/T3TQ_img_20170330_114336677_hdr.jpg.jpg)
 
 ---
 

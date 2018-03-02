@@ -21,7 +21,7 @@ The big old school machines usually have either a dedicated computer that contro
 
 
 
-The controls are really just there to move the machine to the position where you want to start the cut, and keep an eye on it while it's running. To do those two things we use Ground Control which in it's current infant state looks like this:  [GroundControl](//muut.com/u/maslowcnc/s3/:maslowcnc:pmfl:groundcontrol.jpg.jpg) 
+The controls are really just there to move the machine to the position where you want to start the cut, and keep an eye on it while it's running. To do those two things we use Ground Control which in it's current infant state looks like this:  [GroundControl](../../images/pm/fl/pmfl_groundcontrol.jpg.jpg) 
 
 
 

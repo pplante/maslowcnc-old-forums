@@ -59,7 +59,7 @@ The current 'CAD-101' tutorials are excellent. UNfortunately they're buried in t
 
 It's basically free for anyone earning under $100K/year using their software. I CAN'T find a copy of the (legalese version) license EASILY so I grabbed a screencap of some popup 'info' text.
 
- [Autodesk-fusion360-license-01](//muut.com/u/maslowcnc/s1/:maslowcnc:N3By:autodeskfusion360license01.png.jpg) 
+ [Autodesk-fusion360-license-01](../../images/N3/By/N3By_autodeskfusion360license01.png.jpg) 
 
 The point being that if you -think- you might go further with this don't bother with the Toyotas go straight for the Lambo and never look back.
 

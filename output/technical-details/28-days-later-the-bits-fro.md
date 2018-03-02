@@ -1,7 +1,7 @@
 ## 28 Days later, The bits from China arrived
 Posted on **2017-06-22 10:02:39** by **gero**:
 
-From AliExpress, 5 pc/ 36.80$ plus shipping. 5 x 5mm and 5 x 6mm, shaft 6mm, length 60mm  [IMAG0886](//muut.com/u/maslowcnc/s3/:maslowcnc:5hgD:imag0886.jpg.jpg)
+From AliExpress, 5 pc/ 36.80$ plus shipping. 5 x 5mm and 5 x 6mm, shaft 6mm, length 60mm  [IMAG0886](../../images/5h/gD/5hgD_imag0886.jpg.jpg)
 
 Happy chipping!
 

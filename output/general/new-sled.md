@@ -1,7 +1,7 @@
 ## New Sled
 Posted on **2017-04-20 16:51:53** by **rancher**:
 
-[Sled](//muut.com/u/maslowcnc/s2/:maslowcnc:aWUC:sled.jpg.jpg) 
+[Sled](../../images/aW/UC/aWUC_sled.jpg.jpg) 
 
 
 

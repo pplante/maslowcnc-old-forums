@@ -81,7 +81,7 @@ I will try to debug the motors later on as I had to leave the shop.  Brought the
 
 Posted on **2017-03-19 18:46:59** by **Bar**:
 
-The line "bad data" means that Ground Control is unable to understand the characters being sent by the controller board. If you open the serial monitor in the Arduino program what do you see? You can open the serial monitor by clicking the circle thing (magnifying glass?) in the upper right corner of the Arduino program. You will need to change the speed to 19200 or all the characters will look garbled which is done from the drop down in the bottom right like so:  [Serial monitor](//muut.com/u/maslowcnc/s1/:maslowcnc:AwdE:serialmonitor.jpg.jpg)
+The line "bad data" means that Ground Control is unable to understand the characters being sent by the controller board. If you open the serial monitor in the Arduino program what do you see? You can open the serial monitor by clicking the circle thing (magnifying glass?) in the upper right corner of the Arduino program. You will need to change the speed to 19200 or all the characters will look garbled which is done from the drop down in the bottom right like so:  [Serial monitor](../../images/Aw/dE/AwdE_serialmonitor.jpg.jpg)
 
 ---
 
@@ -129,7 +129,7 @@ Now, I am getting some weird stuff.  Killed GroundControl and reset the Arduino 
 
 Posted on **2017-03-19 18:57:31** by **flyingavatar**:
 
-[Screen Shot 2017-03-19 at 9](//muut.com/u/maslowcnc/s3/:maslowcnc:ZpOw:screenshot20170319at9.56.00pm.png.jpg)
+[Screen Shot 2017-03-19 at 9](../../images/Zp/Ow/ZpOw_screenshot20170319at9.56.00pm.png.jpg)
 
 ---
 
@@ -219,7 +219,7 @@ Yeah, pyserial is pretty touchy when it comes to configuration things. It seems 
 
 
 
-You can also send commands to the board from the Arduino software if you just want to see it move. The  [Line ending](//muut.com/u/maslowcnc/s1/:maslowcnc:kc9f:lineending.jpg.jpg) setting is important. "B04 " might be a good place to start, it will test the motors
+You can also send commands to the board from the Arduino software if you just want to see it move. The  [Line ending](../../images/kc/9f/kc9f_lineending.jpg.jpg) setting is important. "B04 " might be a good place to start, it will test the motors
 
 ---
 
@@ -245,7 +245,7 @@ When I went to look at what was in the background I noticed something that I thi
 
 
 
-It seems that the  [Connection was lost](//muut.com/u/maslowcnc/s1/:maslowcnc:3w8l:connectionwaslost.jpg.jpg) and then Ground Control reconnected automatically. I know we had some issues a while ago with multiple threads accessing the serial port simultaneously which gave exactly the kind of weird garbled junk you are seeing. @scottsm might be able to give you more guidance than I can there because he's on Mac and actually found the issue initially
+It seems that the  [Connection was lost](../../images/3w/8l/3w8l_connectionwaslost.jpg.jpg) and then Ground Control reconnected automatically. I know we had some issues a while ago with multiple threads accessing the serial port simultaneously which gave exactly the kind of weird garbled junk you are seeing. @scottsm might be able to give you more guidance than I can there because he's on Mac and actually found the issue initially
 
 ---
 
@@ -497,7 +497,7 @@ Great work!
 
 Posted on **2017-03-20 19:00:34** by **blsteinhauer88**:
 
-Bar I was going to add a jumper to use the broken cable. When I pulled on the offending orange wire a little, it came out!! You can see it was actually severed in the braided protector about 9-10 inches from the other end.  [IMG_0446](//muut.com/u/maslowcnc/s3/:maslowcnc:relx:img_0446.jpg.jpg)
+Bar I was going to add a jumper to use the broken cable. When I pulled on the offending orange wire a little, it came out!! You can see it was actually severed in the braided protector about 9-10 inches from the other end.  [IMG_0446](../../images/re/lx/relx_img_0446.jpg.jpg)
 
 ---
 
@@ -509,7 +509,7 @@ I'm going to splice back together so I can get testing again.
 
 Posted on **2017-03-20 19:03:27** by **blsteinhauer88**:
 
-[Image](//muut.com/u/maslowcnc/s3/:maslowcnc:sDk9:image.jpg.jpg) this is pulled straight out of the loom.
+[Image](../../images/sD/k9/sDk9_image.jpg.jpg) this is pulled straight out of the loom.
 
 ---
 
@@ -545,7 +545,7 @@ Yeah, the cup hooks would have been a particular challenge without pre-drilling.
 
 Posted on **2017-03-22 10:57:39** by **blsteinhauer88**:
 
-Thanks Bar for the new wire.  I cut my sled out yesterday and mine also came out oval.  But it was sure fun to cut out. I downloaded the SVG files from github but maker cam would not open them.  Is there a way to package those up in a zip file available somewhere for download? Or does it already exist and I missed it? Thanks!  [IMG_0459](//muut.com/u/maslowcnc/s3/:maslowcnc:hQ0B:img_0459.jpg.jpg) [IMG_0461](//muut.com/u/maslowcnc/s3/:maslowcnc:4B9Z:img_0461.jpg.jpg)
+Thanks Bar for the new wire.  I cut my sled out yesterday and mine also came out oval.  But it was sure fun to cut out. I downloaded the SVG files from github but maker cam would not open them.  Is there a way to package those up in a zip file available somewhere for download? Or does it already exist and I missed it? Thanks!  [IMG_0459](../../images/hQ/0B/hQ0B_img_0459.jpg.jpg) [IMG_0461](../../images/4B/9Z/4B9Z_img_0461.jpg.jpg)
 
 ---
 
@@ -571,7 +571,7 @@ Posted on **2017-03-22 13:25:55** by **jbarchuk**:
 
 Holding the hook and trying to drive it in can even be painful on the fingers. I've never tried it but I'd guess it's possible to hold the hook with a plier and drive it in. For something that small there are other ways to make a pilot hole. Tap in a tiny brad and pull it out with a plier. Heck even an ice pick could make a small shallow hole in the wood.
 
-Tiny holes are where I immediately go for the Yankee drill. No heavy drill, no power cord or disappointment at finding a discharged battery, no chuck key. Pop in a bit, push-push-push, done. This pic is one of the first 'more than a screwdriver' tools my Dad let me use. That was more than 50 years ago and it still has all the original bits. A little worn :) but still works great. All anyone makes now is plastic. Yuck. [Yankee-push-drill-01](//muut.com/u/maslowcnc/s2/:maslowcnc:eQ5r:yankeepushdrill01.png.jpg) 
+Tiny holes are where I immediately go for the Yankee drill. No heavy drill, no power cord or disappointment at finding a discharged battery, no chuck key. Pop in a bit, push-push-push, done. This pic is one of the first 'more than a screwdriver' tools my Dad let me use. That was more than 50 years ago and it still has all the original bits. A little worn :) but still works great. All anyone makes now is plastic. Yuck. [Yankee-push-drill-01](../../images/eQ/5r/eQ5r_yankeepushdrill01.png.jpg) 
 
 > ... the reduced risk of messing up ...
 

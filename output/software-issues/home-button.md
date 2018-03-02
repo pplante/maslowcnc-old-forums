@@ -55,7 +55,7 @@ I just made an attempt at cutting the sled and I noticed Z-axis adjustment durin
 
 
 
- [IMG_5604](//muut.com/u/maslowcnc/s3/:maslowcnc:UAg0:img_5604.jpg.jpg) 
+ [IMG_5604](../../images/UA/g0/UAg0_img_5604.jpg.jpg) 
 
 
 
@@ -71,7 +71,7 @@ looks like drifting.  There is play in the ridgid and we have to keep down press
 
 Posted on **2017-05-06 22:14:36** by **blsteinhauer88**:
 
-[IMG_0668](//muut.com/u/maslowcnc/s3/:maslowcnc:q1I7:img_0668.jpg.jpg) [IMG_0670](//muut.com/u/maslowcnc/s3/:maslowcnc:dWP5:img_0670.jpg.jpg)
+[IMG_0668](../../images/q1/I7/q1I7_img_0668.jpg.jpg) [IMG_0670](../../images/dW/P5/dWP5_img_0670.jpg.jpg)
 
 ---
 

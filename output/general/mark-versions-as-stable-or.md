@@ -33,7 +33,7 @@ I think there is still a point. I needed a simple plywood carry device and since
 
 Posted on **2017-06-17 18:29:08** by **gero**:
 
-Not pretty, but damn useful to get the sheets from the garage to the workshop.  [IMAG0859](//muut.com/u/maslowcnc/s1/:maslowcnc:HIbq:imag0859.jpg.jpg)  Seen on a linked video here in the forum about some crazy genius inventor making a panel saw out of water pipes.
+Not pretty, but damn useful to get the sheets from the garage to the workshop.  [IMAG0859](../../images/HI/bq/HIbq_imag0859.jpg.jpg)  Seen on a linked video here in the forum about some crazy genius inventor making a panel saw out of water pipes.
 
 ---
 

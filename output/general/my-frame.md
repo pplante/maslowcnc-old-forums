@@ -7,7 +7,7 @@ Posted on **2017-06-30 21:04:13** by **ledsled71**:
 
 Posted on **2017-06-30 21:08:19** by **ledsled71**:
 
-[IMG_20170630_213921051](//muut.com/u/maslowcnc/s3/:maslowcnc:PVSU:img_20170630_213921051.jpg.jpg)
+[IMG_20170630_213921051](../../images/PV/SU/PVSU_img_20170630_213921051.jpg.jpg)
 
 ---
 
@@ -19,7 +19,7 @@ Used 2x6s for extra stability, 1.5" pvc for chain guides, and ditched the standa
 
 Posted on **2017-06-30 21:11:59** by **ledsled71**:
 
-[IMG_20170630_213939340](//muut.com/u/maslowcnc/s3/:maslowcnc:tTrj:img_20170630_213939340.jpg.jpg)
+[IMG_20170630_213939340](../../images/tT/rj/tTrj_img_20170630_213939340.jpg.jpg)
 
 ---
 
@@ -91,7 +91,7 @@ Never been a big fan of mc master prices.  Figured a local hardware store or cra
 
 
 
-Made a small mood today, was having issues with chain alignment on one side still.  Made this small alignment roller out of a 1/2" bolt and 1/2" pc, can be adjusted in and out with shims [IMG_20170702_184201869](//muut.com/u/maslowcnc/s3/:maslowcnc:pVhO:img_20170702_184201869.jpg.jpg)
+Made a small mood today, was having issues with chain alignment on one side still.  Made this small alignment roller out of a 1/2" bolt and 1/2" pc, can be adjusted in and out with shims [IMG_20170702_184201869](../../images/pV/hO/pVhO_img_20170702_184201869.jpg.jpg)
 
 ---
 

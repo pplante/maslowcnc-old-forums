@@ -21,7 +21,7 @@ I know Bar is working on the documenting “Step 7: Building The Frame”, but I
 
 
 
-5. When building the legs, assemble the angle braces at the top after completing the bottom part of the leg to ensure the plywood spill-board will have complete contact with the bottom and top of the leg.  Picture attached to illustrate.  [LegDiagram](//muut.com/u/maslowcnc/s1/:maslowcnc:eXiP:legdiagram.jpg.jpg) 
+5. When building the legs, assemble the angle braces at the top after completing the bottom part of the leg to ensure the plywood spill-board will have complete contact with the bottom and top of the leg.  Picture attached to illustrate.  [LegDiagram](../../images/eX/iP/eXiP_legdiagram.jpg.jpg) 
 
 
 

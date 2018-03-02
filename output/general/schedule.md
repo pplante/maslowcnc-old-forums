@@ -31,11 +31,11 @@ I think by incorporating some of the awesome ideas from everyone's builds we can
 
 
 
-First I'm looking at removing the middle brace from the legs which makes it so we don't have to cut 8 plywood pieces.  [New Legs](//muut.com/u/maslowcnc/s1/:maslowcnc:Lbku:newlegs.jpg.jpg) 
+First I'm looking at removing the middle brace from the legs which makes it so we don't have to cut 8 plywood pieces.  [New Legs](../../images/Lb/ku/Lbku_newlegs.jpg.jpg) 
 
 
 
-Second, I'd like to replace the arms with 2x4 sections. This lets us angle the motors so that the forces on the motor bracket and plywood which the motor is attached to is in plane with the wood (it's strongest direction). The result is an arm which is very rigid, very easy to build, and which has more chain wrapped around the sprocket. I'm testing it now so I'll have more to report for my update on Wednesday, but my initial impression is very good. The chains especially seem to feed noticeably cleaner.  [New Arm](//muut.com/u/maslowcnc/s1/:maslowcnc:Wmkq:newarm.jpg.jpg)
+Second, I'd like to replace the arms with 2x4 sections. This lets us angle the motors so that the forces on the motor bracket and plywood which the motor is attached to is in plane with the wood (it's strongest direction). The result is an arm which is very rigid, very easy to build, and which has more chain wrapped around the sprocket. I'm testing it now so I'll have more to report for my update on Wednesday, but my initial impression is very good. The chains especially seem to feed noticeably cleaner.  [New Arm](../../images/Wm/kq/Wmkq_newarm.jpg.jpg)
 
 ---
 
