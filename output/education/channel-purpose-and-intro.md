@@ -1,5 +1,5 @@
 ## Channel purpose and intro
-Posted on *2016-12-13 15:04:41* by *hannahteagle*
+Posted on **2016-12-13 15:04:41** by **hannahteagle**:
 
 Hey everyone!
 

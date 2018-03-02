@@ -1,5 +1,5 @@
 ## Question about Accuracy / Reproducibility
-Posted on *2016-10-17 16:48:14* by *paulhart*
+Posted on **2016-10-17 16:48:14** by **paulhart**:
 
 Hi!
 
@@ -19,13 +19,13 @@ Paul
 
 ---
 
-Posted on *2016-10-18 08:06:58* by *nathanmiller*
+Posted on **2016-10-18 08:06:58** by **nathanmiller**:
 
 I was curious about the accuracy at the corners of the sheet too. I expect it to be ok of the controlling servos are far enough away from the panel being cut.
 
 ---
 
-Posted on *2016-10-19 13:06:47* by *Bar*
+Posted on **2016-10-19 13:06:47** by **Bar**:
 
 That is a series of excellent questions. You clearly have a solid understanding of what to ask about. 
 
@@ -47,13 +47,13 @@ Really tho. Great, insightful questions.
 
 ---
 
-Posted on *2016-10-19 14:29:33* by *matthewrr*
+Posted on **2016-10-19 14:29:33** by **matthewrr**:
 
 I'm hoping this will be a solution for me. I'm looking to remake all of our Burn furniture in 3/4" plywood. The designs like http://playatech.com/downloads/playa-pew/ utilize the entire sheet. Can the Maslow handle such a task with precision?
 
 ---
 
-Posted on *2016-10-19 19:16:25* by *paulhart*
+Posted on **2016-10-19 19:16:25** by **paulhart**:
 
 Bar,
 
@@ -69,19 +69,19 @@ Paul
 
 ---
 
-Posted on *2016-10-19 19:42:10* by *mattyp*
+Posted on **2016-10-19 19:42:10** by **mattyp**:
 
 Great video posted showing the accuracy of the wine stand cutout. I noticed the router is sometimes jerking and twisting ever so slightly. Is it possible it catches on the rough ply sheet or just friction of the routers plywood base sliding over the work surface causing that? Could that be minimised if so by a smoother finish to the router base?
 
 ---
 
-Posted on *2016-10-20 05:25:02* by *TheRiflesSpiral*
+Posted on **2016-10-20 05:25:02** by **TheRiflesSpiral**:
 
 I wondered the same thing... I'm planning to add a ring of UHMW to the base so there's less friction against the piece. (CoF of UHMW is 0.15 compared to plywood at around 0.5)
 
 ---
 
-Posted on *2016-10-20 09:46:50* by *Bar*
+Posted on **2016-10-20 09:46:50** by **Bar**:
 
 @matthewrr that furniture looks awesome. From a quick look over, that seems like something you could make with Maslow easily.
 
@@ -91,7 +91,7 @@ Posted on *2016-10-20 09:46:50* by *Bar*
 
 ---
 
-Posted on *2016-10-20 11:27:00* by *TheRiflesSpiral*
+Posted on **2016-10-20 11:27:00** by **TheRiflesSpiral**:
 
 So the router base is what's contacting the material... great. Saves me the trouble!
 

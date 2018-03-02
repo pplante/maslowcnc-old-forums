@@ -1,5 +1,5 @@
 ## Still stuck....update
-Posted on *2017-04-16 10:27:30* by *rancher*
+Posted on **2017-04-16 10:27:30** by **rancher**:
 
 I'll open an issue in github Bar, but I thought I'd detail what is happening and start a discussion here so the issue/issues are more clear.
 
@@ -11,7 +11,7 @@ And lastly, I would like to ask again, am I the only one trying to cut with file
 
 ---
 
-Posted on *2017-04-16 10:52:34* by *Bar*
+Posted on **2017-04-16 10:52:34** by **Bar**:
 
 The CAM process can be really tricky. I don't have enough experience with Fusion 360 to be able to offer specific advice, but I can say that I think it's a great piece of software and that I want to make sure it works so any issues you are having are a priority to fix. Conveniently, some people from the Fusion team are interested in what we are doing and they are coming to visit on Tuesday. It's convenient that they happen to work right down the street. 
 
@@ -23,7 +23,7 @@ I've also made an [issue](https://github.com/MaslowCNC/GroundControl/issues/201)
 
 ---
 
-Posted on *2017-04-16 11:50:27* by *rancher*
+Posted on **2017-04-16 11:50:27** by **rancher**:
 
 I'll attach a new file, it's something different.  
 
@@ -33,13 +33,13 @@ I replied to crashing on home.  I saw it, it frustrated me, now it's gone.
 
 ---
 
-Posted on *2017-04-16 12:01:26* by *blsteinhauer88*
+Posted on **2017-04-16 12:01:26** by **blsteinhauer88**:
 
 I am really digging Inkskape.  You can set a bunch of guide lines and use the Bezier pen to draw paths by hand. Saves as SVG and MakerCam has been processing the files fine, or you can use Easle to set up the cuts for your SVG.
 
 ---
 
-Posted on *2017-04-16 12:10:31* by *rancher*
+Posted on **2017-04-16 12:10:31** by **rancher**:
 
 How well does it do complex 3d modeling? 
 
@@ -47,25 +47,25 @@ edit...oh, I just checked it out.  I'm needing more than vector work for the pro
 
 ---
 
-Posted on *2017-04-16 12:18:46* by *blsteinhauer88*
+Posted on **2017-04-16 12:18:46** by **blsteinhauer88**:
 
 I am not good with 3D so that would have to be seen....😄
 
 ---
 
-Posted on *2017-04-16 12:24:02* by *scottsm*
+Posted on **2017-04-16 12:24:02** by **scottsm**:
 
 What do you use for vectors on the iPad?
 
 ---
 
-Posted on *2017-04-16 12:32:10* by *rancher*
+Posted on **2017-04-16 12:32:10** by **rancher**:
 
 Graphic is my favorite, but inkpad is good too.
 
 ---
 
-Posted on *2017-04-16 18:38:41* by *jbarchuk*
+Posted on **2017-04-16 18:38:41** by **jbarchuk**:
 
 > @rancher
 > First, I'm still struggling with Z. I am never in the material. I have done dozens of variations of settings in Fusion360, and just now I noticed something. I put the bit on the wood, hit Zero Z in GC. All good. Then I hit home. GC retracted the bit .25 before moving home. Makes sense. And then I wasn't paying as much attention, but, it appeared that it reset back to zero.
@@ -86,13 +86,13 @@ Oh forgot to say, the FIRST time the machine does something not quite right, STO
 
 ---
 
-Posted on *2017-04-16 19:44:13* by *rancher*
+Posted on **2017-04-16 19:44:13** by **rancher**:
 
 You seem knowledgeable Jbarchuck.  Fusion is free.  Will you please download it and try to create and cut a file?  I would find that incredibly helpful.
 
 ---
 
-Posted on *2017-04-17 10:38:47* by *jbarchuk*
+Posted on **2017-04-17 10:38:47** by **jbarchuk**:
 
 > @rancher
 > Fusion is free. Will you please download it and try to create and cut a file?
@@ -102,7 +102,7 @@ UNfortunately if that turns out to be the case it's not as if Autodesk is gonna 
 
 ---
 
-Posted on *2017-04-17 11:09:03* by *rancher*
+Posted on **2017-04-17 11:09:03** by **rancher**:
 
 You've been using it for years?  Great!!  Perhaps you could walk me through setting up the z heights in the CAM?  I've set the clearance, retract, and feed heights as relative to origin rather than stock top, and the bottom of the cut typically is stock bottom.  My paths appear correct, but I suspect GC does something at the start of the file that throws it all out of whack.
 
@@ -110,37 +110,37 @@ As for taking the software out of the equation, that won't help me.  Nor does yo
 
 ---
 
-Posted on *2017-04-17 13:39:00* by *rexklein*
+Posted on **2017-04-17 13:39:00** by **rexklein**:
 
 Z-axis I have the same problems it should have it's own setting place and not be dependant on the sled calibration. I get very different results drastically different results.  @Bar pretty please give the Zaxis its own setting menu that does not share the move distance with the sled. please...
 
 ---
 
-Posted on *2017-04-17 13:42:51* by *rexklein*
+Posted on **2017-04-17 13:42:51** by **rexklein**:
 
 I think (but am not sure) that whenever I press home my z calibration is lost or at least changed in some way that requires me to seem to have to reset it every time.
 
 ---
 
-Posted on *2017-04-17 13:51:29* by *Bar*
+Posted on **2017-04-17 13:51:29** by **Bar**:
 
 Sure thing! If you make an issue for it on GitHub I will make it so :-)
 
 ---
 
-Posted on *2017-04-17 13:53:22* by *scottsm*
+Posted on **2017-04-17 13:53:22** by **scottsm**:
 
 I think issue #154 on GroundControl describes this, yes?
 
 ---
 
-Posted on *2017-04-17 14:16:09* by *Bar*
+Posted on **2017-04-17 14:16:09** by **Bar**:
 
 I believe it does! Thanks for catching that.
 
 ---
 
-Posted on *2017-04-17 17:28:19* by *Bar*
+Posted on **2017-04-17 17:28:19** by **Bar**:
 
 Separating the z-axis controls out into their own thing should be added in the latest version of Ground Control. If you are running it from the source code, you can grab it now or if not it will be a part of the Wednesday release.
 

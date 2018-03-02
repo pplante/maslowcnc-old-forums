@@ -1,5 +1,5 @@
 ## Bit frustrated
-Posted on *2017-03-30 17:14:20* by *ledsled71*
+Posted on **2017-03-30 17:14:20** by **ledsled71**:
 
 I'm getting a bit frustrated, but figured I'd reach out to the community to figure out what I'm missing.
 
@@ -16,7 +16,7 @@ I didn't realize that being a beta tester involved figuring out assembly as you 
 
 ---
 
-Posted on *2017-03-30 17:43:17* by *Bar*
+Posted on **2017-03-30 17:43:17** by **Bar**:
 
 Thank you for reaching out. We decided on the schedule based on shipping as soon as humanly possible with the knowledge that we would be able to move much faster and do a better job with your feedback. It's working, the community feedback is letting me to move much faster than I ever could have alone, but I understand how it's frustrating. 
 
@@ -33,7 +33,7 @@ Thanks for bearing with us. Your feedback about how we can make the process less
 
 ---
 
-Posted on *2017-03-30 19:40:08* by *Bar*
+Posted on **2017-03-30 19:40:08** by **Bar**:
 
 I've got the instructions re-written for step four of the assembly guide based on everyone's feedback and I've written steps five and six more or less from scratch to show some of the new software features. I'm gong to go back through and follow my own directions to see what's confusing when following the directions. Any feedback you have about how what's confusing, or how I can make the process smoother would fantastic.
 

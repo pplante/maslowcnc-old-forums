@@ -1,5 +1,5 @@
 ## Accuracy over the entire workable area?
-Posted on *2017-05-11 02:02:29* by *asleborgen*
+Posted on **2017-05-11 02:02:29** by **asleborgen**:
 
 Hi,
 
@@ -13,7 +13,7 @@ Asle , Norway
 
 ---
 
-Posted on *2017-05-11 02:39:26* by *gero*
+Posted on **2017-05-11 02:39:26** by **gero**:
 
 Hi asleborgen, my last test over the entire sheet is 2 weeks old and a lot has happened since then. We have been testing a fantastic new calibration that lets the Maslow measure its own demensions.
 I hope on Saturday I can do a new test.
@@ -22,13 +22,13 @@ This information is outdated http://muut.com/u/maslowcnc/s3/:maslowcnc:S5ed:imag
 
 ---
 
-Posted on *2017-05-11 02:45:39* by *gero*
+Posted on **2017-05-11 02:45:39** by **gero**:
 
 'Dialing in Critical Measurements' is a almost 400 coments long topic :-)  that is continued in 'New Calibration Procedure'
 
 ---
 
-Posted on *2017-05-11 04:28:20* by *davidlang*
+Posted on **2017-05-11 04:28:20** by **davidlang**:
 
 we don't really know the accuracy because we are still working on fixing the software. The hardware is able to be very accurate, but we have seen some problems that could be in the underlying math, and we have some other issues that seem to be related to the software control loops.
 
@@ -38,7 +38,7 @@ The stated goal is to get it to 1/64" accuracy. We aren't there yet, but it shou
 
 ---
 
-Posted on *2017-05-11 04:39:27* by *asleborgen*
+Posted on **2017-05-11 04:39:27** by **asleborgen**:
 
 Thank you both, this is great news! :-) 
 I was planning to build a "normal" 3-axis router, but with these improvements I'm really starting to lean towards your design!
@@ -47,7 +47,7 @@ I was planning to build a "normal" 3-axis router, but with these improvements I'
 
 ---
 
-Posted on *2017-05-11 13:44:24* by *davidlang*
+Posted on **2017-05-11 13:44:24** by **davidlang**:
 
 a 'normal' three axis router can do some things that the maslow cannot do, but the maslow is simpler for cutting large sheetstock.
 

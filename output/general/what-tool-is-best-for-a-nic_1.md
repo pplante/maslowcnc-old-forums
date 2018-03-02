@@ -1,11 +1,11 @@
 ## What tool is best for a nice clean cut on tabs?
-Posted on *2017-06-06 08:07:41* by *scottarseneau*
+Posted on **2017-06-06 08:07:41** by **scottarseneau**:
 
 Hey folks!Looking for a pro tip! After the cut is complete and you have to remove your project from the plywood sheet, what is the best tool to cut the tabs smoothly so less sanding will have to be preformed later? Maybe an Oscillating Dremel? Looking to purchase what I need before maslow arrives :)
 
 ---
 
-Posted on *2017-06-06 08:54:38* by *davidlang*
+Posted on **2017-06-06 08:54:38** by **davidlang**:
 
 a sharp chisel
 
@@ -15,7 +15,7 @@ the other option (if you are using a large enough bit) is a flush trim router bi
 
 ---
 
-Posted on *2017-06-06 09:36:37* by *Bar*
+Posted on **2017-06-06 09:36:37** by **Bar**:
 
 I use an oscillating dremel, and it works great. You can use the part of the wood which is already cut as a guide for the blade and a lot of the time I can't even tell where the tabs were.
 

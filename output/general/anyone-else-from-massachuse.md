@@ -1,5 +1,5 @@
 ## Anyone else from Massachusetts? (Plus a random picture of my R2D2)
-Posted on *2017-06-05 17:16:40* by *fly-fast*
+Posted on **2017-06-05 17:16:40** by **fly-fast**:
 
 I am in Franklin, and was wondering if we had any other Bostonian builders?  Here is a picture of what I am working on.  It's fiberglass, wood, aluminum, and LOADS of 3D printed parts.  Still not done.
 
@@ -7,7 +7,7 @@ I am in Franklin, and was wondering if we had any other Bostonian builders?  Her
 
 ---
 
-Posted on *2017-06-08 05:13:07* by *Meticulous Maynard*
+Posted on **2017-06-08 05:13:07** by **Meticulous Maynard**:
 
 Shiny! That is quite the R2! Are you planning on making it remote controlled? That would be a lot of fun :)
 

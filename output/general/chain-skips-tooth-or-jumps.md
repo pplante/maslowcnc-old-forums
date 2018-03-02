@@ -1,5 +1,5 @@
 ## chain skips tooth or jumps sprocket - analysis and fix
-Posted on *2017-04-05 20:00:18* by *jbarchuk*
+Posted on **2017-04-05 20:00:18** by **jbarchuk**:
 
 > scottsm9ha+2!
 > ...the top center kept jumping the sprocket of the left motor – notice the stairstep path.
@@ -37,13 +37,13 @@ That doesn't mean that the correct fix is to add more weight to the corner ancho
 
 ---
 
-Posted on *2017-04-05 20:41:05* by *Bar*
+Posted on **2017-04-05 20:41:05** by **Bar**:
 
 I completely agree with this assessment of what's happening and how we can fix it.
 
 ---
 
-Posted on *2017-04-05 23:06:53* by *scottsm*
+Posted on **2017-04-05 23:06:53** by **scottsm**:
 
 I think you've put our finger right on it!
  In the video showing the chain slip, the motor was feeding chain out, and the skip happened on the 'bungee' side of the sprocket. Bar added a roller to that side to address this. In my case, the skip happened when the chain was reeling in, the skip on the sled side of the sprocket. The first time it happened I added a roller to the bungee side, but I had another skip with that in place so I removed it. I had a third skip in the same work location when I tried moving the sled attachment points to the lowest hole. I've learned that my workarea plywood is quite bowed there, putting the sled a further 1.5" behind the motor - I guess moving the sled attachment points actually made the chain angle worse. This agrees with the idea that alignment is one of the causes, and suggests that there are several factors to consider.
@@ -54,7 +54,7 @@ I think you've put our finger right on it!
 
 ---
 
-Posted on *2017-04-05 23:34:12* by *davidlang*
+Posted on **2017-04-05 23:34:12** by **davidlang**:
 
 the chain/sled attachment is chain angle and sled balance both.
 
@@ -62,19 +62,19 @@ you had this problem trying to cut the arms, correct? This means you are using t
 
 ---
 
-Posted on *2017-04-06 07:44:08* by *Bar*
+Posted on **2017-04-06 07:44:08** by **Bar**:
 
 @davidlang is right that moving the motors up and was done primarily to help with the chain jumping issue. We can fine tune the system once we're all using the final frame by adjusting the size of the motor mounts. We could even add multiple mounting holes for the U-bolts to allow the motor mounts to move in and out and be adjustable
 
 ---
 
-Posted on *2017-04-06 10:28:27* by *mattnelson*
+Posted on **2017-04-06 10:28:27** by **mattnelson**:
 
 Speaking of the final frame... what's the eta on the assembly instructions for building the final frame?
 
 ---
 
-Posted on *2017-04-06 11:09:07* by *Bar*
+Posted on **2017-04-06 11:09:07** by **Bar**:
 
 I need to get the calibration figured out because on my temporary frame right now I'm getting very oval circles which won't work for doing the write up, and I think writing instructions that I myself can't follow isn't productive.
 
@@ -84,7 +84,7 @@ What's your advice on the best way to go forward? Is your temporary frame workin
 
 ---
 
-Posted on *2017-04-06 12:43:29* by *mindeye*
+Posted on **2017-04-06 12:43:29** by **mindeye**:
 
 I realize I'm not the intended recipient here but using my final frame (just miter sawed legs to right angles) + temporary arms (45 degree 2x4 with flat top) I ran into such bad chain slippage yesterday while cutting a final arm front 2/3rds of the way up the board and maybe 8" from the edge of the board that I took the arm front that successfully cut out below it and traced it so that I could cut a chunk around the bad arm you using my circular saw, then used my jigsaw to trace the good arm onto the front arm. Even though my calibration is 95% good, the z-offset between the motors and the sled caused some really scary slips.
 
@@ -92,7 +92,7 @@ If you stick mostly to the middle, lower 50% of the machine I think you can use 
 
 ---
 
-Posted on *2017-04-06 13:34:39* by *scottsm*
+Posted on **2017-04-06 13:34:39** by **scottsm**:
 
 I'm still on a frame built to the instructions, with a round sled built using other tools. My plywood has potato-chipped by about 1.5". I might be able to cut the arms, with careful placement, but comfortable - no. I'll wait for your writeup :) .
 

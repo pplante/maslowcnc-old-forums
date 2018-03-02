@@ -1,23 +1,23 @@
 ## An interesting read
-Posted on *2017-05-07 18:57:06* by *Bar*
+Posted on **2017-05-07 18:57:06** by **Bar**:
 
 I've been looking for free plans for a CNC kayak frame and came across this article which I thought was an interesting read: http://www.clcboats.com/life-of-boats-blog/seventeen-years-of-cnc-machines-a-survey.html
 
 ---
 
-Posted on *2017-05-07 23:01:20* by *larry357*
+Posted on **2017-05-07 23:01:20** by **larry357**:
 
 http://cnckayaks.com/ or http://makezine.com/2017/03/11/weekend-watch-8-months-build-gorgeous-cedar-canoe/
 
 ---
 
-Posted on *2017-05-08 06:30:20* by *rollandelliott*
+Posted on **2017-05-08 06:30:20** by **rollandelliott**:
 
 Omg how many maslows can one make for $240,000? Lol
 
 ---
 
-Posted on *2017-05-08 08:15:15* by *davidlang*
+Posted on **2017-05-08 08:15:15** by **davidlang**:
 
 there's a space issue, those big machines move FAST. They go though several carbide router bits per DAY. In a week, they spend more on replacement router bits than the cost of a maslow.
 
@@ -29,7 +29,7 @@ And if a cut going wrong ruins a $100 sheet of plywood, you are very intolerant 
 
 ---
 
-Posted on *2017-05-08 11:33:21* by *gero*
+Posted on **2017-05-08 11:33:21** by **gero**:
 
 A really good read, thanks for sharing!
 
@@ -59,19 +59,19 @@ If any demon would dare to enter the Maslow (Z-Axis :0), rest assured that an ex
 
 ---
 
-Posted on *2017-05-08 11:54:03* by *scottsm*
+Posted on **2017-05-08 11:54:03** by **scottsm**:
 
 Gero, you've already trapped and beaten several demons here. It's good to have your experience keeping an eye out for the Maslow demons! ;)
 
 ---
 
-Posted on *2017-05-09 02:19:12* by *larry357*
+Posted on **2017-05-09 02:19:12** by **larry357**:
 
 Was reading up about this static demon, from the vacuum pipes 😈
 
 ---
 
-Posted on *2017-05-12 22:10:13* by *cnc_noob*
+Posted on **2017-05-12 22:10:13** by **cnc_noob**:
 
 In case you're still looking for kayak plans...
 http://cnckayaks.com/

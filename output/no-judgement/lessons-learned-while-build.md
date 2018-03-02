@@ -1,5 +1,5 @@
 ## Lessons learned while building the frame
-Posted on *2017-04-19 07:59:40* by *MakerMark*
+Posted on **2017-04-19 07:59:40** by **MakerMark**:
 
 I know Bar is working on the documenting “Step 7: Building The Frame”, but I’ll share things that I noted while building it that might help others.
 
@@ -21,19 +21,19 @@ I'm still amazed how well it works and the simplicity in the design. A few frien
 
 ---
 
-Posted on *2017-04-19 08:12:37* by *Bar*
+Posted on **2017-04-19 08:12:37** by **Bar**:
 
 That is FANTASTIC feedback. Thank you so much for taking the time to write that out. I will incorporate every one of your suggestions, they are all great.
 
 ---
 
-Posted on *2017-04-19 08:23:43* by *rexklein*
+Posted on **2017-04-19 08:23:43** by **rexklein**:
 
 Lesson #8 be calm don't get excited and try to understand what your building
 
 ---
 
-Posted on *2017-04-19 08:59:10* by *blsteinhauer88*
+Posted on **2017-04-19 08:59:10** by **blsteinhauer88**:
 
 I added a 2x4 across both back braces  directly behind the backer 4x8 ply on 'leg piece #3'.  The 2x4  was screwed onto leg piece #3 with the  4 side down and 2 side against the plywood.  It took the bow out of the plywood in the middle.  I added one higher on the back braces, like above or in place of 'leg piece #1',  to do the same thing up top.  We might add these two 2x4x8s for backer plywood to keep it square.
 

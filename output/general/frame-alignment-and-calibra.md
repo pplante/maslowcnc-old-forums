@@ -1,5 +1,5 @@
 ## Frame alignment and calibration.
-Posted on *2017-03-15 09:03:12* by *jbarchuk*
+Posted on **2017-03-15 09:03:12** by **jbarchuk**:
 
 I took a quote from the double sided cutting thread because it's a different topic.
 >TheRiflesSpiral2h!
@@ -13,7 +13,7 @@ If there later turns out to be slight inaccuracies, that can be adjusted by addi
 
 ---
 
-Posted on *2017-03-15 09:18:00* by *TheRiflesSpiral*
+Posted on **2017-03-15 09:18:00** by **TheRiflesSpiral**:
 
 > @jbarchuk
 > I would gauge everything off the bottom edge of the support board that's fastened to the main structure plywood sheet.
@@ -24,7 +24,7 @@ It's common for CNC machines to cut their own scales and alignment marks for thi
 
 ---
 
-Posted on *2017-03-15 10:43:30* by *jbarchuk*
+Posted on **2017-03-15 10:43:30** by **jbarchuk**:
 
 > @TheRiflesSpiral
 > No matter how well, mechanically, your device is set up, there's always the variable of how commands in software get translated to the real world.
@@ -33,7 +33,7 @@ There are physical variables such as backlash and wood expansion/contraction, bu
 
 ---
 
-Posted on *2017-03-15 10:51:13* by *davidlang*
+Posted on **2017-03-15 10:51:13** by **davidlang**:
 
 @jbarchuk, remember that the motors are analog, not digital
 
@@ -41,25 +41,25 @@ as for the bottom being aligned, it should be possible to have the maslow trim t
 
 ---
 
-Posted on *2017-03-15 10:51:19* by *TheRiflesSpiral*
+Posted on **2017-03-15 10:51:19** by **TheRiflesSpiral**:
 
 The digital asset may not change from cut to cut but in that case (milling both sides of a sheet) the workpiece is changing. That makes the relationship of the workpiece to the workspace (in digital space) relevant.
 
 ---
 
-Posted on *2017-03-15 10:52:10* by *TheRiflesSpiral*
+Posted on **2017-03-15 10:52:10** by **TheRiflesSpiral**:
 
 I like that Idea, David. A nice tall bit that could mill the 2x4 flat and also maybe a couple of registration "bumps"?
 
 ---
 
-Posted on *2017-03-15 10:53:20* by *davidlang*
+Posted on **2017-03-15 10:53:20** by **davidlang**:
 
 you just may have to attach a board a little higher to give the sled enough stability.
 
 ---
 
-Posted on *2017-03-15 11:28:17* by *jbarchuk*
+Posted on **2017-03-15 11:28:17** by **jbarchuk**:
 
 > @davidlang
 > @jbarchuk, remember that the motors are analog, not digital
@@ -73,7 +73,7 @@ Milling would be great for initial setup but I think a good stabilisation and st
 
 ---
 
-Posted on *2017-03-15 11:39:13* by *davidlang*
+Posted on **2017-03-15 11:39:13** by **davidlang**:
 
 I'm not sure what you are fastening the bottom board to in your efforts to make it so stable. My understanding it that it attaches to the legs, and possibly the back.
 
@@ -85,19 +85,19 @@ The best plan is to try not to go all the way to the edge of the panel, and then
 
 ---
 
-Posted on *2017-03-15 12:46:44* by *scottsm*
+Posted on **2017-03-15 12:46:44** by **scottsm**:
 
 I've been wondering about a pattern of registration marks like those used for pick-and-place pc-board manufacturing. Something I could add to the beginning of a design that would take the router to enough known locations (2? 3? 4?) that I'll feel confident enough to let it go on with the cutting. If it pierced the sheet, it would confirm alignment when the sheet is flipped. Or perhaps a cut 3/5 of the way through - when cut from the other side any offset would show up.
 
 ---
 
-Posted on *2017-03-15 13:00:08* by *davidlang*
+Posted on **2017-03-15 13:00:08** by **davidlang**:
 
 cutting all the way through and lining the router bit up with the hole is a pretty practical option, but it's not going to be accurate to 1/64", cutting 3/5 of the way through from both sides is a good way to see if you can notice any difference. A difference that you can only see with a micrometer isn't going to matter.
 
 ---
 
-Posted on *2017-03-15 15:25:23* by *jbarchuk*
+Posted on **2017-03-15 15:25:23** by **jbarchuk**:
 
 > @davidlang
 > I'm not sure what you are fastening the bottom board to in your efforts to make it so stable. My understanding it that it attaches to the legs, and possibly the back.
@@ -113,7 +113,7 @@ As you said, the easy answer to accuracy past  the edge to that is to make the r
 
 ---
 
-Posted on *2017-03-15 15:54:19* by *jbarchuk*
+Posted on **2017-03-15 15:54:19** by **jbarchuk**:
 
 > @scottsm
 > I've been wondering about a pattern of registration marks like those used for pick-and-place pc-board manufacturing. Something I could add to the beginning of a design that would take the router to enough known locations (2? 3? 4?) that I'll feel confident enough to let it go on with the cutting. If it pierced the sheet, it would confirm alignment when the sheet is flipped. Or perhaps a cut 3/5 of the way through – when cut from the other side any offset would show up.
@@ -130,14 +130,14 @@ Set that new adjusted point as the origin, and tell the machine to redrill the n
 
 ---
 
-Posted on *2017-03-15 16:16:23* by *scottsm*
+Posted on **2017-03-15 16:16:23** by **scottsm**:
 
 I think I remember someone in the forum had a link to a pen that would chuck up into a router. Haven't found the link, but I want to get one of those and play around that way before chewing up too very much 'good wood'.
 Much food for thought, a lot to look forward to.
 
 ---
 
-Posted on *2017-03-15 16:20:34* by *scottsm*
+Posted on **2017-03-15 16:20:34** by **scottsm**:
 
 I just found Bar's link about the pen:
 http://www.maslowcnc.com/forums/#!/modifications:pen-plotter/you-might-be-interested-in

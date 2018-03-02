@@ -1,5 +1,5 @@
 ## Limited Quantity?
-Posted on *2016-10-28 09:56:47* by *sparhawk2k*
+Posted on **2016-10-28 09:56:47** by **sparhawk2k**:
 
 I already backed so it doesn't impact me directly. But I'm curious what's going to happen when the limited quantity in the Kickstarter is gone.
 
@@ -7,7 +7,7 @@ I appreciate when Kickstarters do this because it seems like it makes you more l
 
 ---
 
-Posted on *2016-10-28 11:00:58* by *Bar*
+Posted on **2016-10-28 11:00:58** by **Bar**:
 
 We're not exactly sure yet :-)
 

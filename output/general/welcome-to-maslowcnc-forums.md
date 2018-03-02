@@ -1,5 +1,5 @@
 ## Welcome to Maslowcnc forums!
-Posted on *2016-09-26 11:53:44* by *Bar*
+Posted on **2016-09-26 11:53:44** by **Bar**:
 
 This is internet’s number one place to discuss everything Maslow CNC related!
 

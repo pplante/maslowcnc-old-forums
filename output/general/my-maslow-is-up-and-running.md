@@ -1,5 +1,5 @@
 ## My Maslow is up and running!
-Posted on *2017-03-27 23:03:13* by *jessbussert*
+Posted on **2017-03-27 23:03:13** by **jessbussert**:
 
 This is a photo of my first g-code run using a sharpie for a router bit.  Hey!  I don't wanna waste wood while I'm tweaking things, right?  https://imagebin.ca/v/3H5RMCHXBJAc
 
@@ -30,7 +30,7 @@ Ciao for now,
 
 ---
 
-Posted on *2017-03-28 06:19:34* by *jknox*
+Posted on **2017-03-28 06:19:34** by **jknox**:
 
 This is really, really interesting. Are your motors mounted on the sled!?! It's an awesome idea to make the entire machine self contained and portable! Can you describe or take a picture of how your chains are attached/routed. I'm having a hard time seeing how this works.
 
@@ -38,19 +38,19 @@ Those 'lazy-susan' bearings only work in a horizontal orientation with a vertica
 
 ---
 
-Posted on *2017-03-28 08:30:02* by *mindeye*
+Posted on **2017-03-28 08:30:02** by **mindeye**:
 
 This is fantastic! Would love to see more images and maybe a video of it in action when you get a chance. I've had good success using a cutting board cut with a nice radius edge attached to my plywood sled with carpet tape.
 
 ---
 
-Posted on *2017-03-28 08:58:11* by *rancher*
+Posted on **2017-03-28 08:58:11** by **rancher**:
 
 Very cool design!
 
 ---
 
-Posted on *2017-03-28 09:06:25* by *jknox*
+Posted on **2017-03-28 09:06:25** by **jknox**:
 
 Jess, you may not want to remove the material from the interior of the sled plate, it would cause problems when cutting near the edges of a sheet (when the sled is hanging over the edge/corner)
 
@@ -58,19 +58,19 @@ FYI, this is the general idea for rotating sled attachment points that I've been
 
 ---
 
-Posted on *2017-03-28 12:13:48* by *larry357*
+Posted on **2017-03-28 12:13:48** by **larry357**:
 
 If you can incorporate rollerblade bearings they work well at angles with a load of weight I.e me 😀
 
 ---
 
-Posted on *2017-03-28 13:24:31* by *jknox*
+Posted on **2017-03-28 13:24:31** by **jknox**:
 
 Larry, great idea!  [Rotating sled concept2](//muut.com/u/maslowcnc/s1/:maslowcnc:AYU3:rotatingsledconcept2.png.jpg)
 
 ---
 
-Posted on *2017-03-28 14:07:53* by *jessbussert*
+Posted on **2017-03-28 14:07:53** by **jessbussert**:
 
 So a few of you asked for more photos on my build.
 
@@ -109,7 +109,7 @@ That's all I can post for now.  My partner and I have an art fair we are attendi
 
 ---
 
-Posted on *2017-03-28 14:49:06* by *davidlang*
+Posted on **2017-03-28 14:49:06** by **davidlang**:
 
 when using chains on traditional CNC machines, it's common to use three sprockets, one for the motot, and then two that are tangential to the straight-line chain position (like an upside down T) this ensures good chain wrap around the sprocket and low drag.
 
@@ -121,19 +121,19 @@ If you loop the chains around the motor sprockets and then hook them back up to 
 
 ---
 
-Posted on *2017-03-28 15:02:47* by *jknox*
+Posted on **2017-03-28 15:02:47** by **jknox**:
 
 Nice, this is a really creative design, I like it. I agree that the idler sprockets will be a much more elegant solution, and should be less prone to wear and jambs. David, is this the type of sprocket layout you're talking about: [Chain wrap](//muut.com/u/maslowcnc/s1/:maslowcnc:Q6vW:chainwrap.png.jpg) ?
 
 ---
 
-Posted on *2017-03-28 15:15:39* by *davidlang*
+Posted on **2017-03-28 15:15:39** by **davidlang**:
 
 yes, that gives you the most possible wrap. You may be able to eliminate one of the idlers in this case as the arm rotates to stay aligned.
 
 ---
 
-Posted on *2017-03-28 16:11:32* by *jessbussert*
+Posted on **2017-03-28 16:11:32** by **jessbussert**:
 
 Yeah, the idler is a much better solution.  I'll work on that when I get back from the art fair.
 
@@ -147,7 +147,7 @@ When I redesign the bearings I was thinking of ways I could create an air bearin
 
 ---
 
-Posted on *2017-03-28 16:20:03* by *jessbussert*
+Posted on **2017-03-28 16:20:03** by **jessbussert**:
 
 @jknox:  in regard to removing the material from the bottom of the sled:
 
@@ -155,37 +155,37 @@ You bring up a good point about catching on the edge of the work piece.  In my c
 
 ---
 
-Posted on *2017-03-28 18:25:29* by *rollandelliott*
+Posted on **2017-03-28 18:25:29** by **rollandelliott**:
 
 UMHW plastic has even less friction than HDPE plastic.  you can buy thick sheets of it to make a sled or use .005" tape to coat the underside.
 
 ---
 
-Posted on *2017-03-28 18:26:34* by *rollandelliott*
+Posted on **2017-03-28 18:26:34** by **rollandelliott**:
 
 search ebay for 300mm aluminum lazy susan. People use these bearings to make track saws, I have one in my shop some where I bought but never used. might work better than those stamped bearings you used. not sure, but worth a shot.
 
 ---
 
-Posted on *2017-03-28 18:28:15* by *rollandelliott*
+Posted on **2017-03-28 18:28:15** by **rollandelliott**:
 
 I know very little about the math/programming that lets maslow accurately cut, but won't this design require a whole new program to be written that is designed for these pivoting motor mounts? I kind of like this design better than the original.
 
 ---
 
-Posted on *2017-03-28 19:41:43* by *jessbussert*
+Posted on **2017-03-28 19:41:43** by **jessbussert**:
 
 I don't believe the math should be an issue. Bar has variables in his code that specify the width of the sled mount points as well as the drop to the router.  By making all these values zero (or 0.00001) it effectively changes the geometry into a triangle.
 
 ---
 
-Posted on *2017-03-28 20:35:33* by *davidlang*
+Posted on **2017-03-28 20:35:33** by **davidlang**:
 
 if you are thinking air bearings, you can also think in terms of an air cushion for the sled. In both cases I think you are badly over-engineering things,  but let's see if this triangle approach produces any more accuracy than the stock approach. I suspect that it's not going to matter much, and a tweak of the existing design to move the motors to the sled (without the big circular bearings) would be a very interesting variation to try.
 
 ---
 
-Posted on *2017-03-28 20:38:21* by *davidlang*
+Posted on **2017-03-28 20:38:21** by **davidlang**:
 
 by the way, when I say you are probably badly over-engineering this, I have a strong tendency to do the same thing :-)
 
@@ -193,7 +193,7 @@ I'm always fighting the tendency and trying to do a sanity check on the results 
 
 ---
 
-Posted on *2017-03-28 21:30:13* by *jessbussert*
+Posted on **2017-03-28 21:30:13** by **jessbussert**:
 
 Me? Over engineer something? No! Never!
 
@@ -201,7 +201,7 @@ Me? Over engineer something? No! Never!
 
 ---
 
-Posted on *2017-03-29 06:05:07* by *TomTheWhittler*
+Posted on **2017-03-29 06:05:07** by **TomTheWhittler**:
 
 Spoken like a true Engineer ;)
 Why use only one screw when 4 will guarantee it will never come off :)
@@ -209,19 +209,19 @@ BTW. I like your "all in one concept" sled. It tidies things up without a lot of
 
 ---
 
-Posted on *2017-03-29 07:05:08* by *rollandelliott*
+Posted on **2017-03-29 07:05:08** by **rollandelliott**:
 
 Cutting boards are hdpe plastic not derlin plastic
 
 ---
 
-Posted on *2017-03-29 10:11:11* by *jessbussert*
+Posted on **2017-03-29 10:11:11** by **jessbussert**:
 
 @TomTheWhittler:  That's why if I were a NASA engineer all my craft would be 300% heavier and require much bigger engines!  Hey!  Bigger engines?  COOL!
 
 ---
 
-Posted on *2017-03-29 11:13:27* by *TomTheWhittler*
+Posted on **2017-03-29 11:13:27** by **TomTheWhittler**:
 
 I must be an engineer as I am constantly told I over build stuff.
 ---------------------------------------------------------------------- ----------------
@@ -231,37 +231,37 @@ I knew immediately that was where I belonged.
 
 ---
 
-Posted on *2017-04-01 12:57:49* by *blsteinhauer88*
+Posted on **2017-04-01 12:57:49** by **blsteinhauer88**:
 
 Mine is built and making projects! [IMG_0503](//muut.com/u/maslowcnc/s3/:maslowcnc:DvXr:img_0503.jpg.jpg)
 
 ---
 
-Posted on *2017-04-01 13:42:10* by *Bar*
+Posted on **2017-04-01 13:42:10** by **Bar**:
 
 Beautiful!
 
 ---
 
-Posted on *2017-07-02 07:16:25* by *khandam*
+Posted on **2017-07-02 07:16:25** by **khandam**:
 
 any updates? this design looks promising and I want to do something similar. hoping to learn from your experience?
 
 ---
 
-Posted on *2017-07-05 19:30:57* by *rollandelliott*
+Posted on **2017-07-05 19:30:57** by **rollandelliott**:
 
 Dang this wAs the only lazy susan build and they have gone MIA?
 
 ---
 
-Posted on *2017-07-05 20:01:09* by *iroc999*
+Posted on **2017-07-05 20:01:09** by **iroc999**:
 
 Yes I like this sled mounted motor design! I'm definitely going to run back and start working that idea into my sled concept
 
 ---
 
-Posted on *2017-07-05 20:53:59* by *TheRiflesSpiral*
+Posted on **2017-07-05 20:53:59** by **TheRiflesSpiral**:
 
 She's busy saving the world... no time for forums now!
 

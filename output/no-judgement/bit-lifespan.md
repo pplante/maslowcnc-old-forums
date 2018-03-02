@@ -1,11 +1,11 @@
 ## bit lifespan
-Posted on *2017-05-27 14:42:45* by *boandersen*
+Posted on **2017-05-27 14:42:45** by **boandersen**:
 
 How long should a good bit last before needing to be sharpened or replaced? Iam seeing fraying after < 25 ft cutting with a bosch 1/4" (85911MC). Do you sharpen your bits yourselves?
 
 ---
 
-Posted on *2017-05-27 15:06:07* by *davidlang*
+Posted on **2017-05-27 15:06:07** by **davidlang**:
 
 you should not see the bit wearing after < 25 ft.
 
@@ -19,7 +19,7 @@ unfortunately I don't really have a good answer for you. doing a quick google se
 
 ---
 
-Posted on *2017-05-27 15:28:24* by *davidlang*
+Posted on **2017-05-27 15:28:24** by **davidlang**:
 
 a few resources to look at
 
@@ -37,7 +37,7 @@ now, our router runs about half that speed, (8-12k rpm IIRC), so if we have a 2-
 
 ---
 
-Posted on *2017-05-27 15:39:54* by *davidlang*
+Posted on **2017-05-27 15:39:54** by **davidlang**:
 
 another post, this one with a perfect example for us
 http://makezine.com/2014/03/21/cnc-routing-basics-toolpaths-and-feeds-n-speeds/
@@ -50,20 +50,20 @@ without calculations, the thing to do is to watch the result of the cut. If you 
 
 ---
 
-Posted on *2017-05-27 15:45:01* by *davidlang*
+Posted on **2017-05-27 15:45:01** by **davidlang**:
 
 another good guide
 http://www.onsrud.com/files/pdf/LMT-Onsrud-CNC-Prod-Routing-Guide.pdf
 
 ---
 
-Posted on *2017-05-27 16:00:17* by *boandersen*
+Posted on **2017-05-27 16:00:17** by **boandersen**:
 
 Thank you so very much for that in depth answer. I've been running at 23K and limiting myself to 25ipm to be good to the machine.. I was so wrong it seems.. I'll slow down my rpms and speed up my cut - very nice.. Thanks again
 
 ---
 
-Posted on *2017-05-27 16:31:33* by *rollandelliott*
+Posted on **2017-05-27 16:31:33** by **rollandelliott**:
 
 Buy bits in ten packs when they are only $4 each it doesnt matter if they wear out a little early
 

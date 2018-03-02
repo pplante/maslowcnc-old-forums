@@ -1,11 +1,11 @@
 ## Faster cutting feedrates
-Posted on *2017-03-18 07:10:59* by *feliperojaseing*
+Posted on **2017-03-18 07:10:59** by **feliperojaseing**:
 
 Which modifications woud be the first you would do for cutting faster?
 
 ---
 
-Posted on *2017-03-18 07:49:56* by *davidlang*
+Posted on **2017-03-18 07:49:56** by **davidlang**:
 
 at the moment the feedrate limit is the firmware.
 

@@ -1,5 +1,5 @@
 ## Instructables CNC class...
-Posted on *2016-11-09 07:40:25* by *TheRiflesSpiral*
+Posted on **2016-11-09 07:40:25** by **TheRiflesSpiral**:
 
 First off, if you're not a frequenter of the Instructables website, you should visit and sign up for their emails. It's where I got my Bluetooth speaker bug and there are always interesting CNC/3D printer projects there.
 
@@ -11,7 +11,7 @@ If you're on their email list, you can sign up for free. Premium members also ge
 
 ---
 
-Posted on *2016-11-09 13:37:41* by *chadzimmerman*
+Posted on **2016-11-09 13:37:41** by **chadzimmerman**:
 
 I got that too today, signed up as well.  The classes are good that I have gone through so far.
 

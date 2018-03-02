@@ -1,5 +1,5 @@
 ## Router body diameters
-Posted on *2017-02-03 18:20:50* by *jbarchuk*
+Posted on **2017-02-03 18:20:50** by **jbarchuk**:
 
 I need to make an adapter to mount a dremel rotary tool in more conventional router plunge base. I see bases available for the following routers. If someone has one could you please measure and let me know the diameter of the body?
 
@@ -17,13 +17,13 @@ BTW since I have a choice if anyone has general opinions about any of these plun
 
 ---
 
-Posted on *2017-02-04 01:19:58* by *jbarchuk*
+Posted on **2017-02-04 01:19:58** by **jbarchuk**:
 
 My two highest priorities are depth of travel and tool quality.
 
 ---
 
-Posted on *2017-02-06 10:20:54* by *jbarchuk*
+Posted on **2017-02-06 10:20:54** by **jbarchuk**:
 
 Solved. Will post pics and description later.
 

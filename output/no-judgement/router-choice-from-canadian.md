@@ -1,5 +1,5 @@
 ## Router Choice from Canadian Tire?
-Posted on *2017-06-30 07:36:02* by *paulhart*
+Posted on **2017-06-30 07:36:02** by **paulhart**:
 
 Hi! I'm looking forward to receiving my Maslow in the next few weeks, and am shopping around for an appropriate router to pair with it. One that I'm looking at is the [Maximum Fixed/Plunge Router](http://www.canadiantire.ca/en/pdp/maximum-fixed-plunge-router-0546810p.html) from Canadian Tire (generally positively reviewed, one reviewer specifically mentions using it in a DIY CNC/CAM setup, and currently on sale for CAD150 / USD115 before tax).
 
@@ -11,7 +11,7 @@ Is the above normal? I haven't played with the Ridgid router to compare, maybe I
 
 ---
 
-Posted on *2017-06-30 07:52:20* by *TheRiflesSpiral*
+Posted on **2017-06-30 07:52:20** by **TheRiflesSpiral**:
 
 There is usually a nut underneath the lever that locks the collar to the spindle. That nut can be loosened slightly, allowing for a snug slip fit.
 
@@ -19,7 +19,7 @@ The Mastercraft Maximum line of power tools is made by WMH Tool Group (Jet, Powe
 
 ---
 
-Posted on *2017-06-30 07:58:23* by *TheRiflesSpiral*
+Posted on **2017-06-30 07:58:23** by **TheRiflesSpiral**:
 
 [The manual is here](http://www.canadiantire.ca/content/dam/canadian-tire/manuals/0546810P_EN.pdf) the parts list is on page 30. Parts 60 and 64 appear to be the tension adjustment for the clamping force.
 
@@ -27,25 +27,25 @@ I did notice that there's only 7/8" adjustment total... that's going to limit yo
 
 ---
 
-Posted on *2017-06-30 09:26:46* by *davidlang*
+Posted on **2017-06-30 09:26:46** by **davidlang**:
 
 the limited amount of adjustment is also going to mean that it is very sensitive to how you mount the bit in the router. If it takes a significant amount of your travel to get the bit to the surface of the wood, it will limit how deep you can cut in the wood.
 
 ---
 
-Posted on *2017-06-30 20:13:16* by *paulhart*
+Posted on **2017-06-30 20:13:16** by **paulhart**:
 
 Guys, thanks so much for the insights - I'll go check out the router again soon. I'm curious about the 7/8" adjustment that the manual talks about - there didn't seem to be anything preventing the spindle from moving further in the base than that through the use of the depth adjustment dial (in other words, I didn't see anything that was counting the seven revolutions described in the manual).
 
 ---
 
-Posted on *2017-06-30 20:17:31* by *davidlang*
+Posted on **2017-06-30 20:17:31** by **davidlang**:
 
 it could just be that it has a very short threaded rod. We've seen some others (IIRC dewalt was one) that had multiple notches but only ~1 in of travel at a time.
 
 ---
 
-Posted on *2017-07-03 09:23:40* by *paulhart*
+Posted on **2017-07-03 09:23:40** by **paulhart**:
 
 I went and played with one of the floor models of the router; I think the manual is lying because, from the collet being on the floor of the router, I was able to do 14 rotations of the adjustment knob before the spindle topped out. There was no sign this would be impeded. Clearly the tool height will affect things too, but I think you get more vertical movement than needed.
 

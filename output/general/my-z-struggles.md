@@ -1,5 +1,5 @@
 ## My Z Struggles
-Posted on *2017-04-19 16:47:18* by *rancher*
+Posted on **2017-04-19 16:47:18** by **rancher**:
 
 I thought I'd write this up a bit so others can maybe avoid these pitfalls.  I have been struggling with Z heights since day one.  I've been using Fusion360, and am new to every aspect of this process so I had a lot to learn there with regards to settings.  I'm not 100% sure I've got that completely sorted, but that's another topic.  For now I wanted to go over the things that have been tripping me up with any file.
 
@@ -19,13 +19,13 @@ Hope that helps you guys get right to it.
 
 ---
 
-Posted on *2017-04-19 16:56:33* by *blsteinhauer88*
+Posted on **2017-04-19 16:56:33** by **blsteinhauer88**:
 
 I like the down pressure idea, have you notice the router heating with the vents covered?  Also that must be a Fusion thing.  I have been using Makercam and Easel, which both set a safety height for movement, even to the start point.  Can your design be made and saved as a .dmg or svg and open in these programs and the paths created?
 
 ---
 
-Posted on *2017-04-19 17:05:41* by *rancher*
+Posted on **2017-04-19 17:05:41** by **rancher**:
 
 I'm pretty sure Fusion has a safety height.  I'm just not quite all the way there yet and there are a lot of settings.  As I learn more though, I'm of the mind that may all have been due to the intermittent connection.
 
@@ -33,13 +33,13 @@ I'm pretty sure Fusion has a safety height.  I'm just not quite all the way ther
 
 ---
 
-Posted on *2017-04-19 17:15:00* by *blsteinhauer88*
+Posted on **2017-04-19 17:15:00** by **blsteinhauer88**:
 
 Yea! cut and arch that lifts it off and is held in place by the band.
 
 ---
 
-Posted on *2017-04-19 18:02:47* by *scottsm*
+Posted on **2017-04-19 18:02:47** by **scottsm**:
 
 I really like your down-pressure idea, [here's my version](//muut.com/u/maslowcnc/s1/:maslowcnc:0rsY:fullsizerender.jpg.jpg). A piece of bungee cord folded and pulled through a ball fitting and held with a couple hog rings.
  I'm with you on the z-motor cap. If you look at my z-motor you'll see a strip of velcro cable-tie holding the cable to the motor body. This has kept the connector from coming loose, and when the cap gets popped off :( while fussing with the depth screw, at least it stays 'in the neighborhood'. I may tape the cap in place but haven't gotten around to that. I notice the velcro has climbed up to cover the motor's air hole, probably not good.
@@ -50,13 +50,13 @@ G0 X0.00000 Y0.00000
 
 ---
 
-Posted on *2017-04-19 18:31:16* by *MakerMark*
+Posted on **2017-04-19 18:31:16** by **MakerMark**:
 
 I like the z strap idea and will give it a try tomorrow. What are you all doing to keep tension on the outer ring to prevent x/y slop? I've got a rubberband on the clamp handle to the right router handle. It's held up to ~8hrs of cut time, but it's building up a lot of metal dust and has polished some areas close to a mirror reflection.
 
 ---
 
-Posted on *2017-04-19 18:40:15* by *rancher*
+Posted on **2017-04-19 18:40:15** by **rancher**:
 
 Mark, you can tighten the nut on the handle bolt and adjust how tight it is.  With the compression strap driving it downwards, I've got it pretty tight.  Enough that there isn't much appreciable xy slop.  
 
@@ -64,31 +64,31 @@ Scott, that bungee looks like a good solution.  I was looking for one of those b
 
 ---
 
-Posted on *2017-04-19 19:07:58* by *scottsm*
+Posted on **2017-04-19 19:07:58** by **scottsm**:
 
 @rancher, I've done a bit of wiring on boats, in a previous lifetime. This is neither yacht-grade nor mil-spec, but we gotta keep the connectors from coming adrift! I've got an inner-tube strap as well, but it didn't hold tight enough at the deepest plunge (I cut the holes too far apart :( )
 
 ---
 
-Posted on *2017-04-20 04:38:03* by *MakerMark*
+Posted on **2017-04-20 04:38:03** by **MakerMark**:
 
 @rancher - thanks! I'll try tightening the nut when I put the z bungee in place.
 
 ---
 
-Posted on *2017-04-20 09:04:18* by *gero*
+Posted on **2017-04-20 09:04:18** by **gero**:
 
 @rancher, the Z motor cap is not only you. I had some strange Z issues, a combination of to shallow and to deep cuts and after putting the base on the table and moving Z in and out a hundred times I am convinced that it not my Z-spindle. Perhaps some 'Z-Position information' gets lost or messed up due to vibration and the connector. Can not confirm that, but trying to strap that thing down is a good tip. Thanks
 
 ---
 
-Posted on *2017-04-20 09:57:44* by *Bar*
+Posted on **2017-04-20 09:57:44** by **Bar**:
 
 That is important to know and sounds like an issue we should look into. Will you make an issue for it on GitHub and put in any information about when it happens and how you did the tests so I can try to track it down?
 
 ---
 
-Posted on *2017-04-20 12:22:30* by *rancher*
+Posted on **2017-04-20 12:22:30** by **rancher**:
 
 I've got two more causes of Z problems, after this morning's tests.
 
@@ -100,7 +100,7 @@ Bar, which issue are you referring to?  Most of mine were mechanical, with the b
 
 ---
 
-Posted on *2017-04-20 12:57:27* by *Bar*
+Posted on **2017-04-20 12:57:27** by **Bar**:
 
 Really I'd say make an issue for anything anything you see that could be better.
 
@@ -114,7 +114,7 @@ I'd say whenever you have trouble with anything file an issue for it, if somethi
 
 ---
 
-Posted on *2017-04-20 13:06:26* by *rancher*
+Posted on **2017-04-20 13:06:26** by **rancher**:
 
 Detecting an over value on the load would be useful at both ends of the worm gear, since I assume the gear is the red plastic button and it won't take much of that.  The router body coming off the transport is more user learning curve, I suspect.  I had a short bit and a deep cut.  Now I know, I would use a longer bit next time.  
 
@@ -122,13 +122,13 @@ The cap and connector are a problem for sure.  You will want to solve it somehow
 
 ---
 
-Posted on *2017-04-20 13:15:38* by *scottsm*
+Posted on **2017-04-20 13:15:38** by **scottsm**:
 
 I've run my z-motor into the stops and chewed up the red plastic button. It really is a matter of learning to set up the router, a user education issue. Keeping the connector from coming off the motor seems like a Maslow issue, though. A cable tie to the motor mount?
 
 ---
 
-Posted on *2017-04-20 13:19:42* by *blsteinhauer88*
+Posted on **2017-04-20 13:19:42** by **blsteinhauer88**:
 
 Just in case:
 
@@ -136,25 +136,25 @@ http://www.ereplacementparts.com/ridgid-r2200-heavy-duty-2hp-router-combo-kit-pa
 
 ---
 
-Posted on *2017-04-20 16:05:37* by *blsteinhauer88*
+Posted on **2017-04-20 16:05:37** by **blsteinhauer88**:
 
 This is what I've set up for Z pressure and the loose cap. [IMG_0668](//muut.com/u/maslowcnc/s3/:maslowcnc:pOlu:img_0668.jpg.jpg) [IMG_0669](//muut.com/u/maslowcnc/s3/:maslowcnc:rwO3:img_0669.jpg.jpg) [IMG_0670](//muut.com/u/maslowcnc/s3/:maslowcnc:NSVf:img_0670.jpg.jpg)
 
 ---
 
-Posted on *2017-04-20 16:47:54* by *rancher*
+Posted on **2017-04-20 16:47:54** by **rancher**:
 
 Those are both awesome solutions!  Thank you for those, my cap is in a bad way at this point.
 
 ---
 
-Posted on *2017-04-21 00:46:29* by *davidlang*
+Posted on **2017-04-21 00:46:29** by **davidlang**:
 
 once you have the setscrews in place, put a drop of nail polish on them to keep them from vibrating loose (or use a weak threadlocker)
 
 ---
 
-Posted on *2017-04-21 05:32:35* by *jwolter0*
+Posted on **2017-04-21 05:32:35** by **jwolter0**:
 
 A few quick thoughts:
 1. That replacement parts site should be on the wiki somewhere, if it's not already.  I might do it sometime if I remember, but I need to head to work now.
@@ -162,19 +162,19 @@ A few quick thoughts:
 
 ---
 
-Posted on *2017-04-21 07:45:39* by *scottsm*
+Posted on **2017-04-21 07:45:39** by **scottsm**:
 
 There are other sources for these parts, but it seems few keep them in stock. I ordered from two sources, received one order after a week, the other two weeks. At $0.90 each I figured I could afford to keep a few of these on hand especially since I was shut down without it and the lead time is _days_ (spoiled by modern times)...
 
 ---
 
-Posted on *2017-04-21 07:47:02* by *scottsm*
+Posted on **2017-04-21 07:47:02** by **scottsm**:
 
 I had another z-runaway, loose z connector again. I was trying the approach of cable-tying the cable to the motor mount and didn't snug it down tight so the cable must have wiggled when the sled traversed. An up-spiral bit buried beyond the flukes and trying to cut at 20ips makes some impressive smoke and charred chips! The 'Stop' is my friend - should we make it red?
 
 ---
 
-Posted on *2017-05-02 15:54:18* by *mcginniwa*
+Posted on **2017-05-02 15:54:18** by **mcginniwa**:
 
 After running the test shape on the temporary frame with the temporary sled successfully, I decided to go ahead and try setting up the Z-axis on the temporary sled (hopefully making cutting frame parts less work):
 
@@ -194,13 +194,13 @@ Any ideas?
 
 ---
 
-Posted on *2017-05-02 16:15:06* by *rancher*
+Posted on **2017-05-02 16:15:06** by **rancher**:
 
 I think you are the first non-Rigid router with Z.  Maybe it's threaded the opposite way?  That sounds like opposite behavior.
 
 ---
 
-Posted on *2017-05-02 16:22:56* by *Bar*
+Posted on **2017-05-02 16:22:56** by **Bar**:
 
 It sounds like maybe it needs to spin the opposite direction. That's something I can add to the software right away. 
 
@@ -208,7 +208,7 @@ If you want to lower the router does the knob turn clockwise or counter clockwis
 
 ---
 
-Posted on *2017-05-02 16:26:14* by *davidlang*
+Posted on **2017-05-02 16:26:14** by **davidlang**:
 
 we do need a way to drive the motor either way for Z+
 
@@ -218,13 +218,13 @@ This could either be a software config option (probably the best option), or it 
 
 ---
 
-Posted on *2017-05-02 16:32:36* by *Bar*
+Posted on **2017-05-02 16:32:36** by **Bar**:
 
 I'm happy to make a software option for it. It is important. Would someone be willing to make a request for it on GitHub so I don't forget?
 
 ---
 
-Posted on *2017-05-02 16:43:27* by *mcginniwa*
+Posted on **2017-05-02 16:43:27** by **mcginniwa**:
 
 > If you want to lower the router does the knob turn clockwise or counter clockwise when viewed from the top?
 
@@ -236,7 +236,7 @@ So maybe I'm not going crazy!
 
 ---
 
-Posted on *2017-05-02 16:50:33* by *Bar*
+Posted on **2017-05-02 16:50:33** by **Bar**:
 
 Perfect! 
 
@@ -244,19 +244,19 @@ Thanks for the tip that we need a reverse direction. I'll hop on it.
 
 ---
 
-Posted on *2017-05-02 16:52:07* by *davidlang*
+Posted on **2017-05-02 16:52:07** by **davidlang**:
 
 I added an issue for the motor direction and one for allowing motors to be plugged into any port
 
 ---
 
-Posted on *2017-05-02 16:52:35* by *Bar*
+Posted on **2017-05-02 16:52:35** by **Bar**:
 
 Perfect! Thank you.
 
 ---
 
-Posted on *2017-05-02 16:55:52* by *mcginniwa*
+Posted on **2017-05-02 16:55:52** by **mcginniwa**:
 
 Actually I am also seeing something mechanical. There's a "macro adjustment lever" on the Bosch GOF 1600 CE fixed base that looks like it can slip when lowering the bit if there is too much resistance.
 
@@ -264,13 +264,13 @@ It's probably just an issue when the router isn't cutting. At least that is my h
 
 ---
 
-Posted on *2017-05-02 18:02:29* by *davidlang*
+Posted on **2017-05-02 18:02:29** by **davidlang**:
 
 it looked like you have the base unlatched in the picture you posted. you should adjust the tension in the latch so that you can close the latch and move the router freely, but without noticeable play.
 
 ---
 
-Posted on *2017-05-02 18:28:53* by *mcginniwa*
+Posted on **2017-05-02 18:28:53** by **mcginniwa**:
 
 I knew someone was going to catch that ;)
 
@@ -282,19 +282,19 @@ From the manual:
 
 ---
 
-Posted on *2017-05-02 18:32:22* by *Bar*
+Posted on **2017-05-02 18:32:22** by **Bar**:
 
 *Catch* that was that a pun? :-)
 
 ---
 
-Posted on *2017-05-02 18:32:42* by *mcginniwa*
+Posted on **2017-05-02 18:32:42** by **mcginniwa**:
 
 So I take that to mean is that even fine depth adjustments (i.e. Z-axis shaft turning) require the base clamp lever to be released.
 
 ---
 
-Posted on *2017-05-02 18:33:48* by *mcginniwa*
+Posted on **2017-05-02 18:33:48** by **mcginniwa**:
 
 > Catch that was that a pun?
 
@@ -302,7 +302,7 @@ Not intentional!
 
 ---
 
-Posted on *2017-05-02 18:54:44* by *davidlang*
+Posted on **2017-05-02 18:54:44** by **davidlang**:
 
 @mcginniwa
 Yes, the manual says that, but we are doing something unusual here. They say that because they need the clamp adjusted enough to keep it from moving at all (they can't count on the adjusting knob not turning). Since we have another mechanism to keep it from moving (the motor on the knob), we don't need the clamp that tight for safety reasons.
@@ -313,31 +313,31 @@ I'll bet that the manual also warns never to turn it on with the clamp open. :-)
 
 ---
 
-Posted on *2017-05-02 20:12:25* by *mcginniwa*
+Posted on **2017-05-02 20:12:25** by **mcginniwa**:
 
 Ok, I'll give it a try and report back.
 
 ---
 
-Posted on *2017-05-02 20:12:31* by *larry357*
+Posted on **2017-05-02 20:12:31** by **larry357**:
 
 @mcginniwa Great work, I'm just glad that you could fit the z-axis o.k and great that this work is done before I get my non beta one. I turned the knob, and it did move it o.k up and down with the catch closed (not one to read to many manuals) but it did scratch the router motor a bit and seemed tight...
 
 ---
 
-Posted on *2017-05-02 20:15:22* by *larry357*
+Posted on **2017-05-02 20:15:22** by **larry357**:
 
 maybe an option is for a bungee tie down to keep it tight without the lock https://www.mitre10.co.nz/shop/number-8-3-piece-bungee-cord-set-220-x-185-x-15mm-assorted-colours/p/268001
 
 ---
 
-Posted on *2017-05-02 20:26:10* by *davidlang*
+Posted on **2017-05-02 20:26:10** by **davidlang**:
 
 they all have an adjusting screw under the latch (you need to be able to adjust exactly how tight it is to hold the router tight under normal conditions), so you can just adjust it to be just the right tension. no need for a bungee cord or similar.
 
 ---
 
-Posted on *2017-05-02 20:27:35* by *mcginniwa*
+Posted on **2017-05-02 20:27:35** by **mcginniwa**:
 
 @davidlang with base lever clamp locked, the motor will not move even if the Z-axis shaft turns. I tried with and without and measured the depth of the bit, etc. With base clamped locked, it's Z-axis is inoperable.
 
@@ -345,7 +345,7 @@ It's pretty sturdy with it open and there is a failsafe to keep motor from comin
 
 ---
 
-Posted on *2017-05-02 20:28:49* by *mcginniwa*
+Posted on **2017-05-02 20:28:49** by **mcginniwa**:
 
 > they all have an adjusting screw under the latch (you need to be able to adjust exactly how tight it is to hold the router tight under normal conditions), 
 
@@ -353,7 +353,7 @@ Ah, that's probably the trick. The lock is super tight right now, but I'll see i
 
 ---
 
-Posted on *2017-05-02 20:57:39* by *mcginniwa*
+Posted on **2017-05-02 20:57:39** by **mcginniwa**:
 
 @davidlang did another round of experiments. I loosened the set screw all the way out on the latch.
 
@@ -365,7 +365,7 @@ I took the motor out to check the locking mechanism. The metal band that is pres
 
 ---
 
-Posted on *2017-05-02 21:03:39* by *davidlang*
+Posted on **2017-05-02 21:03:39** by **davidlang**:
 
 there's usually a screw inside the latch itself, but you may be finding the right one. If you remove that screw entirely, does it still get too tight.
 
@@ -373,7 +373,7 @@ If the motor is too tight to move, the z screw should not be able to turn (as it
 
 ---
 
-Posted on *2017-05-02 21:30:25* by *mcginniwa*
+Posted on **2017-05-02 21:30:25** by **mcginniwa**:
 
 With the screw all the way out it managed to raise the bit, but not lower it. Whereas with it unlatched it worked in both directions freely.
 
@@ -381,13 +381,13 @@ Right now I'm inclined to circle back to the mechanical problem after the softwa
 
 ---
 
-Posted on *2017-05-02 21:42:31* by *larry357*
+Posted on **2017-05-02 21:42:31** by **larry357**:
 
 I'll have a play this evening, with the base. But from reading it does look like you need it loose... Also do note "A small disadvantage with this is that it does Imperial measurements better than metric - a full turn is 3/16" or around 4.5 mm but only *close to* but not quite 4.5 mm."
 
 ---
 
-Posted on *2017-05-02 21:47:44* by *mcginniwa*
+Posted on **2017-05-02 21:47:44** by **mcginniwa**:
 
 Cool @larry357. Appreciate another set of eyes.
 
@@ -395,7 +395,7 @@ By the way, where are you located in NZ?
 
 ---
 
-Posted on *2017-05-03 13:58:50* by *mcginniwa*
+Posted on **2017-05-03 13:58:50** by **mcginniwa**:
 
 Just reporting back here that the software change boils down to [configuration change only](https://github.com/MaslowCNC/Firmware/issues/204#issuecomment-298963382).
 
@@ -407,7 +407,7 @@ I'll experiment with this shortly and report back if there are any more issues.
 
 ---
 
-Posted on *2017-05-03 15:59:13* by *mcginniwa*
+Posted on **2017-05-03 15:59:13** by **mcginniwa**:
 
 Changing `Z-axis Pitch` to negative value worked a treat.
 
@@ -417,13 +417,13 @@ In regards to the mechanical issue... I'm continuing with the base clamp lever u
 
 ---
 
-Posted on *2017-05-03 16:24:02* by *mcginniwa*
+Posted on **2017-05-03 16:24:02** by **mcginniwa**:
 
 Another note. I've had some issues with run-away Z-axis adjustments using the Z-axis control box and with the Home button every now and then. Have to hit "Done" and then "Stop" and monkey with things to reset zero, etc.
 
 ---
 
-Posted on *2017-05-03 16:32:50* by *Bar*
+Posted on **2017-05-03 16:32:50** by **Bar**:
 
 Interesting and good to know.
 
@@ -433,7 +433,7 @@ Do you want to see a "Stop" button in that window?
 
 ---
 
-Posted on *2017-05-03 17:20:23* by *mcginniwa*
+Posted on **2017-05-03 17:20:23** by **mcginniwa**:
 
 > Do you want to see a “Stop” button in that window?
 
@@ -441,7 +441,7 @@ Maybe just that "Done" would stop current Z-axis operation.
 
 ---
 
-Posted on *2017-05-03 17:21:54* by *mcginniwa*
+Posted on **2017-05-03 17:21:54** by **mcginniwa**:
 
 > Are there conditions which make that happen?
 
@@ -449,13 +449,13 @@ I'll take note next time it happens. The only thing that may recreate it is if t
 
 ---
 
-Posted on *2017-05-04 04:25:53* by *larry357*
+Posted on **2017-05-04 04:25:53** by **larry357**:
 
 @mcginniwa I'm in Hamilton. I had a further look, didn't have a fitting Alan key for the fixed base lock. But the movement is minimal so be interested to see how it cuts. Can always add a few pieces of electrical tape☺
 
 ---
 
-Posted on *2017-05-04 14:17:54* by *mcginniwa*
+Posted on **2017-05-04 14:17:54** by **mcginniwa**:
 
 @larry357 cool, good to know another North Island Maslow person.
 
@@ -473,7 +473,7 @@ May not be able to get back to things for a few weeks.
 
 ---
 
-Posted on *2017-05-04 16:32:28* by *mcginniwa*
+Posted on **2017-05-04 16:32:28** by **mcginniwa**:
 
 I also have the plunge base for the Bosch router and actually think its "Afterlock Microfine Depth Control" may make it a better option as a Z-axis compatible base for the GOF 1600 CE. The motor would stay fully secured in the base motor housing while the hosing is moved up and down relative to sled on the plunge arms.
 
@@ -487,31 +487,31 @@ Anyway, worth experimenting with as I'm unhappy with what's going on with the fi
 
 ---
 
-Posted on *2017-05-04 16:49:36* by *larry357*
+Posted on **2017-05-04 16:49:36** by **larry357**:
 
 What do you mean it slips? As it is locked in one of the 3 holes on the router motor. Maybe do what someone else did and put a inner bike tube over the top of it to pull it towards the work...
 
 ---
 
-Posted on *2017-05-04 16:50:38* by *larry357*
+Posted on **2017-05-04 16:50:38** by **larry357**:
 
 picture in the first post of this thread...
 
 ---
 
-Posted on *2017-05-04 16:50:50* by *mcginniwa*
+Posted on **2017-05-04 16:50:50** by **mcginniwa**:
 
 @larry357 it seems to want to slip out of whichever 1 of those holes it's been set it when it gets to the far side of its range.
 
 ---
 
-Posted on *2017-05-04 16:59:13* by *davidlang*
+Posted on **2017-05-04 16:59:13** by **davidlang**:
 
 I don't understand what hole it is popping out of, can you post a new picture and identify what hole you are talking obout
 
 ---
 
-Posted on *2017-05-04 16:59:19* by *mcginniwa*
+Posted on **2017-05-04 16:59:19** by **mcginniwa**:
 
 It's possible that 15mm is also the Z-axis range variance between the 3 macro settings on the fixed base and that by pushing beyond that, I've triggered the slipping.
 
@@ -519,7 +519,7 @@ Very hard to explain in text and I'm not up for running through and video things
 
 ---
 
-Posted on *2017-05-04 17:03:05* by *mcginniwa*
+Posted on **2017-05-04 17:03:05** by **mcginniwa**:
 
 @davidlang the "macro lever" clicks into 1 or 3 holes on the motor.
 
@@ -527,43 +527,43 @@ Posted on *2017-05-04 17:03:05* by *mcginniwa*
 
 ---
 
-Posted on *2017-05-04 17:08:32* by *larry357*
+Posted on **2017-05-04 17:08:32** by **larry357**:
 
 No not 15mm, it has a large adjustment... maybe tie it back/ or prop something underneath some how, so it cant come loose @davidlang here is a vid of the outside of it https://youtu.be/1QeRpzKfnTo?t=154
 
 ---
 
-Posted on *2017-05-04 17:14:08* by *larry357*
+Posted on **2017-05-04 17:14:08** by **larry357**:
 
 40mm adjustment should be possible https://youtu.be/EPyka70p96E?t=152
 
 ---
 
-Posted on *2017-05-04 17:39:15* by *davidlang*
+Posted on **2017-05-04 17:39:15** by **davidlang**:
 
 with the router out, how much movement does that latch have?
 
 ---
 
-Posted on *2017-05-04 17:47:39* by *mcginniwa*
+Posted on **2017-05-04 17:47:39** by **mcginniwa**:
 
 I'm going to have to come back to this later. Sorry guys. Maybe we can set up vid call sometime to work together on it. Hard going for me as someone not familiar with routers generally.
 
 ---
 
-Posted on *2017-05-04 17:48:34* by *davidlang*
+Posted on **2017-05-04 17:48:34** by **davidlang**:
 
 that second video does say that the fixed base should have 1 5/8 of adjustment available (in the documentation, look for router table adjustments)
 
 ---
 
-Posted on *2017-05-05 02:43:55* by *larry357*
+Posted on **2017-05-05 02:43:55** by **larry357**:
 
 @mcginniwa I saw what happens, but only when the base comes close to the router motor edge where it tappers out. So the hole closest to the spindle, works best. Then you have about 35mm up and down.
 
 ---
 
-Posted on *2017-05-06 16:33:18* by *mcginniwa*
+Posted on **2017-05-06 16:33:18** by **mcginniwa**:
 
 @larry357 - yeah, looking better. Still in process of trying deeper cuts, will let you know how it goes.
 
@@ -576,7 +576,7 @@ Another tweak, judging by the manual, the correct Z-axis pitch is `-1.5` rather 
 
 ---
 
-Posted on *2017-05-06 21:43:14* by *mcginniwa*
+Posted on **2017-05-06 21:43:14** by **mcginniwa**:
 
 Moved to [Bosch GOF 1600 CE specific discussion](http://www.maslowcnc.com/forums/#!/hardware-issues:bosch-gof-1600-ce-z-axisde).
 

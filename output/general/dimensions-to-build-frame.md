@@ -1,5 +1,5 @@
 ## Dimensions to build frame
-Posted on *2017-05-04 07:29:31* by *tjennemann*
+Posted on **2017-05-04 07:29:31** by **tjennemann**:
 
 So i am one of the lucky ones that will get to purchase this machine come May 15th. I use to help a cabinet company out with some designs so i am really looking forward to cutting my own work again. I have about 18yrs of Autocad experience so the partnership with Autodesk is going to be great.
 
@@ -12,7 +12,7 @@ Thank you and look forward to really testing out this product. I already have th
 
 ---
 
-Posted on *2017-05-04 07:53:02* by *Bar*
+Posted on **2017-05-04 07:53:02** by **Bar**:
 
 Fantastic! Welcome!
 
@@ -24,13 +24,13 @@ We can't wait to see what you build!
 
 ---
 
-Posted on *2017-05-04 08:15:15* by *tjennemann*
+Posted on **2017-05-04 08:15:15** by **tjennemann**:
 
 thank you for the quick response. looking forward to the date i get this. As a teaser here is the first thing i will cut. [PROTOTYPE CRUISER 2](//muut.com/u/maslowcnc/s3/:maslowcnc:ZKaB:prototypecruiser2.jpg.jpg)
 
 ---
 
-Posted on *2017-05-04 08:41:29* by *Bar*
+Posted on **2017-05-04 08:41:29** by **Bar**:
 
 Awesome!
 

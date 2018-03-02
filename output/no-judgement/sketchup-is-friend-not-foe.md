@@ -1,5 +1,5 @@
 ## SketchUp is friend, not foe
-Posted on *2017-02-22 10:13:10* by *hannahteagle*
+Posted on **2017-02-22 10:13:10** by **hannahteagle**:
 
 So I'm incredibly new to CAD software. The first time I ever touched any CAD software was Inkscape a few months ago, and let me tell you I hated it. I've since moved on to SketchUp and for the most part really enjoy using it, but once in a while I get too hasty and think I can outsmart the CAD software. I'm pretty much always wrong.
 
@@ -9,7 +9,7 @@ Long story short, I designed this really cool milk crate style box with a bunch 
 
 ---
 
-Posted on *2017-02-22 17:56:59* by *aggies979*
+Posted on **2017-02-22 17:56:59** by **aggies979**:
 
 Sooo...here's a dumb question. I'm new to all of this but I downloaded Sketchup and tried to install the addon like you did (Hannah) in your video a couple of weeks ago but it seems as though the plugin won't work in the newest version of sketchup. Does anyone have any suggestions? Or could someone maybe upload a video starting something from design (sketchup or fusion 360)  and how exactly to get it to ground control to start the cut? 
 
@@ -17,7 +17,7 @@ Hannah's video would have been great but again I can't seem to get the plugin th
 
 ---
 
-Posted on *2017-02-23 05:14:46* by *TheRiflesSpiral*
+Posted on **2017-02-23 05:14:46** by **TheRiflesSpiral**:
 
 There's a branch on GitHub of that plugin that's been updated to work with versions of Sketchup after 2010.
 You'll have to disable the existing one, close Sketchup and then go into the directory to delete the .rb file. (C:\Users\YOUR USERNAME\AppData\Roaming\SketchUp\SketchUp 2017\SketchUp\Plugins)

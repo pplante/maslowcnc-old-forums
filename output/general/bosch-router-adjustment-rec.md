@@ -1,5 +1,5 @@
 ## Bosch Router adjustment recommendation
-Posted on *2017-03-14 07:46:57* by *TheRiflesSpiral*
+Posted on **2017-03-14 07:46:57** by **TheRiflesSpiral**:
 
 I just received my Bosch 1617EVSPK  combo kit. I don't actually intend to use this particular router with Maslow, but it's a not-too-costly router that's widely available.
 
@@ -9,7 +9,7 @@ I'll re-check the dimension tonight to be certain, but I'm thinking it would be 
 
 ---
 
-Posted on *2017-03-14 14:00:15* by *jbarchuk*
+Posted on **2017-03-14 14:00:15** by **jbarchuk**:
 
 > @TheRiflesSpiral
 > It looks like it would be a real pain to get that knob off!
@@ -22,7 +22,7 @@ I said any kind of punch, but I think the axle is hardened steel, so I wouldn't 
 
 ---
 
-Posted on *2017-03-15 12:43:59* by *TheRiflesSpiral*
+Posted on **2017-03-15 12:43:59** by **TheRiflesSpiral**:
 
 If the nut fits tight, where's the added backlash/slop?
 
@@ -32,13 +32,13 @@ I'm just not cool with modifying a tool that's not dedicated to a purpose.. Usin
 
 ---
 
-Posted on *2017-03-15 12:57:20* by *davidlang*
+Posted on **2017-03-15 12:57:20** by **davidlang**:
 
 the nut never fits tight enough to eliminate backlash. It's not a lot, but it can easily be 1/8 of a turn.
 
 ---
 
-Posted on *2017-03-15 13:53:26* by *TheRiflesSpiral*
+Posted on **2017-03-15 13:53:26** by **TheRiflesSpiral**:
 
 What? 1/8 of a turn? No. Not even close.
 
@@ -50,7 +50,7 @@ The clearance between those parts should be thousandths of an inch... even at 5 
 
 ---
 
-Posted on *2017-03-15 17:41:11* by *jbarchuk*
+Posted on **2017-03-15 17:41:11** by **jbarchuk**:
 
 > @TheRiflesSpiral
 > If the nut fits tight, where's the added backlash/slop?
@@ -85,25 +85,25 @@ Totally understandable. Go for it as you intend and I hope it works well. If not
 
 ---
 
-Posted on *2017-03-15 17:45:58* by *davidlang*
+Posted on **2017-03-15 17:45:58** by **davidlang**:
 
 on lathes, which are built to operate at much tighter tolerances than a router, it's common for there to be several thousandths worth of backlash.
 
 ---
 
-Posted on *2017-03-17 03:59:44* by *jonmatcho*
+Posted on **2017-03-17 03:59:44** by **jonmatcho**:
 
 I have the same Bosch 1617 router.  The plastic hex nut end pops off easily after you remove the C-ring and gently tap the shaft out.
 
 ---
 
-Posted on *2017-03-17 04:01:43* by *jonmatcho*
+Posted on **2017-03-17 04:01:43** by **jonmatcho**:
 
 The Bosch 1617 is a great tool for this.  They sell bases separately (for router tables) and you can dedicate one to the Maslow so you can easily remove and use this nice router elsewhere when you need.
 
 ---
 
-Posted on *2017-03-17 07:23:06* by *TheRiflesSpiral*
+Posted on **2017-03-17 07:23:06** by **TheRiflesSpiral**:
 
 I have a router table base on the way along with all the dust collection accessories. This is by far the nicest router I've ever owned; my first project is going to be a giant Eurorack for a musician friend of mine. He composes sitting down but records standing up so I designed it so it will tilt as he needs it to. 
 
@@ -115,19 +115,19 @@ With all it's curves and recesses it's ripe for CNC but he's re-doing his studio
 
 ---
 
-Posted on *2017-03-17 08:15:09* by *jbarchuk*
+Posted on **2017-03-17 08:15:09** by **jbarchuk**:
 
 Here's the Explode-O-View of the router base. The knob (known in the parts list as the 'Adjustment Device' :)) is a separate part from the drive axle. It's meant to be replaceable if, for instance, one manages to bonk the knob and break it. https://www.boschtoolsservice.com/Order/IPL/IPLDetails.aspx?tn=2610927569&mn=RA1161&RelatedTools=2610927569;&init=1
 
 ---
 
-Posted on *2017-03-17 08:22:05* by *TheRiflesSpiral*
+Posted on **2017-03-17 08:22:05** by **TheRiflesSpiral**:
 
 LOL "Adjusting Device"... Surely there's a word in German for "knob!"
 
 ---
 
-Posted on *2017-03-17 15:04:58* by *lthomas987*
+Posted on **2017-03-17 15:04:58** by **lthomas987**:
 
 Adjustment knob would be einstellknopf if I remember right.  Well knob is knopf for sure.  Ahh my wasted youth..
 

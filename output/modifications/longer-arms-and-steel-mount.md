@@ -1,5 +1,5 @@
 ## Longer arms and steel mount plate?
-Posted on *2017-05-23 03:19:01* by *jamescampbell*
+Posted on **2017-05-23 03:19:01** by **jamescampbell**:
 
 Hi All,
 
@@ -14,7 +14,7 @@ James
 
 ---
 
-Posted on *2017-05-23 03:30:13* by *davidlang*
+Posted on **2017-05-23 03:30:13** by **davidlang**:
 
 Yes, moving the routers out will help the accuracy a lot, up will help some, but too far up and you end up loosing accuracy due to too little tension on the chain when you are at the far bottom corner. You may need to get some more chain, but that's pretty cheap.
 
@@ -24,7 +24,7 @@ it's worth noting that we are currently experimenting with different angles and 
 
 ---
 
-Posted on *2017-05-23 03:35:59* by *davidlang*
+Posted on **2017-05-23 03:35:59** by **davidlang**:
 
 it's important to keep in mind what the cost is of failing on an alternate frame design.
 
@@ -34,7 +34,7 @@ So give it a try!
 
 ---
 
-Posted on *2017-05-23 14:16:39* by *silverwarior*
+Posted on **2017-05-23 14:16:39** by **silverwarior**:
 
 Why not modify the design of your contraption to be able to use four chains (one for each corner)? 
 
@@ -47,26 +47,26 @@ From the software point of view you can just add additional setting which tells 
 
 ---
 
-Posted on *2017-05-23 14:18:22* by *blsteinhauer88*
+Posted on **2017-05-23 14:18:22** by **blsteinhauer88**:
 
 That has been suggested,  Creator wants to get the two working first then explore that later.
 
 ---
 
-Posted on *2017-05-23 14:35:08* by *silverwarior*
+Posted on **2017-05-23 14:35:08** by **silverwarior**:
 
 I see. Well I have just found out about this project few minutes ago from a Youtube video and I'm pretty hyped about it. Why? Because recently I was looking about buying or perhaps making my own tabletop CNC machine for cutting wood. But I have never imagined that there could be such cheap and easy solution to this.
 Any way because I will require good precision across the entire surface I'm afraid that two chain design would not be good enough. But if creator decides to go out with four chain design I'm definitely buying it. That is if creator will also be chipping to Europe. If not I'm considering of using creators software (if I'm allowed) and creating the chain driving motors myself.
 
 ---
 
-Posted on *2017-05-23 14:38:49* by *pyrosrock*
+Posted on **2017-05-23 14:38:49** by **pyrosrock**:
 
 the software is opensource so take what you want and report back on your findings then everyone wins!
 
 ---
 
-Posted on *2017-05-23 14:40:13* by *Bar*
+Posted on **2017-05-23 14:40:13** by **Bar**:
 
 Hey @silverwarior, welcome!
 
@@ -78,7 +78,7 @@ If you build a four chain one, let us know how we can help and keep us posted wi
 
 ---
 
-Posted on *2017-05-23 14:44:07* by *davidlang*
+Posted on **2017-05-23 14:44:07** by **davidlang**:
 
 what makes you think a 4 chain version will be more accurate than the 2 chain version?
 
@@ -88,7 +88,7 @@ a 4-chain system will be overconstrained, which brings it's own kind of grief to
 
 ---
 
-Posted on *2017-05-23 15:35:03* by *silverwarior*
+Posted on **2017-05-23 15:35:03** by **silverwarior**:
 
 Currently with two chain design you lose precision when sled moves close below one of the chain motors because you require much les force to move the sled in the direction of other chain motor which can reduce the tension of that chain.
 You can observe this by simply hanging an object on a single rope and then applying horizontal force to it and you will se that at the beginning you need very little force to move this hanging object sideways but higher it gets on its circular motion around the point to which it is attached by rope. Why? Because it is like if your hanged object would actually be on a hill. While on a hill it is ground that it pushing your object in the direction away from ground on a rope it is the rope that is puling your object toward the rope anchor. You can learn more about this by checking the physics of a pendulum object.
@@ -103,13 +103,13 @@ As for your problems with calculation power I'll take a look at your calculation
 
 ---
 
-Posted on *2017-05-23 15:48:02* by *Bar*
+Posted on **2017-05-23 15:48:02** by **Bar**:
 
 I talked to the creator of zar plotter a bit at Maker Faire. he's building a four cable machine which you can read about [here](https://www.zarplotter.com/)
 
 ---
 
-Posted on *2017-05-23 15:53:16* by *davidlang*
+Posted on **2017-05-23 15:53:16** by **davidlang**:
 
 you have less force as the sled is low under a motor, but that doesn't automatically translate to less accuracy.
 
@@ -119,13 +119,13 @@ if the calculations are correct, and we either have little enough chain sag to n
 
 ---
 
-Posted on *2017-05-23 16:10:17* by *davidlang*
+Posted on **2017-05-23 16:10:17** by **davidlang**:
 
 $950 for the zar plotter, any info on his source code?
 
 ---
 
-Posted on *2017-05-23 16:56:33* by *jamescampbell*
+Posted on **2017-05-23 16:56:33** by **jamescampbell**:
 
 Thanks for the input regarding the arms and steel sled everyone, very helpful indeed. I'll measure up the shed walls and see what we can achieve. A quick sketch and a few assumptions having never used the device showed that with the current setup is most accurate when the ratio of the two chain lengths is at a ratio of 2:1 or less (with the top corners currently exceeding 3:1) but if I reposition the motors twice the distance from the corner of the board I would get the chain length ratio back to 2:1 in the top corners. 
 
@@ -133,7 +133,7 @@ As Davidlang said, the cost of a failure is low so worst case scenario is I'd en
 
 ---
 
-Posted on *2017-05-24 00:34:35* by *silverwarior*
+Posted on **2017-05-24 00:34:35** by **silverwarior**:
 
 @davidlang
 The acceleration is not the only factor that can lower the accuracy. 
@@ -141,7 +141,7 @@ The router is also constantly aplying some force to the sled. And that force can
 
 ---
 
-Posted on *2017-05-24 05:09:45* by *davidlang*
+Posted on **2017-05-24 05:09:45** by **davidlang**:
 
 @silverwarior True about the router imposing some force, but as long as the force is small enough relative to the force from gravity, we should be Ok.
 
@@ -151,13 +151,13 @@ if you look for the topic "test request" you will see a test that I requested th
 
 ---
 
-Posted on *2017-07-08 10:19:42* by *rollandelliott*
+Posted on **2017-07-08 10:19:42** by **rollandelliott**:
 
 if you make the sled out of 1/8" thick steel with 18" diameter then it will weight 8.8 lbs. The bricks weigh about ten pounds and one user MakerMark did testing and found that 7lbs is the lightest the bricks can be.  also be aware that 7 lbs weight does not include the plywood sled weight which is around 1.5 lbs. if you used 3/16 or 1/4" steel plate it would be way too heavy. You can always decrease the tilt a little as well.
 
 ---
 
-Posted on *2017-07-14 00:06:09* by *cameronswartzell*
+Posted on **2017-07-14 00:06:09** by **cameronswartzell**:
 
 Have people experimented with significantly wider spacing of the motors? It seems like much of the trouble with the accuracy in the lower corners is due to one chain being nearly vertical. There have been some suggestions that a wider distance between motors might help the issue. If I were to build my frame to have the motors 18" further out on either side would I need to lengthen the chain? I'm wondering this will cause more issues than it solves, but I can always cut the frame down. Presumably I should move the motors up as well as out. 
 
@@ -165,7 +165,7 @@ I'm building my frame this weekend, likely more in the "stud wall" style seen he
 
 ---
 
-Posted on *2017-07-14 00:27:08* by *davidlang*
+Posted on **2017-07-14 00:27:08** by **davidlang**:
 
 play around with the new simulator tool, it appears that the software knowing the precise measurements of the sled make the biggest difference.
 

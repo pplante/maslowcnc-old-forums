@@ -1,5 +1,5 @@
 ## Four chain version with self-tensioning bottom chains
-Posted on *2017-06-23 03:15:20* by *silverwarior*
+Posted on **2017-06-23 03:15:20** by **silverwarior**:
 
 Some time ago I recommended development of four chain version of Maslow CNC router in order to avoid inaccuracies when sled moves below one of the chain motors which is caused due the fact that tension on the longer chain decreases.
 
@@ -31,7 +31,7 @@ If you have any further questions about this idea please do me know.
 
 ---
 
-Posted on *2017-06-23 03:50:26* by *davidlang*
+Posted on **2017-06-23 03:50:26** by **davidlang**:
 
 The biggest issue with the 4-chain approach is cost. It will roughly double the cost of building a maslow.
 
@@ -43,7 +43,7 @@ Please build such a machine and show that it is significantly better (enough bet
 
 ---
 
-Posted on *2017-06-23 04:08:52* by *silverwarior*
+Posted on **2017-06-23 04:08:52** by **silverwarior**:
 
 Yes I agree with your claim that this will increase the cost of the machine. But my idea is formed in a way that this four chain setup actually acts as an optional upgrade of existing low cost two chain version. 
 So only people who actually needs such high precision would be buying/using it.
@@ -52,13 +52,13 @@ As for building and showing it myself. Currently I'm working on some other proje
 
 ---
 
-Posted on *2017-06-23 04:09:59* by *davidlang*
+Posted on **2017-06-23 04:09:59** by **davidlang**:
 
 why would a 4-chain machine be any more accurate than a 2-chain machine?
 
 ---
 
-Posted on *2017-06-23 14:51:56* by *silverwarior*
+Posted on **2017-06-23 14:51:56** by **silverwarior**:
 
 We already discussed this in "Longer arms and steel mount plate" thread before.
 

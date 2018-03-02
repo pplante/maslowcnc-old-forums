@@ -1,5 +1,5 @@
 ## Check your wooden arms and U joint brackets.
-Posted on *2017-06-04 15:15:32* by *blsteinhauer88*
+Posted on **2017-06-04 15:15:32** by **blsteinhauer88**:
 
 I was having issues with sagging, the sled would "relax" downward at the end of a cut, leaving a divot in the wood from the bit.  I happened to look up at the arms when unhooking the sled from chains.  I saw the arms, raise!   I'm not an engineer, but that can't bee good on the math.  
 
@@ -9,31 +9,31 @@ I ran some screws through the arms to hold them together, and re tightened the U
 
 ---
 
-Posted on *2017-06-04 15:17:46* by *blsteinhauer88*
+Posted on **2017-06-04 15:17:46** by **blsteinhauer88**:
 
 Photo also added a chain step guide so it keeps it inline with the motor sprocket.  Had chain slipping during a cut top center.
 
 ---
 
-Posted on *2017-06-04 15:23:37* by *blsteinhauer88*
+Posted on **2017-06-04 15:23:37** by **blsteinhauer88**:
 
 photos having trouble loading
 
 ---
 
-Posted on *2017-06-04 15:24:12* by *blsteinhauer88*
+Posted on **2017-06-04 15:24:12** by **blsteinhauer88**:
 
 [IMG_0001](//muut.com/u/maslowcnc/s3/:maslowcnc:P9Jj:img_0001.jpg.jpg) [IMG_0002](//muut.com/u/maslowcnc/s3/:maslowcnc:w5g4:img_0002.jpg.jpg) [IMG_0003](//muut.com/u/maslowcnc/s3/:maslowcnc:Rc8Q:img_0003.jpg.jpg) [IMG_0004](//muut.com/u/maslowcnc/s3/:maslowcnc:Sxv2:img_0004.jpg.jpg)
 
 ---
 
-Posted on *2017-06-04 15:34:29* by *scottsm*
+Posted on **2017-06-04 15:34:29** by **scottsm**:
 
 Your step guide is a good idea. Thanks for sharing it :)
 
 ---
 
-Posted on *2017-06-04 16:04:57* by *davidlang*
+Posted on **2017-06-04 16:04:57** by **davidlang**:
 
 There is a lot of flex in those motor mounts.
 I intend to build the frame much more line rancher's frame as shown in the April 19 update (  https://www.kickstarter.com/projects/1830738289/maslow-cnc-a-500-open-source-4-by-8-foot-cnc-machi/posts/1863568 )
@@ -42,13 +42,13 @@ I really don't like the motors only being supported by the arms attached to the 
 
 ---
 
-Posted on *2017-06-04 16:26:39* by *blsteinhauer88*
+Posted on **2017-06-04 16:26:39** by **blsteinhauer88**:
 
 Yes that would be ideal.
 
 ---
 
-Posted on *2017-06-04 17:12:34* by *rancher*
+Posted on **2017-06-04 17:12:34** by **rancher**:
 
 My next session in the shop I intend to fasten cleats to the wall and screw 2x4 lateral supports from the motor mount arms to the wall behind the machine.  Even though my machine is rigid in x/y, the arms can be pulled ever so slightly "inwards" which messes up alignment and creates noise in the cut.
 

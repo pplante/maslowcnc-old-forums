@@ -1,5 +1,5 @@
 ## Thoughts about frame design
-Posted on *2017-06-08 10:05:55* by *awildeep*
+Posted on **2017-06-08 10:05:55** by **awildeep**:
 
 Hey everyone, I am planning my Maslow frame design out (I am still waiting on my kit to come in but my brain is going wild with ideas).
 
@@ -9,13 +9,13 @@ I know many of you have stock builds.  Anyone else experimenting?
 
 ---
 
-Posted on *2017-06-08 10:19:12* by *gero*
+Posted on **2017-06-08 10:19:12** by **gero**:
 
 Welcome, I could not wait for the kit so built a hinged version with a car jack for testing different angles. The squares where originally to try different motor positions, but I never got to try that.  [IMAG0565](//muut.com/u/maslowcnc/s3/:maslowcnc:yctn:imag0565.jpg.jpg) The is a metal frame (mexicanmilionare) and one that is mounted to the ceiling, so when the car needs the space it is pulled up. The are design concepts for one on wheels. Waiting for what you come up with. :-)
 
 ---
 
-Posted on *2017-06-08 12:58:49* by *awildeep*
+Posted on **2017-06-08 12:58:49** by **awildeep**:
 
 @gero Awesome.  this is almost exactly the same style I was considering.   
 

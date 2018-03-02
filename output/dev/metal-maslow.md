@@ -1,5 +1,5 @@
 ## Metal Maslow
-Posted on *2017-04-13 08:19:24* by *mexicomillionaire*
+Posted on **2017-04-13 08:19:24** by **mexicomillionaire**:
 
 First Post, really excited to start dedicating a lot more time to this forum and the wiki. 
 
@@ -27,7 +27,7 @@ Open to suggestions and will be back to update after the first real trials.
 
 ---
 
-Posted on *2017-04-13 08:42:12* by *davidlang*
+Posted on **2017-04-13 08:42:12** by **davidlang**:
 
 I suspect that you want to get it up off the ground a bit (clearance for the sled and easier to position material), and I would suggest making the lower ledge out of wood so you don't damage your bit if you run into it
 
@@ -37,7 +37,7 @@ The maslow has a theoretical accuracy of about half a thousandth of an inch in t
 
 ---
 
-Posted on *2017-04-13 10:00:47* by *Bar*
+Posted on **2017-04-13 10:00:47** by **Bar**:
 
 That looks amazing! Very cool design. I really like how you mounted the motors parallel to the arms. I think it's aesthetically pleasing and keeps things simple. I'm embarrassed to say this but it hadn't occurred to me that you can rotate the motors any way you want. 
 
@@ -47,13 +47,13 @@ What a beautiful solid frame! Thank you for sharing. Keep us posted as you progr
 
 ---
 
-Posted on *2017-04-13 10:06:58* by *davidlang*
+Posted on **2017-04-13 10:06:58** by **davidlang**:
 
 @bar, I'm really looking forward to finding out how the new double pid loop controller setup changes things. I think you are correct in thinking that it will make a big difference.
 
 ---
 
-Posted on *2017-04-13 10:52:47* by *mexicomillionaire*
+Posted on **2017-04-13 10:52:47** by **mexicomillionaire**:
 
 @davidlang 
 I am planning on adding legs on the bottom to get it off the floor. The wooden lip on the bottom is a good idea.
@@ -70,37 +70,37 @@ However, the first option allows for the legs to fold and store the machine more
 
 ---
 
-Posted on *2017-04-13 10:57:01* by *Bar*
+Posted on **2017-04-13 10:57:01** by **Bar**:
 
 Those booth look like great options.
 
 ---
 
-Posted on *2017-04-13 11:01:05* by *rexklein*
+Posted on **2017-04-13 11:01:05** by **rexklein**:
 
 That is just cool. I also never considered the motors could be at any angle.. And uhhmm so I have a couple of things needing some weldin...:)
 
 ---
 
-Posted on *2017-04-13 11:11:34* by *scottsm*
+Posted on **2017-04-13 11:11:34** by **scottsm**:
 
 In order to cut to the edge of a sheet, the sled needs to be supported beyond the edge of the sheet for at least the distance measured as 'center of gravity'. I plan to use a piece of scrap that matches the thickness of the sheet to support the sheet. This makes the frame legs stick out in front a bit, but makes a larger flat area for the sled to work on.
 
 ---
 
-Posted on *2017-04-13 13:16:54* by *rollandelliott*
+Posted on **2017-04-13 13:16:54** by **rollandelliott**:
 
 LOVE it , I might make my frame out of aluminum. Originally thought Aluminum would make it light enough to move around, but with how heavy mdf is, will need wheels no matter what. and lets face it. I'll probably never move it, lol.
 
 ---
 
-Posted on *2017-04-13 18:06:08* by *davidlang*
+Posted on **2017-04-13 18:06:08** by **davidlang**:
 
 I would go with option 2, but bolt the back legs on instead of welding them. That way if you find that you want to go steeper, it's easy to drill another hold and change them (and just put a clamp on the joint at the bottom when experimenting), the slot for adjustment on option 1 is overkill. It's a lot of work to make and you aren't going to be adjusting it all the time, just during the initial experimentation period.
 
 ---
 
-Posted on *2017-04-23 18:09:38* by *mexicomillionaire*
+Posted on **2017-04-23 18:09:38** by **mexicomillionaire**:
 
 Got some more time to work on the frame. 
 
@@ -118,19 +118,19 @@ Here is the frame standing on its own.
 
 ---
 
-Posted on *2017-04-23 21:34:30* by *rollandelliott*
+Posted on **2017-04-23 21:34:30** by **rollandelliott**:
 
 Awesome!
 
 ---
 
-Posted on *2017-04-23 22:08:01* by *gero*
+Posted on **2017-04-23 22:08:01** by **gero**:
 
 Nice!
 
 ---
 
-Posted on *2017-05-01 19:05:47* by *mexicomillionaire*
+Posted on **2017-05-01 19:05:47** by **mexicomillionaire**:
 
 Update: The Metal maslow is making dust!
 
@@ -156,7 +156,7 @@ Now onto fine tuning and cutting out some projects. I think it would be great to
 
 ---
 
-Posted on *2017-05-01 21:43:01* by *Bar*
+Posted on **2017-05-01 21:43:01** by **Bar**:
 
 Beautiful! Thanks for the update. I'm working on automating the tuning process based on all the techniques laid out in the forums so that we can all follow the same process to get things dialed in. Fingers crossed I'll have something to show by the Wednesday update.
 
@@ -166,19 +166,19 @@ Keep us posted!
 
 ---
 
-Posted on *2017-05-02 09:20:24* by *gero*
+Posted on **2017-05-02 09:20:24** by **gero**:
 
 What a great idea to sink the router in the plate. Sorry, I need to copy that :-). Will give me some extra mm of Z depth. Thanks for sharing!
 
 ---
 
-Posted on *2017-05-02 10:43:15* by *davidlang*
+Posted on **2017-05-02 10:43:15** by **davidlang**:
 
 you may not need to use the router plate at all. Initially the design was to use it as it is a slick surface, but it's small compared to the sled, and if it sticks out at all it becomes the surfact things ride on rather than the sled.
 
 ---
 
-Posted on *2017-05-02 10:44:09* by *Bar*
+Posted on **2017-05-02 10:44:09** by **Bar**:
 
 @davidlang is right, I don't use the router plate at all. Having it recessed does give a nice slick surface to slide on.
 

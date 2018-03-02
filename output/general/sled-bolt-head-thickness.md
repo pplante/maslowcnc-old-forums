@@ -1,11 +1,11 @@
 ## Sled bolt head thickness?
-Posted on *2017-03-21 19:17:49* by *mattnelson*
+Posted on **2017-03-21 19:17:49** by **mattnelson**:
 
 I have access to a large CNC machine to cut out my maslow, I'm planning on pocketing out most of the contact surface of the sled to reduce friction.  How deep would this pocket need to be so that all the bolt heads are recessed?
 
 ---
 
-Posted on *2017-03-21 20:26:06* by *jbarchuk*
+Posted on **2017-03-21 20:26:06** by **jbarchuk**:
 
 > @mattnelson
 > I have access to a large CNC machine to cut out my maslow,
@@ -20,13 +20,13 @@ The chain attachment brackets have flathead countersunk screws so all it needs i
 
 ---
 
-Posted on *2017-03-22 05:27:47* by *rollandelliott*
+Posted on **2017-03-22 05:27:47** by **rollandelliott**:
 
 put a giant sheet of Teflon or UMHW plastic under the sled, those plastics will glide over anything with very very little friction. you can even buy rolls of uMHW tape probably easier to find than a sheet
 
 ---
 
-Posted on *2017-03-22 06:24:14* by *davidlang*
+Posted on **2017-03-22 06:24:14** by **davidlang**:
 
 some time ago we were talking about this and it was pointed out that the easiest/cheapest way to get a sheet of plastic like this is to buy a cutting board like:
 
@@ -36,26 +36,26 @@ $9 each (but I think if you order them online you have to buy a minimum of 2)
 
 ---
 
-Posted on *2017-03-22 06:52:03* by *TomTheWhittler*
+Posted on **2017-03-22 06:52:03** by **TomTheWhittler**:
 
 I picked up one of those Sams Club cutting boards and I think it will work as a sled. Very slick. Now waiting for the non-beta MaslowCnc.
 You can also pick up those type of Hex bolts at any Ace Hardware store.
 
 ---
 
-Posted on *2017-03-22 07:27:35* by *mindeye*
+Posted on **2017-03-22 07:27:35** by **mindeye**:
 
 Another option: https://www.amazon.com/gp/product/B0070Z8I34/ - my sheet won't arrive until Friday so I can't speak to it's slippery-ness but seeing as it's also HDPE I expect it'll function just fine. Worth noting that it's only 1/8" thick so probably not viable as a sled by itself but in conjunction with a plywood backer it should work just fine (though getting them to stick together may be a trick - either CA glue or extra-hot hot glue is the best bet outside of specialty glues for PE).
 
 ---
 
-Posted on *2017-03-22 07:37:01* by *rollandelliott*
+Posted on **2017-03-22 07:37:01** by **rollandelliott**:
 
 Ca glue wont work and hit glue will fail quickly best is speay adhesive
 
 ---
 
-Posted on *2017-03-22 08:27:59* by *jbarchuk*
+Posted on **2017-03-22 08:27:59** by **jbarchuk**:
 
 CA might work but it's difficult to adhere large surface areas because it requires moisture in the air to set. It might work if done in the 'old style' method of applying the CA to one surface, dampening the other surface, AND clamping and allowing to set. Still a tossup.
 Spray, 3M '77' is awesome.
@@ -67,13 +67,13 @@ Side-side note... The ONLY liquid adhesive I have found to stick to NYLON is kno
 
 ---
 
-Posted on *2017-03-22 09:42:53* by *Bar*
+Posted on **2017-03-22 09:42:53** by **Bar**:
 
 Going back to the original question, the heads of the bolts which hold the bricks are 15mm in diameter and 5mm deep. The heads of the bolts which hold the chain brackets are 19mm in diameter with a 45 degree slope to the shaft.
 
 ---
 
-Posted on *2017-03-24 21:07:28* by *jbarchuk*
+Posted on **2017-03-24 21:07:28** by **jbarchuk**:
 
 > @Bar
 > The heads of the bolts which hold the chain brackets are 19mm in diameter with a 45 degree slope to the shaft.

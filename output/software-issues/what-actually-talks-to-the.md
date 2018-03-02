@@ -1,17 +1,17 @@
 ## what actually talks to the router?
-Posted on *2017-01-07 05:59:08* by *nathanmiller*
+Posted on **2017-01-07 05:59:08** by **nathanmiller**:
 
 I feel dumb asking this but I have never run a CNC router in my entire life... but sure can't wait to get started!! Can you tell me exactly what speaks to the controller/router? I know I can create designs in Sketchup or similar software, and I think I understand how to prepare and export the design as G-code in a .dxf file. But what happens next? What software do I load the .dxf file into that speaks directly to the Maslow controller, and makes the CNC magic happen?
 
 ---
 
-Posted on *2017-01-07 06:26:09* by *TheRiflesSpiral*
+Posted on **2017-01-07 06:26:09** by **TheRiflesSpiral**:
 
 You'll need a computer running the GroundControl software. Over in Dev there are a couple of discussions around getting it to function on a Raspberry Pi which would be a sub-$100 solution. But any ol' windows computer with a USB port is going to work fine. I'm also working on getting it going on an El Capitan install of MacOS and lastly, I'm going to try to get it going on an older Mac Mini running Snow Leopard.
 
 ---
 
-Posted on *2017-01-07 11:45:58* by *Bar*
+Posted on **2017-01-07 11:45:58** by **Bar**:
 
 That's a great question! TheRiflesSpiral pretty much nailed it.
 
@@ -29,7 +29,7 @@ Getting more people involved in CNC routing is literally the entire point of the
 
 ---
 
-Posted on *2017-01-07 13:15:08* by *jbarchuk*
+Posted on **2017-01-07 13:15:08** by **jbarchuk**:
 
 I'm trying to think up how to describe this based on what you know.
 

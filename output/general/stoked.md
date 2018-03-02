@@ -1,5 +1,5 @@
 ## Stoked!
-Posted on *2016-10-15 09:53:11* by *gendor*
+Posted on **2016-10-15 09:53:11** by **gendor**:
 
 I was so happy when I discovered the Maslow CNC yesterday morning. For years I've been ogling the various OpenDesk designs and WikiHouse projects, but every time I look for an affordable CNC router I discover that the existing ones are just too small for those kind of projects. 
 

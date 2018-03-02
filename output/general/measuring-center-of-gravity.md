@@ -1,5 +1,5 @@
 ## Measuring center of gravity for temporary sled
-Posted on *2017-04-30 23:34:36* by *mcginniwa*
+Posted on **2017-04-30 23:34:36** by **mcginniwa**:
 
 Now I'm into the entering measurements into GroundControl section for the cutting of parts using the temporary frame.
 
@@ -17,7 +17,7 @@ Ok, thanks for hearing me out. On to the next steps!
 
 ---
 
-Posted on *2017-05-01 08:18:22* by *Bar*
+Posted on **2017-05-01 08:18:22** by **Bar**:
 
 This feedback is EXCELLENT.
 
@@ -27,13 +27,13 @@ How do you feel about that plan? If it's ok to ignore the CG value for the tempo
 
 ---
 
-Posted on *2017-05-01 09:38:11* by *ylexot*
+Posted on **2017-05-01 09:38:11** by **ylexot**:
 
 Another option for measuring would be to use an angle iron on the ground and balancing the sled on that like a teeter-totter. Mark the pivot points and draw a line between them. Then turn the sled 90 degrees (it doesn't need to be precise) and balance it again. The intersection of the two balance lines will be the CG.
 
 ---
 
-Posted on *2017-05-01 12:30:45* by *davidlang*
+Posted on **2017-05-01 12:30:45** by **davidlang**:
 
 we are experimenting with less weight on the sled, we've got reports of it working well with half the bricks.
 
@@ -45,7 +45,7 @@ This would significantly simplify the math
 
 ---
 
-Posted on *2017-05-01 15:05:58* by *mcginniwa*
+Posted on **2017-05-01 15:05:58** by **mcginniwa**:
 
 > How do you feel about that plan? If it's ok to ignore the CG value for the temporary sled, we should make that clear in the instructions.
 

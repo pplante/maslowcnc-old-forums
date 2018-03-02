@@ -1,5 +1,5 @@
 ## Instructions Improvement - help for launch
-Posted on *2017-03-22 13:16:52* by *rexklein*
+Posted on **2017-03-22 13:16:52** by **rexklein**:
 
 As beta testers our job is to help Maslow succeed. Good Instructions are critical to a successful launch. 
 
@@ -13,13 +13,13 @@ Always better to answer questions first than generate them.
 
 ---
 
-Posted on *2017-03-22 13:17:44* by *Bar*
+Posted on **2017-03-22 13:17:44** by **Bar**:
 
 Great recommendations! Thank you.
 
 ---
 
-Posted on *2017-03-22 13:41:04* by *jbarchuk*
+Posted on **2017-03-22 13:41:04** by **jbarchuk**:
 
 > @rexklein
 > 3. I am assuming that the motors are not left and right handed but making a note of that would allay fears.
@@ -30,7 +30,7 @@ Nothing worse than taking something apart, putting it back together, and it beha
 
 ---
 
-Posted on *2017-03-22 13:52:48* by *scottsm*
+Posted on **2017-03-22 13:52:48** by **scottsm**:
 
 If this is a place for instruction improvement suggestions:
  - Add a wrench to the list of tools, for those nuts for the sled chain hangers. (Do those bolts _really_ need to be that long?)
@@ -40,7 +40,7 @@ If this is a place for instruction improvement suggestions:
 
 ---
 
-Posted on *2017-03-22 14:47:18* by *Bar*
+Posted on **2017-03-22 14:47:18** by **Bar**:
 
 I combed out the "How To Assemble The Temporary Frame" page, made it clear that the motors are identical, and made a note to shorten those bolts (great point, in an earlier version they needed to be long but not anymore). 
 
@@ -50,7 +50,7 @@ Great suggestions everyone!
 
 ---
 
-Posted on *2017-03-22 15:41:49* by *jbarchuk*
+Posted on **2017-03-22 15:41:49** by **jbarchuk**:
 
 > @scottsm
 > – When you make your sled, put a hole near the center of the top edge to hang it up. Put one of the long wood screws in the center of the top horizontal to hang the sled while attaching the chains, etc. This makes a good place to hang the end of the chain when it's not attached to the sled as well.
@@ -66,25 +66,25 @@ In the second pic... Those little dark smears to the right of the bracket, that'
 
 ---
 
-Posted on *2017-03-22 16:18:29* by *scottsm*
+Posted on **2017-03-22 16:18:29** by **scottsm**:
 
 Every good project involves a bit of blood! ;)
 
 ---
 
-Posted on *2017-03-22 16:42:29* by *Bar*
+Posted on **2017-03-22 16:42:29** by **Bar**:
 
 Nope, no blood! Goal is zero blood. :-) Lowes should seriously consider open-sourcing their design/user manual. I bet they could get that splinter problem sorted in a matter of hours :-)
 
 ---
 
-Posted on *2017-03-22 17:08:39* by *davidlang*
+Posted on **2017-03-22 17:08:39** by **davidlang**:
 
 they probably just need to put a sharper blade in the saw
 
 ---
 
-Posted on *2017-03-22 23:12:15* by *rexklein*
+Posted on **2017-03-22 23:12:15** by **rexklein**:
 
 Please be patient with me I actually do this kind of thing for a living. please see attached screenshot add a column called leg piece it will unify all three sections giving the assembler 3 bites at the apple to understand. [2017-03-22_22-49-03](//muut.com/u/maslowcnc/s2/:maslowcnc:qsnG:20170322_224903.jpeg.jpg) 
 people's brains work differently some are diagram oriented some are list followers. Many (especially the confident) will use the cut list first. I think you will find that once labeled the list is actually out of numerical order with respect to piece. you can actually see in the last diagram that the order is jumbled. 
@@ -92,7 +92,7 @@ Finally so you don't think I am a loon my job is to disseminate information to p
 
 ---
 
-Posted on *2017-03-23 01:28:10* by *jbarchuk*
+Posted on **2017-03-23 01:28:10** by **jbarchuk**:
 
 > @rexklein
 > Again I am not trying to be picky I just want rock solid bulletproof understanding.
@@ -106,13 +106,13 @@ Best of luck to you. Don't try to make it -too- perfect or you'll never finish b
 
 ---
 
-Posted on *2017-03-23 08:27:21* by *rexklein*
+Posted on **2017-03-23 08:27:21** by **rexklein**:
 
 Agree with you. My main point is that while building I am putting myself in the role of the eventual Maslow customer. .4 is between 3/8 an 7/16. Pick one and use that. One of the most common things you hear on forums about products is clarity of the instructions. I have seen many reviews where instructions are the biggest complaint. I would argue that because this is a DYI assisted project, clean easy to understand instructions are critical for success. Each question Maslow eliminates due to clear instructions is money in the bank.
 
 ---
 
-Posted on *2017-03-23 09:20:43* by *davidlang*
+Posted on **2017-03-23 09:20:43** by **davidlang**:
 
 just round to 10" or 10.5" (right now there's thought that performance would improve with it closer to upright)
 
@@ -120,7 +120,7 @@ I agree simplification is a good idea, this is why there's a beta period :-)
 
 ---
 
-Posted on *2017-03-23 09:35:02* by *scottsm*
+Posted on **2017-03-23 09:35:02** by **scottsm**:
 
 I like the list idea very much. That's the first thing I did for myself. 
 The decimal conversion question is interesting. There is some deep math among the inner workings of this thing, and the calculations are done using metric measurements. Calibration is dramatically important, and the values will be metric measurements. This is the first project I've done that forces me to get familiar with metric measurements, and it's good experience. 
@@ -128,7 +128,7 @@ As for "it just doesn't matter", I'm right along with that :) Except where it do
 
 ---
 
-Posted on *2017-03-23 09:45:18* by *rexklein*
+Posted on **2017-03-23 09:45:18** by **rexklein**:
 
 Maybe an approach would be 
 1. color code and label (lit git does) 
@@ -137,7 +137,7 @@ Maybe an approach would be
 
 ---
 
-Posted on *2017-03-23 09:45:57* by *davidlang*
+Posted on **2017-03-23 09:45:57** by **davidlang**:
 
 The exact tilt does not matter.
 
@@ -149,7 +149,7 @@ It's not at all clear that the exact values of the default configuration are the
 
 ---
 
-Posted on *2017-03-23 10:02:01* by *mindeye*
+Posted on **2017-03-23 10:02:01** by **mindeye**:
 
 @davidlang - Could the distance between the motors not matching reality cause the ovalization we're seeing in some of the beta machines sleds?
 
@@ -159,31 +159,31 @@ I'm guessing my measurement on motor spacing isn't 100% correct, probably due to
 
 ---
 
-Posted on *2017-03-23 10:06:16* by *davidlang*
+Posted on **2017-03-23 10:06:16** by **davidlang**:
 
 bar indicated that he thought it was something else, but that's possible. The trouble is that a number of other things are possible as well (the math to figure out the exact position is complex)
 
 ---
 
-Posted on *2017-03-23 10:08:58* by *mindeye*
+Posted on **2017-03-23 10:08:58** by **mindeye**:
 
 My money is currently that it's a setting thing since other folks ovals are taller than wide and mine is wider than tall. Either way I'll be creating some new, faster calibration files this afternoon to test with a proper, centrally chucked drawing instrument.
 
 ---
 
-Posted on *2017-03-23 10:20:51* by *davidlang*
+Posted on **2017-03-23 10:20:51** by **davidlang**:
 
 Try tweaking this value (either in software or by moving the motors, especially if you are using the bootstrap setup) and see how much it affects this.
 
 ---
 
-Posted on *2017-03-23 11:08:26* by *scottsm*
+Posted on **2017-03-23 11:08:26** by **scottsm**:
 
 It is indeed a setting - look for 'Motor Offset Height' and 'Motor Offset Horizontal' ! They make a very dramatic difference. We _must_ get this and something about motor calibration into the instructions very soon, before folks become discouraged...
 
 ---
 
-Posted on *2017-03-23 11:18:21* by *davidlang*
+Posted on **2017-03-23 11:18:21** by **davidlang**:
 
 well, I would hope that people who sign up for beta testing recognize that there will be issues found and be watching the forums and updates for info.
 
@@ -193,25 +193,25 @@ remember, the instructions are a wiki page, anyone can update them.
 
 ---
 
-Posted on *2017-03-23 11:21:59* by *blsteinhauer88*
+Posted on **2017-03-23 11:21:59** by **blsteinhauer88**:
 
 I have my temp set up with his original deisign, motors on the corner of the 4x8 sheet.  I got great ovals.  I played with the settings last night and tried to cut circles.  I also cut the brick holders that ended up usable but with oblong ends.  I assumed It was because the motors were low and the chain needed to be at full length.  Is anyone using full length of chain setup, and still getting ovals?
 
 ---
 
-Posted on *2017-03-23 11:22:22* by *blsteinhauer88*
+Posted on **2017-03-23 11:22:22** by **blsteinhauer88**:
 
 [IMG_0467](//muut.com/u/maslowcnc/s3/:maslowcnc:BTEM:img_0467.jpg.jpg) [IMG_0468](//muut.com/u/maslowcnc/s3/:maslowcnc:9tvn:img_0468.jpg.jpg)
 
 ---
 
-Posted on *2017-03-23 11:24:28* by *blsteinhauer88*
+Posted on **2017-03-23 11:24:28** by **blsteinhauer88**:
 
 I thought the oval was funny, came out like a circle.  I changed cutting direction, and speed of cut and still got same results.  some interesting shatter on the edges also.  I have the bricks installed thinking down weight would help too and it did not affect the outcome.
 
 ---
 
-Posted on *2017-03-23 13:19:17* by *jbarchuk*
+Posted on **2017-03-23 13:19:17** by **jbarchuk**:
 
 > @blsteinhauer88
 > some interesting shatter on the edges also.
@@ -225,7 +225,7 @@ If you could attach a -camera- focused on the router bit that might show better 
 
 ---
 
-Posted on *2017-03-23 13:44:53* by *jbarchuk*
+Posted on **2017-03-23 13:44:53** by **jbarchuk**:
 
 > @rexklein
 > My main point is that while building I am putting myself in the role of the eventual Maslow customer. .4 is between 3/8 an 7/16. Pick one and use that. One of the most common things you hear on forums about products is clarity of the instructions.
@@ -236,7 +236,7 @@ Literally and figuratively true. Every Q that they don't have to answer is time 
 
 ---
 
-Posted on *2017-03-23 14:45:28* by *jbarchuk*
+Posted on **2017-03-23 14:45:28** by **jbarchuk**:
 
 > @scottsm
 > I like the list idea very much. That's the first thing I did for myself.
@@ -266,7 +266,7 @@ How about as part of the calibration, instructions that say 'if the diameter of 
 
 ---
 
-Posted on *2017-03-23 18:25:18* by *davidlang*
+Posted on **2017-03-23 18:25:18** by **davidlang**:
 
 IIRC, there was a message from bar about a calibration routine that went something like:
 
@@ -278,13 +278,13 @@ I'm not in the beta group (no space to build the machine at the moment), is ther
 
 ---
 
-Posted on *2017-03-23 19:10:20* by *rexklein*
+Posted on **2017-03-23 19:10:20** by **rexklein**:
 
 Ok this is gonna sound down right dumb but maybe we can take the guess work out with a novel Idea. For the critical dimensions which should be static why not include a couple of precut pieces of environmentally conscious stiff paper strips. I know this cause more work packaging but when I think of my fellow americans blaming Maslow for our metric issues I say take the issue away completely and just give them the "distance templates"
 
 ---
 
-Posted on *2017-03-23 19:37:39* by *davidlang*
+Posted on **2017-03-23 19:37:39** by **davidlang**:
 
 I think there would be enough problems with unfolding 10 ft of paper stips and getting them flat to measure it that it would invalidate the accuracy :-)
 
@@ -292,13 +292,13 @@ I don't think that being off by even a couple of inches  in the horizontal spaci
 
 ---
 
-Posted on *2017-03-23 21:49:09* by *mindeye*
+Posted on **2017-03-23 21:49:09** by **mindeye**:
 
 So I didn't have time to test messing with measurements between motors but I did play with the center of mass config for a handful of runs today. Trying to draw a 12" diameter circle, for values of 60 and 0.5 mm with just the fixed base (no router, just a pencil for marking) I got two ovals 13" wide by 9.75" tall oval. Setting it to 130 I reduced the height to 9.25". I'll try to do further testing of other config values this weekend when I get a chance.
 
 ---
 
-Posted on *2017-03-23 22:50:08* by *jbarchuk*
+Posted on **2017-03-23 22:50:08** by **jbarchuk**:
 
 > @rexklein
 > For the critical dimensions which should be static why not....
@@ -307,7 +307,7 @@ I wish I could find and either quote or name the URL of a recent post that talke
 
 ---
 
-Posted on *2017-03-24 07:41:08* by *Bar*
+Posted on **2017-03-24 07:41:08** by **Bar**:
 
 This is all fantastic feedback. Thank you. I will make the imperial units to fractions change right away.
 
@@ -317,13 +317,13 @@ If any of the dimensions are as critical as we are seeing, I agree that includin
 
 ---
 
-Posted on *2017-03-24 07:45:40* by *rancher*
+Posted on **2017-03-24 07:45:40** by **rancher**:
 
 Bar......I tried cutting with the new software yesterday.  It's a mess.  Sorry to tell you.  I think the dimension stuff really screwed it all up.  I figured out they were settable and got back to something close, but it was losing it's place, dropping out, and generally seriously struggling compared to the last iteration.  I figured I'd let things settle out a bit, but I'm available today to go do some test cuts or whatever if you need some feedback.
 
 ---
 
-Posted on *2017-03-24 07:49:04* by *Bar*
+Posted on **2017-03-24 07:49:04** by **Bar**:
 
 Ok, so you think the latest software is worse than the version before?
 
@@ -331,19 +331,19 @@ Ok, so you think the latest software is worse than the version before?
 
 ---
 
-Posted on *2017-03-24 07:53:09* by *rancher*
+Posted on **2017-03-24 07:53:09** by **rancher**:
 
 Well, I sure was stoked to see the corners drawn correctly!  But, well...for sure things were wacky out of the gate with the new software, I suspect mostly due to the new default dimensions settings.  I think they were all "1"?  It took me a bit to land on that, first I recalibrated and measured chains and all that since center was so far off.  Then I got to dimensions, and as others here have mentioned, some of us are metrically challenged.  My shop has no wifi so I was trying to figure out 10' in mm, and then do the offsets, and horizontal is a negative value (maybe?), and.....you get the idea.  I couldn't tell where the errors were, but I couldn't cut anything without it stopping randomly, losing it's place, trying to catch up....it was quite a disaster compared to my first tries.
 
 ---
 
-Posted on *2017-03-24 09:58:17* by *davidlang*
+Posted on **2017-03-24 09:58:17** by **davidlang**:
 
 @bar, cna you have the software accept the settings in either metric or imperial and then do the conversion before it's pushed to the arduino?
 
 ---
 
-Posted on *2017-03-24 16:56:45* by *Bar*
+Posted on **2017-03-24 16:56:45** by **Bar**:
 
 I bet we can do that! Great suggestion. I'm going to try to fix all the issues which are preventing everyone from cutting things out first, but if you file an issue for it on GitHub I will make sure it gets changed (but probably after you've done all the conversions :-) )
 
@@ -355,13 +355,13 @@ Thanks for all the suggestions!
 
 ---
 
-Posted on *2017-03-24 17:59:04* by *rexklein*
+Posted on **2017-03-24 17:59:04** by **rexklein**:
 
 I have been thinking about this measuring debate. I wonder wouldn't it just help the world if you standardized it to metric? Users will get better results if they just bite the bullet and commit to metric. My truck is english but under the hood all the good modern stuff is metric.   I bet any backer of a product like this would understand the reasoning. For those who complain just put a conversion chart in ground control to help them. That way programming ground control would be free of on the fly conversion scripts etc less things to debug.
 
 ---
 
-Posted on *2017-03-24 20:59:46* by *davidlang*
+Posted on **2017-03-24 20:59:46** by **davidlang**:
 
 @rexklein, imperial vs metric is not the problem, not having the measurements close enough is the problem
 

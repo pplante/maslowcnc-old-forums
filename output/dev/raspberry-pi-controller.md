@@ -1,5 +1,5 @@
 ## Raspberry Pi Controller?
-Posted on *2016-12-27 13:22:49* by *dom_e_uk*
+Posted on **2016-12-27 13:22:49** by **dom_e_uk**:
 
 Hi Guys,
 
@@ -16,7 +16,7 @@ Dom
 
 ---
 
-Posted on *2016-12-27 19:17:26* by *TheRiflesSpiral*
+Posted on **2016-12-27 19:17:26** by **TheRiflesSpiral**:
 
 You can check out the details of Ground Control here: https://github.com/MaslowCNC/GroundControl
 
@@ -24,7 +24,7 @@ Raspbian installs the python runtime and an IDE by default so I think it would b
 
 ---
 
-Posted on *2016-12-28 08:48:42* by *dom_e_uk*
+Posted on **2016-12-28 08:48:42** by **dom_e_uk**:
 
 @TheRifleSpiral
 
@@ -34,7 +34,7 @@ I've got the Ground Control software on it and unzipped, but whenever I try to r
 
 ---
 
-Posted on *2016-12-28 10:07:59* by *Bar*
+Posted on **2016-12-28 10:07:59** by **Bar**:
 
 I'm going to order a Pi so I can jump in, it seems like a lot of people are interested in going the Pi path so I want to make sure it works smoothly. 
 
@@ -42,13 +42,13 @@ Any recommendations for which one is the right one to test on, or are they all p
 
 ---
 
-Posted on *2016-12-28 11:27:10* by *larry357*
+Posted on **2016-12-28 11:27:10** by **larry357**:
 
 All similar, but the pi3 is faster and has wifi http://core-electronics.com.au/tutorials/compare-raspberry-pi-boards.html
 
 ---
 
-Posted on *2016-12-28 11:28:57* by *dom_e_uk*
+Posted on **2016-12-28 11:28:57** by **dom_e_uk**:
 
 I think they're all pretty similar...... The Pi Zero is the cheapest (smallest and coolest aswell in my opinion). It only has 1 USB port (but you can connect hubs).  
 
@@ -58,13 +58,13 @@ My thinking is just to have the Pi hidden internally in a monitor and then it's 
 
 ---
 
-Posted on *2016-12-28 19:34:49* by *chadzimmerman*
+Posted on **2016-12-28 19:34:49** by **chadzimmerman**:
 
 I have a P2 running my network server, been running without complaint for over a year now.  I am going to get a P3 for the Maslow control if I go that route.  Will get a P3 anyway to play.. would be nice to have a computer in the workshop anyway.
 
 ---
 
-Posted on *2016-12-29 02:21:22* by *dom_e_uk*
+Posted on **2016-12-29 02:21:22** by **dom_e_uk**:
 
 Bar (or other programmer types),
 
@@ -78,7 +78,7 @@ Dom
 
 ---
 
-Posted on *2016-12-29 04:45:15* by *TheRiflesSpiral*
+Posted on **2016-12-29 04:45:15** by **TheRiflesSpiral**:
 
 Bar has mentioned that there will be user-configurable outputs on the Maslow control board for exactly this type of thing. (relays for router/dust collector control) 
 
@@ -88,13 +88,13 @@ Remember that the entire project is open source, including the Ground Control so
 
 ---
 
-Posted on *2016-12-29 04:48:09* by *TheRiflesSpiral*
+Posted on **2016-12-29 04:48:09** by **TheRiflesSpiral**:
 
 Dom, I'm planning to work the Pi stuff out today/tomorrow. I'll start a new thread in dev and we can work it out.
 
 ---
 
-Posted on *2016-12-29 05:24:36* by *dom_e_uk*
+Posted on **2016-12-29 05:24:36** by **dom_e_uk**:
 
 Mega....... 
 
@@ -102,13 +102,13 @@ More than happy with building/wiring etc!  Programming stumps me a bit though ;-
 
 ---
 
-Posted on *2016-12-29 06:04:21* by *TomTheWhittler*
+Posted on **2016-12-29 06:04:21** by **TomTheWhittler**:
 
 I have been using a Raspberry Pi 3 (Ethernet & Wifi built in) along with a Protoneer CNCHat (http://wiki.protoneer.co.nz/Raspberry_Pi_CNC) to run a small WhittleCNC machine. The Pi 3 is only around $ 45.00 and would allow us to have a remote control of the Maslowcnc. The combo that I have works great and the developer of the CNChat (Bertus Kruger) has a done a lot of great work both software and hardware for the CNChat. He has a pretty active forum (http://forum.protoneer.co.nz/index.php).  I believe that Bertus has even supported this campaign so Bar may want to chat with him directly.
 
 ---
 
-Posted on *2016-12-29 19:01:34* by *Bar*
+Posted on **2016-12-29 19:01:34** by **Bar**:
 
 It sounds like the Pi 3 is the one most people are looking at and the idea of having wifi and bluetooth built in is amazing. I've got one of those on the way. I'm pretty swamped so it might be a little bit before I get a chance to play with it but it'll be sitting on my desk taunting me.
 

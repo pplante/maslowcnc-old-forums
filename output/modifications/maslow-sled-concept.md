@@ -1,5 +1,5 @@
 ## Maslow Sled Concept
-Posted on *2017-06-28 03:35:32* by *iroc999*
+Posted on **2017-06-28 03:35:32** by **iroc999**:
 
 First WOW! Very Happy to have stumbled across the Maslow. I've got a sled Concept to offer up. IT wouldn't let me post with my images. So I uploaded a screen capture as I navigate the 3D model. It's O.D. is 18". The material would be 3/4" MDF so it's good and heavy, might could lose the bricks. I didn't have dimensions on the R2200 router so I was just spitballing. The design would need to be modified, but it gets the idea across. It's 3 Concentric Rings with 5 Spokes. It's constructed using the Layering or Stack Fabrication method. Which the Maslow makes nice and possible. The 5 Spoke design and stack fab allow for cutouts to reduce drag by reducing surface area. While still maintaining maximum contact patch. The 5 Spoke design also helps get the Chain mounts in great location. The two lower mounts can hold the Z-axix motor and any additional weight. While the top could be used in conjunction with a low cost optical tracking system that can be connected to the Arduino. Which I figure could help get to reach the 1/64" tolerance. IDK just guesstimating on if that would wo rk or could even be used simultaniously with teh GCode output. 
 
@@ -7,7 +7,7 @@ Anyway here's the Link to view the short video  https://youtu.be/Vu2mM3zOYMY
 
 ---
 
-Posted on *2017-06-28 04:05:32* by *iroc999*
+Posted on **2017-06-28 04:05:32** by **iroc999**:
 
 Let's see if we can get those images uploaded.
  [Maslow Sled Top](//muut.com/u/maslowcnc/s3/:maslowcnc:Xko7:maslowsledtop.png.jpg) 
@@ -17,19 +17,19 @@ Let's see if we can get those images uploaded.
 
 ---
 
-Posted on *2017-06-28 04:15:26* by *TheRiflesSpiral*
+Posted on **2017-06-28 04:15:26** by **TheRiflesSpiral**:
 
 The OD of the Ridgid fixed base is a shade over 6". Generally, reducing surface area increases friction, not decreases it. Particularly in a situation where edges could be snagged after cutting them. It's a beautiful model though, Let us know how it works out!
 
 ---
 
-Posted on *2017-06-28 04:59:21* by *iroc999*
+Posted on **2017-06-28 04:59:21** by **iroc999**:
 
 @TheRiflesSpiral but i don't think it would increase friction. As far as the sled and the material are concerned the over all area that the sled covers is large. 18" diameter. I don't know what the dimensions on the current sled are. I'f it's O.D. is >18" I would adjust my design acordingly. Like I said I was spitballing and figured 18" was roughly the same as the current actual sled. I wouldn't think the Cutouts would reduce that over all area. My current standard router table and table saw use the exact principle. With cutouts and grooves in their surfaces. While still allowing materaial to slide effortlessly across them.  The over all area "Contact Patch" is still the same. and the rounded over edges help to prevent snags. But I could be wrong...
 
 ---
 
-Posted on *2017-06-28 05:40:48* by *TheRiflesSpiral*
+Posted on **2017-06-28 05:40:48** by **TheRiflesSpiral**:
 
 The ribs that you find in cheap router tables and table saws are intended to improve flatness during manufacturing when using lightweight castings of aluminium, not reduce friction to the workpiece.
 
@@ -41,19 +41,19 @@ Your sled is probably fine; even if it does hook edges or doesn't glide smoothly
 
 ---
 
-Posted on *2017-06-28 08:22:23* by *John*
+Posted on **2017-06-28 08:22:23** by **John**:
 
 I second the view that a flat base plate will move much smoother than one with holes. The problem is you get rough edges on the cuts. Rounding off the spokes will help but each spoke is an extra 'impact' point causing a bump. Whereas a flat base only bumps once and then rides over the top. Also, this is a stack of four sheets of 3/4" MDF? So 3" thick? I think you will need to mount the router on the bottom sheet not the top one. Routers only have limited travel and cutter bits are made deliberately short for strength. If the router base is 3" from the work surface, you might not be able to cut anything!
 
 ---
 
-Posted on *2017-06-28 08:24:07* by *John*
+Posted on **2017-06-28 08:24:07** by **John**:
 
 PS: Also bear in mind that MDF is nasty stuff to work with. Saw dust in general is not good for you but I believe MDF dust is especially toxic.
 
 ---
 
-Posted on *2017-06-29 17:06:40* by *iroc999*
+Posted on **2017-06-29 17:06:40** by **iroc999**:
 
 @John The entire bottom piece is filleted ( rounded over ) to avoid any snag points. 
 
@@ -63,7 +63,7 @@ Personally I'm not worried about MDF dust. I've been wearing a respirator while 
 
 ---
 
-Posted on *2017-06-29 17:30:49* by *iroc999*
+Posted on **2017-06-29 17:30:49** by **iroc999**:
 
 @TheRiflesSpiral I wasn't saying that the cutouts and grooves reduce friction. I was saying that they exist and the material still slides across the work surface almost effortlessly. Showing that the holes in the design will not cause the Sled to bindup and drag on the material as the sled moves across the surface. Many many tools use this exact principal in their guide designs. Heck the router in question has a huge hole in the middle, much larger than is required for the tool/bit/endmill. That hole does not effect the routers guide negatively at all. They still slide almost effortlessly across the material. Trust me the design would work better than a solid sled. Simply on being able to better remove dust from the work area, that could build up under the sled. It would work better if it had a brush that surrounded the Sled, But that would be hard for someone to manufacture with the Maslow alone. Not impossible, but would take some work. Since all the bristles would have to be hand placed, but i digress. There's no way a design like this would negatively effect Sled per formance. An 18" circle is going to ensure the sled stays perfectly flush with the material. Heck 18"  is overkill even. The job could be done easily with something like 10 or 12", but I was going bigger to help not need the bricks. Which I know is totally just me. I just would rather not have some bricks involved when I can get that weight built into the sled and easily incorporate a better dust collection system, cuz 99% of stock dust collection systems could be much better. 
 
@@ -71,7 +71,7 @@ Plus I think a beautiful machine like the Maslow should have a Sled that makes i
 
 ---
 
-Posted on *2017-06-29 18:22:14* by *davidlang*
+Posted on **2017-06-29 18:22:14** by **davidlang**:
 
 actually, that hole in the center of the router needs to be that large to handle some of the larger bits.
 
@@ -85,31 +85,31 @@ but we've changed the sled design before, so if experimentation says that anothe
 
 ---
 
-Posted on *2017-06-29 20:07:16* by *rollandelliott*
+Posted on **2017-06-29 20:07:16** by **rollandelliott**:
 
 why is it 3 layers thick?
 
 ---
 
-Posted on *2017-06-30 03:43:03* by *iroc999*
+Posted on **2017-06-30 03:43:03** by **iroc999**:
 
 @rollandelliot To be heavy to possible lose the bricks, and so that it can have channels to accommodate vacuum across the entire Sled.
 
 ---
 
-Posted on *2017-06-30 05:53:32* by *davidlang*
+Posted on **2017-06-30 05:53:32** by **davidlang**:
 
 a vacuum across the entire sled is probably not a great idea, more sq in of surface exposed to vacuum will pull the sled against the workpiece harder, which will increase friction.
 
 ---
 
-Posted on *2017-06-30 06:16:21* by *TheRiflesSpiral*
+Posted on **2017-06-30 06:16:21** by **TheRiflesSpiral**:
 
 Do you mean dust collection? That's best handled at the source. (As near the bit as you can muster)
 
 ---
 
-Posted on *2017-06-30 10:47:19* by *Meticulous Maynard*
+Posted on **2017-06-30 10:47:19** by **Meticulous Maynard**:
 
 This thread has gotten me thinking about the sled design and quite honestly I'm not crazy about the flat plywood sled either. On gantry-style routers, the carriage which contains the spindle does is suspended above piece, which is especially useful on glossy laminates and veneers that scratch really easily. That's not possible with the Maslow design, so another solution would be necessary.
 
@@ -125,7 +125,7 @@ Not sure how well any this will work, but I'd like to see where this leads :)
 
 ---
 
-Posted on *2017-06-30 11:04:59* by *davidlang*
+Posted on **2017-06-30 11:04:59** by **davidlang**:
 
 how do you keep the roller bearings from falling into the cuts you have already made? The problems aren't just near the edges.
 
@@ -141,7 +141,7 @@ There have been a lot of ideas talked about and quite a few built. So far the ba
 
 ---
 
-Posted on *2017-06-30 12:08:30* by *Meticulous Maynard*
+Posted on **2017-06-30 12:08:30** by **Meticulous Maynard**:
 
 The point of having 8 (or even more) rollers is to have redundancy. In theory, if one of the bearings would fall into a previously made cut, the others would pick up the slack. That wouldn't work in a big cut-out unless a spacer was placed inside it to keep the sled level. 
 
@@ -153,13 +153,13 @@ I 'm not recommending this alternate design to replace the suggested design for 
 
 ---
 
-Posted on *2017-06-30 12:41:59* by *TheRiflesSpiral*
+Posted on **2017-06-30 12:41:59** by **TheRiflesSpiral**:
 
 [Here's a great video](https://www.youtube.com/watch?v=ufXTIu2VmME) from Marius Hornberger about making a dust collection brush for his CNC.
 
 ---
 
-Posted on *2017-06-30 16:38:20* by *Meticulous Maynard*
+Posted on **2017-06-30 16:38:20** by **Meticulous Maynard**:
 
 The more I think about this idea the more I don't like it. Originally I was worried about voids but in fact I should probably be more worried about raised edges near cuts. All it would take is for one of the roller bearings to get caught on something and the whole cut would get thrown off. I will need to think about this for some more time before I can come up with a working prototype.
 
@@ -169,7 +169,7 @@ Anyways, sorry to hijack the thread. Should have really just started a new one.
 
 ---
 
-Posted on *2017-06-30 18:55:31* by *TheRiflesSpiral*
+Posted on **2017-06-30 18:55:31** by **TheRiflesSpiral**:
 
 If there's one aspect of the sled that probably shouldn't change, it's the large, flat, smooth surface that rides on the workpiece. Nearly every quality power tool, stationary or handheld, has that as an attribute. Room for improvement lies in the attachment method (maybe) the excess weight (maybe) and dust collection which is typically a feature of the router.
 
@@ -177,7 +177,7 @@ Every beta tester has a standard -ish sled that departs only marginally from the
 
 ---
 
-Posted on *2017-07-05 19:38:04* by *iroc999*
+Posted on **2017-07-05 19:38:04** by **iroc999**:
 
 @Meticulous Maynard no worries about hijacking, that's a given to be expected in any forum. Plus if it's still on topic like you were, it's not hijacking. It's sharing ideas.
 Glad you saw that roller balls would be a bad idea. 
@@ -218,13 +218,13 @@ Hahaha Looks like I hijacked my own thread.
 
 ---
 
-Posted on *2017-07-05 22:38:54* by *davidlang*
+Posted on **2017-07-05 22:38:54** by **davidlang**:
 
 remember that the sled tilts, so the laser may hit your sensor when off-center.
 
 ---
 
-Posted on *2017-07-12 21:29:53* by *iroc999*
+Posted on **2017-07-12 21:29:53** by **iroc999**:
 
 Well I wouldn't say tilts more rotates. The sled is there at least in part to limit/eliminate tilt, but i see where you are going. Could deactivate or just ignore the signals from the sensor during actual use. 
 
@@ -234,7 +234,7 @@ I wonder how much it would cost to weave a wire grid under the bed and mount som
 
 ---
 
-Posted on *2017-07-12 21:35:24* by *iroc999*
+Posted on **2017-07-12 21:35:24** by **iroc999**:
 
 That post about the sled mounted motors really peaked my interests. So I added it to my concept. Most of it could still be made with the Maslow it's self. Except the three metal motor mounts. 
  [Top](//muut.com/u/maslowcnc/s3/:maslowcnc:QV5q:top.png.jpg) 
@@ -244,7 +244,7 @@ That post about the sled mounted motors really peaked my interests. So I added i
 
 ---
 
-Posted on *2017-07-12 22:18:51* by *davidlang*
+Posted on **2017-07-12 22:18:51** by **davidlang**:
 
 All I can really say about your ideas is "Try them"
 
@@ -252,7 +252,7 @@ I don't think you will get anywhere close to the accuracy that you are hoping fo
 
 ---
 
-Posted on *2017-07-13 10:52:02* by *Meticulous Maynard*
+Posted on **2017-07-13 10:52:02** by **Meticulous Maynard**:
 
 I saw that post about the mounting the drive motors to the sled. Very interesting, curious to see how it effects the machine. I would also like to see how the non-slip liner will work for you. I have my doubts because, at least in theory, you will sacrifice a clean cut on the back edge by not cutting deep enough. I would love to be proven wrong though, because it sounds like that would be a pretty cheap alternative to a vacuum pump and easier than clamping the piece down all the time.
 
@@ -260,13 +260,13 @@ I only say Hijack because I was posting a (mostly) different idea from your conc
 
 ---
 
-Posted on *2017-07-14 00:18:33* by *cameronswartzell*
+Posted on **2017-07-14 00:18:33** by **cameronswartzell**:
 
 My brother had a suggestion that seems likely to be our go to method of securing pieces to our waste board; 23 gauge pneumatic pinner. We already have them in the shop, teeny little headless nails. After a first pass to mark out areas we may simply pop a few tiny brads in anywhere that needs to be affixed. Easy to remove, leaving only the tiniest hole. Should work for most of my projects were we don't need prestine surfaces
 
 ---
 
-Posted on *2017-07-14 00:29:05* by *davidlang*
+Posted on **2017-07-14 00:29:05** by **davidlang**:
 
 There are plastic nails available that work very well (they don't hurt the tools if you hit them with the bit)
 
@@ -274,25 +274,25 @@ https://www.youtube.com/watch?v=8VzekKsbWdA
 
 ---
 
-Posted on *2017-07-14 00:31:34* by *davidlang*
+Posted on **2017-07-14 00:31:34** by **davidlang**:
 
 a sharp blow to the edge of the workpiece will sheer off the nails cleanly
 
 ---
 
-Posted on *2017-07-14 00:41:29* by *davidlang*
+Posted on **2017-07-14 00:41:29** by **davidlang**:
 
 another good video on these https://www.youtube.com/watch?v=empHentVTFw
 
 ---
 
-Posted on *2017-07-14 00:56:59* by *cameronswartzell*
+Posted on **2017-07-14 00:56:59** by **cameronswartzell**:
 
 Those plastic nails are pretty sweet, but the smaller size is still 15ga. Awesome for some applications. 23ga pins, while steel and would nick a bit, likely wouldn't cause catastrophic failure if you accidentally cut through them.
 
 ---
 
-Posted on *2017-07-15 03:56:45* by *iroc999*
+Posted on **2017-07-15 03:56:45** by **iroc999**:
 
 As far as using small finishing brads. The headless thin nails. Myself and most of the custom car audio community have been just eating through them with routes for as long as I can remember. They do cause bits to wear faster, but we just figured that into the cost of supplies. Say like you take two disks bradded together, rounded over mounted on a 2x4 to hold it where you'd want your speakers to mount. Lay some stretchy fabric over the whole thing and resin. Spread resin mixed with mdf dust or powdered glass on the inside. let cure then route out the proper circles to recess and mount the speaker. That's usually twice you've run run through those brads. shaves them off clean as can be.  So I really wouldn't be worried about them. 
 
@@ -302,7 +302,7 @@ While I'm  here and instead of making a whole new thread. Does the electronics h
 
 ---
 
-Posted on *2017-07-15 05:24:57* by *davidlang*
+Posted on **2017-07-15 05:24:57** by **davidlang**:
 
 Bar is concerned about the liability of switching the router on/off via software, so the firmware won't do that.
 

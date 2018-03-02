@@ -1,5 +1,5 @@
 ## Z-Axis can't keep up?
-Posted on *2017-06-18 21:27:14* by *John*
+Posted on **2017-06-18 21:27:14** by **John**:
 
 Hello, I'm just starting to have another play with Maslow and am hitting an issue with the z-axis not being fast enough. At first I assumed I had set the z-feed rate too high in MakerCam. However, I've tried dropping the feed rate to almost nothing and it had no effect.
 
@@ -9,13 +9,13 @@ I first hit this issue with GC v0.69 or 0.70 and FW v0.67 or 0.68. I've just bee
 
 ---
 
-Posted on *2017-06-18 23:22:32* by *Bar*
+Posted on **2017-06-18 23:22:32** by **Bar**:
 
 I think you've diagnosed the problem exactly right. What type of router are you using and what is the pitch per rotation?
 
 ---
 
-Posted on *2017-06-19 00:46:43* by *John*
+Posted on **2017-06-19 00:46:43** by **John**:
 
 Not sure how it is related to the router itself?
 
@@ -25,7 +25,7 @@ I have since switched to a DIY job - a scew Z-axis and CNC spindle that I picked
 
 ---
 
-Posted on *2017-06-22 15:42:08* by *mcginniwa*
+Posted on **2017-06-22 15:42:08** by **mcginniwa**:
 
 Darn. Was checking back in today to see if anyone had gotten Bosch router Z-axis working reliably yet. I had [some headaches](http://www.maslowcnc.com/forums/#!/hardware-issues:bosch-gof-1600-ce-z-axisde) with the GOF 1600 and hadn't gotten them resolved before I had to work on something else for awhile.
 
@@ -33,19 +33,19 @@ There's a whole lot of background (there's a link to even further detail in a pr
 
 ---
 
-Posted on *2017-06-22 16:56:20* by *gero*
+Posted on **2017-06-22 16:56:20** by **gero**:
 
 Did you read the posts about the backlash in the Z? I ignored them for a while, but any kind of rubber pulling down the router and not to strong to to interfere with the Z-Motor gets rid of that issue.
 
 ---
 
-Posted on *2017-06-22 17:07:08* by *gero*
+Posted on **2017-06-22 17:07:08** by **gero**:
 
 That Z is lowering into the cut is/was a software issue. The moves on X and Y are/were not waiting for Z to complete.
 
 ---
 
-Posted on *2017-07-18 11:50:46* by *krkeegan*
+Posted on **2017-07-18 11:50:46** by **krkeegan**:
 
 I am pretty sure I saw behavior last night and I have the standard ridgid router.
 
@@ -63,13 +63,13 @@ I am moving to the standard sled with the bricks tonight, but if I see this beha
 
 ---
 
-Posted on *2017-07-18 15:04:19* by *Bar*
+Posted on **2017-07-18 15:04:19** by **Bar**:
 
 I think this might be related to the memory overflow issues we found and addressed yesterday. Either grabbing the very latest firmware off GitHub or using v0.81 which will come out tomorrow might fix this, it also might not so lets keep an eye on it.
 
 ---
 
-Posted on *2017-07-19 09:45:50* by *krkeegan*
+Posted on **2017-07-19 09:45:50** by **krkeegan**:
 
 You were right.
 
@@ -82,7 +82,7 @@ In fact, many aspects seem waaay better.  This got rid of a lot of shaking that 
 
 ---
 
-Posted on *2017-07-19 10:14:36* by *Bar*
+Posted on **2017-07-19 10:14:36** by **Bar**:
 
 Woo!!!! Thank you for taking the time to run that test, I'm stoked to hear it fixed the problem :-)
 

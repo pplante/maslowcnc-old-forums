@@ -1,11 +1,11 @@
 ## Engraving other than plywood
-Posted on *2016-12-29 11:00:05* by *lilwhit*
+Posted on **2016-12-29 11:00:05** by **lilwhit**:
 
 Would the Maslow  engrave something other than plywood say like a 1x12  for inlaying projects?
 
 ---
 
-Posted on *2016-12-29 11:29:54* by *TheRiflesSpiral*
+Posted on **2016-12-29 11:29:54** by **TheRiflesSpiral**:
 
 I would consider the Maslow project, like most CNC variants, to be somewhat material agnostic... provided your end effector (a router in this case) and tooling are appropriate for the material then I think your challenges lie solidly in the realm of accuracy.
 
@@ -15,7 +15,7 @@ The challenges with a 1x12 really only come with mounting and positioning... how
 
 ---
 
-Posted on *2016-12-29 11:39:49* by *lilwhit*
+Posted on **2016-12-29 11:39:49** by **lilwhit**:
 
 Makes sense thank you
 

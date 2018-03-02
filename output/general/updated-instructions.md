@@ -1,5 +1,5 @@
 ## Updated instructions
-Posted on *2017-03-30 19:46:04* by *Bar*
+Posted on **2017-03-30 19:46:04** by **Bar**:
 
 We've been getting feedback that finishing the assembly instructions is a priority so I've re-written step 4 of the assembly guide to add some little feet on the bottom (credit to @blsteinhauer88 for that improvement to the process). 
 
@@ -13,7 +13,7 @@ Thanks everyone!
 
 ---
 
-Posted on *2017-03-31 05:30:00* by *ledsled71*
+Posted on **2017-03-31 05:30:00** by **ledsled71**:
 
 A note about which motor plugs into which port on the controller would be good.  Mine ran backwards!
 
@@ -21,7 +21,7 @@ Jumping ahead what are tree u bolts for?
 
 ---
 
-Posted on *2017-03-31 06:57:00* by *aalbinger*
+Posted on **2017-03-31 06:57:00** by **aalbinger**:
 
 The u-bolts will hold the motor mount to the arms.  You can catch a glimpse at 0:50 of this video:  https://youtu.be/Q-KCZoxvzcQ?t=58s
 

@@ -1,5 +1,5 @@
 ## This week's update
-Posted on *2017-05-18 07:47:01* by *Bar*
+Posted on **2017-05-18 07:47:01** by **Bar**:
 
 This week's firmware and software versions included the much awaited change to how the PID controller works, better gcode buffering and a faster serial connection. 
 

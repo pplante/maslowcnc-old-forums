@@ -1,5 +1,5 @@
 ## Unable to resolve x-position error
-Posted on *2017-03-20 14:04:19* by *Bar*
+Posted on **2017-03-20 14:04:19** by **Bar**:
 
 The latest version of the firmware up now should fix the "unable to resolve x position" error. The problem had to do with the way the internal math was calculating the starting position of the router. When the machine first turns on, it knows it's starting chain lengths (which are saved), but not it's (x,y) coordinates. It was calculating it's starting (x,y) using a flawed approximation. 
 

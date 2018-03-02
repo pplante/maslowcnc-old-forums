@@ -1,5 +1,5 @@
 ## Best Practices for Double Sided Cutting?
-Posted on *2017-03-14 21:28:26* by *tmaker*
+Posted on **2017-03-14 21:28:26** by **tmaker**:
 
 I'm curious if Bar or anyone has attempted to mill both sides of a plywood sheet using Maslow and if there are any best practices for keeping everything aligned precisely?  I have some designs brewing in my head that would require both sides of a plywood sheet to be cut but I'm curious if there is a good way to flip the sheet over while maintaining precise alignment.  Might this require a recalibration or positioning of the router after the sheet is flipped?  
 
@@ -9,13 +9,13 @@ Potential issues that I can see with this method would be that things still migh
 
 ---
 
-Posted on *2017-03-15 00:11:10* by *davidlang*
+Posted on **2017-03-15 00:11:10** by **davidlang**:
 
 your idea is about the best that is possible (you may want to put the hole someplace more central, but that doesn't change the basic idea or it's limitations)
 
 ---
 
-Posted on *2017-03-15 06:20:13* by *TheRiflesSpiral*
+Posted on **2017-03-15 06:20:13** by **TheRiflesSpiral**:
 
 The only risk you run with just one hole is that the plane against which your workpiece rests (the board at the bottom) may not be aligned with the same plane in the drive system of Maslow.
 
@@ -31,7 +31,7 @@ Here's how I personally would handle this:
 
 ---
 
-Posted on *2017-03-15 06:45:38* by *tmaker*
+Posted on **2017-03-15 06:45:38** by **tmaker**:
 
 Two big dowels makes sense and should solve the horizontal plane issue.  But I'm curious if there still might be some flexing issues with all the weight of the plywood on the dowels.
 
@@ -39,19 +39,19 @@ Here's a video that shows a similar method used on a Shopbot: https://youtu.be/W
 
 ---
 
-Posted on *2017-03-15 07:23:42* by *TheRiflesSpiral*
+Posted on **2017-03-15 07:23:42** by **TheRiflesSpiral**:
 
 In that case (where the dowels don't support the piece adequately) I'd probably knock some wedges in the corners so they're just alignment, not support)
 
 ---
 
-Posted on *2017-03-15 08:04:00* by *davidlang*
+Posted on **2017-03-15 08:04:00** by **davidlang**:
 
 dowels can help address the positioning of the work, but you still have to worry about making it symmetrical, which requires setting the right zero point after flipping.
 
 ---
 
-Posted on *2017-03-15 08:24:35* by *jbarchuk*
+Posted on **2017-03-15 08:24:35** by **jbarchuk**:
 
 Dangit, long freeking post, but there are a lot of workflow details here. :(
 @tmaker very good point. Even large wood pins will twist and wear out over time, by the weight of the workpiece. I think it'd work fine for one or a few pieces, but not production quantities of use.
@@ -85,7 +85,7 @@ Regardless, it's the accuracy of that line transfer that determines how the over
 
 ---
 
-Posted on *2017-03-15 10:04:11* by *tmaker*
+Posted on **2017-03-15 10:04:11** by **tmaker**:
 
 Please correct me if I'm wrong, but it sounds like you're assuming that the kickplate on the bottom will always be in perfect horizontal alignment with Maslow and the software.  If that assumption was true, your process sounds like it would work.  But personally, I would like to come up with a solution that doesn't assume or require that the kickplate will always be in perfect horizontal alignment.  Let's face it, 2x4s can easily bow and change over time, with humidity...etc even if it's not all that noticeable with the naked eye.  
 
@@ -95,19 +95,19 @@ What I don't like about the pin idea is that 1) the pins can get in the way of t
 
 ---
 
-Posted on *2017-03-15 10:48:02* by *davidlang*
+Posted on **2017-03-15 10:48:02** by **davidlang**:
 
 what sort of accuracy are you looking to get? the Maslow only claims 1/64 of an inch to begin with, and realistically, wood swells/shrinks more than that, and any sanding/finishing you will will add/subtract more than that.
 
 ---
 
-Posted on *2017-03-15 10:53:21* by *tmaker*
+Posted on **2017-03-15 10:53:21** by **tmaker**:
 
 I was hoping to stay within that 1/64 tolerance.
 
 ---
 
-Posted on *2017-03-15 11:00:57* by *davidlang*
+Posted on **2017-03-15 11:00:57** by **davidlang**:
 
 The clearance for pins (to be able to get the workpiece over the pins), or the measurements of the width of your wood (if you have a stop on the side that you push against) are going to be off by more than 1/64 of an inch.
 
@@ -115,7 +115,7 @@ Even using metal pins you will have trouble positioning anything to that accurac
 
 ---
 
-Posted on *2017-03-15 11:10:41* by *TheRiflesSpiral*
+Posted on **2017-03-15 11:10:41** by **TheRiflesSpiral**:
 
 Ouch. Yeah... 1/64 is going to be tough for that purpose. Given the compressible nature of wood I'm thinking you may need to cut, flip and then do some "spot" checks at the extreme edges of your design to see how the bit is going to land.
 
@@ -123,7 +123,7 @@ Good luck, whatever you decide. I'm sure we'd love to hear about your progress!
 
 ---
 
-Posted on *2017-03-15 11:14:22* by *tmaker*
+Posted on **2017-03-15 11:14:22** by **tmaker**:
 
 While I was hoping to stay within that tolerance, it's possible that it's unnecessary to be that accurate for the parts I'm designing. I'm sure even 1/32 or maybe 1/16 would be fine.  After I get everything setup I'll have to run some tests and explore some ideas.
 

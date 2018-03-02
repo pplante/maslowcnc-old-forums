@@ -1,78 +1,78 @@
 ## For these is using fusion 360 I need tips
-Posted on *2017-06-13 16:44:58* by *mikeberg*
+Posted on **2017-06-13 16:44:58** by **mikeberg**:
 
 I programed fusion 360 yesterday with 2d  contour feature for cutting all my parts for making maslow. All was good before the last pass of the long arm decided to take another path...I'm thinking about maybe one setting is not appropriate. some picture of your setup on fusion will be welcomed to find my error
 
 ---
 
-Posted on *2017-06-13 16:48:12* by *mikeberg*
+Posted on **2017-06-13 16:48:12** by **mikeberg**:
 
 I cutted 4 pieces without any error and all was simulated on computer before cutting
 
 ---
 
-Posted on *2017-06-13 20:34:53* by *carlosrivers*
+Posted on **2017-06-13 20:34:53** by **carlosrivers**:
 
 Can you share the file?
 
 ---
 
-Posted on *2017-06-13 20:48:33* by *mikeberg*
+Posted on **2017-06-13 20:48:33** by **mikeberg**:
 
 You mean file.nc or a picture of my active options in 2d contour?
 
 ---
 
-Posted on *2017-06-14 10:53:14* by *mikeberg*
+Posted on **2017-06-14 10:53:14** by **mikeberg**:
 
 Same issue this morning... [DSC_0340](//muut.com/u/maslowcnc/s3/:maslowcnc:HwJU:dsc_0340.jpg.jpg)
 
 ---
 
-Posted on *2017-06-14 10:58:50* by *mikeberg*
+Posted on **2017-06-14 10:58:50** by **mikeberg**:
 
 there is my feature sheet of contour [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:ilZF:2017.06.1413.55.png.jpg)  [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:KGYE:2017.06.1413.55_01.png.jpg)  [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:B0ED:2017.06.1413.55_02.png.jpg)  [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:XraI:2017.06.1413.56.png.jpg)  [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:vh0h:2017.06.1413.56_01.png.jpg)
 
 ---
 
-Posted on *2017-06-14 11:02:05* by *mikeberg*
+Posted on **2017-06-14 11:02:05** by **mikeberg**:
 
 and my post option  [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:yxDw:2017.06.1414.01.png.jpg)  [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:elGJ:2017.06.1414.01_01.png.jpg)  [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:DVNr:2017.06.1414.01_02.png.jpg)  [2017](//muut.com/u/maslowcnc/s3/:maslowcnc:dKNQ:2017.06.1414.01_03.png.jpg)
 
 ---
 
-Posted on *2017-06-14 11:10:19* by *gero*
+Posted on **2017-06-14 11:10:19** by **gero**:
 
 On his desk @Bar had a very similar thing on one of the legs. I don't think it's the 360 or the .nc file, as you have at least one round that is without the 'shortcut'.
 
 ---
 
-Posted on *2017-06-14 11:14:01* by *mikeberg*
+Posted on **2017-06-14 11:14:01** by **mikeberg**:
 
 It look to be In the same depth every time
 
 ---
 
-Posted on *2017-06-14 11:19:56* by *gero*
+Posted on **2017-06-14 11:19:56** by **gero**:
 
 Can you drop the .nc somewhere?
 
 ---
 
-Posted on *2017-06-14 11:21:55* by *mikeberg*
+Posted on **2017-06-14 11:21:55** by **mikeberg**:
 
 I reprogram the last contour it take a shortcut and this time no shortcut maybe because I made thé cut tolerance higher than before but the last piece I cutted take a shortcut with the same cutting tolerance,cutting tolerance 
 .002 inch and for the haas generic too
 
 ---
 
-Posted on *2017-06-14 11:27:19* by *mikeberg*
+Posted on **2017-06-14 11:27:19** by **mikeberg**:
 
 Tomorrow I will reprogram the tolerance at. 003 Maybe it will work
 
 ---
 
-Posted on *2017-06-14 11:41:42* by *mikeberg*
+Posted on **2017-06-14 11:41:42** by **mikeberg**:
 
 %
 O00003 (1/2-part-maslow-troue)
@@ -7686,49 +7686,49 @@ M30
 
 ---
 
-Posted on *2017-06-14 12:00:49* by *gero*
+Posted on **2017-06-14 12:00:49** by **gero**:
 
 Look great in CAMotics  [Mb](//muut.com/u/maslowcnc/s3/:maslowcnc:exg4:mb.jpg.jpg)
 
 ---
 
-Posted on *2017-06-14 12:11:39* by *Bar*
+Posted on **2017-06-14 12:11:39** by **Bar**:
 
 We have also been having issues with corrupted serial data causing strange behavior in the last few weeks. It's possible that the file is perfect, and that it was a serial bug which you saw
 
 ---
 
-Posted on *2017-06-14 12:30:04* by *mikeberg*
+Posted on **2017-06-14 12:30:04** by **mikeberg**:
 
 How Can correct my serial connection?
 
 ---
 
-Posted on *2017-06-14 12:34:01* by *mikeberg*
+Posted on **2017-06-14 12:34:01** by **mikeberg**:
 
 Grbl post can be chosen in fusion our connection can be better or not
 
 ---
 
-Posted on *2017-06-14 13:34:09* by *Bar*
+Posted on **2017-06-14 13:34:09** by **Bar**:
 
 The serial connection issue is a bug that I somehow introduced in the last week or two. The issue is on my side, not yours. You have the option to go back to a previous version of Ground Control to make it go away, but I'm working to hopefully fix very soon. The next best thing you can do is to make sure to be running the latest version of both the firmware and Ground Control because I've made some changes in the last week which I hope may have fixed the issue. I need to run more tests to be sure that the problem is gone.
 
 ---
 
-Posted on *2017-06-14 14:55:21* by *mikeberg*
+Posted on **2017-06-14 14:55:21** by **mikeberg**:
 
 I just want to say you and all of your team make a very good job for all going on fine! Thank you
 
 ---
 
-Posted on *2017-06-14 15:00:09* by *Bar*
+Posted on **2017-06-14 15:00:09** by **Bar**:
 
 Thank you! The team is just Hannah and I, we do our best. We couldn't do anything without you guys our awesome community :-)
 
 ---
 
-Posted on *2017-06-18 08:41:09* by *mrfugu*
+Posted on **2017-06-18 08:41:09** by **mrfugu**:
 
 I've created and shared a Fusion360 Project file that describes all parts and contours. It's based on the 'All_Parts_Laid_Out.svg' file and I've submitted a description and link to the github.
 
@@ -7740,7 +7740,7 @@ I hope anyone here with significant Fusion360 Experience, and any MaslowCNC devs
 
 ---
 
-Posted on *2017-06-18 08:49:16* by *mrfugu*
+Posted on **2017-06-18 08:49:16** by **mrfugu**:
 
 corrected link: http://a360.co/2sLJASm
 

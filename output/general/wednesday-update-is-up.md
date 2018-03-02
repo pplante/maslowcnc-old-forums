@@ -1,11 +1,11 @@
 ## Wednesday update is up!
-Posted on *2017-02-22 15:47:03* by *Bar*
+Posted on **2017-02-22 15:47:03** by **Bar**:
 
 The weekly Wednesday update is up! You can read it here: https://www.kickstarter.com/projects/1830738289/maslow-cnc-a-500-open-source-4-by-8-foot-cnc-machi/posts/1814177 . Let us know if you have any questions or more materials you want to see.
 
 ---
 
-Posted on *2017-02-22 18:48:21* by *davidlang*
+Posted on **2017-02-22 18:48:21** by **davidlang**:
 
 just a note, if the engraving bit lets you fold the material to a 90 degree angle, you have a 90 degree v-bit, not a 45 degree bit. the measurement is between the two edges of the cut, not between one edge and the center.
 
@@ -19,13 +19,13 @@ with the double-sided tape, what did you use? there is a fairly thick double-sid
 
 ---
 
-Posted on *2017-02-22 20:31:33* by *rollandelliott*
+Posted on **2017-02-22 20:31:33** by **rollandelliott**:
 
 I'd love to see some ABS plastic and aluminum sheet metal cut up, I can mail some free samples.
 
 ---
 
-Posted on *2017-02-23 11:24:48* by *Bar*
+Posted on **2017-02-23 11:24:48** by **Bar**:
 
 I will  have a go at anything you send my way. Our address is: 
 

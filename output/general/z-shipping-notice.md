@@ -1,5 +1,5 @@
 ## Z Shipping notice
-Posted on *2017-07-12 13:20:59* by *mooselake*
+Posted on **2017-07-12 13:20:59** by **mooselake**:
 
 Received an order shipped email for my Z axis on 7/10 with a tracking number that's been (and still is) at label printed since June 20th.   I thought the Zs would be in the box with the full kit to save the extra postage and didn't think too much of it.
 
@@ -7,13 +7,13 @@ If rewards were shipped by backer order (I hope; I'm number 11) then the box sho
 
 ---
 
-Posted on *2017-07-12 13:49:26* by *jbnimble*
+Posted on **2017-07-12 13:49:26** by **jbnimble**:
 
 Same.
 
 ---
 
-Posted on *2017-07-12 14:12:16* by *Bar*
+Posted on **2017-07-12 14:12:16** by **Bar**:
 
 Sorry for the confusion! You are far from the only person wondering this.
 

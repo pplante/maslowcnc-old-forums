@@ -1,5 +1,5 @@
 ## Magic Mirror with CNC'd joinery
-Posted on *2017-06-27 06:25:16* by *TheRiflesSpiral*
+Posted on **2017-06-27 06:25:16** by **TheRiflesSpiral**:
 
 Neat instructible in my inbox today...
 

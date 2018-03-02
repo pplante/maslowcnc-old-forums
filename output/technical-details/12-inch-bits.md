@@ -1,5 +1,5 @@
 ## 1/2 inch bits
-Posted on *2017-02-24 12:06:15* by *Bar*
+Posted on **2017-02-24 12:06:15** by **Bar**:
 
 Someone asked about using bigger bits so I bummed some 1/2 inch tooling from the custom fab shop next door  [1-2 Inch Mills](//muut.com/u/maslowcnc/s1/:maslowcnc:Yxsj:12inchmills.jpg.jpg). From left to right are the 1/4 inch up-cut bit I used in the update, a 1/2 inch straight bit, and a 1/2 inch compression bit. 
 
@@ -11,13 +11,13 @@ The dimensions are a little wonkey because I didn't regenerate the gcode for the
 
 ---
 
-Posted on *2017-02-25 14:56:08* by *cfrey*
+Posted on **2017-02-25 14:56:08** by **cfrey**:
 
 Any comments on which type of bit works better? Straight, Up-Cut, Down-Cut, Compression? I have only used a straight bit before but hear spiral is better for plunge cuts.
 
 ---
 
-Posted on *2017-02-25 17:29:56* by *davidlang*
+Posted on **2017-02-25 17:29:56** by **davidlang**:
 
 they have tradeoffs.
 
@@ -33,25 +33,25 @@ it depends a lot on the material,
 
 ---
 
-Posted on *2017-02-27 10:45:46* by *Bar*
+Posted on **2017-02-27 10:45:46** by **Bar**:
 
 The width of the bit seems to matter more than I expected. 1/4" inch bits seem to leave cleaner cuts than 1/8th" and 1/2" seems to be better than 1/4". I started out with very small bits because I was worried about having enough power to use larger bits, but that doesn't seem to be as much of an issue as I thought.
 
 ---
 
-Posted on *2017-02-27 13:14:14* by *jbarchuk*
+Posted on **2017-02-27 13:14:14** by **jbarchuk**:
 
 For the same RPM, double the diameter = double the IPS of the cutting edge = cleaner cut.
 
 ---
 
-Posted on *2017-02-27 13:30:09* by *Bar*
+Posted on **2017-02-27 13:30:09** by **Bar**:
 
 Great point!
 
 ---
 
-Posted on *2017-02-27 13:34:17* by *davidlang*
+Posted on **2017-02-27 13:34:17** by **davidlang**:
 
 the router has more than enough power to spin the large bits, the part I'd be concerned about is if the resulting torque causes positioning errors.
 

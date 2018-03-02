@@ -1,5 +1,5 @@
 ## Circles coming out as ellipsis
-Posted on *2017-03-24 12:43:08* by *Bar*
+Posted on **2017-03-24 12:43:08** by **Bar**:
 
 I've run the same gcode on my full size machine and on the scaled down version and I can confirm that there is something funky about the way the internal  math is compensating for the machine size. 
 
@@ -12,25 +12,25 @@ I will have this tracked down ASAP!
 
 ---
 
-Posted on *2017-03-24 15:29:39* by *Bar*
+Posted on **2017-03-24 15:29:39** by **Bar**:
 
 I think I've got this one tracked down (fingers crossed). I moved the discussion into the GitHub issue [here](https://github.com/MaslowCNC/Firmware/issues/140)
 
 ---
 
-Posted on *2017-03-24 17:20:08* by *mindeye*
+Posted on **2017-03-24 17:20:08** by **mindeye**:
 
 In the meantime, I've had good success this afternoon with fiddling with the horizontal motor offset. My initial measured 285 produced a 3.5" output vertical movement for an input of 4". Bumping to default 270 got me 3 5/8", Jumping down to 170 produced 4.25" and moving to 220 got the ideal 4" movement. I suppose this makes some sort of sense in theory but empirically it works so it's good enough for me.
 
 ---
 
-Posted on *2017-03-24 17:28:45* by *mindeye*
+Posted on **2017-03-24 17:28:45** by **mindeye**:
 
 Nearly there, vertically a 12" diameter circle came out perfect. Horizontally it was still off by an extra 1/4" so this approach doesn't fully solve the issue but it's a lot better than my initial -2.75" vertical and +1" horizontal.
 
 ---
 
-Posted on *2017-03-24 18:43:55* by *jbarchuk*
+Posted on **2017-03-24 18:43:55** by **jbarchuk**:
 
 > @mindeye
 > My initial measured 285 produced a 3.5“ output vertical movement for an input of 4”. Bumping to default 270 got me 3 5/8“, Jumping down to 170 produced 4.25” and moving to 220 got the ideal 4" movement.
@@ -51,13 +51,13 @@ All this measuring going on, I STILL don't trust any of these chinese tape measu
 
 ---
 
-Posted on *2017-03-24 18:49:20* by *blsteinhauer88*
+Posted on **2017-03-24 18:49:20** by **blsteinhauer88**:
 
 I  put a screw dead center of the sheet and drew a crosshair. I  measured and got close and adjusted the measurements after to zero in on the target.  [IMG_0473](//muut.com/u/maslowcnc/s3/:maslowcnc:NYDq:img_0473.jpg.jpg)
 
 ---
 
-Posted on *2017-03-25 08:14:43* by *Bar*
+Posted on **2017-03-25 08:14:43** by **Bar**:
 
 I totally agree that a calibration process to dial things by moving to known points (like blsteinhauer88 did) is the way to go.
 

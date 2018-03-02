@@ -1,29 +1,29 @@
 ## Screw length?
-Posted on *2017-04-28 12:56:08* by *mattnelson*
+Posted on **2017-04-28 12:56:08** by **mattnelson**:
 
 What length screws are used to attach the braces to the 2x4s?  The directions just say "short" wood screws.
 
 ---
 
-Posted on *2017-04-28 13:12:59* by *scottsm*
+Posted on **2017-04-28 13:12:59** by **scottsm**:
 
 The kit came with some 1.25" screws, that's what I'm using.
 
 ---
 
-Posted on *2017-04-28 13:46:16* by *Bar*
+Posted on **2017-04-28 13:46:16** by **Bar**:
 
 The 1.25 inch screws are the ones you want :-)
 
 ---
 
-Posted on *2017-04-28 13:54:32* by *mattnelson*
+Posted on **2017-04-28 13:54:32** by **mattnelson**:
 
 Thanks.  While I'm asking, how long are the "long" wood screws?  I want to start on my frame before my kit arrives.
 
 ---
 
-Posted on *2017-04-28 14:35:17* by *davidlang*
+Posted on **2017-04-28 14:35:17** by **davidlang**:
 
 really it just boils down to "longer screws hold better, but they can't be longer than the material they are holding is thick"
 
@@ -37,7 +37,7 @@ so the 'long screws' are probably 2.5", but the best answer really is "not quite
 
 ---
 
-Posted on *2017-04-28 15:32:28* by *scottsm*
+Posted on **2017-04-28 15:32:28** by **scottsm**:
 
 The long screws in the kit are 2.5"
 

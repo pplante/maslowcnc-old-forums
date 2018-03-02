@@ -1,5 +1,5 @@
 ## implement maslow kinematics in grbl?
-Posted on *2017-04-28 22:49:13* by *davidlang*
+Posted on **2017-04-28 22:49:13** by **davidlang**:
 
 I went looking to see what is implemented in the grbl firmware https://github.com/gnea/grbl and found that it implements a LOT more gcode features than we do, including some pretty sophisticated velocity planning (taking into account the angle between two line segments to figure out what speed you can have as you approach the turn for example)
 
@@ -11,7 +11,7 @@ we would let the rest of the firmware think that it's running stepper motors, bu
 
 ---
 
-Posted on *2017-04-28 23:22:51* by *davidlang*
+Posted on **2017-04-28 23:22:51** by **davidlang**:
 
 layers of indirection, movement blocks are then broken down to segment blocks for the motor to actually execute. They are executing the motor functions via an ISR(TIMER1_COMPA_vect) call
 a segment block is:

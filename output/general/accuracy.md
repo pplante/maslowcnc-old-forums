@@ -1,11 +1,11 @@
 ## Accuracy
-Posted on *2017-05-25 01:24:10* by *garry_j*
+Posted on **2017-05-25 01:24:10** by **garry_j**:
 
 To improve accuracy away from centre, and indeed everywhere, the chains need to maintain a radius line from the centre of the cutter. A couple of arms pivoting on the router mount is all that's needed.
 
 ---
 
-Posted on *2017-05-25 01:27:30* by *davidlang*
+Posted on **2017-05-25 01:27:30** by **davidlang**:
 
 There are people trying that. But the math we are using takes into account the tilt of the sled and the fact that the chains do not point directly at the center of the cutter.
 
@@ -19,19 +19,19 @@ now, I think there's probably a bug in here that's causing our error, but we hav
 
 ---
 
-Posted on *2017-05-25 05:46:53* by *garry_j*
+Posted on **2017-05-25 05:46:53** by **garry_j**:
 
 A lot of measurements to set up accurately, not to mention centre of mass is critical. Good luck with it.
 
 ---
 
-Posted on *2017-05-25 09:24:13* by *Bar*
+Posted on **2017-05-25 09:24:13** by **Bar**:
 
 Pivoting around the bit would be ideal, but there's quite a bit of hardware that goes into making that work. It could work, but probably not at our price point. I'm a pretty firm believer in trying to solve problems in software over hardware, but a big part of why everything is open source is to encourage that kind of exploration. If you build one that pivots, let us know!
 
 ---
 
-Posted on *2017-05-25 09:27:58* by *davidlang*
+Posted on **2017-05-25 09:27:58** by **davidlang**:
 
 Bar, did you ever test a sled where the router bit and the CG are on the line connecting the chain pivots?
 
@@ -41,19 +41,19 @@ This would make figuring out the math for positioning _much_ simpler (and hopefu
 
 ---
 
-Posted on *2017-05-25 09:39:33* by *Bar*
+Posted on **2017-05-25 09:39:33** by **Bar**:
 
 I haven't, but that's a really really cool idea. I'll add it to my list and keep thinking about it. Let me know if you try it. What a creative idea.
 
 ---
 
-Posted on *2017-05-25 09:51:17* by *davidlang*
+Posted on **2017-05-25 09:51:17** by **davidlang**:
 
 unfortunately I'm not a beta tester, so all I can do is make suggestions.
 
 ---
 
-Posted on *2017-05-25 09:52:10* by *Bar*
+Posted on **2017-05-25 09:52:10** by **Bar**:
 
 We're trying to get the rest of these kits in the mail change that pretty soon here :)
 

@@ -1,5 +1,5 @@
 ## MDF privacy Screens
-Posted on *2017-02-10 10:16:33* by *myschizobuddy*
+Posted on **2017-02-10 10:16:33** by **myschizobuddy**:
 
 Can maslow create a full 4x8 mdf privacy screen like the image below without overheating. Can maslow run 24/7 cutting these types of full sheets?  Can it create intricate designs?
 [51bb11654cfe5efe528d6b2dd4f6a620](//muut.com/u/maslowcnc/s2/:maslowcnc:YBVi:51bb11654cfe5efe528d6b2dd4f6a620.jpg.jpg) 
@@ -8,7 +8,7 @@ Can maslow create a full 4x8 mdf privacy screen like the image below without ove
 
 ---
 
-Posted on *2017-02-10 11:42:44* by *TheRiflesSpiral*
+Posted on **2017-02-10 11:42:44** by **TheRiflesSpiral**:
 
 MDF is murder on spiral bits... I'd be more worried about frequent tool changes than wearing Maslow out!
 
@@ -18,7 +18,7 @@ The accuracy of the machine is advertised at about 0.5mm so patterns like those 
 
 ---
 
-Posted on *2017-02-10 12:57:35* by *Bar*
+Posted on **2017-02-10 12:57:35** by **Bar**:
 
 I cut a good bit of that 1/4 inch MDF stuff and MDF gives you really nice clean edges. I haven't been doing a good job of keeping track of which bits get used for what so I can't comment on the tool life.
 
@@ -28,13 +28,13 @@ If you are looking to make some of those for your house I think Maslow could do 
 
 ---
 
-Posted on *2017-02-10 13:39:21* by *TheRiflesSpiral*
+Posted on **2017-02-10 13:39:21** by **TheRiflesSpiral**:
 
 Good point about the router. That's something to keep in mind with any consumer-grade power tool: most are not rated for continuous use and have duty cycles in the 50% range. Universal motors are quite forgiving of this rule but there is a limit. There are commercial-grade fixed base routers out there... they are not, however, $119. :D
 
 ---
 
-Posted on *2017-02-10 14:12:49* by *chauhuh*
+Posted on **2017-02-10 14:12:49** by **chauhuh**:
 
 I would worry more about the actually MDF breaking on me if it had so many cuts in it. You might need to consider a special hold down or some sort of optimized vacuum table.
 

@@ -1,5 +1,5 @@
 ## rabbit ear motor mount dimensions, per workspace dimensions
-Posted on *2017-02-11 19:50:53* by *jbarchuk*
+Posted on **2017-02-11 19:50:53** by **jbarchuk**:
 
 There's a very interesting page that talks about the math involved in calculating v-plotter line tensions vs workspace dimensions. http://2e5.com/plotter/V/design/
 
@@ -13,7 +13,7 @@ It's (maybe? should be?) possible to use the -ratios- of the dimensions in the d
 
 ---
 
-Posted on *2017-02-12 00:21:40* by *davidlang*
+Posted on **2017-02-12 00:21:40** by **davidlang**:
 
 That's a very interesting article, but it has some pretty significant assumptions built into it.
 
@@ -43,13 +43,13 @@ This does mean that it's probably more important to have the motors high over th
 
 ---
 
-Posted on *2017-02-12 00:22:25* by *davidlang*
+Posted on **2017-02-12 00:22:25** by **davidlang**:
 
 ok, I should have looked at the preview, the asterisk character has special meaning on this form, sorry.
 
 ---
 
-Posted on *2017-02-12 01:10:03* by *davidlang*
+Posted on **2017-02-12 01:10:03** by **davidlang**:
 
 Thinking about the problem here.
 
@@ -61,7 +61,7 @@ for the minimum tension, the hard limit should be the point where the force of t
 
 ---
 
-Posted on *2017-02-12 04:27:32* by *davidlang*
+Posted on **2017-02-12 04:27:32** by **davidlang**:
 
 doing some digging and playing around with this program produces some interesting info.
 
@@ -90,7 +90,7 @@ to do portrait mode (8' tall by 4' wide) it looks like you need a spacing of ~6'
 
 ---
 
-Posted on *2017-02-13 10:37:09* by *Bar*
+Posted on **2017-02-13 10:37:09** by **Bar**:
 
 +1 for that python! Since the software knows the dimensions of the machine, it would be easy to incorporate that that visualization into the machine's visualization of the work-space making it 1) really easy for everyone to test their ideas for different machine dimensions and 2) if someone has a build which is of a not optimal size (due to room size constraints or something) it would remind them where the best parts of the work-space to cut on are. 
 
@@ -100,7 +100,7 @@ Are you comfortable with me taking your code and incorporating it into Ground Co
 
 ---
 
-Posted on *2017-02-13 18:17:12* by *davidlang*
+Posted on **2017-02-13 18:17:12** by **davidlang**:
 
 It's fine with me, but the majority of the code is from 2e5.com and there is no license provided there.
 

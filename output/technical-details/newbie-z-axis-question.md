@@ -1,5 +1,5 @@
 ## Newbie z-axis question
-Posted on *2017-02-10 04:27:50* by *thomasgkristensen*
+Posted on **2017-02-10 04:27:50** by **thomasgkristensen**:
 
 I'm trying to source an appropriate router (in Denmark) so I can figure out which z-axis kit to order. It seems all the routers I've looked at so far have a spring mechanism which pushes the "active part" of the router up unless the lock is engaged. I can't figure out if this will work with the z-axis motor. I assume it won't? It seems the z-axis turns a knob to move the router bit down and up.
 
@@ -9,13 +9,13 @@ Sorry if there's some vital piece of information I've missed in an email. I've t
 
 ---
 
-Posted on *2017-02-10 09:27:07* by *jamesbil*
+Posted on **2017-02-10 09:27:07** by **jamesbil**:
 
 See my post Euro router options for a list Im compiling.
 
 ---
 
-Posted on *2017-02-10 09:41:24* by *thomasgkristensen*
+Posted on **2017-02-10 09:41:24** by **thomasgkristensen**:
 
 Thanks!
 

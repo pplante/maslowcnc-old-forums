@@ -1,11 +1,11 @@
 ## How about a Pledge Level that includes a Makesmith CNC?
-Posted on *2016-10-18 23:53:37* by *amckimmey*
+Posted on **2016-10-18 23:53:37** by **amckimmey**:
 
 How about a Pledge Level for the Maslow, that will also come with a Make Smith CNC. Then people who didn't get a Makesmith can still work on big and small projects.
 
 ---
 
-Posted on *2016-10-19 12:19:22* by *Bar*
+Posted on **2016-10-19 12:19:22** by **Bar**:
 
 Oooo cool idea!
 
@@ -17,19 +17,19 @@ What do you think?
 
 ---
 
-Posted on *2016-10-19 15:03:07* by *amckimmey*
+Posted on **2016-10-19 15:03:07** by **amckimmey**:
 
 That would be pretty cool to, DO IT!
 
 ---
 
-Posted on *2016-10-19 16:46:58* by *bdillahu*
+Posted on **2016-10-19 16:46:58** by **bdillahu**:
 
 I'd vote for that... I wondered if the Makesmith could be cut by the Maslow, but don't know enough about the Makesmith
 
 ---
 
-Posted on *2016-11-14 01:22:07* by *davidlang*
+Posted on **2016-11-14 01:22:07** by **davidlang**:
 
 If you end up doing a new version of the makesmith, I there there are a lot of interesting things to look at doing.
 

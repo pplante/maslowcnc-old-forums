@@ -1,5 +1,5 @@
 ## Weight Positioning
-Posted on *2017-07-15 19:03:44* by *cameronswartzell*
+Posted on **2017-07-15 19:03:44** by **cameronswartzell**:
 
 Thought I'd start a thread on weight positioning. Firstly, what is the function of the weights? Is it primarily to keep the sled flat to cutting surface? To make sure there is enough tension on the chain (seems like router weight alone is sufficient here)? To help correct the rotation of the sled due to tension differential? I'd like to know what the various reasons are for the added weight, so we can think how it can best be distributed. 
 
@@ -10,13 +10,13 @@ C) Weight in such a way that the center of gravi ty of the sled is as close as p
 
 ---
 
-Posted on *2017-07-15 19:08:16* by *cameronswartzell*
+Posted on **2017-07-15 19:08:16** by **cameronswartzell**:
 
 According to David's modified simulation.py, placing the CG at zero A) does not crash anything as I was worried it might, and B) indicates that a CG at zero distance from the bit is not any more affected by measuring errors to the CG than the default CG distance (79mm).
 
 ---
 
-Posted on *2017-07-15 19:21:34* by *davidlang*
+Posted on **2017-07-15 19:21:34** by **davidlang**:
 
 the bricks are to add weight to keep enough tension on the chains, and enough side force on the sled so that it moves rather than sticks.
 

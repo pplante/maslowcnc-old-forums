@@ -1,18 +1,18 @@
 ## Best / Flatest plywood recommended? & 1/8" metal sled?
-Posted on *2017-03-24 07:51:25* by *rollandelliott*
+Posted on **2017-03-24 07:51:25** by **rollandelliott**:
 
 I've got two questions #1 what is the best flattest plywood to use to make the frame. Most of my materails I cut will be very thin, 1/16 and 1/8" thick and I'd like to start off with the flattest material. obviously plywood is an organic material with random tolerances, but I'm sure some grades are better than others. local cabinet place recommended $62/sheet  poplar core with maple veneer 1" thick plywood. Might even buy some 1/4 aluminum plate, but it's expensive.  
 Question #2 everyone knows that the more a router bit sticks out the more vibration & torque.  Therefore wouldn't it make sense to have a laser cut sled made out of 1/8" thick steel with some umhw strips on the bottom? My local laser company would probably make them in the $20 to $30 range.  if you are using a 1/4" router bit and having to stick it out an extra 1/2 to 3/4" inch that is a HUGE deal IMHO.
 
 ---
 
-Posted on *2017-03-24 07:52:31* by *rollandelliott*
+Posted on **2017-03-24 07:52:31** by **rollandelliott**:
 
 if you are using a 1/8" bit that extra 1/2 to 3/4" distance will cause many bits to break.
 
 ---
 
-Posted on *2017-03-24 07:58:04* by *Bar*
+Posted on **2017-03-24 07:58:04** by **Bar**:
 
 I have heard good things about MDF coded plywood or even using MDF itself. It's less of an organic material so it will hold it's dimensions better as long as it doesn't get wet. 
 
@@ -20,7 +20,7 @@ The idea of making a thinner sled to reduce force on the bit is an interesting i
 
 ---
 
-Posted on *2017-03-24 10:02:29* by *davidlang*
+Posted on **2017-03-24 10:02:29** by **davidlang**:
 
 the sled is not a very large part of the weight, so making it thinner won't help much (remember, we are adding bricks to increase the weigh)
 
@@ -30,7 +30,7 @@ even the high quality plywood can end up being warped if it's stored wrong, so w
 
 ---
 
-Posted on *2017-03-24 10:03:29* by *jbarchuk*
+Posted on **2017-03-24 10:03:29** by **jbarchuk**:
 
 > @rollandelliott
 > I've got two questions #1 what is the best flattest plywood to use to make the frame. Most of my materails I cut will be very thin, 1/16 and 1/8“ thick and I'd like to start off with the flattest material.
@@ -46,19 +46,19 @@ Take into account overengineering though. One piece in the 'chain of inaccuracy'
 
 ---
 
-Posted on *2017-03-24 10:19:43* by *rollandelliott*
+Posted on **2017-03-24 10:19:43** by **rollandelliott**:
 
 davidlang making the sled thinner doesn't have anything to do with weight savings. it has to do with the length the router bit protrudes. take an extreme example. say your sled it 1.5" thick that will create undo stress and torque on the router. the closer the router bit is to the motor the smoother things run.
 
 ---
 
-Posted on *2017-03-24 10:20:04* by *rollandelliott*
+Posted on **2017-03-24 10:20:04** by **rollandelliott**:
 
 I can also get full 4x8 sheets of UMHW, its about $40 for a 4x8' sheet.
 
 ---
 
-Posted on *2017-03-24 10:45:53* by *davidlang*
+Posted on **2017-03-24 10:45:53** by **davidlang**:
 
 you should be able to move the router down to where the nut scrapes the wood, even with a 1/2" or thicker sled. Where are you going to find a cutter that short? you don't want to try to clamp to the cutting portion of the bit.
 
@@ -66,19 +66,19 @@ I've sent this link many times, but I'll list it again here, consider making the
 
 ---
 
-Posted on *2017-03-24 10:47:12* by *davidlang*
+Posted on **2017-03-24 10:47:12** by **davidlang**:
 
 MDF sheets are normally very flat. They aren't nearly as strong, but if you have a strong frame and are looking for a very flat spoilboard, they work well. I agree $60 plywood is bad overkill for the frame.
 
 ---
 
-Posted on *2017-03-24 11:23:25* by *rollandelliott*
+Posted on **2017-03-24 11:23:25** by **rollandelliott**:
 
 davidlang: you can't move router bit pass the working surface on any handheld  router I have ever used unless you literally cut off the router housing. The housing is designed to stop at the surface for obvious reasons, under normal circumstances one never has to have the bit protrude past the horizon. the thicker the sled the worse off one is. bench top routers on the other hand are a different story.
 
 ---
 
-Posted on *2017-03-24 11:25:08* by *davidlang*
+Posted on **2017-03-24 11:25:08** by **davidlang**:
 
 fixed base routers are commonly used in router tables so they frequently want that extra stick-out
 
@@ -88,25 +88,25 @@ but in any case, you are unlikly to find a bit short enough to need that much st
 
 ---
 
-Posted on *2017-03-24 12:57:42* by *rollandelliott*
+Posted on **2017-03-24 12:57:42** by **rollandelliott**:
 
 Every spiral upcut bit I've owned is short , I order them that way on purpose so I optimize my router. I guess if you just go to your local hardware store and choose from their poor selection that might be the case, but if you order online it's easy to find the perfect size bit for whatever material you need.
 
 ---
 
-Posted on *2017-03-24 13:00:05* by *rollandelliott*
+Posted on **2017-03-24 13:00:05** by **rollandelliott**:
 
 not sure what brands/models have this extra stick out, but my palm bosch, and full sized porter cable and skill routers do nto have extra stick out.. anyways I'll be making my sled as skinny as possible and suggests other do the same, can only be a benefit.
 
 ---
 
-Posted on *2017-03-24 13:01:17* by *spyker*
+Posted on **2017-03-24 13:01:17** by **spyker**:
 
 Lexan would be cool, light, strong, and cool to be able to see the cutting under the sled. And it's cheap enough to have a spare on hand.
 
 ---
 
-Posted on *2017-03-24 16:41:39* by *jbarchuk*
+Posted on **2017-03-24 16:41:39** by **jbarchuk**:
 
 > @jbarchuk
 > The pic looks like ocean waves, but over the ~40” length the total error is only about 1/16“.
@@ -116,7 +116,7 @@ This issue is more pronounced in my machine because the vertical pieces are much
 
 ---
 
-Posted on *2017-03-24 20:57:49* by *davidlang*
+Posted on **2017-03-24 20:57:49** by **davidlang**:
 
 no, a torsion box is another term for a stressed skin panel.
 
@@ -127,7 +127,7 @@ http://www.finewoodworking.com/2007/05/15/build-a-torsion-box-assembly-table
 
 ---
 
-Posted on *2017-03-24 21:20:46* by *jbarchuk*
+Posted on **2017-03-24 21:20:46** by **jbarchuk**:
 
 > @davidlang
 > no, a torsion box is another term for a stressed skin panel.
@@ -135,7 +135,7 @@ Got it, thanks.
 
 ---
 
-Posted on *2017-03-24 21:23:12* by *davidlang*
+Posted on **2017-03-24 21:23:12** by **davidlang**:
 
 another way of looking at a torsion box is that it changes bending forces to stretching forces
 
@@ -147,7 +147,7 @@ so if you extend this concept across the entire working surface, you can have a 
 
 ---
 
-Posted on *2017-03-25 00:09:26* by *jbarchuk*
+Posted on **2017-03-25 00:09:26** by **jbarchuk**:
 
 > @davidlang
 > It turns out that something like 90% of the strength is in the outer few percent of the wood,
@@ -157,7 +157,7 @@ The left side from this view is the side that's twisted 'away.' So, I'll add was
 
 ---
 
-Posted on *2017-03-25 00:38:33* by *davidlang*
+Posted on **2017-03-25 00:38:33** by **davidlang**:
 
 yep, hollow doors are a perfect example of torsion boxes, the inside is a think cardboard grid, and the outer layers are thin wood (with thicker wood around the edges, mostly to give you someplace to anchor the hinges and the knob to)
 
@@ -167,7 +167,7 @@ P.S. in terms of examples in nature, Bones tend to be hollow, not solid
 
 ---
 
-Posted on *2017-03-25 01:30:43* by *jbarchuk*
+Posted on **2017-03-25 01:30:43** by **jbarchuk**:
 
 Yep I thought of the bone thing later. Plants. too. There's a weird woody weed here in FL only the thickness of a pencil, and hollow, but will tear the snotrag out of a model airplane if it hits a patch of them. One of mine broke slightly, a pretty big 10# plane, I was lucky it didn't tear it in half. Balsa is fragile and that stuff is much stronger.
 In Asia they use bamboo for scaffolding the way we use aluminum. I saw several buildings maybe 8 stories tall literally wrapped in bamboo. Wow here are tons of bamboo scaffolding pics at google images. A little scary but I guess the workers there are used to it. Then again they 'spend' people very casually, such as a few thousand coal mining deaths each year where the USA loses a few dozen. But that's a different topic. https://www.google.com/search?q=bamboo+scaffolding&num=20&newwindow=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjnuaqEnPHSAhUQ_mMKHUipD9sQ_AUICSgC&biw=1920&bih=965#imgrc=_

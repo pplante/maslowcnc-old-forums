@@ -1,5 +1,5 @@
 ## Machine Settings
-Posted on *2017-02-15 09:32:04* by *garyw17*
+Posted on **2017-02-15 09:32:04** by **garyw17**:
 
 There seem to be a number of variables in the firmware that need to be adjusted based on machine hardware and size.  I am unclear on exactly what some of them are.  What I have found so far is:
 
@@ -38,7 +38,7 @@ Thanks for any input.
 
 ---
 
-Posted on *2017-02-15 10:11:30* by *Bar*
+Posted on **2017-02-15 10:11:30** by **Bar**:
 
 Yes! All of those things are important. I'm going to move all of those settings out into the user setting panel in Ground Control to make them easier to edit. 
 
@@ -48,14 +48,14 @@ Feel free to add any other machine settings you would like to be able to edit fr
 
 ---
 
-Posted on *2017-02-15 13:29:20* by *garyw17*
+Posted on **2017-02-15 13:29:20** by **garyw17**:
 
 So what exactly is ORIGINCHAINLEN?  And is MOTOROFFSETX and MOTOROFFSETY the distance from the top corner of teh work space to the sprocket center?
 Thanks
 
 ---
 
-Posted on *2017-02-15 15:04:34* by *Bar*
+Posted on **2017-02-15 15:04:34** by **Bar**:
 
 ORIGINCHAINLEN is the length of the chain when the the router is centered. It can be calculated from the machine dimensions but right now it is #defined because of the way I calibrate (I have one link painted white which I use for a reference, a better system is coming soon see this issue: https://github.com/MaslowCNC/GroundControl/issues/73 ).
 
@@ -63,13 +63,13 @@ MOTOROFFSETX and MOTOROFFSETY are exactly what you guessed. They are the distanc
 
 ---
 
-Posted on *2017-02-15 15:32:51* by *davidlang*
+Posted on **2017-02-15 15:32:51** by **davidlang**:
 
 so we have the spacing between the motors and the distance from the motors to the top corners of the work area. Is there also a height parameter for the work area that would let it know how far down from there it can go?
 
 ---
 
-Posted on *2017-02-15 15:46:28* by *davidlang*
+Posted on **2017-02-15 15:46:28** by **davidlang**:
 
 As a side note, the numbers listed above give a ~18" vertical spacing. the simulation calls for an 11" spacing, and then the bit is ~5.5" below the chain attachment points, so there should be ~3" of vertical play available (if the math is right) before the motors run out of power
 

@@ -1,5 +1,5 @@
 ## Right Angles
-Posted on *2016-11-08 15:23:29* by *Bar*
+Posted on **2016-11-08 15:23:29** by **Bar**:
 
 I've gotten a number of people asking to see a square, and I keep putting it off because there are so many more exciting things to cut, but it's a valid question so I should answer it. 
 

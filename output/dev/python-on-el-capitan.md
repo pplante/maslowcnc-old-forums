@@ -1,5 +1,5 @@
 ## Python on El Capitan
-Posted on *2016-12-27 19:56:38* by *TheRiflesSpiral*
+Posted on **2016-12-27 19:56:38** by **TheRiflesSpiral**:
 
 Howdy. I decided to give Python a try on the MacBook Pro this evening. The Python install went fine, as did Pyserial. Pip was up-to-date and the wheel and setuptools installs were fine as well.
 
@@ -35,20 +35,20 @@ Command "python setup.py egg_info" failed with error code 1 in /private/var/fold
 
 ---
 
-Posted on *2016-12-28 08:29:59* by *scottsm*
+Posted on **2016-12-28 08:29:59** by **scottsm**:
 
 I found that pypiwin32 wasn't needed on my OS X setup. I downloaded the binary <https://kivy.org/downloads/1.9.1/Kivy-1.9.1-osx-python2.7z> and followed the installation instructions <https://kivy.org/docs/installation/installation-osx.html>. After completing the steps including "Start from the Command Line" I could run 'kivy cncgc.py' from within GroundControl-master and see the GUI. I loaded an .nc file and can see the tool path. I wish there was a way to simulate a cutting session.
  I did open the simulation.py and played with the 2D sled controls. That might be interesting for the folks designing an alternative sled, or altering the bed size.
 
 ---
 
-Posted on *2016-12-28 10:02:03* by *Bar*
+Posted on **2016-12-28 10:02:03** by **Bar**:
 
 Thanks scottsm!
 
 ---
 
-Posted on *2016-12-29 04:37:22* by *TheRiflesSpiral*
+Posted on **2016-12-29 04:37:22** by **TheRiflesSpiral**:
 
 Great! I'll try this out later today.
 

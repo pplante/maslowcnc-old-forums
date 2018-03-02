@@ -1,5 +1,5 @@
 ## SOFTWARE CHOICE
-Posted on *2017-03-12 01:48:09* by *spatialguy*
+Posted on **2017-03-12 01:48:09** by **spatialguy**:
 
 Please do not waste your time. New user or old user! Use Fusion 360 software!! See how easy it is for CNC Router use...or any other use...Laser Cutting, 3D Printing etc etc 
 
@@ -9,19 +9,19 @@ Seriously, just use Fusion 360 and be done with it!!
 
 ---
 
-Posted on *2017-03-12 07:09:55* by *davidlang*
+Posted on **2017-03-12 07:09:55** by **davidlang**:
 
 there are many good options to use, some people are not going to want to support autodesk and be dependent on their goodwill
 
 ---
 
-Posted on *2017-03-12 08:00:40* by *rancher*
+Posted on **2017-03-12 08:00:40** by **rancher**:
 
 I'm three days in and just noticed that they store all of my data and designs.  That grates something fierce.  They control all the data.  They have all of your work.  I find it a bit creepy, but I get it for working with teams.  Still.   Is there really no way to turn it off and store versions locally?
 
 ---
 
-Posted on *2017-03-12 08:24:18* by *jbarchuk*
+Posted on **2017-03-12 08:24:18** by **jbarchuk**:
 
 I didn't like it at first either, but that's progress. Software has forever and always been 'in control' of data regardless of where it resides. M00t (and every other online chat service provider) has a copy of every post you write here. Your mobile phone service provider has a copy of every text you've sent. Yahoo Groups used to have a phrase in the TOS, 'we own your posts - it it Yahoo's -property-.' (Don't know if it still says that haven't been there in years.)
 That said, there are distinct -advantages- to cloud 'online data.' First, when data gets damaged the engineering folks can see it much faster and easier, rather than emailing them copies of things. They can compare the effects of one user's operations to the same operations on different data, to see which / how it stubbed its toe.
@@ -31,7 +31,7 @@ Lastly, when (not if) the user's hard drive crashes, they lose no data.
 
 ---
 
-Posted on *2017-03-12 08:35:47* by *rancher*
+Posted on **2017-03-12 08:35:47** by **rancher**:
 
 Yeah, I totally get it.  There are numerous advantages, it's just....new.  And.....I guess I'm paranoid.
 
@@ -39,7 +39,7 @@ Yeah, I totally get it.  There are numerous advantages, it's just....new.  And..
 
 ---
 
-Posted on *2017-03-12 09:13:13* by *jbarchuk*
+Posted on **2017-03-12 09:13:13** by **jbarchuk**:
 
 Maaaaaaaaany ppl don't have the time!!! I'm doing this to cut foam sheet for model airplanes. In RC planes 'foamies' have faaaar and wiiiide surpassed traditional balsa/covering in popularity because it's 10-50x faster to build a plane. Build in one night and you're in the air tomorrow rather than weeks to months.
 Same with Maslow -- getting off the ground with nothing more than a package that arrives in the mail, one trip to the big box, and a screwdriver, electric drill and hand saw. That's faaast!!!!
@@ -48,7 +48,7 @@ So you've seen all the latest tutorial vids and you know which are +1 and which 
 
 ---
 
-Posted on *2017-03-12 16:59:01* by *spatialguy*
+Posted on **2017-03-12 16:59:01** by **spatialguy**:
 
 @davidlang - come on David, an argument based on the goodwill of the supplier to keep updating/providing their software for free isn't one id expect to hear coming from an open source guy...you can argue that being open source it will never be charged for BUT you are at the mercy of the supporting community (Including yourself) for updates, new versions to suit new Windows/MAC/Android versions etc, competition with other Open Source software that appears etc. I just don't think it's a strong argument...goodwill and all...
 
@@ -58,7 +58,7 @@ Like I have said, it is part of their business model, a business model that has 
 
 ---
 
-Posted on *2017-03-12 17:23:19* by *spatialguy*
+Posted on **2017-03-12 17:23:19** by **spatialguy**:
 
 @jbarchuk, If you are going to post, post accurately and about things which you know, REALLY KNOW about. The 2-year CAD training to use Fusion 3D - the kind of bullshit spread around to validate you own comments. In future, just write "I use and like Sketchup and Makercam"
 
@@ -72,7 +72,7 @@ Michael
 
 ---
 
-Posted on *2017-03-12 20:22:50* by *jbarchuk*
+Posted on **2017-03-12 20:22:50** by **jbarchuk**:
 
 > @spatialguy
 >  In future, just write “I use and like Sketchup and Makercam”
@@ -81,7 +81,7 @@ The title of this thread is software choice. If there is to be no choice and you
 
 ---
 
-Posted on *2017-03-13 03:30:38* by *davidlang*
+Posted on **2017-03-13 03:30:38** by **davidlang**:
 
 @spacialguy, if the developers of an opensource project loose interest, you can keep using the old version forever, or modify it yourself, or find someone else to do the work.
 
@@ -91,7 +91,7 @@ It's fine for people to say they like any software, but as soon as you start say
 
 ---
 
-Posted on *2017-03-13 07:49:30* by *spatialguy*
+Posted on **2017-03-13 07:49:30** by **spatialguy**:
 
 "...or modify it yourself or find someone else to do the work." 
 That is exactly my point! Be a software programmer or find a software programmer.
@@ -99,7 +99,7 @@ Cross the line?&quest;...maybe a little to emphasise a point. Fair call, there i
 
 ---
 
-Posted on *2017-05-09 13:29:08* by *davidevans*
+Posted on **2017-05-09 13:29:08** by **davidevans**:
 
 This is probably a silly question. I read that Fusion 360 is free to Hobby users, is that a correct statement? I do not see that option in the App store. I see it is free for 30 days, then has a monthly or yearly price. How do you keep it free?
 

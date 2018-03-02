@@ -1,5 +1,5 @@
 ## Arduino Shields
-Posted on *2017-06-19 12:14:42* by *mooselake*
+Posted on **2017-06-19 12:14:42** by **mooselake**:
 
 Are there any plans to test these after they arrive from the supplier but before they ship?   Guessing you won't have time to test a thousand plus and make that ship date.  What about replacing ones that don't work?
 
@@ -7,7 +7,7 @@ Last minute supplier delays aren't unusual, but between it being a new product a
 
 ---
 
-Posted on *2017-06-19 12:49:45* by *Bar*
+Posted on **2017-06-19 12:49:45** by **Bar**:
 
 Yes! 
 

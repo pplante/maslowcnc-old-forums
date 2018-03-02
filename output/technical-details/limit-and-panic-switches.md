@@ -1,5 +1,5 @@
 ## limit and panic switches
-Posted on *2017-03-08 23:27:34* by *jbarchuk*
+Posted on **2017-03-08 23:27:34** by **jbarchuk**:
 
 > @Bar
 > There are six digital IO pins accessable in the beta version of the control board. Based on community feedback, I am making the next version of the control PCB have 4 digital IO pins and 2 analog/digital IO pins available.
@@ -16,7 +16,7 @@ When  software fails the next best backup is hardware activated by an outside so
 
 ---
 
-Posted on *2017-03-09 04:24:51* by *davidlang*
+Posted on **2017-03-09 04:24:51** by **davidlang**:
 
 defining 'out of area' with switches is going to be non-trivial, a length on one side can be 'in area' or 'out of area' depending on the length on the other side. It's also hard to set a switch to fire when a chain uses up most, but not all of it's available slack.
 
@@ -24,7 +24,7 @@ e-stop is good, but cutting all power is probably the easiest way to do that.
 
 ---
 
-Posted on *2017-03-09 09:52:27* by *Bar*
+Posted on **2017-03-09 09:52:27** by **Bar**:
 
 I agree that having a software e-stop is ideal, and I agree that cutting the power is the best option to be sure everything stops.
 
@@ -34,7 +34,7 @@ I like the idea of dedicating Aux port #1 to being a switch (or series of switch
 
 ---
 
-Posted on *2017-03-09 13:11:16* by *jbarchuk*
+Posted on **2017-03-09 13:11:16** by **jbarchuk**:
 
 > @davidlang
 > defining ‘out of area’ with switches is going to be non-trivial...
@@ -42,7 +42,7 @@ After thinking more I get it now. Limit switches are AAMOF nearly useless withou
 
 ---
 
-Posted on *2017-03-09 13:27:49* by *jbarchuk*
+Posted on **2017-03-09 13:27:49** by **jbarchuk**:
 
 > @Bar
 > I agree that having a software e-stop is ideal, and I agree that cutting the power is the best option to be sure everything stops.
@@ -59,7 +59,7 @@ Has the cause of that failure been identified and fixed?
 
 ---
 
-Posted on *2017-03-09 16:20:25* by *davidlang*
+Posted on **2017-03-09 16:20:25** by **davidlang**:
 
 The problem with an e-stop tied into the arduino is that the router will keep spinning (since there is no motor control)
 
@@ -67,7 +67,7 @@ something like this https://www.amazon.com/Rockler-Safety-Power-Tool-Switch/dp/B
 
 ---
 
-Posted on *2017-03-09 16:43:31* by *mooselake*
+Posted on **2017-03-09 16:43:31** by **mooselake**:
 
 Panic type limit switches seems pretty straightforwards, as long as there's at least a bit of slop at the upper cutting limits (and since you can't get the chains horizontal there should be).  Hit a switch on either the left or right side, outside the normal travel limits, and you're out of it.  By that point the motors won't turn any further so you're in trouble anyway.  Poll or use interrupts, whichever fits the firmware best.
 
@@ -79,7 +79,7 @@ A router relay control SSR only takes one pin, and not a lot of gcode support. a
 
 ---
 
-Posted on *2017-03-09 16:52:15* by *davidlang*
+Posted on **2017-03-09 16:52:15** by **davidlang**:
 
 what you are missing is that the problem isn't hitting the upper limits (the chains retracting too much), the problem is hitting the lower and side limits (the chains being let out too far). If you are cutting the bottom left corner, the left chain cannot be any longer than about ~4.5 ft and the right chain cannot be any longer than ~10 ft, but if you are cutting the bottom right corner, the left side will need to be ~10 ft and the right side ~4.5 ft.
 
@@ -87,7 +87,7 @@ so what length of chain should you have trip your limit sensors?
 
 ---
 
-Posted on *2017-03-10 12:15:04* by *mooselake*
+Posted on **2017-03-10 12:15:04** by **mooselake**:
 
 When you know where you are then detecting that you've hit the limits isn't a problem, and once you know where the minimum retraction ("home") points on both sides are - assuming your geometry is configured right - then software limits will handle it.  The use of DC motors with encoders makes it a lot less likely that you'll lose position then lost steps with stepper motors.
 
@@ -95,19 +95,19 @@ If you still want to know when you go past a limit then push bars with switches 
 
 ---
 
-Posted on *2017-03-10 16:14:11* by *davidlang*
+Posted on **2017-03-10 16:14:11** by **davidlang**:
 
 @mooslake, the first half of your pose boils down to enforcing the limits in software, which is what the OP was wanting to avoid doing.
 
 ---
 
-Posted on *2017-03-10 23:38:40* by *jbarchuk*
+Posted on **2017-03-10 23:38:40** by **jbarchuk**:
 
 To clarify, not to 'avoid... software limits....' but to add another level of safety net that is a little more independent of the main driver software.
 
 ---
 
-Posted on *2017-03-13 10:09:32* by *mooselake*
+Posted on **2017-03-13 10:09:32** by **mooselake**:
 
 Wooden frame with clearance to slide plywood underneath that will make the router stop - the power isn't software controllable so that's as much stopping as you need.  Or pivoting stops, the conduit swinging on one end option.  Both in the way...  Or determine what the maximum chain tension can be during normal operation and add a spring controlled (spring pushing a pulley against the chain) switch that'll open (NC is a safety feature) if that tension is exceeded.
 
@@ -115,13 +115,13 @@ The real hazard here is the spinning router, and there's currently no way to tur
 
 ---
 
-Posted on *2017-03-13 10:14:37* by *Bar*
+Posted on **2017-03-13 10:14:37** by **Bar**:
 
 Something to throw into the conversation is that the controller is powered separately than the motors (by design) so if you were to add one of those in power cord e-stop buttons which cuts power to both the motors and the router you could stop the machine immediately and turn off the router without cashing the firmware, meaning you could still resume your cut.
 
 ---
 
-Posted on *2017-03-13 14:10:50* by *mooselake*
+Posted on **2017-03-13 14:10:50** by **mooselake**:
 
 Wouldn't you loose your position if you did that?  The firmware wouldn't know if the motors had moved after loosing the encoder pulses.
 

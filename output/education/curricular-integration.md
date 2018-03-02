@@ -1,11 +1,11 @@
 ## Curricular Integration?
-Posted on *2017-07-01 08:55:18* by *mattnelson*
+Posted on **2017-07-01 08:55:18** by **mattnelson**:
 
 For those of us receiving a maslow for our school, I'm curious how everyone plans to integrate the maslow with their existing curriculum.  While my K-8 has a makerspace for student's free exploration with 3D printers, a laser cutter, and soon a maslow we also plan to use the equipment for projects connected to our state standards and existing curriculum.  For example, our NGSS science standards for 3rd grade involve the science of flight, perhaps the students can design gliders and a launcher and cut it out on the maslow.  What are your plans?
 
 ---
 
-Posted on *2017-07-02 05:46:27* by *jwolter0*
+Posted on **2017-07-02 05:46:27** by **jwolter0**:
 
 Disclaimer: I'm not a professional educator, just an engineer who mentors a high-school extracurricular robotics team.
 
@@ -15,7 +15,7 @@ The other approach is based on what Maslow is.  There's lots of math and physics
 
 ---
 
-Posted on *2017-07-02 07:22:27* by *davidlang*
+Posted on **2017-07-02 07:22:27** by **davidlang**:
 
 Teaching Maslow as a machine is interesting for people who are interested in designing such machines. (the advanced computer folks should experiment with improving the Maslow firmware/ground control software, this also teaches them to interact with open source projects)
 

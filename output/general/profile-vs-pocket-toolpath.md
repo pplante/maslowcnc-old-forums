@@ -1,11 +1,11 @@
 ## Profile vs. Pocket Toolpaths
-Posted on *2017-03-16 12:16:47* by *tmaker*
+Posted on **2017-03-16 12:16:47** by **tmaker**:
 
 Will Maslow support a "pocket toolpath" as opposed to a profile toolpath as illustrated in this video? https://youtu.be/Wd54ai1Xbnk?t=1m30s If not, what would be the solution to clear out everything within a closed shape to replicate the pocket toolpath?
 
 ---
 
-Posted on *2017-03-16 13:17:46* by *Bar*
+Posted on **2017-03-16 13:17:46** by **Bar**:
 
 Good question!
 
@@ -13,13 +13,13 @@ Yes, Maslow will do both pocket and profile tool paths. You are limited to pocke
 
 ---
 
-Posted on *2017-03-16 13:18:47* by *tmaker*
+Posted on **2017-03-16 13:18:47** by **tmaker**:
 
 Awesome!  Very glad to hear that :)
 
 ---
 
-Posted on *2017-03-16 13:20:19* by *jbarchuk*
+Posted on **2017-03-16 13:20:19** by **jbarchuk**:
 
 The simplest correct answer is 'yes,' but not because it's 'part of Maslow.' Clear as mud? :) I'll explain a bit more...
 

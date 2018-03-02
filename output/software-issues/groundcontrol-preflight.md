@@ -1,5 +1,5 @@
 ## GroundControl preflight
-Posted on *2017-01-30 11:31:28* by *scottsm*
+Posted on **2017-01-30 11:31:28** by **scottsm**:
 
 @Bar, I'm not sure of the purpose for the [10<< 1< || 1>  10>>] section of the controls, but I've been using it to preflight .nc files.
  The controls don't seem to affect anything but the positionIndicator on the screen, so perhaps this is what they are for. That said, I have a couple of tweaks or suggestions to offer:
@@ -9,7 +9,7 @@ Posted on *2017-01-30 11:31:28* by *scottsm*
 
 ---
 
-Posted on *2017-01-30 17:13:56* by *Bar*
+Posted on **2017-01-30 17:13:56** by **Bar**:
 
 You are pretty close to the intended purpose ;)
 
@@ -21,7 +21,7 @@ I'm also open to any new features that you think would be useful.
 
 ---
 
-Posted on *2017-01-30 19:14:40* by *scottsm*
+Posted on **2017-01-30 19:14:40** by **scottsm**:
 
 I see how that could be very useful. I'll do the PRs and let you decide on them.
 

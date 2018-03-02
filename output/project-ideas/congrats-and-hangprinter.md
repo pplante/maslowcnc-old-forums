@@ -1,5 +1,5 @@
 ## Congrats and Hangprinter
-Posted on *2016-10-16 13:00:48* by *torbjorn*
+Posted on **2016-10-16 13:00:48** by **torbjorn**:
 
 Hello MaslowCNC community and congrats with the vertical and simplified frame- CNC design. I love it!
 
@@ -15,7 +15,7 @@ Baz have suggested that I check out the motors that Maslow use with  a 1,000:1 r
 
 ---
 
-Posted on *2016-10-17 10:20:17* by *Bar*
+Posted on **2016-10-17 10:20:17** by **Bar**:
 
 I know I said this before in our email, but I want to say it again publicly, this is soooooo cool. I especially love that it's all in one package. 
 
@@ -29,7 +29,7 @@ Our (My) code is intentionally written to be portable so each motor is an object
 
 ---
 
-Posted on *2016-10-19 03:41:56* by *torbjorn*
+Posted on **2016-10-19 03:41:56** by **torbjorn**:
 
 Thanks!
 I'm serious about testing servos. They would make the moving part of Hangprinter ca 1 kg lighter than the current prototype with stepper motor solution. Also, closed loop control is crucual since prints will often be > 20 h long.
@@ -46,19 +46,19 @@ What motivated you to write your own firmware instead of using/modifying existin
 
 ---
 
-Posted on *2016-10-19 05:27:04* by *torbjorn*
+Posted on **2016-10-19 05:27:04** by **torbjorn**:
 
 The branch `build_maunal_0` is the most up-to-date one on github. It corresponds to the build instructions found here: http://vitana.se/opr3d/tbear/index.html#Clerck_assembly_manual
 
 ---
 
-Posted on *2016-10-19 12:27:18* by *torbjorn*
+Posted on **2016-10-19 12:27:18** by **torbjorn**:
 
 I live in Sweden, so it might be expensive to send servos. Thanks for offering =)
 
 ---
 
-Posted on *2016-10-19 13:09:56* by *Bar*
+Posted on **2016-10-19 13:09:56** by **Bar**:
 
 I bet they'll fit in a small flat rate box so it shouldn't be more than $30. Is size/weight an issue for you. Our main motors are pretty beefy and with a 1,000:1 gear box you are going to have WAY more torque than anyone needs. 
 
@@ -66,7 +66,7 @@ I just spec'd some smaller motors for the z-axis on Maslow, maybe those would be
 
 ---
 
-Posted on *2016-10-24 11:38:10* by *torbjorn*
+Posted on **2016-10-24 11:38:10** by **torbjorn**:
 
 Nice =) I'd like weight to be as low as possible, the z-axis motors sounds like the better fit. Emailing my address.
 

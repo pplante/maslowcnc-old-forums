@@ -1,11 +1,11 @@
 ## Spiral up cut or down cut?
-Posted on *2017-03-29 16:06:10* by *ledsled71*
+Posted on **2017-03-29 16:06:10** by **ledsled71**:
 
 Seems like down cut would make most sense to reduce tear out.  Thoughts/experiences?
 
 ---
 
-Posted on *2017-03-29 17:34:24* by *tmaker*
+Posted on **2017-03-29 17:34:24** by **tmaker**:
 
 The following is quoted from the Edge of Arlington CNC Manual:
 
@@ -13,13 +13,13 @@ The following is quoted from the Edge of Arlington CNC Manual:
 
 ---
 
-Posted on *2017-03-29 19:23:14* by *rollandelliott*
+Posted on **2017-03-29 19:23:14** by **rollandelliott**:
 
 I prefer up cut as the chips get removed easier. the downcuts force the chips down and can cause build up and jams,  I cut mostly plastic and aluminum so tear out doesn't really apply as much as it would with a material like wood. also 90% of the bits on aliexpress are upcuts, downcuts are harder to find.
 
 ---
 
-Posted on *2017-03-29 21:22:01* by *Bar*
+Posted on **2017-03-29 21:22:01** by **Bar**:
 
 I prefer spiral up cut bits because I feel like they pull the sled toward the work. Maybe not significantly, but it makes me feel good. Also like @rollandelliot said, they are more common
 

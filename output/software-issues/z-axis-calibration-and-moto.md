@@ -1,5 +1,5 @@
 ## Z-Axis Calibration and motor engagement
-Posted on *2017-07-16 08:22:49* by *jbnimble*
+Posted on **2017-07-16 08:22:49** by **jbnimble**:
 
 Using 0.80 Firmware and Ground Control 0.80. Setup and plugged in Z-Axis, and running Step 7 of 9 of calibration. Noticing that when I move the Z-Axis up/down that the Left and Right motor/encoders are also engaging. Why would the Left/Right motors need to engage?
 
@@ -7,7 +7,7 @@ I have also noticed that when manually moving the left/right motors that there i
 
 ---
 
-Posted on *2017-07-16 13:34:09* by *Bar*
+Posted on **2017-07-16 13:34:09** by **Bar**:
 
 I know exactly what you are talking about.
 
@@ -17,19 +17,19 @@ This is something we can revisit once everything is more stable, because you are
 
 ---
 
-Posted on *2017-07-16 14:07:52* by *jbnimble*
+Posted on **2017-07-16 14:07:52** by **jbnimble**:
 
 Thanks. I can say that once I finally got the calibration working (I must have run it at least 10 times in the last 2 days), that it appears to be cutting as expected. Top left corner had some issues, but I think that is known. Also the Z-Axis makes all the difference, cutting with that temp sled that did not have a Z-Axis was painful. A lot of lessons learned this weekend. Excited that things are mostly working! ... and I need a quieter vacuum, wowsa. [Progress...](//muut.com/u/maslowcnc/s1/:maslowcnc:q578:20170716_165916.jpg.jpg)
 
 ---
 
-Posted on *2017-07-16 14:14:59* by *Bar*
+Posted on **2017-07-16 14:14:59** by **Bar**:
 
 That's fantastic to hear! Keep us posted as you progress :-)
 
 ---
 
-Posted on *2017-07-17 01:51:29* by *cameronswartzell*
+Posted on **2017-07-17 01:51:29** by **cameronswartzell**:
 
 https://www.ridgid.com/us/en/14-gallon-high-performance-wet-dry-vac
 

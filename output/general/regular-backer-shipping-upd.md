@@ -1,11 +1,11 @@
 ## Regular backer shipping update?
-Posted on *2017-04-15 08:49:16* by *mattnelson*
+Posted on **2017-04-15 08:49:16** by **mattnelson**:
 
 I was curious when shipping would begin to the regular backers?  Any issues on your end receiving the needed parts?
 
 ---
 
-Posted on *2017-04-15 12:57:51* by *Bar*
+Posted on **2017-04-15 12:57:51** by **Bar**:
 
 That's a good idea, we've been focusing a lot on the beta testers in the updates, we'll do some better coverage of the regular shipping this week. 
 

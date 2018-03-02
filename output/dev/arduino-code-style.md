@@ -1,5 +1,5 @@
 ## Arduino Code Style
-Posted on *2017-01-22 18:11:07* by *jbnimble*
+Posted on **2017-01-22 18:11:07** by **jbnimble**:
 
 Was thinking on doing some code style formatting (non-functional changes) and possibly adding more comments to the [Firmware](https://github.com/MaslowCNC/Firmware) code base. What sort of coding style is preferred? For example, tabs vs spaces, etc. Is there interest in adding support for  [Doxygen](http://www.stack.nl/~dimitri/doxygen/) comments for generating documentation? Thoughts? Opinions?
 
@@ -11,7 +11,7 @@ My main interest is to better understand the code, and making it have a consiste
 
 ---
 
-Posted on *2017-01-23 09:06:48* by *Bar*
+Posted on **2017-01-23 09:06:48** by **Bar**:
 
 Yes yes yes! Please please please!
 
@@ -34,13 +34,13 @@ If you are working your way through the code and have any questions, I am more t
 
 ---
 
-Posted on *2017-01-23 13:42:46* by *jbnimble*
+Posted on **2017-01-23 13:42:46** by **jbnimble**:
 
 Should the header with the license statement be "Copyright 2017 Bar Smith" instead of 2014?
 
 ---
 
-Posted on *2017-01-23 15:30:59* by *Bar*
+Posted on **2017-01-23 15:30:59** by **Bar**:
 
 I think it's supposed to be 2014-2017. Going through all the GPL stuff and updating it is on my todo list. There's a bunch of "Makesmith" in there that needs to be "Maslow" too. If you see any that you want to change while you are in there, go for it.
 

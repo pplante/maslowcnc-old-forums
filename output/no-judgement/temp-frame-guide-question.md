@@ -1,5 +1,5 @@
 ## Temp frame guide question
-Posted on *2017-04-30 10:04:54* by *boandersen*
+Posted on **2017-04-30 10:04:54** by **boandersen**:
 
 In the guide to building temp frame, it says:"Attach the temporary sled to the chains using the large cotter pins. Clicking the 'Home' repeatedly in Ground Control will return the sled to the center of the plywood sheet."
 
@@ -7,7 +7,7 @@ Why repeatedly?
 
 ---
 
-Posted on *2017-04-30 10:22:34* by *Bar*
+Posted on **2017-04-30 10:22:34** by **Bar**:
 
 Great question. 
 

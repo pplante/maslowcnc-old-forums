@@ -1,11 +1,11 @@
 ## How do I start? (program, etc)
-Posted on *2017-02-25 12:12:37* by *robertkni*
+Posted on **2017-02-25 12:12:37** by **robertkni**:
 
 Hey everyone.  I am new to all of this but will be a beta tester once the Maslow arrives.  I am trying to get a jumpstart on designing and learning software.  Is there a free or inexpensive CAD/CAM software to download?  Can anyone walk me through what steps i need to take in order to start cutting once I get Maslow?  Thank for your help.
 
 ---
 
-Posted on *2017-02-25 12:22:06* by *davidlang*
+Posted on **2017-02-25 12:22:06** by **davidlang**:
 
 There are lots of software packages available, a few weeks ago the weekly update included a link to a video that showed the full process from designing the part to cutting it.
 
@@ -15,25 +15,25 @@ https://www.kickstarter.com/projects/1830738289/maslow-cnc-a-500-open-source-4-b
 
 ---
 
-Posted on *2017-02-25 12:44:54* by *robertkni*
+Posted on **2017-02-25 12:44:54** by **robertkni**:
 
 Well, I downloaded a file from Opendesk.cc and they are all .dxf files but can only be opened with sketchup Pro.  I just can't drop $700 on that program.  What else can I use or is there a way to change the filetype?
 
 ---
 
-Posted on *2017-02-25 14:12:38* by *alstaxi*
+Posted on **2017-02-25 14:12:38** by **alstaxi**:
 
 http://www.shapeoko.com/wiki/index.php/CAD#2D
 
 ---
 
-Posted on *2017-02-27 10:38:46* by *hannahteagle*
+Posted on **2017-02-27 10:38:46** by **hannahteagle**:
 
 The good old Google "dxf to svg" comes up with quite a few free converters, but I haven't personally tested any of them. I'm sure some work well, but feel free to give any a try and let us know how it goes!
 
 ---
 
-Posted on *2017-02-27 10:42:17* by *Bar*
+Posted on **2017-02-27 10:42:17** by **Bar**:
 
 For simple things I like this free online one: https://convertio.co/dxf-svg/
 
@@ -41,7 +41,7 @@ For more complicated things like parts from OpenDesk I like to use Q-CAD which i
 
 ---
 
-Posted on *2017-02-27 14:15:13* by *jbarchuk*
+Posted on **2017-02-27 14:15:13** by **jbarchuk**:
 
 It depends on how far you think you might go with CAD/CAM. If strictly 2D then there are a lot more options that I know little about.
 Autodesk Autocad has been The Gold Standard for over 30 years. It also used to cost more than platinum. :) <-- Holy sht this silly software won't even print a colon-close parens smiley face. Duh. Whatever.
@@ -56,21 +56,21 @@ pricing page http://www.autodesk.com/products/fusion-360/subscribe
 
 ---
 
-Posted on *2017-03-02 06:41:34* by *spatialguy*
+Posted on **2017-03-02 06:41:34** by **spatialguy**:
 
 Autodesk Fusion 360. This type of software has been central to my job for 30 years. Don't use anything else for this type of work. It's free, training/tutorials are free and YouTube has thousands of them. The only competitor is Solidworks, very very good also but it will cost you $US3995 plus $US1995 per annum subscription fee for their most basic version. 
 NOTE: The commercial version of Autodesk's Solidworks equavilent is a similar price. Autodesk let hobbyists, students etc use for Fusion 360 free but it is not-for-profit use only, else you buy.
 
 ---
 
-Posted on *2017-03-02 06:47:29* by *spatialguy*
+Posted on **2017-03-02 06:47:29** by **spatialguy**:
 
 Hannah, SketchUp is a handy program too, but you will feel really limited soon, plus you will continue to have interoperability issues with file types and the like. Why don't you jump into Fusion 360, your general experience with SketchUp will serve you well. YouTube will get you off to a flying start. Just a suggestion...
 Michael
 
 ---
 
-Posted on *2017-03-02 10:46:22* by *hannahteagle*
+Posted on **2017-03-02 10:46:22** by **hannahteagle**:
 
 Hey Michael,
 
@@ -78,7 +78,7 @@ Thanks for the suggestion. I appreciate it! Could you link me to the mac downloa
 
 ---
 
-Posted on *2017-03-02 11:41:37* by *chauhuh*
+Posted on **2017-03-02 11:41:37** by **chauhuh**:
 
 I'll third fusion 360. I think the actually terms of use allows business use up to 100k before you need to pay so for most people it'll carry them a long way. It is a wonderful program to use coming from a 20 year CAD junkie. Simple with the power to go complex and easy to use.
 
@@ -90,13 +90,13 @@ https://www.youtube.com/watch?v=sw8BW0IXWZw&list=PLmA_xUT-8UlLmTvSAketheHaNQWxNA
 
 ---
 
-Posted on *2017-03-02 13:34:12* by *hannahteagle*
+Posted on **2017-03-02 13:34:12** by **hannahteagle**:
 
 Thanks for the "third" and the links - downloading it now!
 
 ---
 
-Posted on *2017-03-02 13:34:53* by *davidlang*
+Posted on **2017-03-02 13:34:53** by **davidlang**:
 
 while it's nice that autodesk is allowing free licenses for fusion 360, it's worth noting that they can change this at any time and/or change the restrictions. Autodesk is known for their predatory pricing/sales structure and file format lock-in, so the fact that they are making fusion360 free indicates that they are feeling the competition.
 
@@ -104,13 +104,13 @@ go ahead and use it if you want, but do so with your eyes wide open.
 
 ---
 
-Posted on *2017-03-02 13:43:17* by *chauhuh*
+Posted on **2017-03-02 13:43:17** by **chauhuh**:
 
 @davidlang I totally understand where you are coming from. But right now fusion 360 is the bees knees. And since you can export to the formats that you might need in another program there is no harm in using it while its free.
 
 ---
 
-Posted on *2017-03-02 14:20:27* by *davidlang*
+Posted on **2017-03-02 14:20:27** by **davidlang**:
 
 personally, I like it when opensource projects recommend other opensource projects :-)
 
@@ -118,7 +118,7 @@ But I did not respond initially to the recommendation of fusion 360, that's a pe
 
 ---
 
-Posted on *2017-03-02 21:43:47* by *jbarchuk*
+Posted on **2017-03-02 21:43:47** by **jbarchuk**:
 
 > @chauhuh
 > Start here for tutorials.
@@ -139,13 +139,13 @@ Don't trust every vid. Many are wrong.
 
 ---
 
-Posted on *2017-03-03 03:51:41* by *spatialguy*
+Posted on **2017-03-03 03:51:41** by **spatialguy**:
 
 Hey guys, this is a no judgement page remember?&quest; There's no right or wrong answer to robertkni's question. I like Fusion 360 commercial software, davidlang prefers the ideals of open source software, Hannah was enjoying using SketchUp software etc, etc. Take a breath...they all do the same thing. robertkni, you won't go wrong with any of these suggestions, have a fish around on the WWW and see what sounds good to you and give it a go. Let us all know how you get on.
 
 ---
 
-Posted on *2017-03-03 08:24:53* by *TheRiflesSpiral*
+Posted on **2017-03-03 08:24:53** by **TheRiflesSpiral**:
 
 Thanks for bringing it home, @spatialguy.
 
@@ -153,55 +153,55 @@ Let's keep the rants to a minimum, folks.
 
 ---
 
-Posted on *2017-03-03 09:50:46* by *hannahteagle*
+Posted on **2017-03-03 09:50:46** by **hannahteagle**:
 
 Yes, thank you @spatialguy and @TheRiflesSpiral. While we appreciate everyone's opinions, we don't want to scare anyone away from the No Judgement channel! This is our safe place :) I appreciate everyone's feedback
 
 ---
 
-Posted on *2017-03-03 13:27:19* by *spatialguy*
+Posted on **2017-03-03 13:27:19** by **spatialguy**:
 
 TheRiflesSpiral, lol, I know this is off topic but what on earth is your little pic. Is that blood lol
 
 ---
 
-Posted on *2017-03-03 13:37:19* by *TheRiflesSpiral*
+Posted on **2017-03-03 13:37:19** by **TheRiflesSpiral**:
 
 :D No it's a bunny eating a cherry. My sister raised bunnies for 4H and we fed them cherries one time... it looked like a bloodbath! I found that pic on Google and it reminded me of simpler times.
 
 ---
 
-Posted on *2017-03-03 13:37:50* by *jbarchuk*
+Posted on **2017-03-03 13:37:50** by **jbarchuk**:
 
 Rabid Rabbit
 
 ---
 
-Posted on *2017-03-03 13:41:46* by *TomTheWhittler*
+Posted on **2017-03-03 13:41:46** by **TomTheWhittler**:
 
 Actually the "Rabbit of Caerbannog"
 
 ---
 
-Posted on *2017-03-03 14:03:15* by *spatialguy*
+Posted on **2017-03-03 14:03:15** by **spatialguy**:
 
 TomTheWhittler...It's time for The Holy Hand Grenade of Antioch!!
 
 ---
 
-Posted on *2017-03-04 16:25:31* by *nathanmiller*
+Posted on **2017-03-04 16:25:31** by **nathanmiller**:
 
 I'll admit, every time I see TheRifelsSpiral's bunny pic I think of Monty Python and the rabbit with "sharp pointy teeth!"
 
 ---
 
-Posted on *2017-03-04 18:01:16* by *spatialguy*
+Posted on **2017-03-04 18:01:16** by **spatialguy**:
 
 And it was the Holy Hand Grenade that killed it in the movie after Sir Robyn soiled himself twice?&quest;. Rifle's pic is a classic ! Even better that it's real and not edited, lol
 
 ---
 
-Posted on *2017-03-06 04:54:19* by *jwolter0*
+Posted on **2017-03-06 04:54:19** by **jwolter0**:
 
 I'll throw my thoughts into the ring (and sorry for interrupting a good Monty Python tangent).  First, two more recommendations for CAD software: 1) OnShape, and 2) FreeCAD. 
 

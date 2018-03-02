@@ -1,5 +1,5 @@
 ## Introduction plus Headless Raspberry Pi 3
-Posted on *2017-01-02 11:10:39* by *jessbussert*
+Posted on **2017-01-02 11:10:39** by **jessbussert**:
 
 Hey folks,
 
@@ -32,7 +32,7 @@ Jessica
 
 ---
 
-Posted on *2017-01-02 16:16:45* by *TomTheWhittler*
+Posted on **2017-01-02 16:16:45** by **TomTheWhittler**:
 
 Hi Jessica,
 you wrote "Unfortunately, I can't get any mouse or keyboard response to this 2nd display and I currently don't know why."
@@ -43,14 +43,14 @@ Check out bCNC.
 
 ---
 
-Posted on *2017-01-02 18:12:21* by *jessbussert*
+Posted on **2017-01-02 18:12:21** by **jessbussert**:
 
 Thanks Tom,
 I'll check that out.  Things are a bit different in my config because I have no physical display.  That said, it might still be the same solution.
 
 ---
 
-Posted on *2017-01-03 11:47:19* by *TomTheWhittler*
+Posted on **2017-01-03 11:47:19** by **TomTheWhittler**:
 
 The "Raspberry Pi 3 setup for Ground Control"
 is under the forum link on maslowcnc  of Dev
@@ -58,7 +58,7 @@ http://www.maslowcnc.com/forums/#!/dev
 
 ---
 
-Posted on *2017-01-04 09:02:47* by *TheRiflesSpiral*
+Posted on **2017-01-04 09:02:47** by **TheRiflesSpiral**:
 
 Hi, Jessica. I think your keyboard events are probably making it to Kivy, as well as your mouse events... try this; launch Ground Control and don't move the mouse. Hold the mouse button down then drag... does the stage move? (The area with the crosshairs and center mark)
 
@@ -66,7 +66,7 @@ Also, try pressing F1 on your keyboard (or however you get function commands int
 
 ---
 
-Posted on *2017-01-04 09:03:58* by *TheRiflesSpiral*
+Posted on **2017-01-04 09:03:58** by **TheRiflesSpiral**:
 
 If those things work then you've got the same situation I have. I can walk you through getting a mouse cursor to show up when you mousedown but that's as far as I've been able to get.
 

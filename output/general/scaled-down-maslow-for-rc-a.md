@@ -1,5 +1,5 @@
 ## Scaled down Maslow for RC and other modelling?
-Posted on *2017-05-18 02:25:53* by *dkchris*
+Posted on **2017-05-18 02:25:53** by **dkchris**:
 
 Hi - just sort of stumbled onto this great project.
 
@@ -22,13 +22,13 @@ Aeromodeller
 
 ---
 
-Posted on *2017-05-18 02:33:01* by *dkchris*
+Posted on **2017-05-18 02:33:01** by **dkchris**:
 
 Bit of nonsense to edit: "..the control electronics being the only major exception" .....not "difference". Sorry.
 
 ---
 
-Posted on *2017-05-18 03:37:07* by *davidlang*
+Posted on **2017-05-18 03:37:07** by **davidlang**:
 
 The router is already overkill for cutting full size stock, mounting a different cutting head would be trivial to do.
 
@@ -48,13 +48,13 @@ The current machine is roughly 6' tall by 10' long, for a 4'x8' cut area. Change
 
 ---
 
-Posted on *2017-05-18 04:57:29* by *jwolter0*
+Posted on **2017-05-18 04:57:29** by **jwolter0**:
 
 I had wondered once about using "bead chain" if you wanted to make a smaller machine, involving lower forces.  Don't know if that would save any money, but...
 
 ---
 
-Posted on *2017-05-18 05:05:48* by *dkchris*
+Posted on **2017-05-18 05:05:48** by **dkchris**:
 
 Quote, davidlang:"One thing to remember is that the maslow is limited to cutting such that the sled is still supported by the uncut stock, so it's great for cutting through anything in whatever shape, but it's not that good for cutting a 3d shape (cutting a wing could be done if you make sure the panels are large enough that the sled never falls into the cut area for example)"
 
@@ -70,7 +70,7 @@ A different and probably more functional solution could actually be to have the 
 
 ---
 
-Posted on *2017-05-18 05:10:24* by *davidlang*
+Posted on **2017-05-18 05:10:24** by **davidlang**:
 
 the nice thing is that the design and software is fully open, so you can experiment on this.
 
@@ -80,7 +80,7 @@ play around with the settings at the top of the file and see what size the resul
 
 ---
 
-Posted on *2017-05-18 05:29:03* by *dkchris*
+Posted on **2017-05-18 05:29:03** by **dkchris**:
 
 Yeah, I get the part about the need for the angle between the chains/lines to not get to far into the obtuse, as the motors increasingly work against each other rather than providing lift as the router unit moves up, as well as the need for a minimum outwards angle towards the nearest suspension point as the router moves towards the horisontal ends to maintain sufficient tension in the chains/lines to keep the .
 I'll look into your V-plotter (calculator?) program, thanks  :)
@@ -89,7 +89,7 @@ I'll look into your V-plotter (calculator?) program, thanks  :)
 
 ---
 
-Posted on *2017-05-18 07:13:30* by *Bar*
+Posted on **2017-05-18 07:13:30** by **Bar**:
 
 A big part of the reason we are open source is to encourage others (even companies) to adapt the idea for different markets. 
 
@@ -101,7 +101,7 @@ I can't wait to see all the ways other companies addapt the idea to serve differ
 
 ---
 
-Posted on *2017-05-18 07:51:43* by *dkchris*
+Posted on **2017-05-18 07:51:43** by **dkchris**:
 
 And we appriciate your efforts :)
 Flite test currently use inhouse industrial grade laser cutters to create precut kits for their planes, but have recently started up FT stem http://www.fliteteststem.com/, an educational initiative aimed at primary and secondary school students, partly to broaden the awareness of the hobby, but primarily to make use of the many opportunities to teach design, construction and the many other disciplines incorporated in our hobby.
@@ -114,19 +114,19 @@ https://www.youtube.com/watch?v=7DIV2-xWDak
 
 ---
 
-Posted on *2017-05-18 07:59:57* by *TheRiflesSpiral*
+Posted on **2017-05-18 07:59:57** by **TheRiflesSpiral**:
 
 For a very small area like you're suggesting, the router sled could be much larger than the workpiece. This would allow standoffs to be mounted in the corners. The sled would ride on those supports rather than the workpiece. This would allow Maslow to be truly 3-axis in this configuration.
 
 ---
 
-Posted on *2017-05-22 09:56:04* by *rowandoughty*
+Posted on **2017-05-22 09:56:04** by **rowandoughty**:
 
 This is the exact thought I had when I saw the maslow last night! I just recently built myself an FT Explorer and Versa Wing and whilst they were really fun to build, I have to admit marking and cutting out the boards was a little tedious. I have to say though I'd be more interested in building a full size maslow but with a swappable cutting head with something like a dremel or foredom power carver on it but I don't know quite how I'd secure the foam board in the middle. And like you say maybe the weight will be an issue resting on the foam. The idea of a little laser like Bar suggested is really interesting though...
 
 ---
 
-Posted on *2017-05-22 10:05:54* by *rollandelliott*
+Posted on **2017-05-22 10:05:54** by **rollandelliott**:
 
 Just use doublesided tape
 

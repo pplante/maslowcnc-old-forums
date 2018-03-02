@@ -1,11 +1,11 @@
 ## 5'x 5' plywood
-Posted on *2016-12-17 14:18:18* by *billosburn*
+Posted on **2016-12-17 14:18:18** by **billosburn**:
 
 How hard would it be to change the size to cover 5'x5' plywood?
 
 ---
 
-Posted on *2016-12-18 15:56:29* by *TomTheWhittler*
+Posted on **2016-12-18 15:56:29** by **TomTheWhittler**:
 
 This was asked in the Kickstarter comment section by David Bernard:
 

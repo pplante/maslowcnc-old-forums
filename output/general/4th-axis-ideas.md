@@ -1,5 +1,5 @@
 ## 4th Axis Ideas
-Posted on *2017-01-08 12:47:20* by *dom_e_uk*
+Posted on **2017-01-08 12:47:20** by **dom_e_uk**:
 
 Hey guys,
 

@@ -1,5 +1,5 @@
 ## General Z-Axis questions...
-Posted on *2017-05-31 13:02:33* by *irwinger*
+Posted on **2017-05-31 13:02:33** by **irwinger**:
 
 I have just run across the Maslow CNC and am totally intrigued by it's size and potential. However - having owned a desktop CNC for the past few years - I have a few questions about it that pertain to the Z-Axis control.
 
@@ -15,7 +15,7 @@ Bill
 
 ---
 
-Posted on *2017-05-31 13:14:23* by *TheRiflesSpiral*
+Posted on **2017-05-31 13:14:23** by **TheRiflesSpiral**:
 
 Welcome, Bill!
 

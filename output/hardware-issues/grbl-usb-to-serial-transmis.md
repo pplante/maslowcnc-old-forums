@@ -1,5 +1,5 @@
 ## Grbl USB to serial transmission errors
-Posted on *2017-02-16 01:05:44* by *jbnimble*
+Posted on **2017-02-16 01:05:44** by **jbnimble**:
 
 Reading the [known issues](https://github.com/gnea/grbl/wiki/Known-Issues#usb-to-serial-transmission-errors) on the grbl wiki, and saw this usb error and solution. This may be applicable to Maslow as well?
 
@@ -7,7 +7,7 @@ Reading the [known issues](https://github.com/gnea/grbl/wiki/Known-Issues#usb-to
 
 ---
 
-Posted on *2017-02-16 10:00:39* by *Bar*
+Posted on **2017-02-16 10:00:39** by **Bar**:
 
 We're using a Mega 2560 R3 compatible board with the the Atmel 16U2 USB chip. The fact that they experience better performance at higher baud rates is interesting. We're running at 19200 right now because I've found it's easier to get the usb serial drivers to play nice across multiple platforms at lower speeds, but I think we probably want to bump that up as soon as we've got all the versions of win/linux/mac playing nice at 19200. 
 
@@ -15,7 +15,7 @@ I haven't seen any dropped data, but that doesn't mean it isn't happening and I'
 
 ---
 
-Posted on *2017-02-16 10:17:41* by *jbnimble*
+Posted on **2017-02-16 10:17:41** by **jbnimble**:
 
 Better to learn from others problems.
 
@@ -23,7 +23,7 @@ Slightly off topic, I doubt it is possible at this point for our arduini api to 
 
 ---
 
-Posted on *2017-02-17 09:33:21* by *Bar*
+Posted on **2017-02-17 09:33:21** by **Bar**:
 
 I don't think it should be too hard to make the interface compatible. I want to make sure it's working as is for everyone first, but if you filed a feature request for that on GitHub I don't see any reason we couldn't work towards that. 
 

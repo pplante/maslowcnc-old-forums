@@ -1,17 +1,17 @@
 ## Bosch z-axis, will it even work?
-Posted on *2017-04-04 00:42:40* by *tntahan*
+Posted on **2017-04-04 00:42:40** by **tntahan**:
 
 So I have not gotten my Maslow yet (not one of the beta testers) and long story short I am moving so my router is in storage so I can't go look at it, but something just occurred to me.... I have a Bosch 1617 router and I ordered the z-axis for it. But on the fixed base, you are suppose to lock the router down once you make your micro adjustments or I think it will be too lose in the base to be accurate, but if it is locked, I don't think you can make micro adjustments, aka have the z motor can't do it's thing. Any of the beta testers using this router with the z-axis?  Or does anyone know if you can use the micro adjustment when it's locked down? Or how it does with not wobbling around without locking it down to the base?
 
 ---
 
-Posted on *2017-04-04 00:44:42* by *davidlang*
+Posted on **2017-04-04 00:44:42** by **davidlang**:
 
 check the part that locks it down, you should be able to fiddle with how tight it is and make it so that it's a stiff, but movable fit.
 
 ---
 
-Posted on *2017-04-04 01:06:51* by *jbarchuk*
+Posted on **2017-04-04 01:06:51** by **jbarchuk**:
 
 > @tntahan
 > But on the fixed base, you are suppose to lock the router down once you make your micro adjustments
@@ -24,13 +24,13 @@ The only slop is the backlash in the sliding bit threads. But that should have n
 
 ---
 
-Posted on *2017-04-04 02:06:33* by *larry357*
+Posted on **2017-04-04 02:06:33** by **larry357**:
 
 I have a Bosch GOF 1600 CE and the z axis works the same and works well manually, just worried about if the motor will fit above the coupler, not much space, maybe the shaft needs an extension. See my last post on 'Plunge based router' for some pics...
 
 ---
 
-Posted on *2017-04-04 08:11:09* by *jbarchuk*
+Posted on **2017-04-04 08:11:09** by **jbarchuk**:
 
 > @larry357
 > Bosch GOF 1600 CE and the z axis works the same and works well manually, just worried about if the motor will fit above the coupler

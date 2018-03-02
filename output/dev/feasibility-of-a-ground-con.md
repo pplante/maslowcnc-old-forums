@@ -1,5 +1,5 @@
 ## Feasibility of a ground control managed "Master power switch"
-Posted on *2017-03-27 14:42:33* by *Jennifer D*
+Posted on **2017-03-27 14:42:33** by **Jennifer D**:
 
 Not sure if this question has been posed yet. 
 
@@ -13,7 +13,7 @@ I'm new to this sort of DIY, so I'm not sure what's entailed, but thought it wor
 
 ---
 
-Posted on *2017-03-27 14:52:54* by *aalbinger*
+Posted on **2017-03-27 14:52:54** by **aalbinger**:
 
 So far the consensus seems to be something like http://a.co/5dC5cBE controlling power to the router and the motor control board on the arduino.  The arduino firmware will see that it hasn't gotten updates from the encoders and ground control will wait for the arduino to tell it what is going on but the router won't be spinning and the positional motors will be off.
 
@@ -21,7 +21,7 @@ In theory turning the power back on will let it start up where it left off.  In 
 
 ---
 
-Posted on *2017-03-27 15:50:29* by *Bar*
+Posted on **2017-03-27 15:50:29** by **Bar**:
 
 Those automatic vacuum turn on things are pretty slick, I've been eyeing one myself.
 

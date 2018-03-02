@@ -1,12 +1,12 @@
 ## Closed loop control
-Posted on *2017-02-13 20:53:01* by *lsimonetto*
+Posted on **2017-02-13 20:53:01** by **lsimonetto**:
 
 As someone new to this community... I don't know what the Maslow's control type is, but I imagine at this price it is probably open loop (i.e. steppers move a certain amount and where the tool ends up, it ends up). The advertised accuracy of +/-0.015" is not bad at the price... but being me, I'd want to try for more. Hearing that friction is a prime source of backlash... no problem. There's ways around that, and if the idea of ball casters under the router base work out, I will share the details.. buuuuut... in my old metalworking CNC world, closed loop control was king. 
 Has anyone tried any form of closed loop control, via any kind of active measurement of tool location? If so, any success in making the system work?
 
 ---
 
-Posted on *2017-02-13 21:20:41* by *davidlang*
+Posted on **2017-02-13 21:20:41** by **davidlang**:
 
 nope, this is cosed loop control with motors and shaft encoders instead of steppers.
 
@@ -22,7 +22,7 @@ The error sources for this design are significantly different than in a 'normal'
 
 ---
 
-Posted on *2017-02-13 21:24:14* by *davidlang*
+Posted on **2017-02-13 21:24:14** by **davidlang**:
 
 I would not expect ball castors under the sled to work out well as they will have to rid against the material that's being cut. This means that they would fall into the cut areas and catch. If you mount a LOT of them, you may avoid this, but you are depending on having at least a tripod worth of them in contact with the uncut surface at all times (and not having enough spring in the others that they would catch as they transition from a cut area to an uncut area)
 
@@ -30,7 +30,7 @@ my personal opinion is that a slippery plastic surface is going to end up being 
 
 ---
 
-Posted on *2017-02-14 20:42:48* by *lsimonetto*
+Posted on **2017-02-14 20:42:48** by **lsimonetto**:
 
 !
 Closed loop at this price! Gladdest I've been to be wrong in a long time... That is amazing. Reality 1, Assumptions 0. The assumptions cheering section abruptly switches sides. 
@@ -42,7 +42,7 @@ Thank you for the info! Looking forward to getting my paws on this kit soon!!!
 
 ---
 
-Posted on *2017-02-15 04:03:22* by *TheRiflesSpiral*
+Posted on **2017-02-15 04:03:22** by **TheRiflesSpiral**:
 
 The twist he's referring to is the rocking movement of the sled due to the cutting tool position being below the convergence point of the two chain vectors.
 
@@ -52,7 +52,7 @@ The current sled hangs the router below this point.
 
 ---
 
-Posted on *2017-02-15 08:58:09* by *davidlang*
+Posted on **2017-02-15 08:58:09** by **davidlang**:
 
 no, I wasn't referring to the rocking motion due to the cutter being below the point where the chains cross.
 
@@ -66,7 +66,7 @@ now, is this going to matter for woodworking? not likely, but is it a source of 
 
 ---
 
-Posted on *2017-02-15 10:22:01* by *Bar*
+Posted on **2017-02-15 10:22:01** by **Bar**:
 
 The fact that the chain feeds off of the side of the gear and that the point the chain is tangent to the gear changes as the machine moves is actually compensated for by the internal math. I can't claim credit for that one, our resident mathematician Keith worked out that brilliant piece of work (yay open source!).
 
@@ -76,7 +76,7 @@ I think many ball casters or using a material like nylon is a great idea. I'm co
 
 ---
 
-Posted on *2017-02-15 11:54:48* by *davidlang*
+Posted on **2017-02-15 11:54:48** by **davidlang**:
 
 it's nice that the system takes into account the gear tangent issue.
 
@@ -86,13 +86,13 @@ As for limiting the material to things that can be made on the machine itself, t
 
 ---
 
-Posted on *2017-02-15 17:15:32* by *neveroddoreven*
+Posted on **2017-02-15 17:15:32** by **neveroddoreven**:
 
 Agree that kickback will increase with reductions in sled friction (which is likely in most sled innovations).  Kickback might be limited by isolating it from the sled using a large ring bearing to isolate both the router and the bricks together from the sled and its chain connections.  The idea is that when a knot or an edge transition is encountered, the router will temporarily spin around a little, but not by much since the bricks won't let it go far, without causing chain deflections.  Thoughts?
 
 ---
 
-Posted on *2017-02-15 18:17:19* by *davidlang*
+Posted on **2017-02-15 18:17:19** by **davidlang**:
 
 it's all speculation until we get the machines in our hands and can play with them.
 
@@ -100,20 +100,20 @@ remember that perfect is the enemy of good enough
 
 ---
 
-Posted on *2017-02-16 05:57:45* by *lsimonetto*
+Posted on **2017-02-16 05:57:45** by **lsimonetto**:
 
 Love the discussion this started :)
 I'm absolutely positive there are solutions to all of the issues covered here; Where I might struggle is making them simple enough to fit with the concept and beauty of the Maslow - simple and cheap solution to an old complicated problem... with a little luck i'd like to post drawings soon for one concept I hope can be improved by better ideas and critiques from here!
 
 ---
 
-Posted on *2017-02-16 12:43:29* by *mooselake*
+Posted on **2017-02-16 12:43:29** by **mooselake**:
 
 The original question, is it open or closed loop, seems to have been missed.  It's closed loop, dc motors with encoders, right?
 
 ---
 
-Posted on *2017-02-16 12:52:50* by *TheRiflesSpiral*
+Posted on **2017-02-16 12:52:50** by **TheRiflesSpiral**:
 
 Yes, motor control is closed loop. This gives a high degree of confidence that positioning is accurate. I should point out that the loop does not encompass the actual position of the cutting tool itself. That's a feature that hasn't made it into any consumer-grade CNC/Laser Cutting/3D Printing hardware yet that I'm aware of.
 

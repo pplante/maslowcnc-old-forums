@@ -1,17 +1,17 @@
 ## Google video chat
-Posted on *2017-04-14 17:33:38* by *carlosrivers*
+Posted on **2017-04-14 17:33:38** by **carlosrivers**:
 
 Anybody want to do a group google video chat and talk cnc? Could be a more interactive way to solve problems and learn our machines.
 
 ---
 
-Posted on *2017-04-14 19:21:45* by *carlosrivers*
+Posted on **2017-04-14 19:21:45** by **carlosrivers**:
 
 Or another idea I had, is Bar could do a youtube live video, and answer questions?
 
 ---
 
-Posted on *2017-04-14 19:49:41* by *davidlang*
+Posted on **2017-04-14 19:49:41** by **davidlang**:
 
 what's wrong with asking questions here? or as comments to the existing videos?
 
@@ -19,13 +19,13 @@ live interaction is very limiting in the number of people who can participate, s
 
 ---
 
-Posted on *2017-04-14 20:37:08* by *carlosrivers*
+Posted on **2017-04-14 20:37:08** by **carlosrivers**:
 
 The QA forum is great, but I'm sure some people would love to just talk CNC. I've been calling CNC shops all around the nation, and I've learned a ton about the way they do business, and what they love about CNC machines.
 
 ---
 
-Posted on *2017-04-14 20:39:05* by *jbarchuk*
+Posted on **2017-04-14 20:39:05** by **jbarchuk**:
 
 If a group want to get together to do that then by all means go for it.
 Bar did do a vid in that style to explain router features, requirements to operate under Maslow, and other pluses, and minuses.
@@ -34,7 +34,7 @@ Definitely give it a try. Many people prefer that format. It's a  'digital meetu
 
 ---
 
-Posted on *2017-04-14 22:25:42* by *mcginniwa*
+Posted on **2017-04-14 22:25:42** by **mcginniwa**:
 
 @carlosrivers different things (and different combination of things) work for different people. I say give it a try.
 
@@ -42,13 +42,13 @@ You'll probably get a more realistic feel for the response if you organize the s
 
 ---
 
-Posted on *2017-04-15 02:02:31* by *Bar*
+Posted on **2017-04-15 02:02:31** by **Bar**:
 
 I'd be happy to be a part of a video chat if even one other person wants to. I agree that the forums are best for answering questions because everyone is on different schedules. What's a time that's good for everyone tomorrow (PST)?
 
 ---
 
-Posted on *2017-04-15 15:55:32* by *carlosrivers*
+Posted on **2017-04-15 15:55:32** by **carlosrivers**:
 
 1 PM PST is good for me
 

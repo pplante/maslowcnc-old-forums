@@ -1,5 +1,5 @@
 ## thoughts on machine calibration
-Posted on *2017-06-30 19:19:52* by *davidlang*
+Posted on **2017-06-30 19:19:52** by **davidlang**:
 
 First off, I'll point out that I haven't built one yet.
 

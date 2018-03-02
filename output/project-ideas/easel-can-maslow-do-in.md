@@ -1,5 +1,5 @@
 ## Easel ?  ( Can Maslow do Inlays )
-Posted on *2017-05-28 10:28:21* by *stephboeker*
+Posted on **2017-05-28 10:28:21** by **stephboeker**:
 
 Pardon me as I am new to CNC research.  I've been learning about different software's for desktop machines before actually purchasing my first CNC Router.  
 
@@ -12,7 +12,7 @@ Steph_Louisiana [Inlays](//muut.com/u/maslowcnc/s2/:maslowcnc:ykFM:inlays.jpg.jp
 
 ---
 
-Posted on *2017-05-28 10:34:54* by *davidlang*
+Posted on **2017-05-28 10:34:54** by **davidlang**:
 
 easel will output g-code to run the machine, and the maslow should be able to run it (we haven't had anyone report that they tried, so there may be some bugs to nail down when someone first tries it)
 
@@ -22,13 +22,13 @@ yes, you can fasten smaller pieces and work on them, you will probably want to p
 
 ---
 
-Posted on *2017-05-28 11:01:24* by *khandam*
+Posted on **2017-05-28 11:01:24** by **khandam**:
 
 if inlays are your thing, a small desktop cnc with gantry rails is the way to go.  99% of inlay work will be much smaller then a 4x8 sheet http://www.gryphoncnc.com/shop/gryphon-v-1-18inch/
 
 ---
 
-Posted on *2017-05-28 11:30:48* by *stephboeker*
+Posted on **2017-05-28 11:30:48** by **stephboeker**:
 
 Thank you David Lang and Khandam as well for your timely reply's. :)   
 
@@ -43,19 +43,19 @@ Steph_Louisiana
 
 ---
 
-Posted on *2017-05-28 11:32:28* by *davidlang*
+Posted on **2017-05-28 11:32:28** by **davidlang**:
 
 right now the machine is getting around +-1/16, the target is to get it to +- 1/64. we aren't at 1/64 yet (not anywhere)
 
 ---
 
-Posted on *2017-05-29 05:28:43* by *stephboeker*
+Posted on **2017-05-29 05:28:43** by **stephboeker**:
 
 Thank you ! ;)
 
 ---
 
-Posted on *2017-05-30 15:49:29* by *brandonmc*
+Posted on **2017-05-30 15:49:29** by **brandonmc**:
 
 I was day dreaming today about this very project. I noticed that you skipped the dowel holes and the block to connect the top to the legs?
 

@@ -1,17 +1,17 @@
 ## How it's going so far....
-Posted on *2017-03-29 16:41:34* by *rancher*
+Posted on **2017-03-29 16:41:34** by **rancher**:
 
 https://youtu.be/U9SE5Ppo4BU
 
 ---
 
-Posted on *2017-03-29 19:51:31* by *MakerMark*
+Posted on **2017-03-29 19:51:31** by **MakerMark**:
 
 Great video.  The .5" Z movement for each pass should be the "Safety Height" setting in Makercam. When using tabs in Makercam, I had the same experience as you.  Problem went away when I switched to Easel.  I'd be curious of the results if you tried the same file and setting in Easel. The objects you are working on have more detail than what I've tried thus far.
 
 ---
 
-Posted on *2017-03-29 21:19:50* by *Bar*
+Posted on **2017-03-29 21:19:50** by **Bar**:
 
 Looks totally awesome!
 

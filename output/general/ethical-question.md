@@ -1,5 +1,5 @@
 ## Ethical Question
-Posted on *2017-01-11 14:06:43* by *Bar*
+Posted on **2017-01-11 14:06:43** by **Bar**:
 
 I have a little bit of an ethical question for the community. I saw a little table that I liked on the internet the other day here: http://www.untothislast.co.uk/collections/coffee-tables/products/compass-side-table-35cm It took maybe 15 minutes to draw up in Sketchup  [TableCAD](//muut.com/u/maslowcnc/s1/:maslowcnc:wF7F:tablecad.jpg.jpg) and I built my own version  [TablePicture](//muut.com/u/maslowcnc/s3/:maslowcnc:HwYk:tablepicture.jpg.jpg). I feel OK about building my own, but is it ethical (or even legal?) for me to share the files? 
 
@@ -11,7 +11,7 @@ What are everyone's thoughts?
 
 ---
 
-Posted on *2017-01-11 15:00:56* by *davidlang*
+Posted on **2017-01-11 15:00:56** by **davidlang**:
 
 uild copyright is extremely limited, you are supposed to be inspired by what you see and build on what others have done. Nobody designs anything without being influenced by what they see
 
@@ -21,7 +21,7 @@ You may attract a lawsuit if you try to sell it and claim that it is someone els
 
 ---
 
-Posted on *2017-01-11 16:02:46* by *Bar*
+Posted on **2017-01-11 16:02:46** by **Bar**:
 
 Thanks, that's good to know. What about from an ethical perspective?
 
@@ -31,7 +31,7 @@ I reached out to the owner to see if he would be interested in selling me the de
 
 ---
 
-Posted on *2017-01-11 17:51:12* by *davidlang*
+Posted on **2017-01-11 17:51:12** by **davidlang**:
 
 copyright only covers direct copying and making derivatives. It doesn't cover 'inspired by'. Copyright also can't cover anything that's purely functional, which significantly limits it's applicability to what we are talking about. In practice, you can copyright the blueprints for a bike rack, but not the idea of a curved bike rack to hold a bike vertically (that would be a patent, if you could get it). It's not possible to make a derivative of plans that you have never had access to.
 
@@ -49,7 +49,7 @@ So go out and be inspired by what other people have created, and create your on 
 
 ---
 
-Posted on *2017-01-11 19:39:25* by *TheRiflesSpiral*
+Posted on **2017-01-11 19:39:25** by **TheRiflesSpiral**:
 
 Lots of discussion about legalities here; I'd like to weigh in on the ethics question. This is just my personal opinion and is based entirely on my former life as a graphic designer. There are only so many ways to accomplish any given design goal. Truly creative solutions to common problems are few and far between.
 
@@ -63,13 +63,13 @@ Copying a work for your own use, however, is your prerogative. Particularly in t
 
 ---
 
-Posted on *2017-01-11 20:29:02* by *karlthorp*
+Posted on **2017-01-11 20:29:02** by **karlthorp**:
 
 In my opinion, copyright and patent laws are not in place to encourage innovation but rather hinders innovation, you cannot innovate without standing on the shoulders of giants, consider where humanity would be if early man cared as much about intellectual property as we do today, imagine where we would be if we could never build off of the invention of fire, or the wheel, or agriculture, so long as you don't try to take credit for someone elses work there should be no problem building on someone else's design
 
 ---
 
-Posted on *2017-01-12 06:02:52* by *TomTheWhittler*
+Posted on **2017-01-12 06:02:52** by **TomTheWhittler**:
 
 I like that Bike rack design. Am I going to call up PeriProductsllc and find out how much that rack will cost me. Not likely as from looking at the fit and finish of the rack I am guessing it will cost as much as the Bike that it holds. Will I Sketchup one and make my own with Maslowcnc. That is more likely than buying one from PeriProductsllc. Am I going to make a bunch and go into business against PeriProductsllc. No. I feel that would be unethical. Would I post my Sketchup design for other Maslowcnc users to build their own. Yes, as I feel that if I took the time to design it up than I should be able to share if I want. Is the PeriProductsllc unique. I am not convinced as I remember a bike rack like this made out of PVC tubing years ago so it might have been their inspiration.
 Of course there is this wooden bike rack plan.
@@ -79,19 +79,19 @@ I did find a external link to the PeriProductsllc bike rack which indicated it w
 
 ---
 
-Posted on *2017-01-12 06:04:57* by *TheRiflesSpiral*
+Posted on **2017-01-12 06:04:57** by **TheRiflesSpiral**:
 
 Not gonna lie.... I would pay $300 for that bike rack.
 
 ---
 
-Posted on *2017-01-12 06:12:39* by *TomTheWhittler*
+Posted on **2017-01-12 06:12:39** by **TomTheWhittler**:
 
 After I found the link with the price I was thinking the same thing. I really doubt that I could build one to look like that for $ 300.00. Of course I would build it just for fun.
 
 ---
 
-Posted on *2017-01-12 09:19:08* by *TomTheWhittler*
+Posted on **2017-01-12 09:19:08** by **TomTheWhittler**:
 
 Apparently the link that I had that stated the price was $ 300.00 was wrong. It is listed on Amazon
 https://www.amazon.com/dp/B0187ZPZFE
@@ -99,13 +99,13 @@ as $575.00 plus shipping.
 
 ---
 
-Posted on *2017-01-12 09:22:57* by *TheRiflesSpiral*
+Posted on **2017-01-12 09:22:57** by **TheRiflesSpiral**:
 
 Ouch. That's getting closer to what I would have to charge to make any money on it... materials alone (that looks like it's made of hardwood) would be in the $150 range.
 
 ---
 
-Posted on *2017-01-12 10:09:33* by *Bar*
+Posted on **2017-01-12 10:09:33** by **Bar**:
 
 I think it's actually stained plywood. The parts are cleverly designed to all be cut from a single 4x8 sheet where the two uprights form a bit of a yin yang pattern when they are placed on the sheet. The top and bottom parts are made from stacked layers which are cut from within the openings in the main uprights. 
 
@@ -115,13 +115,13 @@ It's not just the design which I think is beautiful but also how they figured ou
 
 ---
 
-Posted on *2017-01-12 10:16:11* by *TheRiflesSpiral*
+Posted on **2017-01-12 10:16:11** by **TheRiflesSpiral**:
 
 Ah! Well that brings the material cost down significantly. Well, I say use it as inspiration, make one in your own style and share away!
 
 ---
 
-Posted on *2017-01-13 17:11:00* by *rollandelliott*
+Posted on **2017-01-13 17:11:00** by **rollandelliott**:
 
 for some thing as simple as a round table with 3 legs. I wouldnt' loose any sleep over it. anyone can come up with that easily on their own.
 
@@ -131,19 +131,19 @@ You will always have people that think if they make a triangle shaped widget the
 
 ---
 
-Posted on *2017-01-14 17:59:31* by *tlatham*
+Posted on **2017-01-14 17:59:31** by **tlatham**:
 
 I see no ethical problem of any woodworker seeing something they like and duplicating it for his/her own use. Copying for commercial purposes is where the line is drawn.
 
 ---
 
-Posted on *2017-01-17 14:24:24* by *rollandelliott*
+Posted on **2017-01-17 14:24:24** by **rollandelliott**:
 
 company's copy other companies designs all the time, nothing unethical about it IMHO. Windows copied apples' OS, iphone clones, clothing styles, pretty much invasive in any industry.
 
 ---
 
-Posted on *2017-01-17 14:48:16* by *sparhawk2k*
+Posted on **2017-01-17 14:48:16** by **sparhawk2k**:
 
 So it looks like most people are in agreement that you can see something you like and make your own version for non-commercial use.
 
@@ -153,19 +153,19 @@ I certainly get the impression that some of the people in this discussion wouldn
 
 ---
 
-Posted on *2017-01-18 05:29:07* by *TheRiflesSpiral*
+Posted on **2017-01-18 05:29:07** by **TheRiflesSpiral**:
 
 My opinion is that if you've prepared a sketch/drawing suitable for cutting on a Maslow, it's yours to do with as you please regardless of the inspiration for the design. That would include sharing the design or even charging for it... You're not giving away the piece itself (Bar isn't about to start making 3-legged stools and shipping them all over the country for free) but if the design makes it into the hands of a maker who cuts one out for themselves, the company who inspired the design wasn't likely to get that sale anyway.
 
 ---
 
-Posted on *2017-01-25 17:48:24* by *chauhuh*
+Posted on **2017-01-25 17:48:24** by **chauhuh**:
 
 Copying is copying. No way around it. But your drawing is hardly a copy with very many differences from the other design. Even minute changes creates a new product, or even optimizations in fabrication could be enough to consider it different.
 
 ---
 
-Posted on *2017-01-25 18:32:07* by *jwolter0*
+Posted on **2017-01-25 18:32:07** by **jwolter0**:
 
 Bar, I don't think you are very far into the ethical quagmire here.  Yes, your version is very similar to the one you saw, but you didn't copy it verbatim, you didn't take measurements off of the original, you didn't swipe someone else's drawing files.  All of those would be much more problematic.  Still, there are many industries where blatant copying is the norm.  The fashion industry is one.  That's why designers keep coming out with new stuff, to stay ahead of the competition.  There are some folks within the industry who would like to protect the designs, but most recognize that the moment you do that, the rate of innovation slows dramatically.  Instead of racing to come up with new designs, everyone races to file patents and hire lawyers.
 
@@ -173,7 +173,7 @@ I can't guarantee that the original designer won't be unhappy about you "copying
 
 ---
 
-Posted on *2017-01-25 18:33:49* by *chauhuh*
+Posted on **2017-01-25 18:33:49** by **chauhuh**:
 
 Lol yea, the whole point of 'CNC' is to basically be able to copy with precision right?
 

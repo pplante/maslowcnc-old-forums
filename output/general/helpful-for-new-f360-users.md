@@ -1,5 +1,5 @@
 ## Helpful for new F360 Users
-Posted on *2017-05-09 06:31:38* by *TheRiflesSpiral*
+Posted on **2017-05-09 06:31:38** by **TheRiflesSpiral**:
 
 Julie Kumar at Autodesk published a series of videos for beginner users of Fusion 360 aimed at CAD/CAM for CNC routing.
 

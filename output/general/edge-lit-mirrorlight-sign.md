@@ -1,5 +1,5 @@
 ## edge lit mirror/light sign project request
-Posted on *2017-07-01 17:58:13* by *davidfryauf*
+Posted on **2017-07-01 17:58:13** by **davidfryauf**:
 
 Ok cool kids, I haven't received my maslow yet, so I'm throwing out this project idea to see if somebody beats me to it...
 
@@ -13,13 +13,13 @@ Has anybody tried cutting acrylic with Maslow yet?  Shouldn't be any different. 
 
 ---
 
-Posted on *2017-07-01 20:26:40* by *davidlang*
+Posted on **2017-07-01 20:26:40** by **davidlang**:
 
 as long as you keep the protective film on the acrylic while cutting into it, you should be good. you do need to experiment a bit, acrylic can shatter if the cutting tool catches it just right.
 
 ---
 
-Posted on *2017-07-02 14:21:00* by *davidfryauf*
+Posted on **2017-07-02 14:21:00** by **davidfryauf**:
 
 Nice, good tips.  I'm sure a conservative speed and depth with the right size bit needs to be optimized.  Ima doit.
 

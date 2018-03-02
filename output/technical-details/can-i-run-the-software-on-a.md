@@ -1,5 +1,5 @@
 ## Can I run the software on a Samsung Tablet?
-Posted on *2016-11-18 10:16:54* by *tmaker*
+Posted on **2016-11-18 10:16:54** by **tmaker**:
 
 Hello, 
 
@@ -9,7 +9,7 @@ Tommy
 
 ---
 
-Posted on *2016-11-20 15:28:52* by *Bar*
+Posted on **2016-11-20 15:28:52** by **Bar**:
 
 It's Python which has a lot of the same strengths as Perl, but it's a little different. The UI is done using the Kivy framework which lets you build for Android, so it's something I would like to support. The hardest part is getting the serial connection to play nice with the android OTG stuff. I haven't played around with that. 
 
@@ -17,7 +17,7 @@ Basically TheRiflesSpiral is right, you can do it but it would be a bit of a cho
 
 ---
 
-Posted on *2016-11-21 16:54:49* by *TheRiflesSpiral*
+Posted on **2016-11-21 16:54:49** by **TheRiflesSpiral**:
 
 Oops! Sorry about that! I had a tough string parsing issue at work the other day and used Perl so I had it on the brain. I'll strike that comment to avoid confusion elsewhere.
 

@@ -1,5 +1,5 @@
 ## wireless connectivity
-Posted on *2017-03-01 14:25:32* by *jbarchuk*
+Posted on **2017-03-01 14:25:32** by **jbarchuk**:
 
 Several Qs really, all related, trying to understand how the system is intended to operate.
 The most basic Q is how 'smart' is the board that operates Maslow?
@@ -11,7 +11,7 @@ I'm not too discouraged. I have an Very Old Dog PC given by a friend with limite
 
 ---
 
-Posted on *2017-03-01 15:39:06* by *scottsm*
+Posted on **2017-03-01 15:39:06** by **scottsm**:
 
 There is an Arduino Mega clone running the motors which is willing to communicate serial either over USB or 5volt I/O for the gcode commands. I've gathered parts to try a serial-over-Ethernet connection with the PC remote, away from the sawdust. I'm pessimistic though, that sort of connection has delays and lapses which could spoil a session. Sounds like Bar and Hannah might have experienced something like that running a music program during a cutting session. 
  Your Very Old Dog PC sounds like a good candidate to talk to the Mega. I know that a Raspberry Pi has the horsepower to work, a PC running a simple Linux seems likely to work as well.

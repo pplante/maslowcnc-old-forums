@@ -1,5 +1,5 @@
 ## The Weekly Wednesday Update is Up!
-Posted on *2017-03-08 16:47:02* by *Bar*
+Posted on **2017-03-08 16:47:02** by **Bar**:
 
 https://www.kickstarter.com/projects/1830738289/maslow-cnc-a-500-open-source-4-by-8-foot-cnc-machi/posts/1826692
 
@@ -19,7 +19,7 @@ Is there a better way we can stay completely transparent without overwhelming so
 
 ---
 
-Posted on *2017-03-08 16:58:22* by *davidlang*
+Posted on **2017-03-08 16:58:22** by **davidlang**:
 
 moving my comment from there to here (so more people see it)
 
@@ -29,7 +29,7 @@ Also, in the video you say that with the high-friction sled you see the chains g
 
 ---
 
-Posted on *2017-03-08 21:24:02* by *Bar*
+Posted on **2017-03-08 21:24:02** by **Bar**:
 
 Thank you, that's good feedback.
 
@@ -37,31 +37,31 @@ I don't actually measure the tension in a real world unit like kelograms or poun
 
 ---
 
-Posted on *2017-03-09 04:31:45* by *davidlang*
+Posted on **2017-03-09 04:31:45** by **davidlang**:
 
 ok, so the kinematics doesn't take chain curve into account :-)
 
 ---
 
-Posted on *2017-03-09 06:51:33* by *TomTheWhittler*
+Posted on **2017-03-09 06:51:33** by **TomTheWhittler**:
 
 Bar, People are still asking questions in the comment section of Kickstarter that you should answer.
 
 ---
 
-Posted on *2017-03-09 07:57:27* by *rancher*
+Posted on **2017-03-09 07:57:27** by **rancher**:
 
 I can't seem to find any news in the update on shipping?
 
 ---
 
-Posted on *2017-03-09 08:11:53* by *tmaker*
+Posted on **2017-03-09 08:11:53** by **tmaker**:
 
 Personally, I like the video format.  Plus it allows us to actually SEE what you're talking about which seems like the most efficient way to communicate certain things.
 
 ---
 
-Posted on *2017-03-09 09:46:32* by *Bar*
+Posted on **2017-03-09 09:46:32** by **Bar**:
 
 @TomTheWhittler thanks for the heads up, I'll check those right now. The KS comment system is hard to keep tabs on because there are just so many places to leave comments.
 
@@ -71,14 +71,14 @@ Posted on *2017-03-09 09:46:32* by *Bar*
 
 ---
 
-Posted on *2017-03-09 10:38:54* by *jbarchuk*
+Posted on **2017-03-09 10:38:54** by **jbarchuk**:
 
 Tmaker, yes, that makes sense. It's often easier to get information across in a verbal and show-and-tell- format. When (in this case for example) it comes to getting across specific dimension, speeds, angles or whatever, it's better to have it in text format. That's where the wiki comes in. Whatever important facts happen, that need to be looked up quickly instead of watching a vid again to find it, should be recorded in the wiki.
 Another advantage of text/web page format is that things can be changed easily. When a narrator makes an error of fact, later when they find out about it the only way to change it is to edit the vid and put a note on the screen with the correct fact.
 
 ---
 
-Posted on *2017-03-09 12:20:11* by *Bar*
+Posted on **2017-03-09 12:20:11** by **Bar**:
 
 Thanks for keeping me honest guys. Posting a video about how to use the wiki to store important information for everyone's benefit and then not including information in that video in the wiki is silly!
 
@@ -86,7 +86,7 @@ I've posted the diagrams from the video with explanations on the wiki here: http
 
 ---
 
-Posted on *2017-03-10 00:48:07* by *jamesbil*
+Posted on **2017-03-10 00:48:07** by **jamesbil**:
 
 Great updates guys, keep up the good work.
 I liked the what's in the box page. Tho it did raise a question...
@@ -98,7 +98,7 @@ Just an idea..
 
 ---
 
-Posted on *2017-03-10 10:24:07* by *Bar*
+Posted on **2017-03-10 10:24:07** by **Bar**:
 
 I tried to keep the hardware simple and universally available as possible :-) 
 
@@ -106,44 +106,44 @@ The hard thing to keeping the cost down by reducing the number of parts is that 
 
 ---
 
-Posted on *2017-03-10 12:19:30* by *jamesbil*
+Posted on **2017-03-10 12:19:30** by **jamesbil**:
 
 Thanks for the reply Bar, I'm deffinately not complaining about the cost of maslow, you have put so much work and resources into it. I was just thinking about the weight for shipping and any way to lower import tax is welcome.
 
 ---
 
-Posted on *2017-03-10 14:58:37* by *TomTheWhittler*
+Posted on **2017-03-10 14:58:37** by **TomTheWhittler**:
 
 Humm. What if you put in in a bigger box and filled the empty space with a couple helium balloons.. ;)
 
 ---
 
-Posted on *2017-03-11 03:07:24* by *spatialguy*
+Posted on **2017-03-11 03:07:24** by **spatialguy**:
 
 Come on Tom, this forum is not for silly comments! Hydrogen is twice as light as Helium!! lol Perhaps add a warning sticker on the box)
 
 ---
 
-Posted on *2017-03-11 07:34:02* by *TomTheWhittler*
+Posted on **2017-03-11 07:34:02** by **TomTheWhittler**:
 
 I know. I should have put it in the "non-judgemental section".  ;)
 Although Hydrogen is twice as light as Helium there is that additional shipping cost problem of "potentially hazardous material". I believe the goal here is less cost and not shipping the customer a "surprise".
 
 ---
 
-Posted on *2017-03-11 07:35:37* by *spatialguy*
+Posted on **2017-03-11 07:35:37** by **spatialguy**:
 
 Agreed
 
 ---
 
-Posted on *2017-03-11 14:31:36* by *spatialguy*
+Posted on **2017-03-11 14:31:36** by **spatialguy**:
 
 @bar Re: Friction: There is a product that I have used here for years here in Australia and likely there too called silver-glide. It will reduce the friction and not affect the workpiece. Another easy option would be to laminex the base. An iron and a router and it will be done in 30min.
 
 ---
 
-Posted on *2017-03-13 07:58:08* by *mindeye*
+Posted on **2017-03-13 07:58:08** by **mindeye**:
 
 In the US and UK, that product appears to be sold as Silbergleit for others looking in similar locales.
 

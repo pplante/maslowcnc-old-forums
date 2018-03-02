@@ -1,5 +1,5 @@
 ## Vision Issues / CAD / CAM
-Posted on *2017-05-27 18:11:26* by *ledsled71*
+Posted on **2017-05-27 18:11:26** by **ledsled71**:
 
 Hi everyone,
 

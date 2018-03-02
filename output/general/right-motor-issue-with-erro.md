@@ -1,5 +1,5 @@
 ## Right motor issue with error
-Posted on *2017-07-16 12:47:37* by *mribble*
+Posted on **2017-07-16 12:47:37** by **mribble**:
 
 I'm trying to setup my machine for the first time.  I got to "Calibrate Chain Length - Automatic" test and I'm having issues with the right motor.
 
@@ -15,7 +15,7 @@ Bar, when asking these kinds of troubleshooting questions do you prefer them on 
 
 ---
 
-Posted on *2017-07-16 13:26:53* by *gero*
+Posted on **2017-07-16 13:26:53** by **gero**:
 
 http://www.maslowcnc.com/forums/#!/general:right-motor-issue
 http://www.maslowcnc.com/forums/#!/general:calibrating
@@ -24,7 +24,7 @@ Since this is number 3 a issue should be opened on Github. General narrowing in 
 
 ---
 
-Posted on *2017-07-16 13:27:08* by *Bar*
+Posted on **2017-07-16 13:27:08** by **Bar**:
 
 Lets' figure out what's going on. The first thing to try is to run Actions -> Test Motors/Encoders. That will let us know if we have an issue with the electronics.
 
@@ -34,13 +34,13 @@ It's possible that the issue is just that the instructions aren't clear enough. 
 
 ---
 
-Posted on *2017-07-16 13:28:22* by *scottbramall*
+Posted on **2017-07-16 13:28:22** by **scottbramall**:
 
 On mine the Test motors seems fine.
 
 ---
 
-Posted on *2017-07-16 14:35:04* by *mribble*
+Posted on **2017-07-16 14:35:04** by **mribble**:
 
 The test motors also passes for me.
 
@@ -56,13 +56,13 @@ I have an active github account so moving  this there is fine with me.  Just let
 
 ---
 
-Posted on *2017-07-16 14:42:45* by *scottsm*
+Posted on **2017-07-16 14:42:45** by **scottsm**:
 
 During ‘Calibrate Chain Lenght - Automatic’ the left motor runs for several minutes before the right motor runs. The chains are measured one at a time.
 
 ---
 
-Posted on *2017-07-16 14:50:19* by *Bar*
+Posted on **2017-07-16 14:50:19** by **Bar**:
 
 Thank you for sharing those log files, that's a great thing to be able to reference.
 
@@ -70,13 +70,13 @@ It seems like this right motor issue is wide spread enough that we should make a
 
 ---
 
-Posted on *2017-07-16 14:57:20* by *Bar*
+Posted on **2017-07-16 14:57:20** by **Bar**:
 
 I've made an issue here: https://github.com/MaslowCNC/Firmware/issues/262
 
 ---
 
-Posted on *2017-07-16 17:14:09* by *Bar*
+Posted on **2017-07-16 17:14:09** by **Bar**:
 
 I've made some progress on tracking this one down, so if anyone who is seeing the issue would be willing to check out that github issue and let me know if the tests there fix the issue for you, I would be much obliged
 

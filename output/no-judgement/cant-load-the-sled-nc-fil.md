@@ -1,5 +1,5 @@
 ## can't load the sled .nc file
-Posted on *2017-03-25 18:36:03* by *boandersen*
+Posted on **2017-03-25 18:36:03** by **boandersen**:
 
 My Win 10 Ground Control exits with no warning when I press load on the sled.nc file.  Below are the latest lines from the log file. I has done this 5 times. The file I try to load is "Sled-QuarterInchBit.nc" - Any advice?
 ...
@@ -20,7 +20,7 @@ My Win 10 Ground Control exits with no warning when I press load on the sled.nc 
 
 ---
 
-Posted on *2017-03-25 18:46:59* by *boandersen*
+Posted on **2017-03-25 18:46:59** by **boandersen**:
 
 I edited the groundControl.ini file and got rid of what was in the openFile line. That allowed me to open the sled file.  - so far so good.
 
@@ -34,19 +34,19 @@ Should I calibrate chain length every time i has been off?
 
 ---
 
-Posted on *2017-03-25 19:07:27* by *boandersen*
+Posted on **2017-03-25 19:07:27** by **boandersen**:
 
 Answering my own question... yes, it helped recalibrating the chain length after a power off. I am getting a nice pencil drawing of the sled (not circular though, but that is what others see too)
 
 ---
 
-Posted on *2017-03-25 19:27:29* by *boandersen*
+Posted on **2017-03-25 19:27:29** by **boandersen**:
 
 I drew an egg :) https://goo.gl/photos/atuUWtuJHsRCW19i9
 
 ---
 
-Posted on *2017-03-25 20:03:34* by *Bar*
+Posted on **2017-03-25 20:03:34** by **Bar**:
 
 Great trouble shooting to get this far!
 
@@ -58,19 +58,19 @@ Let me know how it goes and if you have any questions along the way.
 
 ---
 
-Posted on *2017-03-25 20:12:33* by *Bar*
+Posted on **2017-03-25 20:12:33** by **Bar**:
 
 I've deleted the .ini file from the zip file and I will track down the line which was causing the program to crash if it couldn't find the target file path. Thanks again finding that bug!
 
 ---
 
-Posted on *2017-03-25 21:28:08* by *boandersen*
+Posted on **2017-03-25 21:28:08** by **boandersen**:
 
 Wondering if the egg shape is because the temp machine has a different height to width ratio - would it maybe help to reduce the height it thinks it has?
 
 ---
 
-Posted on *2017-03-25 21:59:33* by *Bar*
+Posted on **2017-03-25 21:59:33** by **Bar**:
 
 So you are still getting the egg shape after changing the settings to match the real world dimensions of the machine?
 
@@ -80,7 +80,7 @@ That version coupled with the [newest firmware](https://github.com/MaslowCNC/Fir
 
 ---
 
-Posted on *2017-03-26 07:13:55* by *boandersen*
+Posted on **2017-03-26 07:13:55** by **boandersen**:
 
 had to break for sleep.. I will try the secret version. I doi not really know if I had the correct settings. I found them on the wiki:
 ...
@@ -100,19 +100,19 @@ comport = COM3
 
 ---
 
-Posted on *2017-03-26 08:05:15* by *rancher*
+Posted on **2017-03-26 08:05:15** by **rancher**:
 
 Don't run it with those settings.  It will tear apart.  Somewhere Bar posted a screenshot of the old defaults.  Hold on.
 
 ---
 
-Posted on *2017-03-26 08:05:46* by *rancher*
+Posted on **2017-03-26 08:05:46** by **rancher**:
 
 [Maslowcnc k7km defaultsettings](//muut.com/u/maslowcnc/s3/:maslowcnc:81Hh:maslowcnck7kmdefaultsettings.jpg.jpg.jpg)
 
 ---
 
-Posted on *2017-03-26 08:11:18* by *rancher*
+Posted on **2017-03-26 08:11:18** by **rancher**:
 
 My actual settings with 10' crossbar, motors 1' vertically and 1' horizontally from the work surface:
 
@@ -126,7 +126,7 @@ Otherwise I'm using what is in the photo.  Hope that helps.
 
 ---
 
-Posted on *2017-03-26 09:09:04* by *boandersen*
+Posted on **2017-03-26 09:09:04** by **boandersen**:
 
 I had a success! 
 With the latest firmware and build, I measures my rig and got settings right.. Here is a picture https://goo.gl/photos/ijFQMwqQdrVNaYay6
@@ -152,25 +152,25 @@ chainpitch = 6.35
 
 ---
 
-Posted on *2017-03-26 09:27:37* by *Bar*
+Posted on **2017-03-26 09:27:37** by **Bar**:
 
 Fantastic!
 
 ---
 
-Posted on *2017-03-26 09:28:39* by *Bar*
+Posted on **2017-03-26 09:28:39** by **Bar**:
 
 Thank you so much for testing that. That's going to become the default calculation method, so it's always great to know that it works for someone other than me first.
 
 ---
 
-Posted on *2017-03-26 15:54:02* by *boandersen*
+Posted on **2017-03-26 15:54:02** by **boandersen**:
 
 Just a quick follow-up.. the main sled I cut out is a fairly good circle.. I measured the largest diameter to 43.5 cm and the shorter to 42.5
 
 ---
 
-Posted on *2017-03-26 16:24:46* by *mindeye*
+Posted on **2017-03-26 16:24:46** by **mindeye**:
 
 I just upgraded both my firmware and GC to latest that includes this change and after decreasing my actual measurement between the motors by -100mm I ended up with a pretty accurate 3" square. Height was dead-on and width was only -1/16" of correct. I still don't really understand why reducing the motors spacing in GC yields more accurate dimensions vertically. I'm reasonably confident my measurements are not off by 4 inches...
 
@@ -178,19 +178,19 @@ Part of the earlier errors I was seeing were due to not using adequate tabs and 
 
 ---
 
-Posted on *2017-03-26 18:20:45* by *davidlang*
+Posted on **2017-03-26 18:20:45** by **davidlang**:
 
 if it is an artifact to the sled swinging, try slowing the feed rate a bit and see if it's better.
 
 ---
 
-Posted on *2017-03-26 19:14:32* by *mindeye*
+Posted on **2017-03-26 19:14:32** by **mindeye**:
 
 Seems like a reasonable hypothesis. I'll give it a try tomorrow. If this is the case perhaps it would be useful to throw some slowdowns into the firmware whenever an abrupt directional change happens.
 
 ---
 
-Posted on *2017-03-26 22:28:46* by *davidlang*
+Posted on **2017-03-26 22:28:46** by **davidlang**:
 
 It's supposed to have something like that already but slowing everything down will identify if this is the problem or not.
 

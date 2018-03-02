@@ -1,5 +1,5 @@
 ## The Weekly Wednesday Update is Up!
-Posted on *2017-03-15 17:39:03* by *Bar*
+Posted on **2017-03-15 17:39:03** by **Bar**:
 
 The update is up! You can read it here: https://www.kickstarter.com/projects/1830738289/maslow-cnc-a-500-open-source-4-by-8-foot-cnc-machi/posts/1826750
 
@@ -7,7 +7,7 @@ It's a little later in the day than usual because today was hectic, but so excit
 
 ---
 
-Posted on *2017-03-15 17:40:17* by *davidlang*
+Posted on **2017-03-15 17:40:17** by **davidlang**:
 
 copied here for better visibility
 
@@ -21,13 +21,13 @@ This isn't to say that your initial work-around is at all bad, just that this ma
 
 ---
 
-Posted on *2017-03-15 17:48:56* by *Bar*
+Posted on **2017-03-15 17:48:56** by **Bar**:
 
 :-) We actually use a second sprocket at the bottom of the loop of chain with a bungee cord to tension it. I like the way you think. Right now the bottom bungee cord anchors in plane with the wood, I think it may need to move forward a few inches to make everything fully aligned
 
 ---
 
-Posted on *2017-03-15 18:51:39* by *davidlang*
+Posted on **2017-03-15 18:51:39** by **davidlang**:
 
 I wish I had the space to build one right now, but since i don't, I can't participate  in the beta :-(
 

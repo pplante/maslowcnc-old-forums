@@ -1,5 +1,5 @@
 ## Import to EU (Germany)
-Posted on *2017-05-12 04:04:34* by *semmel&sauer*
+Posted on **2017-05-12 04:04:34** by **semmel&sauer**:
 
 Hi there,
 
@@ -10,7 +10,7 @@ Lukas
 
 ---
 
-Posted on *2017-05-12 04:06:03* by *davidlang*
+Posted on **2017-05-12 04:06:03** by **davidlang**:
 
 In general, your customs officials will contact you to to collect any payments due. for something this small, odds are good they won't bother, but you never know.
 

@@ -1,5 +1,5 @@
 ## Cutting Parts for Olivia Desk from Open Desk
-Posted on *2017-05-28 22:08:03* by *Bar*
+Posted on **2017-05-28 22:08:03** by **Bar**:
 
 I've been holding off getting a desk until I could find the time to build one, and as part of testing today I cut the parts for the [Olivia Desk](https://www.opendesk.cc/lean/olivia-desk#get-it-made) from Open Desk. 
 
@@ -11,31 +11,31 @@ Hopefully I can get it put together and put a coat of polyurethane on it for the
 
 ---
 
-Posted on *2017-05-28 22:37:15* by *blsteinhauer88*
+Posted on **2017-05-28 22:37:15** by **blsteinhauer88**:
 
 what programs did you use on your downloads?
 
 ---
 
-Posted on *2017-05-28 22:37:41* by *blsteinhauer88*
+Posted on **2017-05-28 22:37:41** by **blsteinhauer88**:
 
 Looks Great across the cutting area!
 
 ---
 
-Posted on *2017-05-28 23:26:50* by *mattnelson*
+Posted on **2017-05-28 23:26:50** by **mattnelson**:
 
 Impressive!  Why did that one corner do that?  Issue with the maslow or the gcode?
 
 ---
 
-Posted on *2017-05-29 02:34:23* by *davidlang*
+Posted on **2017-05-29 02:34:23** by **davidlang**:
 
 Ok, from watching the video in slow motion, it looks like only the second pass had a problem. that makes it unlikely that it's a g-code error. I'd bet that it's not going to be easily repeatable (I hope I'm wrong). I'd suggest watching for errors on the console as the cut is made. If there's any way to capture all the errors (both from GC and anything reported from the firmware), that should be done.
 
 ---
 
-Posted on *2017-05-29 02:37:38* by *davidlang*
+Posted on **2017-05-29 02:37:38** by **davidlang**:
 
 I still think you are cutting too shallow in each pass :-) but the recommendations are all over the map. I see a lot of suggestions of no more than 1/2 cutter diameter, several suggestions if 1*cutter, and a lot of tables that list 2*cutter as normal :-)
 
@@ -43,19 +43,19 @@ I think the ones suggesting 1/2 cutter diamter are not assuming cuts like we are
 
 ---
 
-Posted on *2017-05-31 12:13:20* by *Bar*
+Posted on **2017-05-31 12:13:20** by **Bar**:
 
 I think you are right that we can probably push the depth further. I did some tests yesterday with .2 inch passes 18k rpm on the router, and those looked great.
 
 ---
 
-Posted on *2017-05-31 12:14:46* by *Bar*
+Posted on **2017-05-31 12:14:46** by **Bar**:
 
 I'm pretty sure the issue was on our end, not in the gcode because everything rendered correctly in Ground Control. My guess is that something went off in the serial connection and a letter got lost. We may need to add some sort of a check sum to make sure that the line is complete before executing it
 
 ---
 
-Posted on *2017-05-31 12:18:20* by *Bar*
+Posted on **2017-05-31 12:18:20** by **Bar**:
 
 Here's the final [desk](//muut.com/u/maslowcnc/s3/:maslowcnc:etfJ:img_20170531_084952612_hdr.jpg.jpg) ! I also made a [video of the build process](https://www.youtube.com/watch?v=CIQC5ZyzfDM&) for the Kickstarter update today.
 
@@ -65,44 +65,44 @@ I think I'll do a dining room table and a full set of chairs next :-p
 
 ---
 
-Posted on *2017-05-31 12:20:20* by *gero*
+Posted on **2017-05-31 12:20:20** by **gero**:
 
 Wow, how did the connections fit? Loose, sanding or brute force? ;-)
 
 ---
 
-Posted on *2017-05-31 12:22:55* by *gero*
+Posted on **2017-05-31 12:22:55** by **gero**:
 
 Sorry Bar, looks like perfect fit in the video.
 
 ---
 
-Posted on *2017-05-31 12:23:51* by *Bar*
+Posted on **2017-05-31 12:23:51** by **Bar**:
 
 They were actually perfect on the first try which was totally luck. Plywood varies in thickness so much batch to batch I try to avoid those types of press fit, but all the open desk furniture uses a lot of them
 
 ---
 
-Posted on *2017-05-31 12:55:49* by *gero*
+Posted on **2017-05-31 12:55:49** by **gero**:
 
 I have read the article and it was very enlightening. In this part of the world I am dealing with imported crap, that the rest of the world has rejected. FreeCad however lets me adjust every single constrain within minutes and generate the Gcode.
 A wonderful Desk and you challenged me to eventually start to build.
 
 ---
 
-Posted on *2017-05-31 13:26:28* by *TheRiflesSpiral*
+Posted on **2017-05-31 13:26:28** by **TheRiflesSpiral**:
 
 Aker has a test fit file that doesn't take up too much room that will help you determine how to set up your tool paths with materials of odd frequencies for these press-fit applications. https://akerkits.com/collections/source-files/products/clearances-test-file-source-file-pack
 
 ---
 
-Posted on *2017-05-31 14:13:42* by *mindeye*
+Posted on **2017-05-31 14:13:42** by **mindeye**:
 
 What was the cutter's diameter?
 
 ---
 
-Posted on *2017-05-31 15:15:27* by *davidlang*
+Posted on **2017-05-31 15:15:27** by **davidlang**:
 
 I just noticed that the forum butchered by comment
 
@@ -114,19 +114,19 @@ but you should be able to cut through 3/4" plywood in two passes with a 1/4" bit
 
 ---
 
-Posted on *2017-05-31 15:52:54* by *gero*
+Posted on **2017-05-31 15:52:54** by **gero**:
 
 The Maslow is a different league from my opinion. RPMs and feeds need to be redefined. Same goes for the depths. Horizontal CNC can be brought in as a reference on how to start. On my tilt, now increased from 6 to 10 degree, the speeds that I have cleaner cuts are far higher then recommended. I have cutter moves off the line when the bit goes into the material. Feed can be increased to the limit off wiggling the sled at corners at direction changes. A series of the same .nc file on different Maslows, to achieve comparable results (davidlang) could be a approach to get recommendations for this amazing machine.
 
 ---
 
-Posted on *2017-05-31 16:58:28* by *blsteinhauer88*
+Posted on **2017-05-31 16:58:28** by **blsteinhauer88**:
 
 I am at 10 degrees also and am happy with the quality of the cut,  more was too much friction, and less as I understood'Gero' to say , the bit can start to 'steer' the sled at the higher speed, not a clean.
 
 ---
 
-Posted on *2017-05-31 16:59:16* by *davidlang*
+Posted on **2017-05-31 16:59:16** by **davidlang**:
 
 what do you mean by "the speeds that I have cleaner cuts are far higher then recommended"?
 
@@ -134,14 +134,14 @@ are you talking about feed rate? rpm? is this based on chip load calculations?
 
 ---
 
-Posted on *2017-05-31 18:51:51* by *rollandelliott*
+Posted on **2017-05-31 18:51:51** by **rollandelliott**:
 
 What kind of blue stain is that?
 looks awesome!
 
 ---
 
-Posted on *2017-05-31 18:51:57* by *scottsm*
+Posted on **2017-05-31 18:51:57** by **scottsm**:
 
 @Bar, there were lots of long straight horizontal cuts in that desk. How straight did they come out?
 The checksum idea seems good, but would that interfere with grbl compatibility? I've had several odd cuts like you saw lately, and captured the console output during a couple. I opened a issue with the data from one. 
@@ -149,14 +149,14 @@ The checksum idea seems good, but would that interfere with grbl compatibility? 
 
 ---
 
-Posted on *2017-05-31 18:54:24* by *davidlang*
+Posted on **2017-05-31 18:54:24** by **davidlang**:
 
 possibly a debug mode in the firmware that echos back every line it processes as well?&quest;?
 If we are loosing data over the USB cable, there is something very wrong here, we should not be loosing anything at these speeds.
 
 ---
 
-Posted on *2017-05-31 20:28:24* by *scottsm*
+Posted on **2017-05-31 20:28:24** by **scottsm**:
 
 I think we have that echo already. It would be nice if the lines could be logged to disk to aid post-mortem. Without that, you have to be present and watching for the error, and take a screen shot before hitting ‘STOP’.
  If the lines included line numbers, GC might be able to validate them against the appropriate line in the code array and take action.
@@ -164,19 +164,19 @@ I think we have that echo already. It would be nice if the lines could be logged
 
 ---
 
-Posted on *2017-05-31 21:31:30* by *mattnelson*
+Posted on **2017-05-31 21:31:30** by **mattnelson**:
 
 Is it possible we are getting interference from the router?  I once had a vandergraph generator 15 feet away screw up my serial communication to an arduino.
 
 ---
 
-Posted on *2017-05-31 23:17:16* by *scottsm*
+Posted on **2017-05-31 23:17:16** by **scottsm**:
 
 In my instance, no. I'm running my sled with pens instead of a router :) .
 
 ---
 
-Posted on *2017-06-01 10:47:27* by *Bar*
+Posted on **2017-06-01 10:47:27** by **Bar**:
 
 @scottsm I redid the calibration process (as part of testing something else) just before running these cuts and they came out notably straighter than I've seen in the past. I didn't measure any bend at all with a quick check with the straight edge.
 
@@ -190,7 +190,7 @@ The first step is to find a way to make the problem repeatable, then we can narr
 
 ---
 
-Posted on *2017-06-01 13:24:34* by *scottsm*
+Posted on **2017-06-01 13:24:34** by **scottsm**:
 
 I tried the logger just now, it opens a file but doesn't write to it :(. 
 
@@ -200,13 +200,13 @@ The good news is that problem is completely repeatable :). So far I've tried eve
 
 ---
 
-Posted on *2017-06-01 13:32:22* by *scottsm*
+Posted on **2017-06-01 13:32:22** by **scottsm**:
 
 Unfortunately I moved the issue to GC back before donig this research. Currently find it as issue#300 in GC. Perhaps I should reopen the Firmware issue#234 to keep things straight?
 
 ---
 
-Posted on *2017-06-01 14:20:09* by *Bar*
+Posted on **2017-06-01 14:20:09** by **Bar**:
 
 Good catch on the logger not logging. I wasn't actually starting the thread which does the writing to disk. I believe it's fixed now.
 
@@ -214,13 +214,13 @@ I'll take another look at [#300](https://github.com/MaslowCNC/GroundControl/issu
 
 ---
 
-Posted on *2017-06-01 22:19:37* by *davidlang*
+Posted on **2017-06-01 22:19:37** by **davidlang**:
 
 take a look at https://github.com/MaslowCNC/GroundControl/issues/309 that looks like it may account for this problem.
 
 ---
 
-Posted on *2017-06-01 22:41:33* by *scottsm*
+Posted on **2017-06-01 22:41:33** by **scottsm**:
 
 While this is a good find, making the proposed change to Ringbuffer.h does not solve the issue in #300. Tested twice. Darn, I had such hopes!
 

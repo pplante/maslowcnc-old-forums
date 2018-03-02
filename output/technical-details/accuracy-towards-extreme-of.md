@@ -1,5 +1,5 @@
 ## Accuracy towards extreme of working surface
-Posted on *2016-10-27 10:18:12* by *olly_oneill*
+Posted on **2016-10-27 10:18:12** by **olly_oneill**:
 
 Firstly, I'd like to say I'm massive fan of your kickstarter idea and intend on supporting. I'm an architect in London but I also code and run a V plotter drawing machine at home to create artwork (https://www.instagram.com/olly_oneill_art/ if your interested) I'm also involved with some maker spaces and work for an architects collaborating with wikihouse currently. I have used 'trad' CNC milling machines for more than 10-12 years in different capacities
 
@@ -11,13 +11,13 @@ I look forward to hearing from you and hopefully realising some projects with th
 
 ---
 
-Posted on *2016-10-27 10:38:02* by *sparhawk2k*
+Posted on **2016-10-27 10:38:02** by **sparhawk2k**:
 
 There was a question below where this was answered in quite a bit of detail. http://www.maslowcnc.com/forums/#!/technical-details:question-about-accuracy-r
 
 ---
 
-Posted on *2016-10-27 19:48:58* by *Bar*
+Posted on **2016-10-27 19:48:58** by **Bar**:
 
 Those are GORGEOUS man! Hands down the most wonderful V-plotter work I've seen. Check out my other answer and let me know if you have any follow up questions. You clearly have a lot of relevant experience. Your question about centering is on point (<---Boo bad pun). The better job you do of telling the machine about it's dimensions and where home is, the more accurate the math will be. That being said, I don't do any crazy super hard core calibration stuff, I use a ruler and I'm moderately attentive to getting it right.
 
@@ -25,7 +25,7 @@ Can you share anymore about what you are planning to build? If you are waiting t
 
 ---
 
-Posted on *2016-10-28 02:42:25* by *olly_oneill*
+Posted on **2016-10-28 02:42:25** by **olly_oneill**:
 
 Bar, 
 
@@ -41,7 +41,7 @@ Do you think your machine is capable of achieving similar accuracies to 'rack an
 
 ---
 
-Posted on *2016-10-28 10:52:34* by *Bar*
+Posted on **2016-10-28 10:52:34** by **Bar**:
 
 That projection mapping project looks amazing. That's exactly the kind of art/engineering project that I was hoping to see people building. 
 

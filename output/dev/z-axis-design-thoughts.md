@@ -1,5 +1,5 @@
 ## Z Axis Design Thoughts
-Posted on *2016-11-03 14:56:58* by *chadzimmerman*
+Posted on **2016-11-03 14:56:58** by **chadzimmerman**:
 
 Ok, can't find Bar's post on his Z Axis trial cutting.  But I have been pondering it now a few days.  I don't think it is the right solution to go with, you are going to run into a lot of router designs that depth adjust differently.  On my Dewalt it is a dial on the fixed base.
 
@@ -11,13 +11,13 @@ A router lift that uses a threaded rod and drawer slides for stability.  Now it 
 
 ---
 
-Posted on *2016-11-03 17:30:30* by *TheRiflesSpiral*
+Posted on **2016-11-03 17:30:30** by **TheRiflesSpiral**:
 
 The video showing the Z-axis is on the Kickstarter page.
 
 ---
 
-Posted on *2016-11-03 18:10:21* by *chadzimmerman*
+Posted on **2016-11-03 18:10:21** by **chadzimmerman**:
 
 That's why I couldn't find it.. Doh.
 

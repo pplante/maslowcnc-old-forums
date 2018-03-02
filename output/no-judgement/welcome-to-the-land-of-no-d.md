@@ -1,5 +1,5 @@
 ## Welcome to the land of no dumb questions!
-Posted on *2017-02-22 10:10:13* by *hannahteagle*
+Posted on **2017-02-22 10:10:13** by **hannahteagle**:
 
 Hey everyone :)
 
@@ -13,50 +13,50 @@ hannah
 
 ---
 
-Posted on *2017-03-22 16:42:57* by *rexklein*
+Posted on **2017-03-22 16:42:57** by **rexklein**:
 
 uh what are u bolts for? no judging
 
 ---
 
-Posted on *2017-03-22 16:47:59* by *Bar*
+Posted on **2017-03-22 16:47:59** by **Bar**:
 
 That's a great great question. They are going to be used to attach the motor mounts to the arms in the final frame.
 
 ---
 
-Posted on *2017-03-22 16:50:59* by *blsteinhauer88*
+Posted on **2017-03-22 16:50:59** by **blsteinhauer88**:
 
 Did we discover the reason for the oval sled cut?  I plan on cutting the rest of the frame parts and don't want them all to look like it's owner, "little oval round the middle".  Ha Ha
 
 ---
 
-Posted on *2017-03-22 16:53:53* by *Bar*
+Posted on **2017-03-22 16:53:53** by **Bar**:
 
 haha, yeah nobody wants that. I haven't had a chance to dig into it, but it's the number one thing on my todo list so it should be pretty tackled pretty quick
 
 ---
 
-Posted on *2017-03-22 16:58:11* by *Bar*
+Posted on **2017-03-22 16:58:11** by **Bar**:
 
 The first place I would look would be to double check all the measures in the settings window and compare them to the real world. I know I last updated the instructions with the old temporary frame design so I'm a little worried that the software is ok, it's just a directions thing.
 
 ---
 
-Posted on *2017-03-22 16:59:49* by *blsteinhauer88*
+Posted on **2017-03-22 16:59:49** by **blsteinhauer88**:
 
 Meaning the distance measurements on the sled for
  the Maslow section of the groundcontrol?
 
 ---
 
-Posted on *2017-03-22 17:03:25* by *Bar*
+Posted on **2017-03-22 17:03:25** by **Bar**:
 
 For the sled and for the distance from the corners of the sheet to the motors
 
 ---
 
-Posted on *2017-03-23 10:07:15* by *mindeye*
+Posted on **2017-03-23 10:07:15** by **mindeye**:
 
 When you're back @Bar, could you provide more detailed instructions on exactly where measurements should be taken from?
 
@@ -66,13 +66,13 @@ Additionally, does the calibrate chain length take into account the tiny half li
 
 ---
 
-Posted on *2017-03-24 07:51:17* by *Bar*
+Posted on **2017-03-24 07:51:17** by **Bar**:
 
 Those sound like the right dimensions, but I think you are right that it could be more clear. I think a diagram in the instructions could help so I will make one. Thanks for the tip.
 
 ---
 
-Posted on *2017-03-24 08:56:16* by *jbarchuk*
+Posted on **2017-03-24 08:56:16** by **jbarchuk**:
 
 *Super-Emphasis: Anyone who has ANY potential confusion on ANY point, as Bar said in the instruction page, PLEASE write and say so. No one will judge you for your misunderstanding or confusion. This is a VERY complex machine, software, and process.
 Your input is not only useful but REQUIRED.

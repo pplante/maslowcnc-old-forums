@@ -1,5 +1,5 @@
 ## Calibration trouble
-Posted on *2017-06-23 06:30:45* by *Jennifer D*
+Posted on **2017-06-23 06:30:45** by **Jennifer D**:
 
 Morning all,
 Trying to get things calibrated this morning and I'm having issues. I'm uncertain if they're software issues or something specific to what I'm doing. I started calibration yesterday, got all the way up to z-axis before I had to leave the shop. I left everything connected but when I returned to finish things this morning the connection had been lost. So I exited and got things talking to each other again. 
@@ -21,7 +21,7 @@ I'm going to try to run through calibration start to finish again. Hoping it wor
 
 ---
 
-Posted on *2017-06-23 08:02:28* by *Jennifer D*
+Posted on **2017-06-23 08:02:28** by **Jennifer D**:
 
 Just ran through calibration start to finish with a fresh piece of plywood and looks like I'm dialed in. I still don't know if I lost yesterday's calibration data or what, I'm just happy to have it calibrated! now to see if I can get the frame parts cut!
 

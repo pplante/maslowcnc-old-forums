@@ -1,17 +1,17 @@
 ## The weekly update is posted!
-Posted on *2017-02-08 15:45:36* by *Bar*
+Posted on **2017-02-08 15:45:36** by **Bar**:
 
 Hope everyone is having as great a week as we are! Check it out here: https://www.kickstarter.com/projects/1830738289/maslow-cnc-a-500-open-source-4-by-8-foot-cnc-machi/posts/1802934
 
 ---
 
-Posted on *2017-02-08 15:59:55* by *paulhart*
+Posted on **2017-02-08 15:59:55** by **paulhart**:
 
 Nice work on the stand!
 
 ---
 
-Posted on *2017-02-08 16:02:33* by *paulhart*
+Posted on **2017-02-08 16:02:33** by **paulhart**:
 
 On the topic of the Z axis, you've done a survey to find out what size shaft couplers people would want - did anyone say if they owned this router from Harbor Freight?
 
@@ -21,7 +21,7 @@ I'm looking at buying one as a "starter" router, but the manual doesn't give tec
 
 ---
 
-Posted on *2017-02-08 16:23:51* by *Bar*
+Posted on **2017-02-08 16:23:51** by **Bar**:
 
 Thanks!
 
@@ -31,19 +31,19 @@ I'm sure that some of our members will automate plunge routers like that one fro
 
 ---
 
-Posted on *2017-02-08 18:37:37* by *paulhart*
+Posted on **2017-02-08 18:37:37** by **paulhart**:
 
 Thanks for the video etc - I feel educated :) I'll see what my options are for fixed-base routers (most of what you showed in the video is here as well).
 
 ---
 
-Posted on *2017-02-08 20:31:43* by *davidlang*
+Posted on **2017-02-08 20:31:43** by **davidlang**:
 
 if you look at the images of that router xlosely, you will see the the depth adjustment is not connected between the router and the base. it's a stop. The router moves freely on the vertical bars and is spring loaded to keep it away from the material. That stop is adjustable (but not something that could be motorized) to limit how deep it can go, but you have to muscle it down into the wood to have it hit that stop
 
 ---
 
-Posted on *2017-02-08 23:32:16* by *jbarchuk*
+Posted on **2017-02-08 23:32:16** by **jbarchuk**:
 
 @Bar... "Fixed base routers generally have a thumb knob which lets you set the depth and that is where the z-axis motor would attach. This video..."
 
@@ -65,7 +65,7 @@ The Bosh though, where you said 'clamp is not adjustable.' That might be a deal 
 
 ---
 
-Posted on *2017-02-09 09:05:16* by *davidlang*
+Posted on **2017-02-09 09:05:16** by **davidlang**:
 
 @jbarchuk
 
@@ -83,13 +83,13 @@ bar shows all three of these styles in his video, along with other nuances like 
 
 ---
 
-Posted on *2017-02-09 14:27:02* by *jamesbil*
+Posted on **2017-02-09 14:27:02** by **jamesbil**:
 
 Just watched the video, you guys have an amazing selection of f/b routers! And the prices!! They have yet to take off this side of the Atlantic. @bar would you be so good as to cast your eye over this router for us euro folk?http://www.tritontools.com/en-GB/Product/Power%20Tools/Routers/MOF001
 
 ---
 
-Posted on *2017-02-09 16:29:12* by *Bar*
+Posted on **2017-02-09 16:29:12** by **Bar**:
 
 I had no idea they would be so hard to find abroad. :-/
 
@@ -97,13 +97,13 @@ I took a look at that router. It seems well made, but it is a plunge router, not
 
 ---
 
-Posted on *2017-02-09 16:30:38* by *Bar*
+Posted on **2017-02-09 16:30:38** by **Bar**:
 
 You might want to check out the conversation called "Plunge Router" going on below this one. Some people with more experience with plunge routers than me have made some insightful comments.
 
 ---
 
-Posted on *2017-02-10 00:22:20* by *jamesbil*
+Posted on **2017-02-10 00:22:20** by **jamesbil**:
 
 Thanks for looking Bar, I realise it's a plunge but it also has quite a unique fine adjustment system that will raise or lower it. Also the option to remove the plunge spring. The 2nd and 4th pic show these parts.
 

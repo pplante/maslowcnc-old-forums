@@ -1,11 +1,11 @@
 ## Whether to buy...
-Posted on *2017-05-15 19:27:40* by *noreaster*
+Posted on **2017-05-15 19:27:40** by **noreaster**:
 
 Trying to figure out whether to buy the Maslow, or wait. I don't _really_ have a place for it -- I could try to clear out some junk in the garage and make some space -- but what I'd like to figure out is whether there will be a second generation later on and I should just wait for that. Thoughts?
 
 ---
 
-Posted on *2017-05-15 21:53:18* by *davidlang*
+Posted on **2017-05-15 21:53:18** by **davidlang**:
 
 well, the nice thing is that everything is opensource, so you can build a maslow type machine without buying anything from them (and some people have).
 
@@ -15,7 +15,7 @@ so if you don't buy the kit now, it may not be available later. But it may be, a
 
 ---
 
-Posted on *2017-05-16 07:12:12* by *Bar*
+Posted on **2017-05-16 07:12:12** by **Bar**:
 
 Our goal is to make CNC accessable to everyone. Like @davidlang said that means you can always build one with or without us (but it's probably easier with the kit).
 
@@ -27,13 +27,13 @@ So to answer your original question I'd say buy one now if you want to be part o
 
 ---
 
-Posted on *2017-05-16 08:13:19* by *noreaster*
+Posted on **2017-05-16 08:13:19** by **noreaster**:
 
 Thank you very much, @davidlang and @Bar!
 
 ---
 
-Posted on *2017-05-16 09:21:42* by *gero*
+Posted on **2017-05-16 09:21:42** by **gero**:
 
 > @noreaster
 >  I don't really have a place for it
@@ -41,19 +41,19 @@ You could make one hinged, like I did. It is flat on the wall when not in use. S
 
 ---
 
-Posted on *2017-05-16 10:23:06* by *noreaster*
+Posted on **2017-05-16 10:23:06** by **noreaster**:
 
 Sounds like a pretty good idea! Thank you!
 
 ---
 
-Posted on *2017-05-16 13:50:36* by *rollandelliott*
+Posted on **2017-05-16 13:50:36** by **rollandelliott**:
 
 it's the best deal out there. I say go for it!
 
 ---
 
-Posted on *2017-05-18 05:01:26* by *jwolter0*
+Posted on **2017-05-18 05:01:26** by **jwolter0**:
 
 Of course, asking a forum of folks who have already bought into (in most cases literally) the idea whether you should go for it, it's not surprising their answer is yes!
 

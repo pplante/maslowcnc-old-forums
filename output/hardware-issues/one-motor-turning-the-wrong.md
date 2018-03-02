@@ -1,5 +1,5 @@
 ## One motor turning the wrong way during chain calibration
-Posted on *2017-06-20 03:50:48* by *thomasgkristensen*
+Posted on **2017-06-20 03:50:48** by **thomasgkristensen**:
 
 Hi all!
 
@@ -15,14 +15,14 @@ Has anyone seen similar issues or have any ideas as to what I might have done wr
 
 ---
 
-Posted on *2017-06-20 04:15:35* by *gero*
+Posted on **2017-06-20 04:15:35** by **gero**:
 
 Hello, do you have the motors connected this way?  [IMAG0875](//muut.com/u/maslowcnc/s1/:maslowcnc:PrmW:imag0875.jpg.jpg)
 Are you using the firmware and groudcontrol from the releases or from the green download button?
 
 ---
 
-Posted on *2017-06-20 04:32:22* by *thomasgkristensen*
+Posted on **2017-06-20 04:32:22** by **thomasgkristensen**:
 
 I've tried that way and swapping L and R. It's really good to have confirmed that the leftmost port on your picture is R. Thanks! I really couldn't figure that out.
 
@@ -30,43 +30,43 @@ I've downloaded the firmware and groundcontrol from the releases page. I don't k
 
 ---
 
-Posted on *2017-06-20 04:32:31* by *thomasgkristensen*
+Posted on **2017-06-20 04:32:31** by **thomasgkristensen**:
 
 And thanks! Of course!
 
 ---
 
-Posted on *2017-06-20 05:22:31* by *thomasgkristensen*
+Posted on **2017-06-20 05:22:31** by **thomasgkristensen**:
 
 I tried downgrading the firmware to 0.73 and the groundcontrol version to 0.75 but now I can't get any life in the motors. Maybe the software is just in a bit of a flux?
 
 ---
 
-Posted on *2017-06-20 05:23:05* by *thomasgkristensen*
+Posted on **2017-06-20 05:23:05** by **thomasgkristensen**:
 
 I can tell that groundcontrol connects to the machine though as I get the version of the firmware echoed back.
 
 ---
 
-Posted on *2017-06-20 05:54:42* by *rancher*
+Posted on **2017-06-20 05:54:42** by **rancher**:
 
 I'm pretty sure it's broken right now.  I think we need to wait for updates or something.
 
 ---
 
-Posted on *2017-06-20 09:27:14* by *Bar*
+Posted on **2017-06-20 09:27:14** by **Bar**:
 
 What happens when you press the "test motors" button?
 
 ---
 
-Posted on *2017-06-20 11:15:27* by *thomasgkristensen*
+Posted on **2017-06-20 11:15:27** by **thomasgkristensen**:
 
 The left motor turns correctly back and forth, but the right motor turns the opposite direction on its test run (which I believe is wrong).
 
 ---
 
-Posted on *2017-06-22 11:10:54* by *thomasgkristensen*
+Posted on **2017-06-22 11:10:54** by **thomasgkristensen**:
 
 I am no longer able to run the test routine. I just get a fail on all three motors now. The port it identifies also seems to have changed from /dev/cu.usbmodem1411 to /dev/tty.usbmodem1411 which is really confusing. I can still see the firmware version and I have successfully updated to 0.77 for both firmware and groundcontrol.
 
@@ -74,19 +74,19 @@ I'm not sure how to troubleshoot from here. I fear I might have damaged a circui
 
 ---
 
-Posted on *2017-06-22 11:44:52* by *gero*
+Posted on **2017-06-22 11:44:52** by **gero**:
 
 On what Operating System are you running Ground Control?
 
 ---
 
-Posted on *2017-06-22 12:14:09* by *gero*
+Posted on **2017-06-22 12:14:09** by **gero**:
 
 Looks like Mac.
 
 ---
 
-Posted on *2017-06-22 12:22:13* by *gero*
+Posted on **2017-06-22 12:22:13** by **gero**:
 
 Tip 1) (forgive me)
 Check if the power supply for the motors is in the shield and not in the Mega.
@@ -98,13 +98,13 @@ Check if the power supply for the motors is in the shield and not in the Mega.
 
 ---
 
-Posted on *2017-06-22 12:35:49* by *Bar*
+Posted on **2017-06-22 12:35:49** by **Bar**:
 
 +1 for everything @gero says those are exactly the right steps to try. Let us know how it goes!
 
 ---
 
-Posted on *2017-06-22 12:36:42* by *thomasgkristensen*
+Posted on **2017-06-22 12:36:42** by **thomasgkristensen**:
 
 Thanks @gero! I'm ashamed to admit that Tip 1 was correct! I'd completely forgotten there was a power port on the arduino :-(
 
@@ -114,13 +114,13 @@ Thanks once again! You can't image how silly I feel right now.
 
 ---
 
-Posted on *2017-06-22 12:37:17* by *gero*
+Posted on **2017-06-22 12:37:17** by **gero**:
 
 We have all been there.... we all admit :-)
 
 ---
 
-Posted on *2017-06-22 12:38:53* by *Bar*
+Posted on **2017-06-22 12:38:53** by **Bar**:
 
 We've all been there. You aren't even the first this week. Bonus points to @gero for diagnosing the issue correctly on his first point!
 
@@ -128,7 +128,7 @@ The new PCBs we're going to be shipping you guys have one LED which indicates th
 
 ---
 
-Posted on *2017-06-22 12:52:31* by *thomasgkristensen*
+Posted on **2017-06-22 12:52:31** by **thomasgkristensen**:
 
 Haha! Good idea! I can confirm that both motors now turn the direction they are supposed to! Happy days :-)
 
@@ -138,19 +138,19 @@ I don't know if support for smaller versions of the machine is on the schedule o
 
 ---
 
-Posted on *2017-06-22 13:48:35* by *Bar*
+Posted on **2017-06-22 13:48:35** by **Bar**:
 
 Great point! I hadn't thought of that. Are your chains of shorter length or can you measure out the full length, then backtrack?
 
 ---
 
-Posted on *2017-06-22 14:06:15* by *davidlang*
+Posted on **2017-06-22 14:06:15** by **davidlang**:
 
 when feeding out the chain, instead of feeding out a fixed amount, do the chain length calculation to find what they should be for '0,0'
 
 ---
 
-Posted on *2017-06-22 23:27:24* by *thomasgkristensen*
+Posted on **2017-06-22 23:27:24** by **thomasgkristensen**:
 
 @bar I haven't shortened the chains so I could backtrace. Is that possible in the current implementation?
 
@@ -158,7 +158,7 @@ Posted on *2017-06-22 23:27:24* by *thomasgkristensen*
 
 ---
 
-Posted on *2017-06-30 11:27:12* by *thomasgkristensen*
+Posted on **2017-06-30 11:27:12** by **thomasgkristensen**:
 
 I have been experimenting with manually unhooking the chain and positioning the sled in the middle of my smaller plywood setup. After putting the sled in the middle of the plywood I then use the manual chain length calibration but I can see it assumes my chains are much longer than they actually are. When I then try to move around the sled is moved much further then the 4 inches I've asked it to move. It also seems to go up even when I press down.
 
@@ -166,7 +166,7 @@ I assume this is all caused by the control software resetting 0, 0 to the wrong 
 
 ---
 
-Posted on *2017-06-30 13:12:33* by *Bar*
+Posted on **2017-06-30 13:12:33** by **Bar**:
 
 I'm sorry about the slow response on this one. Making the machine work at any size IS on my todo list. I've been pretty much swamped this week with getting the kits out, and the next few weeks will probably be pretty hectic too as I try to help everyone get their machines put together. I haven't forgotten about you.
 
@@ -180,7 +180,7 @@ I haven't actually tested this because I don't have a smaller machine built, so 
 
 ---
 
-Posted on *2017-07-01 11:00:47* by *thomasgkristensen*
+Posted on **2017-07-01 11:00:47** by **thomasgkristensen**:
 
 No problem at all! I understand that supporting the happy path for setting this up is much more important than my very special case :-D
 

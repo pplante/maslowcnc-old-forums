@@ -1,5 +1,5 @@
 ## Outrigger attachment
-Posted on *2016-10-20 10:58:13* by *bdillahu*
+Posted on **2016-10-20 10:58:13** by **bdillahu**:
 
 OK, next weird question. Looking at the sketchup drawing of the machine let to the question of how the outriggers for the motors attach to the backer board. 
 
@@ -9,7 +9,7 @@ Either way, I'm curious on the motor mounts :-)
 
 ---
 
-Posted on *2016-10-20 11:08:48* by *Bar*
+Posted on **2016-10-20 11:08:48** by **Bar**:
 
 Not a weird question at all!
 
@@ -21,7 +21,7 @@ You don't have to use a sacrificial sheet, but you probably should. I leave a sh
 
 ---
 
-Posted on *2016-10-20 11:25:55* by *bdillahu*
+Posted on **2016-10-20 11:25:55** by **bdillahu**:
 
 Thanks... given use of a sacrificial sheet (or even just a thick main sheet), have you seen issues with the thickness throwing things off? I assume there is enough flex in the chains to deal with several inches, but wondered... 
 
@@ -29,7 +29,7 @@ Could I put a several inch thick slab of wood (or something) up there and engrav
 
 ---
 
-Posted on *2016-10-20 11:39:42* by *Bar*
+Posted on **2016-10-20 11:39:42** by **Bar**:
 
 You should be fine even up to a couple inches. 
 
@@ -39,7 +39,7 @@ Basically, yes you can do that. If you somehow have a full 4'x8' slab, you'd pro
 
 ---
 
-Posted on *2016-10-20 11:57:22* by *bdillahu*
+Posted on **2016-10-20 11:57:22** by **bdillahu**:
 
 :-)
 

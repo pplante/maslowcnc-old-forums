@@ -1,5 +1,5 @@
 ## how to tell if you have router issues
-Posted on *2016-11-16 13:09:17* by *davidlang*
+Posted on **2016-11-16 13:09:17** by **davidlang**:
 
 I was thinking of the router discussion and it occured to me that there isn't a good way for people to know if they are having problems with the router that they are using or not.
 
@@ -21,19 +21,19 @@ Issues I can think of offhand
 
 ---
 
-Posted on *2016-11-16 16:39:51* by *karlthorp*
+Posted on **2016-11-16 16:39:51** by **karlthorp**:
 
 As with all power tools there is an inherent learning curve, every machine is different it doesn't matter if it's the same make and model or not, you have to experiment and learn what your setup is capable of.
 
 ---
 
-Posted on *2016-11-16 19:58:48* by *scottsm*
+Posted on **2016-11-16 19:58:48** by **scottsm**:
 
 The 1/8" cutters that Bar mentioned he was using should work in either the 1/4" or 1/2" router with reducing collets. My experience with them is that one must cut slowly, and resist the temptation to cut deep. I know when I've done wrong because the cutter breaks. I think there's a reason they sell them in 10-packs...  : ) The strength of the cutter seems a bigger factor than the power of the router. Travel speed, cut depth, rpm and the hardness of various materials will be interesting to share along with designs. I've got a lot to learn, anxious to start!
 
 ---
 
-Posted on *2016-11-17 14:38:28* by *davidlang*
+Posted on **2016-11-17 14:38:28** by **davidlang**:
 
 running a collet reducer to go from 1/2" to 1/8" is odd, and you don't need 2HP to spin a 1/8" bit. 1/8" bits are also very easy to break.
 
@@ -45,7 +45,7 @@ That's why I'm suggesting doing some videos of "not ideal" to show people what t
 
 ---
 
-Posted on *2016-11-22 10:53:04* by *jamesbil*
+Posted on **2016-11-22 10:53:04** by **jamesbil**:
 
 something like this might be ideal..
 http://www.rutlands.co.uk/sp+precision-router-lift-and-variable-speed-motor-combo-kit+RTX5000COMBO

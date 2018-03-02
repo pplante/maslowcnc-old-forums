@@ -1,5 +1,5 @@
 ## Curious about encoder placement
-Posted on *2016-10-19 07:50:26* by *TheRiflesSpiral*
+Posted on **2016-10-19 07:50:26** by **TheRiflesSpiral**:
 
 Hello!
 
@@ -9,7 +9,7 @@ What's the rationale behind monitoring the motor's motion as opposed to the spro
 
 ---
 
-Posted on *2016-10-19 11:56:42* by *Bar*
+Posted on **2016-10-19 11:56:42** by **Bar**:
 
 Great question! 
 
@@ -33,13 +33,13 @@ P.S. Don't worry about offending us with questions. We're an open project, we ha
 
 ---
 
-Posted on *2016-10-20 05:35:23* by *TheRiflesSpiral*
+Posted on **2016-10-20 05:35:23** by **TheRiflesSpiral**:
 
 That makes total sense. Low speeds and lightweight chain should prevent chain lash too. Then it becomes a matter of weight and friction. (And a nice, sharp bit, of course). Thanks for the insight!
 
 ---
 
-Posted on *2016-11-18 05:15:31* by *boblq*
+Posted on **2016-11-18 05:15:31** by **boblq**:
 
 I love your goals. But how best to reach them? 
 
@@ -51,7 +51,7 @@ An LED/photocell on a single printed circuit can do that. It could be an extensi
 
 ---
 
-Posted on *2016-11-18 05:37:40* by *boblq*
+Posted on **2016-11-18 05:37:40** by **boblq**:
 
 Now for the other stuff. Z-axis. 
 
@@ -71,7 +71,7 @@ So it goes.
 
 ---
 
-Posted on *2016-11-18 05:45:59* by *boblq*
+Posted on **2016-11-18 05:45:59** by **boblq**:
 
 If we imagine the hanging router being suspended by three chains form the ceiling then the router can obviously be moved any where in a 3D volume described by the chains. 
 
@@ -81,13 +81,13 @@ By controlling the chains the router can move in any direction. Thus we can buil
 
 ---
 
-Posted on *2016-11-18 05:46:27* by *boblq*
+Posted on **2016-11-18 05:46:27** by **boblq**:
 
 Ain't this fun ;-)
 
 ---
 
-Posted on *2016-11-18 05:51:55* by *TomTheWhittler*
+Posted on **2016-11-18 05:51:55** by **TomTheWhittler**:
 
 There are other geared motors with encoding already build in that are fairly cheap.
 http://www.ebay.com/itm/262494873809?
@@ -97,7 +97,7 @@ I am sure you could get any geared motor to work (like car window motor) as long
 
 ---
 
-Posted on *2016-11-18 05:53:27* by *boblq*
+Posted on **2016-11-18 05:53:27** by **boblq**:
 
 For some purposes it would be useful to allow the router to be rotated around other axis as well as the vertical axis. 
 
@@ -109,7 +109,7 @@ e,g, https://github.com/yck011522/drone
 
 ---
 
-Posted on *2016-11-18 06:13:48* by *boblq*
+Posted on **2016-11-18 06:13:48** by **boblq**:
 
 A final comment then to sleep. I am a 75 year old man living in the Philippines. 
 

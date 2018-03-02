@@ -1,5 +1,5 @@
 ## v-plotter.py
-Posted on *2017-02-13 19:17:41* by *davidlang*
+Posted on **2017-02-13 19:17:41** by **davidlang**:
 
 I copied the code from http://2e5.com/plotter/V/design/ which lays out the math for a plotter designed like the maslow. I tweaked the constants and added a grid display.
 
@@ -19,13 +19,13 @@ David Lang
 
 ---
 
-Posted on *2017-02-13 20:40:05* by *lsimonetto*
+Posted on **2017-02-13 20:40:05** by **lsimonetto**:
 
 hi there - what language is that coded in? would love to get the optimal coordinates for  4'x8' or 5'x10' sizing, but really only know excel coding... happy to learn something else though! If much longer distances are suggested, would happily also post the design of the resulting arms, and how to rigidly integrate them into the machine (rigid structures is far more my thing than coding!)
 
 ---
 
-Posted on *2017-02-13 21:14:12* by *davidlang*
+Posted on **2017-02-13 21:14:12** by **davidlang**:
 
 it's written in python.
 
@@ -43,13 +43,13 @@ I've e-mailed the original author to check on his license preference. I suspect 
 
 ---
 
-Posted on *2017-02-14 20:43:48* by *lsimonetto*
+Posted on **2017-02-14 20:43:48** by **lsimonetto**:
 
 Thanks again for the info :)
 
 ---
 
-Posted on *2017-03-23 23:35:57* by *jbarchuk*
+Posted on **2017-03-23 23:35:57** by **jbarchuk**:
 
 Hey @davidlang I have a Q for you please! It took me a WEEK at a few hours a day to get silly python running right -with- -graphics-. I've used it only occasionally before, never with graphics. That was 3 PCs and 4 OSes. I finally decoded the clues at stackexchange so the imports work.
 The only thing I changed in your version of the v-plotter script was screen resolution.
@@ -60,7 +60,7 @@ TYVM!
 
 ---
 
-Posted on *2017-03-24 00:42:36* by *davidlang*
+Posted on **2017-03-24 00:42:36** by **davidlang**:
 
 yep, that looks right. I run linux on everything, so pyton is 'just there'
 

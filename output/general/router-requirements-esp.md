@@ -1,5 +1,5 @@
 ## Router Requirements - esp. z-axis
-Posted on *2017-05-17 01:23:42* by *julian7*
+Posted on **2017-05-17 01:23:42** by **julian7**:
 
 I have ordered a Maslow for the UK, so I need to find a suitable router. The AEG branded Ridgid router would cost over twice what the Ridgid costs in the US, which is silly. Is anyone able to say exactly what requirements the router has to meet?
 
@@ -7,14 +7,14 @@ For example, this (http://www.screwfix.com/p/triton-mof001-1400w-dual-mode-preci
 
 ---
 
-Posted on *2017-05-17 01:33:19* by *gero*
+Posted on **2017-05-17 01:33:19** by **gero**:
 
 If the knob on the top can move the router up and down full length and can be taken off, exposing a shaft to mount the cuppler, then it will work. 
 Perhaps the Bosch can give a idea what to look for https://github.com/MaslowCNC/Mechanics/wiki/More-Photos
 
 ---
 
-Posted on *2017-05-17 01:38:35* by *davidlang*
+Posted on **2017-05-17 01:38:35** by **davidlang**:
 
 you would be operating it in 'fixed base mode' with the rack and pinion adjustment for the height. That looks like it's done by the big knob on the side of the router. You would have to figure out how that comes apart to see if there is a reasonable way to hook a motor to it. I suspect that you will end up with some sort of belt drive, and end up needing to attach the motor to the moving part of the router.
 
@@ -22,50 +22,50 @@ It would not be my first choice. I'd probably look at doing a shop built router 
 
 ---
 
-Posted on *2017-05-17 01:51:16* by *carlosizsak*
+Posted on **2017-05-17 01:51:16** by **carlosizsak**:
 
 Hi Guys, I'm based in the UK as well and interested to find out what router will work best with Maslow, any comments most welcome, thanks
 
 ---
 
-Posted on *2017-05-17 01:55:01* by *gero*
+Posted on **2017-05-17 01:55:01** by **gero**:
 
 @ julian7 https://www.youtube.com/watch?v=91RsAjy200Y at 2:40 the Miro adjuster knob looks like it would work. I see a screw , since you have that router, take a look.
 
 ---
 
-Posted on *2017-05-17 05:36:51* by *carlosizsak*
+Posted on **2017-05-17 05:36:51** by **carlosizsak**:
 
 Julian, it would be great to know if you think this will work, as will consider getting a Triton if so, I wonder which z axis component we would need though
 
 ---
 
-Posted on *2017-05-19 10:09:58* by *pips*
+Posted on **2017-05-19 10:09:58** by **pips**:
 
 i'm also very interested if this works. I need a UK router with z axis but cant seem to find any confirmation which one works
 
 ---
 
-Posted on *2017-05-20 01:05:37* by *carlosizsak*
+Posted on **2017-05-20 01:05:37** by **carlosizsak**:
 
 Hey pips, lets stay in touch and share info please
 
 ---
 
-Posted on *2017-05-20 07:19:43* by *gero*
+Posted on **2017-05-20 07:19:43** by **gero**:
 
 For me this calls for a second list to the existing 'Tested Routers List'.
 How would you do a wiki page 'Suggested Routers List' where one could add the pros and cons he sees remotely and/or holding it in his/her hands?
 
 ---
 
-Posted on *2017-05-20 07:21:26* by *gero*
+Posted on **2017-05-20 07:21:26** by **gero**:
 
 Plus the regions it is available.
 
 ---
 
-Posted on *2017-05-20 07:33:20* by *gero*
+Posted on **2017-05-20 07:33:20** by **gero**:
 
 When it comes to the question, “Will this router work with the Maslow?”, I sit down a few minutes with my consultants YouBooze and Giggle.
 
@@ -88,13 +88,13 @@ I would love to this router in action on a Maslow-UK or soon though.
 
 ---
 
-Posted on *2017-05-24 01:14:14* by *pips*
+Posted on **2017-05-24 01:14:14** by **pips**:
 
 can anyone confirm a working UK router with z-axis support? I want to order the z-axis upgrade but need to decide on router first
 
 ---
 
-Posted on *2017-05-24 23:16:21* by *martinnisted*
+Posted on **2017-05-24 23:16:21** by **martinnisted**:
 
 What about the cheaper model JOF001? http://www.tritontools.com/en-GB/Product/Power%20Tools/Routers/JOF001
 
@@ -102,19 +102,19 @@ Will this router work with z-axis support?
 
 ---
 
-Posted on *2017-05-25 00:09:24* by *davidlang*
+Posted on **2017-05-25 00:09:24** by **davidlang**:
 
 that link fails for me with a server error.
 
 ---
 
-Posted on *2017-05-25 05:26:46* by *TheRiflesSpiral*
+Posted on **2017-05-25 05:26:46** by **TheRiflesSpiral**:
 
 Martin, that router appears to have the same "fine adjustment" knob as the MOF001 so I think it should work fine.
 
 ---
 
-Posted on *2017-05-30 10:50:17* by *gero*
+Posted on **2017-05-30 10:50:17** by **gero**:
 
 On the Triton TRA001 the shaft diameter is 3/8"
 http://www.maslowcnc.com/forums/#!/general:shaft-coupler-size 
@@ -122,13 +122,13 @@ Thanks to skuba
 
 ---
 
-Posted on *2017-05-30 14:13:44* by *TheRiflesSpiral*
+Posted on **2017-05-30 14:13:44** by **TheRiflesSpiral**:
 
 @gero @skuba Should we add the Triton TRA001 to the tested routers list? https://github.com/MaslowCNC/Mechanics/wiki/Tested-Routers-List
 
 ---
 
-Posted on *2017-05-30 16:18:03* by *gero*
+Posted on **2017-05-30 16:18:03** by **gero**:
 
 @TheRiflesSpiral I suggested a page with "Routers that could work" before. I hope @skube will be chipping some amazing projects soon.
 

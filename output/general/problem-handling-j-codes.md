@@ -1,5 +1,5 @@
 ## Problem handling "J" codes?
-Posted on *2017-03-25 10:15:05* by *rancher*
+Posted on **2017-03-25 10:15:05** by **rancher**:
 
 This is what I've been chasing since I first tried to cut my own part.  I assumed it was a problem with my design or output settings, but I'm getting the same behavior using Bar's example gcode files.  The carriage stops after a J value.  Not all J values.  Low ones or zero, but I'm not 100% sure, or even that it is the J value that is the problem.  Anyway, I can't cut a thing, although the workaround is Pause right before it stops, then run, and it will continue.  
  
@@ -12,7 +12,7 @@ Here's what it looks like when it's broken.
 
 ---
 
-Posted on *2017-03-25 11:25:29* by *Bar*
+Posted on **2017-03-25 11:25:29** by **Bar**:
 
 Great catch!
 

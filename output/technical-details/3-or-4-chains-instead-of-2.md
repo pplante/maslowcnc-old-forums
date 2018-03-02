@@ -1,5 +1,5 @@
 ## 3 or 4 chains instead of 2?
-Posted on *2016-11-02 17:17:06* by *mribble*
+Posted on **2016-11-02 17:17:06** by **mribble**:
 
 Then you could tension the system, remove the bricks, and perhaps get better results.  Initially I was thinking 4, but then realized 3 is probably more optimal.  Seems like a nice community add if it's possible to buy an extra motor.
 
@@ -9,7 +9,7 @@ Was something like this ever experimented with during early testing?
 
 ---
 
-Posted on *2016-11-03 12:45:29* by *Bar*
+Posted on **2016-11-03 12:45:29** by **Bar**:
 
 That was my first thought too :-)
 

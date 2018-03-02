@@ -1,5 +1,5 @@
 ## Forum Reorganization
-Posted on *2016-11-15 14:04:07* by *TheRiflesSpiral*
+Posted on **2016-11-15 14:04:07** by **TheRiflesSpiral**:
 
 Hi, All!
 

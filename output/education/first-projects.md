@@ -1,5 +1,5 @@
 ## First projects...
-Posted on *2016-12-14 12:07:06* by *bill_s*
+Posted on **2016-12-14 12:07:06** by **bill_s**:
 
 Uh oh, I'm the first non-Maslow person posting.. must. avoid. "first!" comment.. dang, too late.
 
@@ -20,7 +20,7 @@ Looking forward to some fun...
 
 ---
 
-Posted on *2016-12-14 16:33:34* by *Bar*
+Posted on **2016-12-14 16:33:34** by **Bar**:
 
 Welcome!!!
 
@@ -28,25 +28,25 @@ Those all sound like awesome projects. We can't wait to see what you guys build 
 
 ---
 
-Posted on *2016-12-14 17:35:08* by *mattnelson*
+Posted on **2016-12-14 17:35:08** by **mattnelson**:
 
 We plan to put ours on casters for portability.  The first project will likely be the school logo to use as a paint template.
 
 ---
 
-Posted on *2016-12-14 19:04:07* by *bdillahu*
+Posted on **2016-12-14 19:04:07** by **bdillahu**:
 
 I really like your idea of adding a panel saw track...
 
 ---
 
-Posted on *2016-12-15 05:06:55* by *jwolter0*
+Posted on **2016-12-15 05:06:55** by **jwolter0**:
 
 John with FIRST Robotics Team 1248 from Berea-Midpark High School here.  We plan on building our frame on lockable casters with one side for the Maslow and one side for sheet goods storage.  Now that you mention a panel saw track, I'm rethinking th design to incorporate all three.  If anyone has design ideas, please share.
 
 ---
 
-Posted on *2016-12-20 09:05:07* by *mattnelson*
+Posted on **2016-12-20 09:05:07** by **mattnelson**:
 
 I am so stealing the idea of using the other side for sheet storage!
 

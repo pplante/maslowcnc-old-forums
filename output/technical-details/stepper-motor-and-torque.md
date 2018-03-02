@@ -1,5 +1,5 @@
 ## Stepper motor and torque
-Posted on *2017-06-07 23:34:53* by *davebone*
+Posted on **2017-06-07 23:34:53** by **davebone**:
 
 As the Maslow cnc is not currently available to order, I am wanting to make somthing similar, I know the Maslow motors are 30kg /cm torque, but will this motor be suitable( NEMA23 - 425 oz-in torque).
 
@@ -9,13 +9,13 @@ Thanks
 
 ---
 
-Posted on *2017-06-08 01:59:20* by *dennisbingham*
+Posted on **2017-06-08 01:59:20** by **dennisbingham**:
 
 @davebone someone else recently asked about stepper motors, and they said the software changes to run them could be pretty extensive. If you're looking at prices like that, you might look at servocity.com. they have a whole section of encoder motors with decent oomph and they stock a worm gear assembly that seems pretty sturdy.
 
 ---
 
-Posted on *2017-06-08 01:59:32* by *davidlang*
+Posted on **2017-06-08 01:59:32** by **davidlang**:
 
 well, since the maslow firmware won't drive stepper motors, not without a lot of work. that's in the ballpark for the right amount of torque, but someone would need to add an option to the maslow firmware to driver steppers instead of a closed-loop motor.
 
@@ -25,55 +25,55 @@ It would be good to have someone include such an option, but nobody has started 
 
 ---
 
-Posted on *2017-06-08 08:29:25* by *Bar*
+Posted on **2017-06-08 08:29:25** by **Bar**:
 
 The biggest thing I would worry about with steppers is that when the machine looses power the sled is going to fall to the floor which seems like a safety issue. Running steppers through a gearbox with a worm gear in it could solve the issue, but then you are doing a lot of work to use the steppers and still have to sorce a gearbox
 
 ---
 
-Posted on *2017-06-10 08:26:12* by *kentthoresen*
+Posted on **2017-06-10 08:26:12** by **kentthoresen**:
 
 would anyone be interested in making the stepper motor adjustment for money?
 
 ---
 
-Posted on *2017-06-12 07:29:11* by *kentthoresen*
+Posted on **2017-06-12 07:29:11** by **kentthoresen**:
 
 Never mind i hired a programmer to add stepper motors as an option it will be forked on github and open source free for all. (except me)
 
 ---
 
-Posted on *2017-06-18 15:43:19* by *davidthomasgross*
+Posted on **2017-06-18 15:43:19** by **davidthomasgross**:
 
 It would be nice if one could use Mach 3 or linux cnc I have a cnc I built but if I get the Maslow I'll just add gc to that computer
 
 ---
 
-Posted on *2017-06-18 15:49:39* by *davidthomasgross*
+Posted on **2017-06-18 15:49:39** by **davidthomasgross**:
 
 I would like to use those motors on my cnc I constantly loose steps and a close loop system might help with that an idea might be a mini Maslow like 4'x2' or even 2'x2' just for like signs and stuff I'm pretty sure I read its scalable
 
 ---
 
-Posted on *2017-06-18 16:49:37* by *davidlang*
+Posted on **2017-06-18 16:49:37** by **davidlang**:
 
 unfortunantly neither Mach3 or LinuxCNC have the ability to handle the geometry of this machine. It's not just a matter of stepper motors vs brushed DC motors/encoders.
 
 ---
 
-Posted on *2017-06-20 11:16:02* by *kentthoresen*
+Posted on **2017-06-20 11:16:02** by **kentthoresen**:
 
 I have released the stepper motor version on glip please help test it if you can
 
 ---
 
-Posted on *2017-06-24 05:51:22* by *netzbasteln*
+Posted on **2017-06-24 05:51:22** by **netzbasteln**:
 
 very cool! can you provide an url?
 
 ---
 
-Posted on *2017-06-24 06:44:32* by *kentthoresen*
+Posted on **2017-06-24 06:44:32** by **kentthoresen**:
 
 the tread is called "Stepper motor with gearbox" just search the forum.
 

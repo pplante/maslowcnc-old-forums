@@ -1,5 +1,5 @@
 ## Augment Other Shop Tools
-Posted on *2016-11-22 06:58:59* by *TheRiflesSpiral*
+Posted on **2016-11-22 06:58:59** by **TheRiflesSpiral**:
 
 I've been thinking a lot about how to make Maslow make the rest of my woodworking easier/better, etc.
 
@@ -11,13 +11,13 @@ First on the list is probably a spline cutting jig; I'm intrigued by this rarely
 
 ---
 
-Posted on *2016-11-22 10:26:01* by *rancher*
+Posted on **2016-11-22 10:26:01** by **rancher**:
 
 Yeah, I'm already thinking about a cross-cut sled and maybe even a whole new fence/table set up for my table saw.
 
 ---
 
-Posted on *2017-01-05 09:57:03* by *allensparks*
+Posted on **2017-01-05 09:57:03** by **allensparks**:
 
 And here I was thinking Maslow gave me nearly free layout patterns for my blacksmithing shop, but I had not even thought about prototyping tools yet! 
 
@@ -25,13 +25,13 @@ I was thinking that any design that I want to build in metal I can throw it on t
 
 ---
 
-Posted on *2017-01-05 20:39:05* by *rollandelliott*
+Posted on **2017-01-05 20:39:05** by **rollandelliott**:
 
 I plan to ise it to cut sheet aluminum to be used for vacuum forming molds using hot plastic among other things
 
 ---
 
-Posted on *2017-01-06 05:49:59* by *TheRiflesSpiral*
+Posted on **2017-01-06 05:49:59** by **TheRiflesSpiral**:
 
 Vacuum forming! Awesome! I watched an episode of Mythbusters last night where Adam vacuformed a bunch of molds for jello brains. I thought to myself... awesome Halloween idea!
 

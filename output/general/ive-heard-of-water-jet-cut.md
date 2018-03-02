@@ -1,11 +1,11 @@
 ## I've heard of water jet cutting can anyone elaborate?
-Posted on *2017-06-14 07:36:34* by *edbencor*
+Posted on **2017-06-14 07:36:34** by **edbencor**:
 
 
 
 ---
 
-Posted on *2017-06-14 07:55:02* by *TheRiflesSpiral*
+Posted on **2017-06-14 07:55:02** by **TheRiflesSpiral**:
 
 Water and abrasive are forced at high pressure through an orifice, creating a cutting medium suitable for displacing other materials at high speeds.
 
@@ -15,31 +15,31 @@ Typically the head traverses the material on an XY gantry. Usually no Z-axis is 
 
 ---
 
-Posted on *2017-06-14 08:05:43* by *michaelmullins*
+Posted on **2017-06-14 08:05:43** by **michaelmullins**:
 
 This machine would be a less than ideal platform for a water jet cutter.  This is in no way a critique of the design.  Using a nozzle and forcing a stream of water (high pressure) would force the head and platform away from the material that you would be cutting.  You would need to add a significant amount of weight to counteract the force of the water jet.
 
 ---
 
-Posted on *2017-06-14 18:49:32* by *davidlang*
+Posted on **2017-06-14 18:49:32** by **davidlang**:
 
 take a look at https://www.youtube.com/watch?v=Lg__B6Ca3jc&t=4s
 
 ---
 
-Posted on *2017-06-14 19:24:37* by *TheRiflesSpiral*
+Posted on **2017-06-14 19:24:37** by **TheRiflesSpiral**:
 
 LOL David I just watched that last night. I almost convinced myself to build one until I looked into the price of the fittings and whatnot... yowza!
 
 ---
 
-Posted on *2017-06-15 05:18:06* by *michaelmullins*
+Posted on **2017-06-15 05:18:06** by **michaelmullins**:
 
 You can spend a lot of $$$ on the fittings.
 
 ---
 
-Posted on *2017-06-15 08:36:17* by *mooselake*
+Posted on **2017-06-15 08:36:17** by **mooselake**:
 
 Hackaday had a recent article on a low(er) budget waterjet cutter built with a pressure washer that linked to a youtube video at https://www.youtube.com/watch?v=Lg__B6Ca3jc
 
@@ -49,7 +49,7 @@ Although you could attach the chains to a large sled, attach the cutter on a fix
 
 ---
 
-Posted on *2017-06-15 08:55:02* by *TheRiflesSpiral*
+Posted on **2017-06-15 08:55:02** by **TheRiflesSpiral**:
 
 I had the good fortune of participating in some faux rock formation fabrication (like you see at zoos and whatnot) and that's the basic tool they used. It was essentially a power washer with a variable pressure trigger and an insanely small orifice.
 
@@ -59,7 +59,7 @@ There was little hand carving after the fact and then shotcrete application. It'
 
 ---
 
-Posted on *2017-06-15 15:04:42* by *davidlang*
+Posted on **2017-06-15 15:04:42** by **davidlang**:
 
 @mooselak_that hackaday article is referencing the video I posted a link to earlier.
 

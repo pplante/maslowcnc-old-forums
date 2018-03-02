@@ -14,7 +14,7 @@ def get_date(post):
     return datetime.datetime.fromtimestamp(post['date'])
 
 def write_meta(fp, post):
-    fp.write(f"Posted on *{get_date(post)}* by *{get_author_name(post)}*\n\n")
+    fp.write(f"Posted on **{get_date(post)}** by **{get_author_name(post)}**:\n\n")
 
 def write_hr(fp):
     fp.write('\n\n---\n\n')

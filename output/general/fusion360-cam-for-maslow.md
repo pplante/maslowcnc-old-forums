@@ -1,5 +1,5 @@
 ## Fusion360 CAM for Maslow
-Posted on *2017-04-23 18:59:05* by *rancher*
+Posted on **2017-04-23 18:59:05** by **rancher**:
 
 I made you guys a thing.  It's my first try with the screen recording stuff, and the audio is terrible.  Sorry!  Hope it helps.
 
@@ -7,7 +7,7 @@ https://youtu.be/5UbAr7VcK4U
 
 ---
 
-Posted on *2017-04-23 19:44:31* by *Bar*
+Posted on **2017-04-23 19:44:31** by **Bar**:
 
 That's fantastic! Thank you for making the video of the process. 
 
@@ -15,31 +15,31 @@ I know Hannah has been working on figuring out Fusion 360 so I'm sure she'll lov
 
 ---
 
-Posted on *2017-04-23 19:54:33* by *rancher*
+Posted on **2017-04-23 19:54:33** by **rancher**:
 
 Sure, you can use it however you like.  I was trying to describe the process in a quick message to Hannah the other day and was wishing I could just show her.  It's so complex!  So, I figured I'd just go ahead and show you all.  Hopefully it is helpful.
 
 ---
 
-Posted on *2017-04-23 19:57:09* by *Bar*
+Posted on **2017-04-23 19:57:09** by **Bar**:
 
 It's fantastic
 
 ---
 
-Posted on *2017-04-23 20:09:58* by *scottsm*
+Posted on **2017-04-23 20:09:58** by **scottsm**:
 
 Thank you so much! You've pioneered the path through a million options and made a clear path. What a powerful tool.
 
 ---
 
-Posted on *2017-04-23 20:48:46* by *carlosrivers*
+Posted on **2017-04-23 20:48:46** by **carlosrivers**:
 
 God bless you
 
 ---
 
-Posted on *2017-04-24 14:06:35* by *hannahteagle*
+Posted on **2017-04-24 14:06:35** by **hannahteagle**:
 
 this is amazing!!! thank you so much for taking the time :)
 
@@ -49,7 +49,7 @@ again, you rock for putting the time into that.
 
 ---
 
-Posted on *2017-04-24 16:05:13* by *rancher*
+Posted on **2017-04-24 16:05:13** by **rancher**:
 
 I created that piece in Fusion 360, and I'd be happy to do another tutorial to show you how if you like.  
 
@@ -57,7 +57,7 @@ I have not yet cut that part successfully since we only just got online with acc
 
 ---
 
-Posted on *2017-04-24 16:14:02* by *hannahteagle*
+Posted on **2017-04-24 16:14:02** by **hannahteagle**:
 
 Yeah Bar showed me that mailbox. That thing is sweet! 
 
@@ -65,19 +65,19 @@ If you're open to making another tutorial I think that'd be great. This one is r
 
 ---
 
-Posted on *2017-04-24 16:18:34* by *rancher*
+Posted on **2017-04-24 16:18:34** by **rancher**:
 
 Okay, I'll do it!  My thought is just model two perpendicular sides of a box and show how to create the panels, joints, and prepare the model for the CAM stage.  Let me know if you have a specific request or an idea of what might be most helpful.
 
 ---
 
-Posted on *2017-04-24 16:19:46* by *scottsm*
+Posted on **2017-04-24 16:19:46** by **scottsm**:
 
 That would be most valuable and appreciated!
 
 ---
 
-Posted on *2017-04-24 17:03:09* by *hannahteagle*
+Posted on **2017-04-24 17:03:09** by **hannahteagle**:
 
 I think as an initial tutorial that sounds like the perfect thing!
 

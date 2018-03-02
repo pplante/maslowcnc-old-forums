@@ -1,5 +1,5 @@
 ## CoG movement via Z-axis shift
-Posted on *2017-06-10 07:32:40* by *mrfugu*
+Posted on **2017-06-10 07:32:40** by **mrfugu**:
 
 Just spitballing here, but is Maslow calculating the change in CoG via z-axis movement?
 
@@ -11,7 +11,7 @@ thoughts?
 
 ---
 
-Posted on *2017-06-10 12:00:44* by *davidlang*
+Posted on **2017-06-10 12:00:44** by **davidlang**:
 
 the weight of the sled cancels out in the position math, so it's not something we have to measure.
 

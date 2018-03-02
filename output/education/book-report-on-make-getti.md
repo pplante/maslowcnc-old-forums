@@ -1,5 +1,5 @@
 ## Book report on "Make: Getting Started with CNC"
-Posted on *2017-01-31 15:49:03* by *jbnimble*
+Posted on **2017-01-31 15:49:03** by **jbnimble**:
 
 I got this book primarily to educate myself as Maslow will be my first CNC, and so decided to do a little write up to have a place to find my notes. This book primarily focuses on CNC using the Shapeoko in addition to coverage of general CNC concepts. The parts I found the most useful were terminology and explanation of the process and tools involved in working with a CNC.
 
@@ -54,7 +54,7 @@ http://jasondorie.com/page_cnc.html
 
 ---
 
-Posted on *2017-01-31 17:12:45* by *davidlang*
+Posted on **2017-01-31 17:12:45** by **davidlang**:
 
 A lot of what is covered isn't a good fit for the capabilities of the Maslow
 

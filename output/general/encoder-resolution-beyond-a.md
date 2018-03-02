@@ -1,5 +1,5 @@
 ## Encoder resolution beyond Arduno sample rate
-Posted on *2017-06-04 13:31:29* by *umindedstrikesagain*
+Posted on **2017-06-04 13:31:29** by **umindedstrikesagain**:
 
 Reading the motor specs, 20RPM with 8148 effective CPR and doing the calculation for the current firmware feed rate of 25in/min. #25 chain is 0.25"/link so 25in/min is 100links/min, 10 tooth sprockets so 10RPM. That's effectively 82,000CPR that the atmega micro needs to pickup accurately. 
 
@@ -11,7 +11,7 @@ Wouldn't an effective shaft CPR of ~700 which would yield around 1/64th accuracy
 
 ---
 
-Posted on *2017-06-04 13:49:53* by *davidlang*
+Posted on **2017-06-04 13:49:53** by **davidlang**:
 
 The actual encoder is a 7-line encoder (28 pulses/rev) on the motor, with a 291:1 gear ratio.
 
@@ -21,7 +21,7 @@ As to the speed, as I understand it, the encoder library has assembly routines t
 
 ---
 
-Posted on *2017-06-04 13:57:47* by *umindedstrikesagain*
+Posted on **2017-06-04 13:57:47** by **umindedstrikesagain**:
 
 My point is still valid though. If we push more motion calculations to firmware (like acceleration curves for corners) the crazy high encoder rate will hog a massive amount of processor time. 
 
@@ -31,7 +31,7 @@ An alternative would be to re-spin the board. Since the cost of a PCB is already
 
 ---
 
-Posted on *2017-06-04 14:10:47* by *davidlang*
+Posted on **2017-06-04 14:10:47** by **davidlang**:
 
 backlash is not an issue in this design as there is always a load on one side of the gear (towards the center)
 
@@ -41,7 +41,7 @@ please do experiment, but I suspect that you would be better off with one of the
 
 ---
 
-Posted on *2017-06-04 14:22:20* by *davidlang*
+Posted on **2017-06-04 14:22:20** by **davidlang**:
 
 going back to your first post.
 

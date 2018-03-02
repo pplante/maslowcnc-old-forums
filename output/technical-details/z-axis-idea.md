@@ -1,5 +1,5 @@
 ## Z-Axis idea
-Posted on *2017-01-18 17:52:24* by *bdillahu*
+Posted on **2017-01-18 17:52:24** by **bdillahu**:
 
 I know you're looking at motorizing the plunge/height setting on the router, but reading another post mentioning a "tri-pod" cable made me think of the old "remote shutter" release cables on cameras. A flexible "push/pull" cable where the outer housing is clamped and the inner rod moves the remote end. (I hope that makes sense).
 
@@ -11,7 +11,7 @@ Just a thought...
 
 ---
 
-Posted on *2017-01-19 17:37:53* by *jbarchuk*
+Posted on **2017-01-19 17:37:53** by **jbarchuk**:
 
 There are several reasons why one might want to move the device that causes a motion or action to a different place. Could be weight, speed (by reducing mass), environment (chemicals or gasses), or insufficient space.
 
@@ -23,7 +23,7 @@ It's an interesting idea but I don't think qualifies for any of the usual reason
 
 ---
 
-Posted on *2017-01-20 04:12:02* by *davidlang*
+Posted on **2017-01-20 04:12:02** by **davidlang**:
 
 the weight of the z-axis motor is trival compared to the rest of the sled.
 
@@ -31,7 +31,7 @@ remember that we add bricks to the sled to get enough weight there, so with this
 
 ---
 
-Posted on *2017-01-25 18:03:20* by *bdillahu*
+Posted on **2017-01-25 18:03:20** by **bdillahu**:
 
 Thanks jbarchuk... I see your point.
 

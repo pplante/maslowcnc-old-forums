@@ -1,5 +1,5 @@
 ## Ridgid outside the U.S.
-Posted on *2017-02-03 13:10:43* by *gilles_tribricks*
+Posted on **2017-02-03 13:10:43** by **gilles_tribricks**:
 
 Hi there,
 I'm starting to look for a Ridgid R2200 here in Europe but I'm having a hard time finding any... Does anyone know if it's sold under another brand name ? From the kickstarter presentation it looks like the one I should get.
@@ -10,7 +10,7 @@ Gilles
 
 ---
 
-Posted on *2017-02-03 13:40:38* by *TheRiflesSpiral*
+Posted on **2017-02-03 13:40:38** by **TheRiflesSpiral**:
 
 Ridgid is a subsidary of Emerson Electric, which is an American brand with limited penetration in Europe. As best I can tell, the only Ridgid tools sold in Europe are the Time Saver line of plumbing/mechanical tools. Ridgid tools, however are manufactured by TTI in Hong Kong but only for Home Depot.
 
@@ -24,19 +24,19 @@ http://www.rotopino.co.uk/photo/productGallery/f1300x1300/router-aeg-mf-1400-ke-
 
 ---
 
-Posted on *2017-02-03 15:50:23* by *Bar*
+Posted on **2017-02-03 15:50:23** by **Bar**:
 
 Good deduction! I'd go out on a pretty stable limb and say that the spindle is identical. It looks like there is a fixed base version that is nearly the same except for the handles.  [AEG](//muut.com/u/maslowcnc/s1/:maslowcnc:ENR0:aeg.jpg.jpg)
 
 ---
 
-Posted on *2017-02-03 16:58:58* by *TheRiflesSpiral*
+Posted on **2017-02-03 16:58:58** by **TheRiflesSpiral**:
 
 Nice! I wonder if AEG is as prevalent in NZ? Those guys seem to have a tough time finding routers.
 
 ---
 
-Posted on *2017-02-04 03:01:50* by *gilles_tribricks*
+Posted on **2017-02-04 03:01:50** by **gilles_tribricks**:
 
 Thanks a lot for your replies. Yes, AEG has a widespread distribution network here in Europe so I may go for them rather than buying a ridgid router plus a 220V-110V converter.
 They offer two models. I wonder which one is the closest to the R2200.
@@ -47,7 +47,7 @@ The first one is a "combo" router but I don't understand which second feature it
 
 ---
 
-Posted on *2017-02-04 07:22:04* by *davidlang*
+Posted on **2017-02-04 07:22:04** by **davidlang**:
 
 probably the first is closest, but we would need more pictures of them to know.
 
@@ -57,7 +57,7 @@ neither of them shows the depth adjustment
 
 ---
 
-Posted on *2017-02-05 11:50:42* by *dom_e_uk*
+Posted on **2017-02-05 11:50:42** by **dom_e_uk**:
 
 Guys,
 
@@ -68,31 +68,31 @@ Dom
 
 ---
 
-Posted on *2017-02-05 12:52:22* by *davidlang*
+Posted on **2017-02-05 12:52:22** by **davidlang**:
 
 that link isn't working for me (DNS failure)
 
 ---
 
-Posted on *2017-02-05 12:55:13* by *davidlang*
+Posted on **2017-02-05 12:55:13** by **davidlang**:
 
 ok, it worked on the second try, that one looks good. the base without the two large posts is the one you would want to use. If you can get a version of it without the other base (the 'fixed' base is what you want, the 'plunge' base is not), you would save some money
 
 ---
 
-Posted on *2017-02-06 20:40:42* by *mcginniwa*
+Posted on **2017-02-06 20:40:42** by **mcginniwa**:
 
 AEG has distribution for some tools in NZ, but I have yet to come across a router. I'll see if taking that part number to local dealer rings any bells.
 
 ---
 
-Posted on *2017-02-07 02:22:05* by *mazeltov*
+Posted on **2017-02-07 02:22:05** by **mazeltov**:
 
 400€ + :(
 
 ---
 
-Posted on *2017-02-07 02:33:29* by *mazeltov*
+Posted on **2017-02-07 02:33:29** by **mazeltov**:
 
 Also looking for a R2200 alternative. I got a mate that can buy it for me in the states but meh @ voltage converter, possible customs & possible delays when shipping. Plus the shipping will be expensive for a 90$ router :s
 I been looking at most of the routers that are available here in EU. The ones i like all have problematic Z axis systems that will make it a pain to add the zaxis motor. the ones that could work are all 400€+
@@ -100,7 +100,7 @@ I don't get that pricetag on the AEG one. It would be perfect and i guess it com
 
 ---
 
-Posted on *2017-02-07 03:49:21* by *davidlang*
+Posted on **2017-02-07 03:49:21** by **davidlang**:
 
 well, instead of going for a super-expensive router, you can look at going with a CNC spindle like some of these
 
@@ -120,7 +120,7 @@ Remember that unlike most CNC designs, we aren't trying to minimize the weight h
 
 ---
 
-Posted on *2017-02-07 03:57:53* by *davidlang*
+Posted on **2017-02-07 03:57:53** by **davidlang**:
 
 they also have routers (although none with a good Z axis)
 
@@ -133,76 +133,76 @@ https://www.aliexpress.com/item/New-Arrival-Electrical-Router-DIY-Wood-Working-E
 
 ---
 
-Posted on *2017-02-07 04:28:36* by *mazeltov*
+Posted on **2017-02-07 04:28:36** by **mazeltov**:
 
 Spindles could be an option but i'm planning to use the router also for other projects so without the Maslow. Plus i really want dustcollection and all that jazz. I feel i'll go for an R2200 with converter in the end. Other options all seem not ideal for a hasslefree experience ;]
 
 ---
 
-Posted on *2017-02-07 09:16:10* by *tomtribute*
+Posted on **2017-02-07 09:16:10** by **tomtribute**:
 
 Had clicked the link for the router Bar placed on the campaign page ( under, "What is not included in the box?")  I must say that I am concern, because even though I was happy to buy it with overseas shipping.  Ridgid official site made buying soooooooo painful.  Most of the featured online retailers they listed did not feature it at all (tried 5 already).  Retiring for the nite!
 
 ---
 
-Posted on *2017-02-07 09:52:22* by *tomtribute*
+Posted on **2017-02-07 09:52:22** by **tomtribute**:
 
 Amazon did have a listing of it but is appears from the pic of the zipped Pack and the description, that the vacuum attachment seemed to be missing.
 
 ---
 
-Posted on *2017-02-07 16:41:25* by *larry357*
+Posted on **2017-02-07 16:41:25** by **larry357**:
 
 https://www.aliexpress.com/item/Double-door-65mm-vacuum-cleaner-engraving-machine-dust-cover-for-65mm-diameter-spindle-motor-cnc-part/32737948924.html?spm=2114.01010208.3.46.7MvpCJ&ws_ab_test=searchweb0_0,searchweb201602_3_10065_10068_10000074_10000032_119_10000025_10000029_430_10000028_10060_10000067_10062_10056_10055_10000062_10054_10059_10099_10000022_10000013_10103_10102_10000016_10096_10000018_10000019_10000056_10000059_10052_10053_10107_10050_10106_10051_10000053_10000007_10000050_10084_10083_10000047_10080_10082_10081_10110_10111_10112_10113_10114_10115_10037_10000041_10000044_10078_10079_10077_10000038_429_10073_10000035_10121,searchweb201603_9,afswitch_1,single_sort_2_default&btsid=c7897d68-7062-4652-9db7-e332a276d170
 
 ---
 
-Posted on *2017-02-08 01:34:44* by *larry357*
+Posted on **2017-02-08 01:34:44** by **larry357**:
 
 So just the z axis to figure out....
 
 ---
 
-Posted on *2017-02-08 05:40:53* by *mazeltov*
+Posted on **2017-02-08 05:40:53** by **mazeltov**:
 
 Currently chatting over email with the folks over there: http://www.rotopino.de/oberfraesmaschine-aeg-mf-1400-ke,34018
 Cheapest i found, 280 without VAT. 10€ EU shipping. Seems fair seeing the same router going from 400 to 800€ on different amazon/hardware stores…
 
 ---
 
-Posted on *2017-02-08 07:10:10* by *mazeltov*
+Posted on **2017-02-08 07:10:10** by **mazeltov**:
 
 Ordered, 291€ EUshipping included, no VAT
 
 ---
 
-Posted on *2017-02-08 09:02:34* by *gero*
+Posted on **2017-02-08 09:02:34** by **gero**:
 
 Searched this complete island for days to find a router that would work with the Z-Axis. I found a Bosch GOF 2000 CE Professional and short circuited on purchase. Unpacking at home to measure the shaft, I found it quite heavy. It must be around 6 kg. Together with the bricks I am worried if that is to much for the motors. What does the Ridgid R2200 weigh?
 Anyone interested in details of that thing, I am happy to assist. [Bosh-GOF200CEPro](//muut.com/u/maslowcnc/s1/:maslowcnc:M9hd:boshgof200cepro.jpg.jpg)
 
 ---
 
-Posted on *2017-02-08 10:49:58* by *jamesbil*
+Posted on **2017-02-08 10:49:58** by **jamesbil**:
 
 Would this work? https://www.iedepot.ie/gmc-plunge-trimmer-router-quarter-inch/
 Why are folks going for such big routers? 2hp and 1/2" is surely overkill.
 
 ---
 
-Posted on *2017-02-08 11:04:55* by *jamesbil*
+Posted on **2017-02-08 11:04:55** by **jamesbil**:
 
 Just noticed the aeg is an 8mm collet. Still a big beast tho. I was hoping the Bosch GFK600 or the Makita RTO700CX2 would work. But it looks like not. There is a 1/4" Triton that looks like it might work, I have its big brother.
 
 ---
 
-Posted on *2017-02-08 12:05:03* by *TheRiflesSpiral*
+Posted on **2017-02-08 12:05:03** by **TheRiflesSpiral**:
 
 Cutting tools come in a lot of different sizes and the diameter is configured in GroundControl to ensure your offset is correct. I guess what I'm saying is that you needn't limit your router choice to collet size.
 
 ---
 
-Posted on *2017-02-08 20:28:06* by *davidlang*
+Posted on **2017-02-08 20:28:06** by **davidlang**:
 
 @jamesbil
 

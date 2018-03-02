@@ -1,5 +1,5 @@
 ## Maker Faire
-Posted on *2017-05-21 13:37:14* by *mdcoley5*
+Posted on **2017-05-21 13:37:14** by **mdcoley5**:
 
 I had the opportunity to meet both Bar and Hannah at the Bay Area Maker Faire yesterday.  All I can say it that my perception of them was exactly who I met.  They are kind, thoughtful and excited about Maslow,  
 
@@ -11,7 +11,7 @@ It was certainly a pleasure meeting both of them and look forward to what I may 
 
 ---
 
-Posted on *2017-05-22 06:34:55* by *jbnimble*
+Posted on **2017-05-22 06:34:55** by **jbnimble**:
 
 Tested [did a video](https://www.youtube.com/watch?v=y60q6U7NjTQ) with Bar and Hannah.
 

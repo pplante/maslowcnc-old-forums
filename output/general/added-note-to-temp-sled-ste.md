@@ -1,5 +1,5 @@
 ## Added note to Temp Sled Step 9 - feedback?
-Posted on *2017-04-30 21:03:03* by *mcginniwa*
+Posted on **2017-04-30 21:03:03** by **mcginniwa**:
 
 I'm currently working through assembling the temporary sled. I found that I had to drill holes that matched my router's base-plate mounting holes into the temporary sled.
 
@@ -13,13 +13,13 @@ Even though this could be done with a router with the right size bit, it does fe
 
 ---
 
-Posted on *2017-04-30 21:05:53* by *davidlang*
+Posted on **2017-04-30 21:05:53** by **davidlang**:
 
 you should need to drill holes both for the router and to mount the chain brackets
 
 ---
 
-Posted on *2017-04-30 21:46:18* by *mcginniwa*
+Posted on **2017-04-30 21:46:18** by **mcginniwa**:
 
 @davidlang yep, those are in the template pdf. Cutting them with the router is described in steps 4 through 6.
 
@@ -27,19 +27,19 @@ These are additional holes that vary depending on router base-plate, I believe.
 
 ---
 
-Posted on *2017-04-30 21:50:36* by *davidlang*
+Posted on **2017-04-30 21:50:36** by **davidlang**:
 
 yes, there is no standard for the baseplate screws. Once you mark them you can probably drill them out with a router as well (you may need to use a washer if the baseplate screws are small)
 
 ---
 
-Posted on *2017-04-30 21:54:07* by *mcginniwa*
+Posted on **2017-04-30 21:54:07** by **mcginniwa**:
 
 Yep, that's the gist of my note in the wiki. I guess my question is whether it should stay in the note below the image or move up in the main description of the step.
 
 ---
 
-Posted on *2017-05-01 08:21:03* by *Bar*
+Posted on **2017-05-01 08:21:03** by **Bar**:
 
 This is a really good point.
 
@@ -49,13 +49,13 @@ What does everyone think?
 
 ---
 
-Posted on *2017-05-01 10:08:54* by *TheRiflesSpiral*
+Posted on **2017-05-01 10:08:54** by **TheRiflesSpiral**:
 
 Drilling with a router makes me queasy. I think it's safe to assume someone putting Maslow together will, in 99% of the cases,. Have a drill of some kind.
 
 ---
 
-Posted on *2017-05-01 15:08:48* by *mcginniwa*
+Posted on **2017-05-01 15:08:48** by **mcginniwa**:
 
 Yeah, saying a drill is required makes sense to me. Most people will have it already. Since it's so common it should be fairly easy to borrow.
 

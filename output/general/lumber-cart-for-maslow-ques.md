@@ -1,11 +1,11 @@
 ## Lumber Cart for Maslow question
-Posted on *2017-03-24 11:12:48* by *tntahan*
+Posted on **2017-03-24 11:12:48** by **tntahan**:
 
 So I am a person that tries to make everything way to complicated. I always try and save space, and make things mobile so I can move them out of the way/store them or whatever. So here is my idea, I saw this picture of a panel cutting lumber cart and thought it was a cool idea to have to rip plywood, and then thought maybe I can make this and use my Maslow on it (maybe even still make it so I can cut sheets with a circular saw too). Anyways, please see the picture, does anyone see any problems with making something like this that has casters on it? Will it make the machine wobble or anything because of that and might throw it out of alignment?  [4906c85f1dfc8d54243d65cd9a2c11d0](//muut.com/u/maslowcnc/s1/:maslowcnc:6pxH:4906c85f1dfc8d54243d65cd9a2c11d0.jpg.jpg)
 
 ---
 
-Posted on *2017-03-24 11:28:19* by *davidlang*
+Posted on **2017-03-24 11:28:19** by **davidlang**:
 
 that looks like a wonderful base to use, just replace the a-frame parts with that cart.
 
@@ -13,13 +13,13 @@ As for the casters, if you get locking ones you should have no troubles. If you 
 
 ---
 
-Posted on *2017-03-24 11:29:38* by *Bar*
+Posted on **2017-03-24 11:29:38** by **Bar**:
 
 I agree with @davidlang, other than some common sense things like not having it roll away I think it should work great!
 
 ---
 
-Posted on *2017-03-24 12:06:17* by *jbarchuk*
+Posted on **2017-03-24 12:06:17** by **jbarchuk**:
 
 > @davidlang
 > As for the casters, if you get locking ones you should have no troubles. If you use normal ones you run the risk that the cart moves when the router is moved around, which could end up with a resonance developing.
@@ -31,31 +31,31 @@ Another MAJOR plus of having casters would be to add a tiny generator at a low c
 
 ---
 
-Posted on *2017-03-24 12:25:16* by *davidlang*
+Posted on **2017-03-24 12:25:16** by **davidlang**:
 
 good locking ones lock both the wheel and the shaft.
 
 ---
 
-Posted on *2017-03-24 13:07:05* by *spyker*
+Posted on **2017-03-24 13:07:05** by **spyker**:
 
 Look into retractable casters. Lower the wheels to move, then raise them so the base stands flat on the floor.
 
 ---
 
-Posted on *2017-03-24 13:20:02* by *davidlang*
+Posted on **2017-03-24 13:20:02** by **davidlang**:
 
 or locking feet
 
 ---
 
-Posted on *2017-03-24 14:04:52* by *scottsm*
+Posted on **2017-03-24 14:04:52** by **scottsm**:
 
 I'm excited by the possibility of a combining a panel saw with the Maslow! So far I haven't seen the router/bricks/sled move fast enough to make an assembly like tntahan's move much. Locking or retractable  casters will surely do the trick.
 
 ---
 
-Posted on *2017-03-25 08:06:31* by *jwolter0*
+Posted on **2017-03-25 08:06:31** by **jwolter0**:
 
 Actually, I think locking casters could be more stable than a wood frame in direct contact with the floor.  The rubber in the caster wheels would help to damp vibrations.  (Engineer's disclaimer: I haven't done any calculations or created a Campbell diagram, but that's my gut feel.)
 

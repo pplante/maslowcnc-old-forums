@@ -1,5 +1,5 @@
 ## Maslow CNC dimensions
-Posted on *2017-05-19 01:59:45* by *Marcello Masili*
+Posted on **2017-05-19 01:59:45** by **Marcello Masili**:
 
 Hello,
 
@@ -9,7 +9,7 @@ I thing they are 3 rectangular wood pole 10' long (304,8 cm). And 2x4s? mean 2" 
 
 ---
 
-Posted on *2017-05-19 03:01:01* by *davidlang*
+Posted on **2017-05-19 03:01:01** by **davidlang**:
 
 with the latest design, you need an extra 2x4, the plywood is 4'x8', it's dimensions are not critical, so whatever the standard full sheet of plywood is in your area, it's support for what you will be cutting, so what you build with will match what you will be cutting.
 

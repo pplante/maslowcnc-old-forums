@@ -1,11 +1,11 @@
 ## Post options in Fusion360
-Posted on *2017-03-11 06:17:55* by *rancher*
+Posted on **2017-03-11 06:17:55** by **rancher**:
 
 I have been spending time this last week learning this software, my first of the type.  I'm almost through with my first try at a design from scratch to cam, and am wondering what I should choose as the NC output configuration for post processing for Maslow and Ground Control?  I output a file using "HAAS-generic", and it looks like g code, but I have no idea what I'm doing.  This is all new.  Any tips on any of this would be welcome.
 
 ---
 
-Posted on *2017-03-12 05:34:13* by *TheRiflesSpiral*
+Posted on **2017-03-12 05:34:13** by **TheRiflesSpiral**:
 
 I think this may be relevant?
 
@@ -13,13 +13,13 @@ https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcartic
 
 ---
 
-Posted on *2017-03-12 07:35:55* by *rancher*
+Posted on **2017-03-12 07:35:55** by **rancher**:
 
 Thanks RS, that is the process I'm referring to.  Let me ask another way....If I output code for a shopbot will it work on Maslow?
 
 ---
 
-Posted on *2017-03-12 07:53:25* by *TheRiflesSpiral*
+Posted on **2017-03-12 07:53:25** by **TheRiflesSpiral**:
 
 I think only Bar can answer that. My guess is no. From what I've read regarding G code, I don't believe it is a well controlled standard or maybe isn't even a "standard" the way I think of it... each machine has its own flavor with conventions for special features of a machine or a quirk here and there that only applies to a certain brand, etc.
 
@@ -27,7 +27,7 @@ It sounds to me like Fusion 360 doesn't have an option for exporting pure G code
 
 ---
 
-Posted on *2017-03-12 07:57:44* by *rancher*
+Posted on **2017-03-12 07:57:44** by **rancher**:
 
 Yeah, that's it RS.  They use a "post configuration" setting that you set from a drop down of many machines, but obviously Maslow isn't one of them.  I suspect most of them are the same, and I opened them in brackets and they have version notes that say things like "Z-axis is code..." and stuff like that, pertinent to each machine.  I suspect that most of them will work fine, but....yeah.  Once we know, we can write a configuration for Fusion360 and upload it and it should be available to all.  I think.
 
@@ -35,19 +35,19 @@ The learning curve is nasty.  I've spent the last three days learning it and not
 
 ---
 
-Posted on *2017-03-12 08:31:28* by *jbarchuk*
+Posted on **2017-03-12 08:31:28** by **jbarchuk**:
 
 Bar posted something one time, paraphrased, 'I've looked for and researched every g-code style and variation out there, and Maslow supports all of them.' That's the intent of the ground controller, to be versatile. There are variations like G-01, g-01, and g01. Maslow obviously can't support g-code that calls for a fourth axis motion command.
 
 ---
 
-Posted on *2017-03-12 08:36:48* by *rancher*
+Posted on **2017-03-12 08:36:48** by **rancher**:
 
 So which post option are you going to pick?
 
 ---
 
-Posted on *2017-03-12 09:41:04* by *jbarchuk*
+Posted on **2017-03-12 09:41:04** by **jbarchuk**:
 
 Several answers... (I'm not far enough into the whole process to give an opinion. I'll learn whatever's necessary at the time, but am spending more time with other aspects of building, and software.)
 The simplest answer is that it doesn't matter much in the sense that it will probably create g-code that the GC can accept, deal with, and cut out a shape. (I think I covered all my plausible deniabilities there. ;))
@@ -59,13 +59,13 @@ Anoth er good answer to that Q is if someone has experience with a CAM machine a
 
 ---
 
-Posted on *2017-03-12 18:35:05* by *rancher*
+Posted on **2017-03-12 18:35:05** by **rancher**:
 
 So which post option are you going to pick?
 
 ---
 
-Posted on *2017-03-12 18:35:10* by *spatialguy*
+Posted on **2017-03-12 18:35:10** by **spatialguy**:
 
 Fusion 360 can export g-code, no worries, but I think you need to understand where and why g-code is used. 
 Terms:
@@ -85,19 +85,19 @@ Michael
 
 ---
 
-Posted on *2017-03-12 18:36:17* by *rancher*
+Posted on **2017-03-12 18:36:17** by **rancher**:
 
 So which post option are you going to pick?
 
 ---
 
-Posted on *2017-03-12 20:20:56* by *spatialguy*
+Posted on **2017-03-12 20:20:56** by **spatialguy**:
 
 Is that question for me rancher? I don't really understand what you mean if it is for me?
 
 ---
 
-Posted on *2017-03-12 20:59:20* by *rancher*
+Posted on **2017-03-12 20:59:20** by **rancher**:
 
 I'm new to all of this, but to make gcode with fusion360 you need to pick a post option in the drop down menu.  I picked "HAAS-Generic".  It made some gcode.  I am a total noob, so I guessed.  Another guess I might use,  I could pick "shopbot."  That is how you generate gcode in fusion360.  
 
@@ -107,7 +107,7 @@ So, when you get your Maslow, and you go to cut something, and you use fusion360
 
 ---
 
-Posted on *2017-03-13 09:49:30* by *Bar*
+Posted on **2017-03-13 09:49:30** by **Bar**:
 
 I'd like to say all of them will work. The "HAAS-Generic" is probably a good choice. Shopbot for some reason decided to not use the regular gcode standard and instead invented their own so the shopbot choices might not work as well. 
 
@@ -117,19 +117,19 @@ If you find one that you like let us know, and if you find one that doesn't work
 
 ---
 
-Posted on *2017-03-13 10:35:53* by *davidlang*
+Posted on **2017-03-13 10:35:53** by **davidlang**:
 
 to be fair to shopbot, g-code is cryptic and they were trying for a language that was understandable. But they saw the light and made them understand g-code as well so people are no longer locked into their software stack
 
 ---
 
-Posted on *2017-03-13 15:15:18* by *rancher*
+Posted on **2017-03-13 15:15:18** by **rancher**:
 
 Good stuff guys, thank you.
 
 ---
 
-Posted on *2017-03-21 20:20:50* by *rancher*
+Posted on **2017-03-21 20:20:50** by **rancher**:
 
 Hey guys, bumping this back up as I've been through a lot of trial and error trying to get a .nc file out of Fusion360 that Ground Control likes.  I'm totally guessing when I try the output formats, and I'm finding they vary enough that most don't work with GC.  
 
@@ -137,37 +137,37 @@ Has anyone had any success getting an .nc file out of Fusion360 into Ground Cont
 
 ---
 
-Posted on *2017-03-21 20:38:12* by *Bar*
+Posted on **2017-03-21 20:38:12** by **Bar**:
 
 Would you be willing to send me a HAAS-generic generated file? It might be easiest if I just make those work :)
 
 ---
 
-Posted on *2017-03-21 20:57:31* by *rancher*
+Posted on **2017-03-21 20:57:31** by **rancher**:
 
 I would, but....part of it is my inexperience, and I don't know when the problems are due to my original design or the output.  I have one that was output with HAAS that looks like it is all good in Ground control.  I got there by simplifying the design, and filleting and dogbone-ing all the hard corners.  The others get tripped up by details.  So...uh......do you want a good one, or a bad one?
 
 ---
 
-Posted on *2017-03-21 21:03:25* by *rancher*
+Posted on **2017-03-21 21:03:25** by **rancher**:
 
 Here's another idea, that could perhaps lead to a set of settings all could use.  In Fusion360 on the post options screen there are a list of the code parameters, and they are settable.  The dropdown is full of preconfigured options, but the settings can be tweaked manually.  Rather than fix my file, perhaps you could take a look at those options and let us know a set of settings that is likely to work?  Maybe?  I am not trying to give you more work!
 
 ---
 
-Posted on *2017-03-21 23:02:52* by *aalbinger*
+Posted on **2017-03-21 23:02:52** by **aalbinger**:
 
 you stated "Rather than fix my file", however, I don't think Bar was going to fix your file but rather he would make the standard HAAS-generic gcode work with the maslow firmware and then everyone using HAAS-generic would "just work" out of the box.
 
 ---
 
-Posted on *2017-03-22 08:04:43* by *Bar*
+Posted on **2017-03-22 08:04:43** by **Bar**:
 
 @aalbinger is right, I'd rather make Ground Control happy with the gcode produced by the HAAS-generic settings. It's usually something simple like recognizing 'g 1' as "G01" and if I can do it once then forever after it will just work for everyone. Maybe send me the good one and the bad one? That way I can look for the difference. I'm bar@maslowcnc.com
 
 ---
 
-Posted on *2017-03-22 13:16:14* by *Bar*
+Posted on **2017-03-22 13:16:14** by **Bar**:
 
 I think I've got it. That was a good bug :-). I think by fixing that one, a lot of other styles of gcode will be fixed too.
 
@@ -179,25 +179,25 @@ I'm not sure about the firmware side yet. I'm going to investigate the oval sled
 
 ---
 
-Posted on *2017-03-22 13:33:44* by *rancher*
+Posted on **2017-03-22 13:33:44** by **rancher**:
 
 Holy crap dude!  I'm so excited, if this means my files work.....oh my gosh.  Thank you!
 
 ---
 
-Posted on *2017-03-22 13:34:32* by *rancher*
+Posted on **2017-03-22 13:34:32** by **rancher**:
 
 I'm going to wait for the exe version of GC.  It's much smoother for me.
 
 ---
 
-Posted on *2017-03-22 18:49:42* by *rancher*
+Posted on **2017-03-22 18:49:42** by **rancher**:
 
 BAR!!  All my files, stuff I worked on the last few days and thought I totally screwed up....they all look fine in new GC.  I'm sooo stoked man, I had written off a lot of work I've done over the last few days, thinking I was messing up the design.  I can't wait to get it to the machine to test it.  Thank you!!
 
 ---
 
-Posted on *2017-03-24 07:54:10* by *Bar*
+Posted on **2017-03-24 07:54:10** by **Bar**:
 
 Thanks! And Thank you for bearing with us while we track all these things down. Everyone is going to have such a smoother setup process thanks to you contributions :)
 

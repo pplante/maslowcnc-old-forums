@@ -1,17 +1,17 @@
 ## Python/GC help please
-Posted on *2017-03-15 09:08:50* by *rancher*
+Posted on **2017-03-15 09:08:50** by **rancher**:
 
 Okay, I almost gave up, but after a couple days I finally got the python thingy done with the pyserial and kivy and stuff.  Holy crap, what did I get myself into?  I just want to run a router.  I had to learn how to find the cmd line, and then got stuck on the path business.  I know it's probably simple stuff to most of you, but......anyway.  The GC page says to do the little python cncgc thingy, but then it says, "run from folder." or something.  I don't know how to do that.  I think I'm almost there.  Any tips on what magic saying to type in the weird little black box would be super helpful here.
 
 ---
 
-Posted on *2017-03-15 09:21:44* by *Bar*
+Posted on **2017-03-15 09:21:44** by **Bar**:
 
 Hang tight! We're going to be posting a .exe installer for GC with the update this afternoon. We know software isn't everyone's thing so we want to make it as easy as possible.
 
 ---
 
-Posted on *2017-03-15 09:34:37* by *jbarchuk*
+Posted on **2017-03-15 09:34:37** by **jbarchuk**:
 
 > @rancher
 > Holy crap, what did I get myself into? I just want to run a router.
@@ -25,7 +25,7 @@ As one of the great unwashed masses, -you'd- actually be the best person to star
 
 ---
 
-Posted on *2017-03-15 09:47:23* by *rancher*
+Posted on **2017-03-15 09:47:23** by **rancher**:
 
 I figured it out.  Bar, your write up has the file as cncgc.py but that doesn't exist.  It's currently main.py.  
 
@@ -33,7 +33,7 @@ Thank you for getting the installer going, I almost thought I made a huge mistak
 
 ---
 
-Posted on *2017-03-15 09:48:19* by *rancher*
+Posted on **2017-03-15 09:48:19** by **rancher**:
 
 > @jbarchuk
 > kbd-newbie
@@ -41,13 +41,13 @@ I don't even know what that is.
 
 ---
 
-Posted on *2017-03-15 10:10:36* by *Bar*
+Posted on **2017-03-15 10:10:36** by **Bar**:
 
 Sorry for the wrong file name! We changed that last week and hadn't updated the instructions yet. I'll change that right now.
 
 ---
 
-Posted on *2017-03-15 10:49:42* by *jbarchuk*
+Posted on **2017-03-15 10:49:42** by **jbarchuk**:
 
 > @rancher
 > kbd-newbie

@@ -1,11 +1,11 @@
 ## Two Questions - Tabs and cutting smooth cuts
-Posted on *2016-10-26 09:48:39* by *tmkaiser*
+Posted on **2016-10-26 09:48:39** by **tmkaiser**:
 
 I love the idea of this kickstarter and I'm planning on backing it.  Can you tell me, since there is no z axis at this moment, how to you handle the piece once it's fully cut through your material and loose.... wouldn't the work piece have the potential to drop into the router bit since you can't do tabs to hold the cut piece in place?  Also, the video shows on curves that it jumps a little.  Why is that?  It would also be nice to see the unit cut square cuts to show how true it can cut.  Awesome work by the way!
 
 ---
 
-Posted on *2016-10-26 10:10:45* by *Bar*
+Posted on **2016-10-26 10:10:45** by **Bar**:
 
 Thanks!
 
@@ -21,7 +21,7 @@ Thanks for the support and great questions!
 
 ---
 
-Posted on *2016-10-26 18:28:56* by *jbarchuk*
+Posted on **2016-10-26 18:28:56** by **jbarchuk**:
 
 "If the brick way out at the edge of the rotation jumps say 1mm, the actual tool is jumping a tiny fraction of a mm. That is still probably one of our biggest sources of error in the final cut."
 I suggest facing the plate of the router that contacts the wood with nylon. A very thin sheet. It's very slippery, less sticky than metal.
@@ -29,19 +29,19 @@ Or is it a geometry thing and not a material thing that causes the jump?
 
 ---
 
-Posted on *2016-10-27 07:59:55* by *Bar*
+Posted on **2016-10-27 07:59:55** by **Bar**:
 
 I think you are correct that a smoother surface would help. Keep in mind too that the video was meant to show a worst case scenario where I was cutting on the D grade side of CDX plywood so the surface the router is moving across is awful. Simply flipping the plywood over to the C grade side would help a lot.
 
 ---
 
-Posted on *2016-10-27 08:46:02* by *rancher*
+Posted on **2016-10-27 08:46:02** by **rancher**:
 
 I was in my shop yesterday and there is a golf frisbee hanging on the wall.  What a perfect shoe for the router, was my first thought.
 
 ---
 
-Posted on *2016-11-01 08:52:40* by *bobbysteinmetz*
+Posted on **2016-11-01 08:52:40** by **bobbysteinmetz**:
 
 "That is still probably one of our biggest sources of error in the final cut.”
 

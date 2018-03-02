@@ -1,5 +1,5 @@
 ## Missed opportunity!
-Posted on *2017-06-05 17:31:34* by *chriskehn*
+Posted on **2017-06-05 17:31:34** by **chriskehn**:
 
 I saw a video last night demonstrating your product and thought, "Yes!" Well, when I went to your website today to pre order one of your kits it appeared I missed the boat. No!
 
@@ -9,7 +9,7 @@ Please forgive me if this information has already been provided on this forum.
 
 ---
 
-Posted on *2017-06-06 05:39:54* by *TheRiflesSpiral*
+Posted on **2017-06-06 05:39:54** by **TheRiflesSpiral**:
 
 Welcome, Chris!
 
@@ -23,7 +23,7 @@ We've also seen two beta testers sell their kits here so keep an eye out.
 
 ---
 
-Posted on *2017-06-06 09:01:22* by *blsteinhauer88*
+Posted on **2017-06-06 09:01:22** by **blsteinhauer88**:
 
 There was some selling theirs on the forum, search the past topics in the last couple weeks, or type sale in the search bar.  Good Luck
 

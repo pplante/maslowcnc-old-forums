@@ -1,5 +1,5 @@
 ## Ground Control v0.80 Crash on Linux
-Posted on *2017-07-15 03:20:33* by *jbnimble*
+Posted on **2017-07-15 03:20:33** by **jbnimble**:
 
 Uploaded Firmware-0.80 to the Mega, closed PlatformIO, unplugged Mega. 
 
@@ -91,13 +91,13 @@ Logs:
 
 ---
 
-Posted on *2017-07-15 03:54:08* by *jbnimble*
+Posted on **2017-07-15 03:54:08** by **jbnimble**:
 
 Also tried uploading Firmware-0.80 using Arduino IDE instead of PlatformIO, and no change in Ground Control error.
 
 ---
 
-Posted on *2017-07-15 04:06:34* by *jbnimble*
+Posted on **2017-07-15 04:06:34** by **jbnimble**:
 
 Got past the error, the problem was needed "sudo"
 ```
@@ -107,7 +107,7 @@ Why can't permissions be fixed, so that sudo is not required?
 
 ---
 
-Posted on *2017-07-15 04:08:06* by *gero*
+Posted on **2017-07-15 04:08:06** by **gero**:
 
 Had at least one distro where I had to add myself to the dialout group.
 But then the flashing of the Mega already did not work. Just to make sure, can you check if your user shows up with this in a terminal?
@@ -115,7 +115,7 @@ getent group dialout
 
 ---
 
-Posted on *2017-07-15 04:08:25* by *jbnimble*
+Posted on **2017-07-15 04:08:25** by **jbnimble**:
 
 Yes, I have dialout.
 ```
@@ -126,25 +126,25 @@ dialout:x:20:myuser
 
 ---
 
-Posted on *2017-07-15 04:12:14* by *gero*
+Posted on **2017-07-15 04:12:14** by **gero**:
 
 Are you on a laptop with touchpad?
 
 ---
 
-Posted on *2017-07-15 04:13:54* by *jbnimble*
+Posted on **2017-07-15 04:13:54** by **jbnimble**:
 
 Yes, I am on a laptop with a touchpad. I had to move to an external mouse because the Ground Control "working area" acted like I was dragging it around when I moved the mouse with the touchpad.
 
 ---
 
-Posted on *2017-07-15 04:23:13* by *gero*
+Posted on **2017-07-15 04:23:13** by **gero**:
 
 Struggling with >>[WARNING] MTD: Unable to open device "/dev/input/event14". Please ensure you have the appropriate << That could be the touchpad. I'm no way an expert, but I would try to add my user to the input group to see if that error goes away.
 
 ---
 
-Posted on *2017-07-15 04:35:53* by *jbnimble*
+Posted on **2017-07-15 04:35:53** by **jbnimble**:
 
 Added user to "input" group
 ```
@@ -154,25 +154,25 @@ And now can start Ground Control without "sudo"
 
 ---
 
-Posted on *2017-07-15 04:39:24* by *jbnimble*
+Posted on **2017-07-15 04:39:24** by **jbnimble**:
 
 Updated Wiki to add usermod command for Linux instructions on Ground Control
 
 ---
 
-Posted on *2017-07-15 04:43:50* by *gero*
+Posted on **2017-07-15 04:43:50** by **gero**:
 
 My guess is that on older hardware, the touchpad is treated as a mouse. On newer hardware, where you can pinch and stretch to zoom and do other gestures, it is treated as something else. Eventually the linux kernel and the permissions will catch up.
 
 ---
 
-Posted on *2017-07-15 04:47:07* by *jbnimble*
+Posted on **2017-07-15 04:47:07** by **jbnimble**:
 
 Thanks for your help @gero! Now to go buy the wood and build the frame and sled.
 
 ---
 
-Posted on *2017-07-15 04:48:28* by *jbnimble*
+Posted on **2017-07-15 04:48:28** by **jbnimble**:
 
 Just noticed that after adding my user to the "input" group I don't get that dragging behavior in Ground Control in the "working area".
 

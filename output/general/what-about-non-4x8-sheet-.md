@@ -1,24 +1,24 @@
 ## What about non 4x8 sheet ?
-Posted on *2017-02-11 17:45:19* by *excessnet*
+Posted on **2017-02-11 17:45:19** by **excessnet**:
 
 Just wondering, if I want to cut into a 1x8 plank of something, will it will ? I guess I will only have to "screw it" leveled somewhere in the middle of the Maslow ?
 
 ---
 
-Posted on *2017-02-11 17:53:20* by *excessnet*
+Posted on **2017-02-11 17:53:20** by **excessnet**:
 
 Got my answer here : http://www.maslowcnc.com/forums/#!/project-ideas:engraving-other-than-plywoo
 
 ---
 
-Posted on *2017-02-12 01:19:27* by *jamesbil*
+Posted on **2017-02-12 01:19:27** by **jamesbil**:
 
 Something that would be really helpful in positioning a small piece on the base/back sheet would be to use maslow to create gridlines over the entire base sheet. Maybe a v cutter or 2 or 3mm cutter to cut grooves every 100mm or so vertically and horizontally. Or diagonally corner to corner. Or even mount a sharpie and just draw lines.
 Also a few holes for pegs to sit the work piece on, then screw or clamp it to the base board.
 
 ---
 
-Posted on *2017-02-13 19:38:36* by *davidlang*
+Posted on **2017-02-13 19:38:36** by **davidlang**:
 
 one thing to remember is that the maslow does not have any position sensors, so it doesn't have a repeatable zero-zero mark (and the cutter height is also not detected)
 

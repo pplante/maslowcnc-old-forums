@@ -1,5 +1,5 @@
 ## cut request, exploring the machine limits
-Posted on *2017-02-22 19:21:18* by *davidlang*
+Posted on **2017-02-22 19:21:18** by **davidlang**:
 
 I'd like to see a test that explores the machine limits, using something like:
 
@@ -21,7 +21,7 @@ and another test is that different angles/directions of cuts probably result in 
 
 ---
 
-Posted on *2017-02-23 06:15:43* by *paulhart*
+Posted on **2017-02-23 06:15:43** by **paulhart**:
 
 Agreed, it would be good to see a full-range test. There's been a lot of discussion on this topic already, for instance this page:
 
@@ -31,7 +31,7 @@ I'm curious to know if the comments made there are accurate - they suggest that 
 
 ---
 
-Posted on *2017-02-23 09:21:56* by *davidlang*
+Posted on **2017-02-23 09:21:56** by **davidlang**:
 
 well, the design is that the working area should be the full sheet, the parameters I picked for that plot are based on the idea that the full sheet is usable.
 
@@ -41,7 +41,7 @@ That's why I'm asking for this sort of test, to find where the limits really are
 
 ---
 
-Posted on *2017-02-23 11:21:52* by *Bar*
+Posted on **2017-02-23 11:21:52** by **Bar**:
 
 I think those are great suggestions. I'll add them to my list.
 

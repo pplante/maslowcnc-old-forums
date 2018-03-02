@@ -1,11 +1,11 @@
 ## Is a smoothieboard conversion feasible/likely...
-Posted on *2016-10-28 09:50:25* by *bobpellegrino*
+Posted on **2016-10-28 09:50:25** by **bobpellegrino**:
 
 ... or even advisable?  Other than the network capability, would there be any advantage?
 
 ---
 
-Posted on *2016-10-28 11:15:54* by *Bar*
+Posted on **2016-10-28 11:15:54** by **Bar**:
 
 The smoothieboard is awesome. I guess the question would be what would we be trying to achieve, and is it worth the extra cost. I personally like the arduino because it's cheap and very standardized. 
 

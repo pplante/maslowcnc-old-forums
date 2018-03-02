@@ -1,5 +1,5 @@
 ## Using a cnc spindle instead of a router
-Posted on *2016-10-15 18:47:05* by *neon22*
+Posted on **2016-10-15 18:47:05** by **neon22**:
 
 In my country the Ridgid routers are not available and a 2kW router by (say) makita is >$900. I wonder if a Chinese 2-5kW spindle with controller would do as good a job.
 Of course need to build a support for it to float on the surface. But not as tricky a base as that required for a 'real' router because most of the features of such a base are not required. Just to sit flat on the surface. Might even be better with a bigger more stable flat base ?&quest;
@@ -7,13 +7,13 @@ Any ideas ?
 
 ---
 
-Posted on *2016-10-15 19:37:06* by *Bar*
+Posted on **2016-10-15 19:37:06** by **Bar**:
 
 I would expect a 2-5kW spindle to do a great job. If you have any in particular that you are considering I'm happy to take a look. My only concern would be how would you set the depth of the cut? Using a router gives you a platform which has built in depth adjustment, but most stand alone spindles don't have that.
 
 ---
 
-Posted on *2016-10-15 21:32:26* by *neon22*
+Posted on **2016-10-15 21:32:26** by **neon22**:
 
 yes. good point. I was thinking something like this mount:
 https://www.aliexpress.com/item/Diameter-80mm-Adjustable-1-5-2-2KW-Water-Air-Cooled-Spindle-Motor-Mount-Holder-Clamp-for/32418491862.html
@@ -29,20 +29,20 @@ https://rattmmotor.aliexpress.com/store/group/Air-cooled-spindle-motor/907217_25
 
 ---
 
-Posted on *2016-10-17 15:35:12* by *neon22*
+Posted on **2016-10-17 15:35:12** by **neon22**:
 
 Can you guys see the servo'd steppers they sell. Any use for your driver motors ? The driver board is available in may places HSS57closed loop stepper driver.
 E.g. https://www.aliexpress.com/item/EU-Ship-Free-VAT-Nema23-2N-m-Closed-Loop-Easy-Servo-motor-4-2A-L-76mm/32672465235.html
 
 ---
 
-Posted on *2017-01-26 14:43:56* by *lthomas987*
+Posted on **2017-01-26 14:43:56** by **lthomas987**:
 
 That mount you posted with the threaded screw adjustment would probably take the planned Z control great.  I had just been contemplating my old terrible router, and then what to replace it with when it dies.  And if a Chinese spindle would be a better choice than a router.  So if anybody tries it I'd like to hear about it.
 
 ---
 
-Posted on *2017-01-26 14:54:31* by *davidlang*
+Posted on **2017-01-26 14:54:31** by **davidlang**:
 
 The advantages of a spindle are:
 

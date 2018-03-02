@@ -1,5 +1,5 @@
 ## Quick update to plan for when tier two sells out
-Posted on *2016-11-12 13:49:31* by *Bar*
+Posted on **2016-11-12 13:49:31** by **Bar**:
 
 Hi everyone!
 

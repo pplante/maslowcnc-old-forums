@@ -1,5 +1,5 @@
 ## Scratch Built Machine
-Posted on *2017-03-09 11:10:06* by *garyw17*
+Posted on **2017-03-09 11:10:06** by **garyw17**:
 
 Hello,
 Just thought I'd give an update for anyone not on the kickstarter buy list who may be thinking about trying to scratch build their own machine.   I posted earlier about trying a small Pololu motor with built in encoder, and that the gearbox failed.  I realize now that motor was woefully under powered compared to the Maslow motors.  I was not able to find any thing comparable to Maslow motor with a  worm drive and built in encoders, so ended up buying separate motor (Ebay Item ID: 162355094908 )and encoders (Item ID: 171947459869).  The encoders are 600 ppr (so much lower than standard Maslow but hopefully still good enough), and the motor has roughly twice the torque as the standard Maslow motor mentioned by Bar  But of course has a much higher current draw, so I don't think the L298 motor controllers will work.  I ended up buying a 10 amp dual motor controller for about $26 (Ebay Item ID: 171947459869).  In early testing I accidentally had a wood screw in the way of the motion of the sled and was looking the other way.  I did not notice any change in the motor so und when the sled hit the screw..... just a loud snap as it broke the screw off cleanly.  Clearly there is plenty of power here.  
@@ -16,19 +16,19 @@ That all for now.  If anyone has any advice I appreciate it.  Otherwise, I will 
 
 ---
 
-Posted on *2017-03-09 11:37:18* by *nloding*
+Posted on **2017-03-09 11:37:18** by **nloding**:
 
 Excellent, I *just* asked this in another thread. Do you have specs for the motors that Maslow uses (model, torque, etc.)? I've searched but can't find anything. I'm most concerned about those and the chains. Curious if created your own Arduino shield or used an existing one?
 
 ---
 
-Posted on *2017-03-09 11:42:07* by *garyw17*
+Posted on **2017-03-09 11:42:07** by **garyw17**:
 
 Bar mentioned that the motors were (I think) about 30 kg-cm of torque at 30 rpm.  The ones I picked are about double that.  I did not use a shield.  I just connected the motor controller directly to the Arduino.  Idon't think I shield is needed.    I bought the #25 chain off ebay (need about 11 to 12 ft I think).  Bar uses a 10 tooth sprocket, but I went with 12 since that fit my 3/8 drive shaft (bought that from McMaster-Carr)
 
 ---
 
-Posted on *2017-03-09 11:53:17* by *Bar*
+Posted on **2017-03-09 11:53:17** by **Bar**:
 
 This is AWESOME! Amazing work!
 
@@ -40,13 +40,13 @@ Again, great great work. Keep us posted!
 
 ---
 
-Posted on *2017-03-09 13:32:27* by *garyw17*
+Posted on **2017-03-09 13:32:27** by **garyw17**:
 
 Thanks Bar.  One other thing related to the shield question from nloding.    I am new to Arduino (I never even heard of it until after I saw the Maslow), but I believe the shield in this case is the motor controller.  So if you had a shield designed for the Maslow, you simply plug it in and go.  It also makes for nice packaging.  In my case though I bought an external motor controller that is not an Arduino shield as I mentioned.  I don't think that causes any problems, other than the fact that it has to be connected back to the Arduino mega.  If you look at the firmware code, you can see which pins on the Arduino are used to control the motors and read the encoders.  You then just need to mount your controller board near the Arduino, and make up some connecting wires.  This was also new to me, but I found that www.pololu.com sells the little connectors that work with 0.1 pin spacing (I have no association with Pololu, and there are probably other sources as well).  You need both male and female crimp pins (they come in packs of 100).  They sell plastic housings that the n allow you to make up connectors with as many pins as you want.  These are very inexpensive, so I bought 1,2,3,4,5, and 6 pin housings.  I also bought their crimper tool which was a little expensive ($35 or so I think), but it works well.  This also let's you make up the wires and connectors that have to run out to encoders to provide power and signal.  If anyone is interested, I will post the wiring/pin connections I used.  After I get it sorted out that is.
 
 ---
 
-Posted on *2017-03-09 15:31:28* by *jbarchuk*
+Posted on **2017-03-09 15:31:28** by **jbarchuk**:
 
 > @garyw17
 > the shield in this case is the motor controller.
@@ -57,13 +57,13 @@ The more control the designer has over things, the fewer variables introduced by
 
 ---
 
-Posted on *2017-03-09 16:51:44* by *garyw17*
+Posted on **2017-03-09 16:51:44** by **garyw17**:
 
 Yes, I absolutely agree.    If I could have just bought the kit for $350, that  is the smart move.  But, I missed the kickstart, and didn't want to wait.   So I'm just sharing in case someone else is in a similar position and wants to tinker.
 
 ---
 
-Posted on *2017-03-12 16:41:44* by *garyw17*
+Posted on **2017-03-12 16:41:44** by **garyw17**:
 
 I have run into a problem, and can't figure out what is going wrong.  Hopefully someone with a better understanding of the software can offer a suggestion.  I believe I have things connected up correctly.  But when I try to move the router using the arrows in ground control, I see the white circle with cross hatches move in the software in the commanded direction and distance, but the router itself does not move.  I even read in some simple gcode for a square, and when I press "run" the white circle follows a path around it as expected, but again no actual router motion.  The position output in the gui tracks the white circle.  I don't see a red circle (thought I remembered that from an earlier version?)
 
@@ -77,7 +77,7 @@ I think the fact that the router moves during motor calibration but not via the 
 
 ---
 
-Posted on *2017-03-13 10:01:36* by *Bar*
+Posted on **2017-03-13 10:01:36** by **Bar**:
 
 I've seen that issue too. It's not a hardware thing, it has to do with the calibration not being correct. 
 
@@ -94,13 +94,13 @@ When you run the calibration, what numbers do you see? My guess is that one moto
 
 ---
 
-Posted on *2017-03-13 10:05:44* by *garyw17*
+Posted on **2017-03-13 10:05:44** by **garyw17**:
 
 I am running the most recent code (as of yesterday morning). I think it puts out two numbers.... one for the left and then one for the right?  I got +50, and -29.  Should the second number be negative?
 
 ---
 
-Posted on *2017-03-13 10:11:35* by *Bar*
+Posted on **2017-03-13 10:11:35** by **Bar**:
 
 Those actually sound spot on. The second one should be negative. If something was reversed you would get something like +255/-255.
 
@@ -108,31 +108,31 @@ If you remove those two lines of code, what happens? Are you using an Arduino Me
 
 ---
 
-Posted on *2017-03-13 10:18:09* by *garyw17*
+Posted on **2017-03-13 10:18:09** by **garyw17**:
 
 Thanks.  Yes, mega 2560.  I had a couple other reasons to think  I was connected right at the moment.  I noticed back in my days with the pololu motors that when connected correctly, both motors would "come alive" when I upload the firmware.  By that I mean they would move back and forth a bit.  If they were connected wrong, there would either be no motion, or one of them would take off.  And when I run the motor calibration, if connected wrong the motion tends to just run off the table.  I find that when I change the wiring/pin connections I have now, I run into those same issues.  Connected as is, those issues are OK.  I'll try deleting those 2 lines and post again shortly.
 
 ---
 
-Posted on *2017-03-13 10:42:40* by *garyw17*
+Posted on **2017-03-13 10:42:40** by **garyw17**:
 
 I do not see any change after deleting the 2 lines.  I also re-ran the motor calibration, and got about the same values as before.  I do notice that the first time (only the first time) I push the up arrow button the motors make a short "hum", like they are starting.  But then nothing.
 
 ---
 
-Posted on *2017-03-13 10:53:03* by *TheRiflesSpiral*
+Posted on **2017-03-13 10:53:03** by **TheRiflesSpiral**:
 
 Outside looking in here... is it possible that the calibration routine and the normal movement routine use different pulse width? That would explain the hum without a movement.
 
 ---
 
-Posted on *2017-03-13 11:33:30* by *garyw17*
+Posted on **2017-03-13 11:33:30** by **garyw17**:
 
 The "hum" lasts only a fraction of a second the first time I push  the up arrow.  After that, nothing.  As you probably know, the pulse width modulation (pwm) controls the speed, so yes, for sure the calibration and normal movement use different values.  The pwm value from normal operation comes from the PID routine, which looks at the error between target position and current position.  To get current position it has to read the encoders, just like it does in calibration.  Since the target position obviously moves when I push the arrow buttons (I see that that white circle with cross hairs moves), it would seem maybe it isn't actually reading the encoders to get current position.  But then how was it able to run calibration?
 
 ---
 
-Posted on *2017-03-13 12:42:45* by *TheRiflesSpiral*
+Posted on **2017-03-13 12:42:45** by **TheRiflesSpiral**:
 
 Right... what I was suggesting (poorly :D ) is that it's waiting for an encoder pulse but it never comes. That might be because PW isn't long enough to cause a move, or maybe the pin on which the pulse comes in is defined in two places? (And is wrong in one)
 
@@ -144,7 +144,7 @@ Sorry, I know these are stupid, basic things to check but I always go back to KI
 
 ---
 
-Posted on *2017-03-13 13:04:18* by *garyw17*
+Posted on **2017-03-13 13:04:18** by **garyw17**:
 
 When it reads the encoder, the command looks something like
 _encoder.read()/NUMBER_OF_ENCODER_STEPS)
@@ -156,7 +156,7 @@ For debugging purposes, when I wrote a simple Arduino script to move the motors 
 
 ---
 
-Posted on *2017-03-13 13:34:00* by *Bar*
+Posted on **2017-03-13 13:34:00** by **Bar**:
 
 I have a new theory about what's going on.
 
@@ -174,19 +174,19 @@ Also , keep an eye on the chains as they are starting, because they can get caug
 
 ---
 
-Posted on *2017-03-13 13:38:51* by *garyw17*
+Posted on **2017-03-13 13:38:51** by **garyw17**:
 
 Ahhh.   No, I did not do that.  Just so I am clear, I should first disconnect my sled, and then place the first link of each chain on the sprockets, and it feeds the chain out towards the sled.  Should I try to get a tooth pointed straight up when I start?
 
 ---
 
-Posted on *2017-03-13 13:45:49* by *TheRiflesSpiral*
+Posted on **2017-03-13 13:45:49** by **TheRiflesSpiral**:
 
 Aw, shucks... yer makin' me blush. :D
 
 ---
 
-Posted on *2017-03-13 15:40:28* by *Bar*
+Posted on **2017-03-13 15:40:28** by **Bar**:
 
 Yup, disconnect your sled and place the first link of each chain at 12:00 and it will feed towards the sled. Having a tooth pointed straight up would be ideal. There's an issue filed to add that behavior.
 
@@ -194,31 +194,31 @@ You can run the process without the chains on at all if you want just to see how
 
 ---
 
-Posted on *2017-03-13 17:14:49* by *garyw17*
+Posted on **2017-03-13 17:14:49** by **garyw17**:
 
 OK.  The tip about checking it without a chain was good. Saves a lot of time.  So it looks like maybe I was not connected up right after all.   Depending on encoder and motor connections, sometimes the chain feeds out smoothly, and sometimes the sprocket oscillates back and forth, letting out a small amount of chain at a time.  Would I be correct in assuming it should be a smooth operation, and the oscillation indicates something is backwards?  The other issue is it seems to let out way too much chain.  I think your original chain length was 1650 mm, so at about 75 mm per rev I should get about 22 revs of the sprocket?
 
 ---
 
-Posted on *2017-03-13 17:28:33* by *Bar*
+Posted on **2017-03-13 17:28:33** by **Bar**:
 
 The oscillation is probably caused by the PID controller not being tuned right. Because your motors are different they may behave differently, but I would expect the calibration process to take care of that. Line 45 of the file CNC_functions.py will let you set the size of your sprockets which should at least fix the correct length of chain being measured out and could help with the PID tuning.
 
 ---
 
-Posted on *2017-03-13 17:58:48* by *davidlang*
+Posted on **2017-03-13 17:58:48** by **davidlang**:
 
 given the difference between 8k pulses/rev and 600 pulses/rev, it is very possible that some timeout/time-constant in the pid controller will need to be adjusted as it takes >10 as long to get a pulse
 
 ---
 
-Posted on *2017-03-13 21:19:15* by *garyw17*
+Posted on **2017-03-13 21:19:15** by **garyw17**:
 
 You may well be right about the encoder pulse count, but after a couple hours of reading thru the sketch files I haven't found anything yet.  I found a function in axis.cpp called  speedSinceLastCall that only depends on reading the encoder without correcting for the number of steps, but I think it is only checking to see if the motor stalled.  I scaled it up anyway based on the ratio of encoder steps, but it didn't seem to matter.  Cetainly if the PID proportional gain is too high it could make things unstable and cause oscillation.  But I haven't figured out yet if/how my system may be getting into trouble with that.  I did set my sprocket teeth (12 instead of default 10).
 
 ---
 
-Posted on *2017-03-14 09:52:53* by *Bar*
+Posted on **2017-03-14 09:52:53** by **Bar**:
 
 I tried to do all the internal calculations in the units of MM to keep things clear, but @davidlang is right that I is an important thing to change. The number of pulses per rotation is defined at the top of axis.cpp in line 29:
 
@@ -228,7 +228,7 @@ We should make a wiki page to talk about all the things that need to be changed.
 
 ---
 
-Posted on *2017-03-14 13:18:08* by *jbarchuk*
+Posted on **2017-03-14 13:18:08** by **jbarchuk**:
 
 > @Bar
 > We should make a wiki page to talk about all the things that need to be changed.
@@ -236,7 +236,7 @@ Anything you think needs adjustment, open an issue to make it obvious to others.
 
 ---
 
-Posted on *2017-03-14 14:33:57* by *garyw17*
+Posted on **2017-03-14 14:33:57** by **garyw17**:
 
 Just had a thought that might address the possibility of my pulse count being so different causing an issue.  What if I left the numberofencoderseteps at 8144, which is the default value.  Then every time the encoder gets read, I multiply the pulse count that is read by the ratio of 8144/600.  So, if the motor turns one rev, the encoder.read would return 600, but multiplied by the scale factor we get 8144, which is what the code expects for one rev.  
 
@@ -244,7 +244,7 @@ I think I just need to search and replace for all instances of   encoder.read
 
 ---
 
-Posted on *2017-03-14 15:31:36* by *jbarchuk*
+Posted on **2017-03-14 15:31:36** by **jbarchuk**:
 
 > @garyw17
 > I think I just need to search and replace for all instances of encoder.read
@@ -257,13 +257,13 @@ I think I hit all of that right. If not let me know and I'll get someone to edit
 
 ---
 
-Posted on *2017-03-14 15:34:00* by *jbarchuk*
+Posted on **2017-03-14 15:34:00** by **jbarchuk**:
 
 Kewl, m00t, stomp all my finely crafted underscores. ;)
 
 ---
 
-Posted on *2017-03-14 17:18:40* by *garyw17*
+Posted on **2017-03-14 17:18:40** by **garyw17**:
 
 OK.  Never mind all that.  I found the problem, and it was not the Kewl software at all.  Or my wiring.  I thought the encoders I bought (see part numbers above) were 600 ppr.  But I just checked, and they are giving me 2400 ppr.  Maybe the 600 ppr was if you only read 1 channel?  I'm not really sure of that, but regardless, I changed the number of encoder step parameter to 2400, and like magic it works!
 
@@ -273,7 +273,7 @@ Anyway, thanks for all of you who read this and pitched in ideas.  Maybe it will
 
 ---
 
-Posted on *2017-03-14 19:24:42* by *Bar*
+Posted on **2017-03-14 19:24:42** by **Bar**:
 
 If it makes you feel any better, you aren't wrong. Each encoder channel produces 600 pulses per rotation, and each channel is 90 degrees out of phase so the total encoded information is the same as one 2400 pulse encoder with direction information. The software is smart enough extract the extra steps even if you wouldn't see them with an oscilloscope. Congratulations!
 

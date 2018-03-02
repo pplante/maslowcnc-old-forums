@@ -1,5 +1,5 @@
 ## The Jan 25 Weekly Wednesday Update is UP!
-Posted on *2017-01-25 16:48:50* by *Bar*
+Posted on **2017-01-25 16:48:50** by **Bar**:
 
 This week I downloaded and built a chair from OpenDesk. You can check it out here: https://www.kickstarter.com/projects/1830738289/maslow-cnc-a-500-open-source-4-by-8-foot-cnc-machi/posts/1792072
 
@@ -7,25 +7,25 @@ Any questions about this weeks update or suggestions for a future update? What d
 
 ---
 
-Posted on *2017-01-25 17:25:55* by *chauhuh*
+Posted on **2017-01-25 17:25:55** by **chauhuh**:
 
 It might be nice to see how the machine performs on different materials.
 
 ---
 
-Posted on *2017-01-25 17:34:17* by *Bar*
+Posted on **2017-01-25 17:34:17** by **Bar**:
 
 I think that is a fantastic idea. That could really be a whole update right there. What would be some good materials to test? The ones that come to mind are OSB, Sheetrock, Foam, Cardboard?, some kind of hardwood in plank form...what else am I missing?
 
 ---
 
-Posted on *2017-01-25 18:10:57* by *chauhuh*
+Posted on **2017-01-25 18:10:57** by **chauhuh**:
 
 Possibly acrylic. Really thin plywood (like a veneer). Sheet metal?
 
 ---
 
-Posted on *2017-01-25 18:12:59* by *chauhuh*
+Posted on **2017-01-25 18:12:59** by **chauhuh**:
 
 BTW I really enjoyed the last update to see working/usable products coming out of this great machine. It got me thinking about chairs and I found this.
 
@@ -33,19 +33,19 @@ http://www.sketchchair.cc/
 
 ---
 
-Posted on *2017-01-25 18:40:10* by *TheRiflesSpiral*
+Posted on **2017-01-25 18:40:10** by **TheRiflesSpiral**:
 
 Coroplast! (Corrugated plastic) You can probably get a sheet from your local sign shop.
 
 ---
 
-Posted on *2017-01-25 18:54:31* by *danield*
+Posted on **2017-01-25 18:54:31** by **danield**:
 
 How long did it take to cut out the chairs once you had worked out the issues? How long would it take if you wanted to cut out two more?
 
 ---
 
-Posted on *2017-01-25 20:18:20* by *jbarchuk*
+Posted on **2017-01-25 20:18:20** by **jbarchuk**:
 
 Dollar Tree foam board. Other any other dollar store foam board. There isn't much difference except for the adhesion of the paper to the foam.
 
@@ -55,7 +55,7 @@ Fan fold insulation foam is also very common but not naturally flat, and smooth(
 
 ---
 
-Posted on *2017-01-25 21:57:42* by *davidlang*
+Posted on **2017-01-25 21:57:42** by **davidlang**:
 
 you are doing very shallow cuts at very slow speeds (especially for a 2HP motor). Sorry for the long post, but I want to be sure I document the reasons behind my numbers.
 
@@ -87,13 +87,13 @@ For these sorts of tests, circles or squares would be good (so that we can see e
 
 ---
 
-Posted on *2017-01-25 23:13:17* by *larry357*
+Posted on **2017-01-25 23:13:17** by **larry357**:
 
 An outtake video, would love to see the miniture chair :)
 
 ---
 
-Posted on *2017-01-26 00:30:48* by *jamesbil*
+Posted on **2017-01-26 00:30:48** by **jamesbil**:
 
 Hi Bar, As a carpenter, it does look like your cuts are very shallow as noted by another comment. As a rule I would set the depth to half the diameter in all but the hardest woods. So for a 10mm cutter it would be 5mm deep each pass. Looks like you were cutting 1 or 2mm? You could probably also speed up the feed rate slightly. 
 This is looking at it from an "on the bench" point of view, obviously you know best regarding the maslow setup.
@@ -102,7 +102,7 @@ Be good to see the dreaded MDF cut too.
 
 ---
 
-Posted on *2017-01-26 19:12:11* by *Bar*
+Posted on **2017-01-26 19:12:11** by **Bar**:
 
 You guys are absolutely right that I was way too conservative on the feed-rate and step down. I played it really safe. To better answer your question I played around a little bit more to see how far I could have pushed things and I filmed some of the results: https://www.youtube.com/watch?v=GGSYVikWs3g
 
@@ -110,7 +110,7 @@ The chair in the video took about four hours to cut, but I think it could be don
 
 ---
 
-Posted on *2017-01-26 21:35:52* by *davidlang*
+Posted on **2017-01-26 21:35:52** by **davidlang**:
 
 That looked really good. the chips cut looked much better as well.
 

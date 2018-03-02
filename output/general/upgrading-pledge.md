@@ -1,11 +1,11 @@
 ## upgrading pledge?
-Posted on *2017-03-08 16:09:29* by *baradhili*
+Posted on **2017-03-08 16:09:29** by **baradhili**:
 
 Hi there, I'm kinda a cautious kickstarter, since I've been burnt a few times.. but this one looks like delivering, the team have been great communicators... can I upgrade my pledge?
 
 ---
 
-Posted on *2017-03-08 16:35:27* by *Bar*
+Posted on **2017-03-08 16:35:27** by **Bar**:
 
 Hey Baradhili! 
 

@@ -1,17 +1,17 @@
 ## Raspberry Pi 3 setup for Ground Control
-Posted on *2016-12-29 08:03:09* by *TheRiflesSpiral*
+Posted on **2016-12-29 08:03:09** by **TheRiflesSpiral**:
 
 I'm documenting my work to get Ground Control working on a Raspberry Pi 3 in this thread. Just getting started so stay tuned.
 
 ---
 
-Posted on *2016-12-29 08:04:31* by *TheRiflesSpiral*
+Posted on **2016-12-29 08:04:31** by **TheRiflesSpiral**:
 
 I'm starting with a fresh out-of-the-box RPi 3. The one I bought came with a 4gb SD card with Noobs pre-installed. I've selected the default OS (Raspbian Jessie) and installed.
 
 ---
 
-Posted on *2016-12-29 08:37:07* by *TheRiflesSpiral*
+Posted on **2016-12-29 08:37:07** by **TheRiflesSpiral**:
 
 I'm going to do this all from the command line so if you chose to install and go straight to the GUI you can open a terminal window from X.
 
@@ -30,7 +30,7 @@ That was a success so on to the installations...
 
 ---
 
-Posted on *2016-12-29 08:40:27* by *TheRiflesSpiral*
+Posted on **2016-12-29 08:40:27** by **TheRiflesSpiral**:
 
 The Raspbian package manager apparently also manages some Python packages (not surprising, as the Raspbian distro included the runtime and an IDE for Python out of the box) so when I went to install pyserial with:
 ---
@@ -40,7 +40,7 @@ I was happily greeted with "Requirement already satisfied: pyserial in  /usr/lib
 
 ---
 
-Posted on *2016-12-29 08:49:15* by *TheRiflesSpiral*
+Posted on **2016-12-29 08:49:15** by **TheRiflesSpiral**:
 
 Time to update wheel and setuptools with:
 ---
@@ -56,7 +56,7 @@ sdl2 and glew are also in Bar's list of requirements and I suspect they're inclu
 
 ---
 
-Posted on *2016-12-29 09:08:31* by *TheRiflesSpiral*
+Posted on **2016-12-29 09:08:31** by **TheRiflesSpiral**:
 
 The command to install Kivy:
 ---
@@ -84,13 +84,13 @@ At this point, the Kivy installer is complaining about the Cython version: "Dete
 
 ---
 
-Posted on *2016-12-29 09:17:30* by *TheRiflesSpiral*
+Posted on **2016-12-29 09:17:30** by **TheRiflesSpiral**:
 
 I just noticed that the MUUT forum code feature is wrapping lines when it really shouldn't... if you're unfamiliar with terminal commands, note that pressing return (enter) on the keyboard will execute your commands, not wrap to another line...
 
 ---
 
-Posted on *2016-12-29 09:25:46* by *TheRiflesSpiral*
+Posted on **2016-12-29 09:25:46** by **TheRiflesSpiral**:
 
 The recommended version of Cython (A Compiler to give Python C capabilities) didn't completely install... the command suggested by the error message when installing Kivy:
 ---
@@ -102,7 +102,7 @@ Headed over to the Cython docs to see what needs to be done...
 
 ---
 
-Posted on *2016-12-29 09:35:11* by *TheRiflesSpiral*
+Posted on **2016-12-29 09:35:11** by **TheRiflesSpiral**:
 
 I just noticed that several sdl libraries are in the list of dependencies for installing Kivy, so that takes care of everything but glew.
 
@@ -110,7 +110,7 @@ I just noticed that several sdl libraries are in the list of dependencies for in
 
 ---
 
-Posted on *2016-12-29 10:34:45* by *TheRiflesSpiral*
+Posted on **2016-12-29 10:34:45** by **TheRiflesSpiral**:
 
 Cython is the sticking point at the moment. I've removed the included cython distribution with:
 ---
@@ -128,7 +128,7 @@ I see a root process consuming 99%+ of CPU and 20%+ of memory and the command ke
 
 ---
 
-Posted on *2016-12-29 11:16:51* by *TheRiflesSpiral*
+Posted on **2016-12-29 11:16:51** by **TheRiflesSpiral**:
 
 That did the trick with regards to Cython. (removing then installing)
 
@@ -144,19 +144,19 @@ Which is going to necessitate several re-compiles so I expect it to take a while
 
 ---
 
-Posted on *2016-12-29 11:39:46* by *TomTheWhittler*
+Posted on **2016-12-29 11:39:46** by **TomTheWhittler**:
 
 Maybe once you have it done you can make a SD image and post it somewhere. That could save a bunch of time for everyone.
 
 ---
 
-Posted on *2016-12-29 11:54:53* by *TheRiflesSpiral*
+Posted on **2016-12-29 11:54:53** by **TheRiflesSpiral**:
 
 I'd be happy to... it would be limited to use on the RPi 3 but I think that's the one everyone wants to get their hands on anyway. :)
 
 ---
 
-Posted on *2016-12-29 12:28:24* by *TheRiflesSpiral*
+Posted on **2016-12-29 12:28:24** by **TheRiflesSpiral**:
 
 Okay, Kivy is working properly... or at least the demos are working fine.
 
@@ -175,7 +175,7 @@ When I start, I get several "INFO," "WARNING" and "CRITICAL" messages so I'm goi
 
 ---
 
-Posted on *2016-12-29 13:12:15* by *TheRiflesSpiral*
+Posted on **2016-12-29 13:12:15** by **TheRiflesSpiral**:
 
 I forgot about glew not being installed in the kivy dependencies  step. So off to the glew sourceforge repository for installation instructions. http://glew.sourceforge.net/index.html
 
@@ -193,7 +193,7 @@ With glew installed I'm still not getting a mouse cursor or keyboard response an
 
 ---
 
-Posted on *2016-12-29 13:16:00* by *TheRiflesSpiral*
+Posted on **2016-12-29 13:16:00** by **TheRiflesSpiral**:
 
 Hoping Bar can chime in here with some insight as I'm stuck at this point...
 
@@ -285,7 +285,7 @@ Cannot reopen gcode file. It may have been moved or deleted. To locate it or ope
 
 ---
 
-Posted on *2016-12-29 13:34:07* by *TheRiflesSpiral*
+Posted on **2016-12-29 13:34:07** by **TheRiflesSpiral**:
 
 Running through these error messages:
 
@@ -293,7 +293,7 @@ The xclip and xsel errors for /usr/local/lib/python2.7/dist-packages/kivy/core/_
 
 ---
 
-Posted on *2016-12-29 13:37:11* by *TheRiflesSpiral*
+Posted on **2016-12-29 13:37:11** by **TheRiflesSpiral**:
 
 Okay, fixed those... it turns out that xsel and xclip are left out of the dependencies list for kivy even though they're required. Okay... so:
 ---
@@ -303,7 +303,7 @@ Sorts that bit out.
 
 ---
 
-Posted on *2016-12-29 13:41:43* by *TheRiflesSpiral*
+Posted on **2016-12-29 13:41:43** by **TheRiflesSpiral**:
 
 Okay so I'm only getting one warning now, but I'm still not seeing any mouse cursor and keyboard commands aren't making it to the app. (I don't think)
 
@@ -354,7 +354,7 @@ Cannot reopen gcode file. It may have been moved or deleted. To locate it or ope
 
 ---
 
-Posted on *2016-12-29 13:58:13* by *TheRiflesSpiral*
+Posted on **2016-12-29 13:58:13** by **TheRiflesSpiral**:
 
 A little progress... apparently keyboard commands are making it to the app. Pressing F1 gives me a different window "Makesmith Settings" but I can't find a keypress to exit that screen gracefully. (Both F1 and Esc kill the app):
 ---
@@ -403,7 +403,7 @@ I wouldn't be surprised if both of these are related to the window provider erro
 
 ---
 
-Posted on *2016-12-29 14:44:44* by *TheRiflesSpiral*
+Posted on **2016-12-29 14:44:44** by **TheRiflesSpiral**:
 
 The issue with the crash when pressing the ctrl key is a known issue with Kivy: https://github.com/kivy/kivy/issues/4007 It appears to stem from the fact that the keyboard provider for RPi does not differentiate between lctrl or rctrl and instead sends an unknown "ctrl" identifier.
 
@@ -413,7 +413,7 @@ Not sure if Ctrl is used in GroundControl but that might be an issue.
 
 ---
 
-Posted on *2016-12-29 14:57:06* by *TheRiflesSpiral*
+Posted on **2016-12-29 14:57:06** by **TheRiflesSpiral**:
 
 Last update for today then I'm going to pick it up tomorrow:
 
@@ -425,7 +425,7 @@ I also managed just now to dive into the Kivy setting screen from the settings s
 
 ---
 
-Posted on *2016-12-29 16:52:42* by *TheRiflesSpiral*
+Posted on **2016-12-29 16:52:42** by **TheRiflesSpiral**:
 
 Okay so I just realized I'm a complete idiot. It occurred to me on the way home that since Kivy is a TOUCH interface for Python, it's not intended to have a visible cursor.
 
@@ -437,7 +437,7 @@ Suffice it to say that having a visible cursor is pretty important if you're goi
 
 ---
 
-Posted on *2016-12-29 18:54:47* by *Bar*
+Posted on **2016-12-29 18:54:47** by **Bar**:
 
 This is great. I haven't explicitly hid the cursor or explicitly displayed it, I believe that behavior is handled by kivy. When I run GC on my laptop I can see the cursor, but when I run it on a tablet, no cursor is displayed and it is a touch only interface.
 
@@ -445,7 +445,7 @@ I agree with you that allowing the cursor to show is important. I'll look into h
 
 ---
 
-Posted on *2016-12-29 19:46:18* by *TheRiflesSpiral*
+Posted on **2016-12-29 19:46:18** by **TheRiflesSpiral**:
 
 Good to know. I'll slay that beast tomorrow, hopefully, and post a doc with step-by-step commands for getting GroundControl on PI.
 
@@ -453,7 +453,7 @@ Any thoughts about the window provider error? I started researching that but did
 
 ---
 
-Posted on *2016-12-30 06:16:37* by *TheRiflesSpiral*
+Posted on **2016-12-30 06:16:37** by **TheRiflesSpiral**:
 
 Good morning! Back to it with some research I did last night. The error:
 ---
@@ -471,7 +471,7 @@ I'm still getting a warning about the maximize() function not being supported in
 
 ---
 
-Posted on *2016-12-30 06:45:49* by *TheRiflesSpiral*
+Posted on **2016-12-30 06:45:49** by **TheRiflesSpiral**:
 
 As best I can tell the concept of "Maximize" doesn't exist in python on Raspbian. You can set an app to "fullscreen" (hiding the title bar) or set a window's "zoomed" attribute to true or simply set the dimensions of the window to match the screen but this appears to be troublesome in some situations.
 
@@ -488,7 +488,7 @@ And the error goes away. The app still launches fullscreen.
 
 ---
 
-Posted on *2016-12-30 07:54:10* by *TheRiflesSpiral*
+Posted on **2016-12-30 07:54:10** by **TheRiflesSpiral**:
 
 Regarding the mouse cursor: all the information I can find (from at least 2 years ago) is that the Touchring module for Kivy should be able to handle this. Touchring is the module that puts a ring around the location(s) where touches are detected but can also display the cursor. I've tried this but with no effect. The process is to edit the config.ini file in the hidden .kivy directory of the user:
 ---
@@ -505,7 +505,7 @@ I'm digging into touchring a bit now, it appears that you might have to specify 
 
 ---
 
-Posted on *2016-12-30 08:32:57* by *TheRiflesSpiral*
+Posted on **2016-12-30 08:32:57** by **TheRiflesSpiral**:
 
 Making progres... the default image to display for the cursor (a ring) is usually found at <kivy>/data/images/ring.png but in my install that image isn't present. In that directory is an image called "cursor.png" that looks like a white mouse cursor.
 
@@ -523,7 +523,7 @@ touchring = show_cursor=1,image=/usr/local/lib/python2.7/dist-packages/kivy/data
 
 ---
 
-Posted on *2016-12-30 09:07:44* by *TheRiflesSpiral*
+Posted on **2016-12-30 09:07:44** by **TheRiflesSpiral**:
 
 I got tired of typing paths over and over so I did some housekeeping on my system... just putting this here to help anyone who hates typing stuff over and over as much as I do!
 
@@ -574,7 +574,7 @@ Now I can launch Ground Control from any directory by simply typing:
 
 ---
 
-Posted on *2016-12-30 09:49:04* by *TheRiflesSpiral*
+Posted on **2016-12-30 09:49:04** by **TheRiflesSpiral**:
 
 This mouse thing has me stumped. I can get the cursor to show up and move around if I hold a mouse button down. That at least lets me go off-screen, hold a button down and then drag to the area of the screen I want to click then release and click. Not ideal.
 
@@ -586,21 +586,21 @@ I'll check in once I've heard from the Kivy folks.
 
 ---
 
-Posted on *2017-01-02 05:28:37* by *TomTheWhittler*
+Posted on **2017-01-02 05:28:37** by **TomTheWhittler**:
 
 Does this help ?
 http://stackoverflow.com/questions/34662672/kivy-python-mouse-position
 
 ---
 
-Posted on *2017-01-02 05:32:36* by *TomTheWhittler*
+Posted on **2017-01-02 05:32:36** by **TomTheWhittler**:
 
 or this
 https://www.reddit.com/r/raspberry_pi/comments/2mzw22/fixed_configuring_kivy_on_the_raspberry_pi_to/
 
 ---
 
-Posted on *2017-01-02 05:59:56* by *TheRiflesSpiral*
+Posted on **2017-01-02 05:59:56** by **TheRiflesSpiral**:
 
 Hi, Tom. Thanks for those. The reddit thread is what pointed me to the config file in the first place but I missed the OpenGLES mention since I had just configured GLEW. It's possible that I need to install that package as well.
 
@@ -608,13 +608,13 @@ I'm off today but I'll check it out tomorrow.
 
 ---
 
-Posted on *2017-01-03 13:22:59* by *TheRiflesSpiral*
+Posted on **2017-01-03 13:22:59** by **TheRiflesSpiral**:
 
 Happy New Year to everyone! I'm back at it this evening but unfortunately no love from the OpenGLES library; it's installed as part of the Raspbian image and it's up-to-date. I'm going to check into DispmanX mentioned by Jessica. I'm wondering if the gui isn't interfering with the mouse display, perhaps showing it underneath the ground control window or what...
 
 ---
 
-Posted on *2017-01-03 14:07:00* by *TheRiflesSpiral*
+Posted on **2017-01-03 14:07:00** by **TheRiflesSpiral**:
 
 After some troubleshooting I'm now of the opinion that the GUI is not to blame for obscuring the cursor. I managed to start the Xserver without loading the GUI by setting up a config file for X that simply launches a terminal window and keyboard/mouse support:
 ---
@@ -640,7 +640,7 @@ I also wanted to reiterate that  what I've done thus far SHOULD WORK for a touch
 
 ---
 
-Posted on *2017-01-21 07:13:53* by *paulhart*
+Posted on **2017-01-21 07:13:53** by **paulhart**:
 
 This might be a silly question given your last sentence above, but do you think everything would be okay if you were to use a touchscreen with the Pi? I'm thinking specifically of the official display, which is $60 from MCM:
 
@@ -650,7 +650,7 @@ Admittedly this is only an 800x480 display, which some folks may not appreciate,
 
 ---
 
-Posted on *2017-01-22 11:57:28* by *TheRiflesSpiral*
+Posted on **2017-01-22 11:57:28** by **TheRiflesSpiral**:
 
 Yes, I don't see any reason it wouldn't work, provided your display plays nice with Kivy. I've just about given up getting any help from the Kivy users group and when I get a moment, I'm going to see about a custom function in the touchring module to do cursor tracking.
 
@@ -658,7 +658,7 @@ In the meantime I'll put a more concise guide together for the RPi that others c
 
 ---
 
-Posted on *2017-03-06 12:38:38* by *Bar*
+Posted on **2017-03-06 12:38:38** by **Bar**:
 
 I got a build up and running using Kivy Pi (http://kivypie.mitako.eu/) which shows the mouse cursor, and supports multi-touch screens (only tested on the official Pi touch screen so far).
 
@@ -666,19 +666,19 @@ I want to make a .dmg file to share the image with everyone, but I can't figure 
 
 ---
 
-Posted on *2017-03-06 13:01:08* by *TheRiflesSpiral*
+Posted on **2017-03-06 13:01:08** by **TheRiflesSpiral**:
 
 You can use Win32DiskImager and a card reader to make a disk image on Windows. The only issue is that the image will be as big as the card you're using. (A 16GB card will make a 16GB .dmg file :O )
 
 ---
 
-Posted on *2017-03-06 13:02:47* by *TheRiflesSpiral*
+Posted on **2017-03-06 13:02:47** by **TheRiflesSpiral**:
 
 The file system on Pi is FAT32 so you can use any imaging tool, really, and get a .dmg file.
 
 ---
 
-Posted on *2017-03-06 13:09:05* by *TheRiflesSpiral*
+Posted on **2017-03-06 13:09:05** by **TheRiflesSpiral**:
 
 We're using an RPi3B as a wireless AirPrint server on our photo booth product and the two pieces of software I use are Win32DiskImager and SDFormatter.
 ---
@@ -694,43 +694,43 @@ Process for writing a Disk Image
 
 ---
 
-Posted on *2017-03-06 13:15:24* by *TheRiflesSpiral*
+Posted on **2017-03-06 13:15:24** by **TheRiflesSpiral**:
 
 Actually, it looks like pipaOS uses ext4 non-journal file system... Not sure how Win32DiskImager will handle that. Definitely want to go through a read/write test.
 
 ---
 
-Posted on *2017-03-06 13:32:58* by *Bar*
+Posted on **2017-03-06 13:32:58** by **Bar**:
 
 Do you know if there is any way to make it smaller than the SD card? My SD card is 64GB but my laptop HD is only 40GB :-(
 
 ---
 
-Posted on *2017-03-06 13:56:16* by *TomTheWhittler*
+Posted on **2017-03-06 13:56:16** by **TomTheWhittler**:
 
 You could go out and buy a 128gb USB flash drive from WallyWorld for $ 35.00 and create the image on that. After the image is created you can try to zip it to try to make it smaller. Best Buy has a 256gb one for $ 55.00
 
 ---
 
-Posted on *2017-03-06 14:07:04* by *scottsm*
+Posted on **2017-03-06 14:07:04** by **scottsm**:
 
 I've used Clonezilla for this sort of thing.
 
 ---
 
-Posted on *2017-03-06 14:08:14* by *Bar*
+Posted on **2017-03-06 14:08:14** by **Bar**:
 
 That is not a bad idea. If I understand correctly making an image of my 64GB sd card the image will only work for other people who also have a 64GB SD card, right?
 
 ---
 
-Posted on *2017-03-06 14:11:26* by *Bar*
+Posted on **2017-03-06 14:11:26** by **Bar**:
 
 Clonezilla looks like it might be what I need, thanks for the tip!
 
 ---
 
-Posted on *2017-03-06 14:28:10* by *davidlang*
+Posted on **2017-03-06 14:28:10** by **davidlang**:
 
 Yes, an image from a 64G card will not fit on a smaller card
 
@@ -740,13 +740,13 @@ I can also define packages so that the software (and it's dependencies) can be i
 
 ---
 
-Posted on *2017-03-06 14:36:11* by *traviscadden*
+Posted on **2017-03-06 14:36:11** by **traviscadden**:
 
 @davidlang - I would be forever in your debt if you could do this! I really want to use a Pi3 as my host for Maslow (And a 3d printer to be determined later)
 
 ---
 
-Posted on *2017-03-06 14:53:26* by *TheRiflesSpiral*
+Posted on **2017-03-06 14:53:26** by **TheRiflesSpiral**:
 
 I'm going to suggest a different approach:
 
@@ -756,7 +756,7 @@ Bar if you didn't mind re-doing the work on a smaller card (maybe a 2GB card if 
 
 ---
 
-Posted on *2017-03-06 18:08:17* by *davidlang*
+Posted on **2017-03-06 18:08:17** by **davidlang**:
 
 It's far better to support a general OS (or several) than have an OS image only for the maslow. it gets ugly when you need one OS image to run your CAD program, one to run your conversion program, and one to run the machine, there's no reason to require a dedicated OS image for a purpose (it's useful to provide such an image, but that should be only in addition to the main image)
 
@@ -764,7 +764,7 @@ It's far better to support a general OS (or several) than have an OS image only 
 
 ---
 
-Posted on *2017-03-06 18:19:36* by *Bar*
+Posted on **2017-03-06 18:19:36** by **Bar**:
 
 Great point. I ordered a small SD card so I should be able to get a small image to you guys soon.
 
@@ -772,7 +772,7 @@ I agree that having a general support is always better. I really struggled to ge
 
 ---
 
-Posted on *2017-03-06 23:40:14* by *davidlang*
+Posted on **2017-03-06 23:40:14** by **davidlang**:
 
 As I say, this is the sort of thing I do all the time, I'll be happy to help
 

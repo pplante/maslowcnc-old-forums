@@ -1,5 +1,5 @@
 ## The Wednesday Update is Up!
-Posted on *2017-05-24 17:37:15* by *Bar*
+Posted on **2017-05-24 17:37:15** by **Bar**:
 
 The Wednesday update is up! Read all about our crazy week here: https://www.kickstarter.com/projects/1830738289/maslow-cnc-a-500-open-source-4-by-8-foot-cnc-machi/posts/1894317
 

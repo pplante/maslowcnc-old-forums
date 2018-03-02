@@ -1,5 +1,5 @@
 ## Panel saw
-Posted on *2016-10-26 06:53:53* by *bdillahu*
+Posted on **2016-10-26 06:53:53** by **bdillahu**:
 
 Maybe this is already there, but just a thought... how about some "predefined cuts" in the software to handle "panel saw" type actions. Straight line cuts, or even predefined circles, etc. (stretch goal :-)).
 
@@ -7,7 +7,7 @@ If you looked at the Shaper Origin (https://www.shapertools.com) then one of the
 
 ---
 
-Posted on *2016-10-26 09:39:24* by *Bar*
+Posted on **2016-10-26 09:39:24** by **Bar**:
 
 That is a really cool idea. Really the reason I wanted to build this thing was to get more people involved with making things with CNC and I think that idea could be huge for making the process of getting started less intimidating.
 
@@ -21,7 +21,7 @@ I think after all the bugs are tracked down, this is my first goal as far as add
 
 ---
 
-Posted on *2016-10-26 13:06:49* by *bdillahu*
+Posted on **2016-10-26 13:06:49** by **bdillahu**:
 
 I was teasing (kind of) about the stretch goal, at least as far as Kickstarter... we use the term in my office to mean anything "extra" that you aren't required to do... except that by the end, you'll have to do anyhow :-)
 

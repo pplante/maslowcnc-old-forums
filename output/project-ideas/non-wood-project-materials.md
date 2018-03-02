@@ -1,5 +1,5 @@
 ## Non-wood project materials
-Posted on *2016-10-30 05:48:45* by *emilyjourney*
+Posted on **2016-10-30 05:48:45** by **emilyjourney**:
 
 I'm a CNC artist and I love your project! I can't believe the timing because I'm running a Kickstarter for my CNC art at the exact same time! Here's my question: Can I use Maslow to cut Corian? I carve lithophanes with 1/4" Corian. My current machine is pretty powerful but I would love to teach other people how to make lithophanes with a more affordable machine.
 I'm so excited about your project! I'm going to share it with my CNC friends and share it as an update on my Kickstarter project. Woohoo!
@@ -8,13 +8,13 @@ I'm so excited about your project! I'm going to share it with my CNC friends and
 
 ---
 
-Posted on *2016-10-30 05:56:55* by *emilyjourney*
+Posted on **2016-10-30 05:56:55** by **emilyjourney**:
 
 I think I just found the answer to my own question. :-) The z-axis has to be manually raised and lowered. So, not something I can use for cutting lithophanes. But, that's okay! It's an awesome machine!
 
 ---
 
-Posted on *2016-10-30 09:08:33* by *Bar*
+Posted on **2016-10-30 09:08:33** by **Bar**:
 
 Great question and great answer!
 
@@ -26,7 +26,7 @@ Good luck!
 
 ---
 
-Posted on *2016-10-30 19:56:32* by *alstaxi*
+Posted on **2016-10-30 19:56:32** by **alstaxi**:
 
 > @Bar
 > lithophane
@@ -34,7 +34,7 @@ If the z-axis is using a variable motor, I don't see why this machine could not 
 
 ---
 
-Posted on *2016-10-30 19:59:09* by *alstaxi*
+Posted on **2016-10-30 19:59:09** by **alstaxi**:
 
 The router would need to be in raster mode also.
 

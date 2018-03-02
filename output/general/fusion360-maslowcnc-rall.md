@@ -1,5 +1,5 @@
 ## Fusion360 + MaslowCNC: Rally Here!
-Posted on *2017-07-07 10:29:52* by *mrfugu*
+Posted on **2017-07-07 10:29:52** by **mrfugu**:
 
 Hey folks,  I've updated the 'unofficial' Fusion360 MaslowCNC file here: 
 
@@ -17,19 +17,19 @@ cheers
 
 ---
 
-Posted on *2017-07-09 09:37:56* by *heidenmason*
+Posted on **2017-07-09 09:37:56** by **heidenmason**:
 
 Yay, I love Fusion360
 
 ---
 
-Posted on *2017-07-09 14:57:47* by *spyker*
+Posted on **2017-07-09 14:57:47** by **spyker**:
 
 Fusion360 is my CAD of choice!
 
 ---
 
-Posted on *2017-07-13 10:34:28* by *Meticulous Maynard*
+Posted on **2017-07-13 10:34:28** by **Meticulous Maynard**:
 
 This is a great idea! Good to have everything in one spot. I like the work you did for the different toolpaths.
 
@@ -39,19 +39,19 @@ Do you want the model of the machine in your Maslow folder? I imported a STEP fi
 
 ---
 
-Posted on *2017-07-13 11:20:35* by *mrfugu*
+Posted on **2017-07-13 11:20:35** by **mrfugu**:
 
 excellent! Yeah, my long term goal was to incorporate the entire machine as a 3D model, and then construction layouts for the parts on a sheet complete with paths and whatnot, everything short of the .nc file exports. I think it will give people new to Fusion360 a good overview of everything that can be done with it and growing out MaslowCNC as it evolves. I just finished a revision to things for the /Mechanics folder, and included a new section with Add-ins and Scripts, and will try to get the Maslow Router Bits into tool definitions, so yeah, lets aim for the whole kit-and-kaboodle!
 
 ---
 
-Posted on *2017-07-13 14:34:56* by *Bar*
+Posted on **2017-07-13 14:34:56** by **Bar**:
 
 The guys over at Fusion are asking what post processor most people are using and I wasn't sure. What post processor is everyone using in Fusion?
 
 ---
 
-Posted on *2017-07-13 16:07:34* by *mrfugu*
+Posted on **2017-07-13 16:07:34** by **mrfugu**:
 
 As I understand it, there are currently 2 GRBL post processors: 
 
@@ -63,7 +63,7 @@ Really the 'guys at Fusion' are going to be the best ppl to ask about a custom P
 
 ---
 
-Posted on *2017-07-13 16:47:29* by *Meticulous Maynard*
+Posted on **2017-07-13 16:47:29** by **Meticulous Maynard**:
 
 @Bar: I'm still learning Fusion so I don't know too much. I watched the video Rancher made back in April but that's about the extent of my knowledge. I'm one of the kickstarter backers so I should be getting my Maslow soon and begin experimenting with it. I'll let you know what I figure out.
 
@@ -71,26 +71,26 @@ Posted on *2017-07-13 16:47:29* by *Meticulous Maynard*
 
 ---
 
-Posted on *2017-07-13 17:01:01* by *rancher*
+Posted on **2017-07-13 17:01:01** by **rancher**:
 
 I use the GRBL-Generic still.  It is working well.
 
 ---
 
-Posted on *2017-07-13 17:17:47* by *mrfugu*
+Posted on **2017-07-13 17:17:47** by **mrfugu**:
 
 @Meticulous Maynard, no A360 group yet, I thought that could be initiated via the dl link but i guess not, send your login and i'll invite you.
 
 ---
 
-Posted on *2017-07-13 18:05:45* by *Meticulous Maynard*
+Posted on **2017-07-13 18:05:45** by **Meticulous Maynard**:
 
 i believe that's maynardmetalmodel@gmail.com? That's what i use to sign in. Saw this short video about groups doing some quick research: https://www.youtube.com/watch?v=n4kgoJeT7Jo 
 May be more than we need?
 
 ---
 
-Posted on *2017-07-13 18:28:07* by *mrfugu*
+Posted on **2017-07-13 18:28:07** by **mrfugu**:
 
 invite sent
 

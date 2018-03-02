@@ -1,5 +1,5 @@
 ## Another Z axis idea
-Posted on *2017-06-06 17:53:09* by *gordonthiesfeld*
+Posted on **2017-06-06 17:53:09** by **gordonthiesfeld**:
 
 Hi all,
 
@@ -11,25 +11,25 @@ Any thoughts?
 
 ---
 
-Posted on *2017-06-06 18:27:27* by *larry357*
+Posted on **2017-06-06 18:27:27** by **larry357**:
 
 why not use a threaded rod i.e. https://www.aliexpress.com/store/product/T8-Lead-screw-200-mm-8mm-stainless-steel-Screw-Nut-Mounted-Ball-Bearing-Bracket-Shaft-Coupling/2665155_32774100534.html?spm=2114.12010612.0.0.rRag7J
 
 ---
 
-Posted on *2017-06-06 18:34:29* by *davidlang*
+Posted on **2017-06-06 18:34:29** by **davidlang**:
 
 any router lift can work, but none will require fewer parts and less costs (or be than hooking up to the height adjustment screw built into a router like the R2200
 
 ---
 
-Posted on *2017-06-06 20:04:22* by *gordonthiesfeld*
+Posted on **2017-06-06 20:04:22** by **gordonthiesfeld**:
 
 I agree, @davidlang, but I already own a few routers. One of them is a 2 1/4 hp Makita with no base that I got on craigslist for $40.  I'm just hoping to put it to use as inexpensively as possible.
 
 ---
 
-Posted on *2017-06-07 01:32:27* by *chadzimmerman*
+Posted on **2017-06-07 01:32:27** by **chadzimmerman**:
 
 Take a look at the z axis I am working on. I have the design almost done.
 

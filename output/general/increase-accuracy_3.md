@@ -1,11 +1,11 @@
 ## Increase Accuracy
-Posted on *2017-05-23 15:38:48* by *cpt_adama*
+Posted on **2017-05-23 15:38:48** by **cpt_adama**:
 
 Ultimately, if you want to increase the accuracy especially at the edges your going to have to replace the bricks with the motor and chain assembly at the other two corners. You need that router to be able to traverse the diagonals very accurately and having 4 chain and motor setup should solve this problem.
 
 ---
 
-Posted on *2017-05-23 15:54:56* by *davidlang*
+Posted on **2017-05-23 15:54:56** by **davidlang**:
 
 show your explanation, not just assert this.
 
@@ -13,7 +13,7 @@ yes, in the bottom corners the forces of the chain are lower, but why does that 
 
 ---
 
-Posted on *2017-05-23 15:55:10* by *justinlauzet*
+Posted on **2017-05-23 15:55:10** by **justinlauzet**:
 
 (This forum has a button that nukes your reply with no warning!). 
 
@@ -35,7 +35,7 @@ Now you now longer need a motor infinitely strong to get near the edge.
 
 ---
 
-Posted on *2017-05-23 15:57:53* by *davidlang*
+Posted on **2017-05-23 15:57:53** by **davidlang**:
 
 the length of the chain is not constant, as your triangles change, the total length of the sides change.
 
@@ -45,19 +45,19 @@ In addition, how do you change the position of the sled on the chain to get chai
 
 ---
 
-Posted on *2017-05-23 16:02:06* by *davidlang*
+Posted on **2017-05-23 16:02:06** by **davidlang**:
 
 The chain length calculations are far uglier than you can imagine without trying to work through them yourself, especially once you take into account the different tensions involved on each side and the resulting sled tilt.
 
 ---
 
-Posted on *2017-05-23 16:02:46* by *davidlang*
+Posted on **2017-05-23 16:02:46** by **davidlang**:
 
 but again, this is all open source, try it and see. I could be wrong and your way will be afar better.
 
 ---
 
-Posted on *2017-05-23 16:02:52* by *justinlauzet*
+Posted on **2017-05-23 16:02:52** by **justinlauzet**:
 
 Yes, the triangles change, but there are corresponding triangles changing on the other side... 
 
@@ -65,19 +65,19 @@ The sled moves the same way as it does now - the sides of the triangles get bigg
 
 ---
 
-Posted on *2017-05-23 16:05:44* by *davidlang*
+Posted on **2017-05-23 16:05:44** by **davidlang**:
 
 but not by the same amount that the others get smaller. And with a single chain, how do you get the extra length from one side of the sled t the other?
 
 ---
 
-Posted on *2017-05-23 16:09:24* by *davidlang*
+Posted on **2017-05-23 16:09:24** by **davidlang**:
 
 and if this design with twice as many motors is more accurate, how much more accurate will it be? does it improve accuracy from 1/64" to 1/128" or from 1/64" to 1/70"?
 
 ---
 
-Posted on *2017-05-23 16:10:45* by *justinlauzet*
+Posted on **2017-05-23 16:10:45** by **justinlauzet**:
 
 So you can't imagine how it works, but it must be wrong in 2 different ways, is about the gist I'm getting.
 
@@ -91,7 +91,7 @@ How would I know this? It's an idea on a forum on a website.
 
 ---
 
-Posted on *2017-05-23 16:23:12* by *davidlang*
+Posted on **2017-05-23 16:23:12** by **davidlang**:
 
 trig functions are not linear, if you increase the height of a triangle by 2x the length of the sides do not increase by the same amount that taking another triangle down to a flat line would decrease.
 
@@ -109,13 +109,13 @@ I can easily see a 4-chain machine moving faster, but since it would double the 
 
 ---
 
-Posted on *2017-05-23 17:28:11* by *scottsm*
+Posted on **2017-05-23 17:28:11** by **scottsm**:
 
 @justinlauzet, this sounds sort of like the mechanism behind a [parallel drafting ruler](//muut.com/u/maslowcnc/s1/:maslowcnc:seMZ:parallelstraightedge.jpg.jpg) . Is that right?
 
 ---
 
-Posted on *2017-05-23 17:39:00* by *justinlauzet*
+Posted on **2017-05-23 17:39:00** by **justinlauzet**:
 
 I modeled a few scenarios, and you're right that the length of the chain as I explained it would need to vary - seemingly impossibly. The shortest chain gets you to the center, and moving towards a corner requires a longer chain. I'm not remotely bent out of shape about this. From my POV, I was spitballing on a friendly forum where discussions and spitballing takes place (or should). 
 
@@ -141,25 +141,25 @@ As for cost, anything sub $1000 is a huge win if it competes with a 4x8 table in
 
 ---
 
-Posted on *2017-05-23 17:40:11* by *justinlauzet*
+Posted on **2017-05-23 17:40:11** by **justinlauzet**:
 
 @scottsm yeah - thats similar to what I was describing :). It does seem to fail with left/right movement however.
 
 ---
 
-Posted on *2017-05-23 18:06:29* by *larry357*
+Posted on **2017-05-23 18:06:29** by **larry357**:
 
 best is to put a couple of screws in a bit of wood and put string around it, to see how it will move and work. An other idea which someone on this forum is already doing is mounting the motors directly on the sled.
 
 ---
 
-Posted on *2017-05-23 18:24:18* by *Bar*
+Posted on **2017-05-23 18:24:18** by **Bar**:
 
 It might be worth checking out the CoreXY system which is similar
 
 ---
 
-Posted on *2017-05-23 18:28:44* by *davidlang*
+Posted on **2017-05-23 18:28:44** by **davidlang**:
 
 Ok, now we can discuss things :-) Jumping in and "you are doing it wrong" with your first post isn't a good discussion opening.
 
@@ -171,25 +171,25 @@ The new PID loops should help a lot (once we get them tuned so they don't chatte
 
 ---
 
-Posted on *2017-05-23 18:31:19* by *davidlang*
+Posted on **2017-05-23 18:31:19** by **davidlang**:
 
 @bar, CoreXY is designed for a machine with rails, it requires a cartesian movement framework. in theory (if the tension is high enough) you may be able to get away without the outer rails, but you still need the crossbar and the movement along it for the second axis.
 
 ---
 
-Posted on *2017-05-23 18:32:53* by *davidlang*
+Posted on **2017-05-23 18:32:53** by **davidlang**:
 
 As far as the 4-chain setup being faster, I think a lot of people would sacrifice speed for 1/2 the cost of the machine
 
 ---
 
-Posted on *2017-05-23 18:36:42* by *davidlang*
+Posted on **2017-05-23 18:36:42** by **davidlang**:
 
 you could try to attach the NW and SE chains together (and NE/SW pair) with a spring/bungee cord, but since the resulting tension of the second chain would be unpredictable (or at the very least, variable based on where you are), which would make the nasty math even harder to figure out.
 
 ---
 
-Posted on *2017-05-23 18:42:19* by *davidlang*
+Posted on **2017-05-23 18:42:19** by **davidlang**:
 
 for those new to the conversation, let me point out http://lang.hm/maslow/maslow.png and http://lang.hm/maslow/v-plotter.py
 
@@ -199,13 +199,13 @@ But we have had accuracy problems even in the good areas, so increased tensions 
 
 ---
 
-Posted on *2017-05-23 19:50:32* by *TheRiflesSpiral*
+Posted on **2017-05-23 19:50:32** by **TheRiflesSpiral**:
 
 CoreXY accomplishes bi-directional force with stationary motors; the current designs are all suspended spindle but I think it could be adapted to drag a router over a surface instead (likely with the motors on the sled?)
 
 ---
 
-Posted on *2017-05-23 22:03:10* by *davidlang*
+Posted on **2017-05-23 22:03:10** by **davidlang**:
 
 Assuming that the setup is as documented at http://corexy.com/theory.html (for consistancy), the relationship between the pullys on the cross bar and the router must remain the same, as the router moves up and down, the pullys must move up and down by the same amount. They also have to resist quite a bit of tension.
 

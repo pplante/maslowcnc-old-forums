@@ -1,11 +1,11 @@
 ## Brand New - Where do you source parts?
-Posted on *2017-06-28 08:34:10* by *spankurmonkey*
+Posted on **2017-06-28 08:34:10** by **spankurmonkey**:
 
 I just found this and would like to build but I am confused.... is there a parts list or is there some sort of waiting list to get a kit to build?   I have built a MPCNC but this format for simple 4x8 sheet cutting seems like a pretty easy way to go.   I know I can read and read, etc just need someone to educate me if you have a moment.
 
 ---
 
-Posted on *2017-06-28 08:55:08* by *davidlang*
+Posted on **2017-06-28 08:55:08** by **davidlang**:
 
 right now all the available kits have been purchased (but not yet shipped),
 
@@ -17,13 +17,13 @@ see the topic "found the dc motor gearbos with encoder" and the topic "open sour
 
 ---
 
-Posted on *2017-06-28 10:13:50* by *rollandelliott*
+Posted on **2017-06-28 10:13:50** by **rollandelliott**:
 
 as usual davidlang is right, while the project is described as open source in theory, in reality unless you want have thousands of dollars you can't get the parts in order to make it unless you buy it from the founders.  Even if the motors are only $10 each that is $10,000 minimum order ad they probably cost 2x to 3x that.
 
 ---
 
-Posted on *2017-06-28 10:40:59* by *TomTheWhittler*
+Posted on **2017-06-28 10:40:59** by **TomTheWhittler**:
 
 That is not necessarily true that it requires custom parts.
 A while back Bar wrote that his first version used a standard Arduino and a standard Ebay H-bridge. He also used some standard off the shelf  motors until he came across ones that seemed to worked well. That is not saying that there are other motors that might work as well. Bar did open source the PCB layout and schematic. Being open source you can substitute alternates.
@@ -36,20 +36,20 @@ You will have to do your own wiring harnesses but you should be able to "roll yo
 
 ---
 
-Posted on *2017-06-28 12:15:18* by *rollandelliott*
+Posted on **2017-06-28 12:15:18** by **rollandelliott**:
 
 Well obviously it's a little bit harder than one might guess otherwise people would already be doing it
 
 ---
 
-Posted on *2017-06-28 14:04:32* by *TomTheWhittler*
+Posted on **2017-06-28 14:04:32** by **TomTheWhittler**:
 
 RollandElliot, I suppose you could be right that it maybe a littler harder.  There were a couple forum members that missed the betas and were trying to build their own. Forum users raidonchrome, garyw17, and kiwimaker were a few that indicated at one time they were going to try to roll their own from post in the technical section.
 It could be people have done it but just are not communication the fact.
 
 ---
 
-Posted on *2017-06-28 15:09:30* by *davidlang*
+Posted on **2017-06-28 15:09:30** by **davidlang**:
 
 The hardware isn't that hard, the software to drive it is where a lot of the real complexity is. The good news is that now it's written, it can be used and adapted to run other similar machines.
 
@@ -57,13 +57,13 @@ There's already one person who has forked it to run with stepper motors and gear
 
 ---
 
-Posted on *2017-06-29 17:36:09* by *jwolter0*
+Posted on **2017-06-29 17:36:09** by **jwolter0**:
 
 It also should be noted that Bar has stated that he intends on establishing a store with a vendor for people to buy replacement parts, which would also be useful to those who wish to roll their own.  With the Kickstarter orders for non-beta testers almost, but not yet filled, I imagine he's been a little busy to get that in place. :-)
 
 ---
 
-Posted on *2017-06-30 08:54:06* by *mooselake*
+Posted on **2017-06-30 08:54:06** by **mooselake**:
 
 I wouldn't expect them to be anywhere near the $10 mentioned above, or the $13.50 price mentioned on Alibaba - that's FOB in China (less shipping, stands for free on board as in sitting on their shipping dock).  Besides the shipping cost, interest, overhead, storage, time away from the kits, etc.  Bar's taking a risk if he's bought many more than are sold/preordered/DOA spares, and it's unlikely he's got a few thousands (or tens of thousands) of $$ to order very many motors on spec in this batch.
 
@@ -73,7 +73,7 @@ If  you're going to roll your own you'll need to experiment with motors that you
 
 ---
 
-Posted on *2017-06-30 09:29:57* by *davidlang*
+Posted on **2017-06-30 09:29:57** by **davidlang**:
 
 Also, Bar is going to be pricing the parts to encourage people to buy the full kit rather than the parts individually.
 

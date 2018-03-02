@@ -1,5 +1,5 @@
 ## The MaslowBH Base Stand
-Posted on *2017-02-17 17:42:04* by *gero*
+Posted on **2017-02-17 17:42:04** by **gero**:
 
 Why did I modify the Base Stand:
 -Sketchup and I don't get along.
@@ -41,32 +41,32 @@ Screenshots: [Front](front.jpg)  [Side](side.jpg)  [Iso-parts1](isoparts1.jpg)  
 
 ---
 
-Posted on *2017-02-17 18:04:32* by *gero*
+Posted on **2017-02-17 18:04:32** by **gero**:
 
 Looks like I messed up the Screenshots. I put them in the same Dropbox folder now.
 
 ---
 
-Posted on *2017-02-17 18:46:11* by *scottsm*
+Posted on **2017-02-17 18:46:11** by **scottsm**:
 
 Thanks for posting this. I too am interested in the 'bunny ears' and the motor mounts. I hope @Bar gives us a quick look at these soon.
  I've been thinking of hinging it from the wall, to pull out at the bottom when in use and fold back when not.
 
 ---
 
-Posted on *2017-02-17 18:50:03* by *gero*
+Posted on **2017-02-17 18:50:03** by **gero**:
 
 Thanks for the "hinging it from the wall, to pull out at the bottom when in use". How could I have missed that...
 
 ---
 
-Posted on *2017-02-17 19:05:45* by *gero*
+Posted on **2017-02-17 19:05:45** by **gero**:
 
 I have forgotten to mention that almost all 2x4 are over sized. The reason is that the jointing is not finalized.
 
 ---
 
-Posted on *2017-02-17 21:49:31* by *davidlang*
+Posted on **2017-02-17 21:49:31** by **davidlang**:
 
 for some reason the links aren't working for me (no such page errors from the forum software)
 
@@ -82,25 +82,25 @@ As for the angle, mounting things vertically means that you now have to anchor t
 
 ---
 
-Posted on *2017-02-17 21:56:48* by *scottsm*
+Posted on **2017-02-17 21:56:48** by **scottsm**:
 
 I understand the reason for the (19 degree?) angle, but thought I might reclaim some floorspace when not it's in use. Interesting idea about boot-strapping the final parts. Much fun to come, can't wait!
 
 ---
 
-Posted on *2017-02-18 03:28:42* by *gero*
+Posted on **2017-02-18 03:28:42** by **gero**:
 
 The MaslowBH base is only vertical in the design. From the Scetchup file I got a 15 degree tilt and I will follow that. Somewhere on this forum I read about tested tilt angles, but I can't find it any more.
 
 ---
 
-Posted on *2017-02-18 03:30:09* by *gero*
+Posted on **2017-02-18 03:30:09** by **gero**:
 
 Screenshot tilted  [Side-tilted](//muut.com/u/maslowcnc/s1/:maslowcnc:iTqj:sidetilted.jpg.jpg)
 
 ---
 
-Posted on *2017-02-18 14:15:45* by *jbarchuk*
+Posted on **2017-02-18 14:15:45** by **jbarchuk**:
 
 > @davidlang
 > As I understand it, the bunny ears are intended to be cut on the maslow with a process something like the following
@@ -109,13 +109,13 @@ Waste of time. I don't -build- temporary. The motor mount arms should be plain o
 
 ---
 
-Posted on *2017-02-18 16:02:34* by *scottsm*
+Posted on **2017-02-18 16:02:34** by **scottsm**:
 
 No question that good, firm attachments for the motors will be important. I'm waiting to see, hoping I can make them accommodate materials of various thicknesses. I can provide a level surface for the sled, but I imagine the plane of chain path wants to be parallel to the surface being machined.
 
 ---
 
-Posted on *2017-02-19 06:12:49* by *TheRiflesSpiral*
+Posted on **2017-02-19 06:12:49** by **TheRiflesSpiral**:
 
 > @jbarchuk
 > The motor mount arms should be plain old chunks of 2x4.
@@ -124,7 +124,7 @@ I would be suspicious that a 2x4 would be rigid enough to counter the forces in 
 
 ---
 
-Posted on *2017-02-19 08:58:49* by *davidlang*
+Posted on **2017-02-19 08:58:49** by **davidlang**:
 
 part of the design criteria is to not assume that you have a full woodshop available to you. /The rabbit ears, the chain mounts (to keep the extra chain from tangling up on the ground), the sled, and probably other parts would be a realpain to make manually, but rather easy to have the CNC make.
 
@@ -132,7 +132,7 @@ We don't yet know what the temporary mounts are going to be, they could be to ju
 
 ---
 
-Posted on *2017-02-19 21:08:36* by *jbarchuk*
+Posted on **2017-02-19 21:08:36** by **jbarchuk**:
 
 > @scottsm
 > I imagine the plane of chain path wants to be parallel to the surface being machined.
@@ -151,13 +151,13 @@ Now the drive chains can be detached from the sled and moved to another mount po
 
 ---
 
-Posted on *2017-02-19 21:24:44* by *scottsm*
+Posted on **2017-02-19 21:24:44** by **scottsm**:
 
 Thanks for posting the pictures - I've been wishing I could see the motor mounted in place. Your point about a ladder is good.
 
 ---
 
-Posted on *2017-02-20 04:57:26* by *davidlang*
+Posted on **2017-02-20 04:57:26** by **davidlang**:
 
 roller chain has a fair bit of side to side flexibility (think about how bike chains flex as you change gears), and even at the top corners there is a good two feet of chain (18 inches vertically and almost a foot horizontally). not being parallel will add some error, but _very_ little. a 1" difference in the chain at 24" results in ~3/128" of error. reduce it to a half inch and the error drops to ~1/256"
 
@@ -171,31 +171,31 @@ I'll bet that any variable height motor mount will end up shifting the motors ar
 
 ---
 
-Posted on *2017-02-20 09:22:25* by *jbarchuk*
+Posted on **2017-02-20 09:22:25** by **jbarchuk**:
 
 You're right about the minimal error. The router base I'm trying to use has only 1" travel and I'm sure most bases are about the same. The error will also be worse only in the top corners. I'm trying to take into account all the possible worst cases. And make allowance for the ONE knucklehead (read: Excessively Imaginative Beautiful Mind :) ) who will take it to super-extreme, mount the router on a lead screw drive, and want to route through the full thickness of a 6" slab to make a glass top coffee table. (For that I actually thought of mounting the motors on slide rails to fully cancel the error but decided to not mention it.)
 
 ---
 
-Posted on *2017-02-20 10:36:36* by *Bar*
+Posted on **2017-02-20 10:36:36** by **Bar**:
 
 I am excited to see all of these!
 
 ---
 
-Posted on *2017-02-23 16:22:26* by *gero*
+Posted on **2017-02-23 16:22:26** by **gero**:
 
 Inspired by the momentum I want best of all worlds now. Scottsm's idea hinging it from the wall. Can be taken off the wall an will stand. Tilt angle adjustable to find the sweet spot (different routers, weights). Enough space to playing with different motor mount passions (.py). I am lucky to have a girlfriend that understands.
 
 ---
 
-Posted on *2017-02-23 16:34:48* by *gero*
+Posted on **2017-02-23 16:34:48** by **gero**:
 
 Because of budget this will have to solve the experimental tilte angle for the moment http://www.duden.de/_media_/full/W/Wagenheber-201020518505.jpg
 
 ---
 
-Posted on *2017-02-23 19:47:43* by *jbarchuk*
+Posted on **2017-02-23 19:47:43** by **jbarchuk**:
 
 > @gero
 > Scottsm's idea hinging it from the wall. Can be taken off the wall an will stand.
@@ -204,7 +204,7 @@ It's also unwieldly, 7' tall, 10' wide and only 22" deep. It's not the kind of t
 
 ---
 
-Posted on *2017-03-14 13:34:00* by *gero*
+Posted on **2017-03-14 13:34:00** by **gero**:
 
 It is done.
 Despite mother nature's attempt to bring this island under sea level, 3 times in a row, my car giving up on me because it refused to be a boat. MaslowBH is alive and back on track.
@@ -212,7 +212,7 @@ Nothing to be proud off, and not recommended for copy. More a: DO NOT TRY THIS A
 
 ---
 
-Posted on *2017-03-14 14:10:20* by *jbarchuk*
+Posted on **2017-03-14 14:10:20** by **jbarchuk**:
 
 > @gero
 > Frankensteins Monster of a Maslow.
@@ -222,13 +222,13 @@ How about a few highlights? What were the worst setbacks, what to -most- avoid?
 
 ---
 
-Posted on *2017-03-14 14:17:21* by *scottsm*
+Posted on **2017-03-14 14:17:21** by **scottsm**:
 
 Very nice 👍 - the jack is a masterly touch.
 
 ---
 
-Posted on *2017-03-23 11:46:35* by *gero*
+Posted on **2017-03-23 11:46:35** by **gero**:
 
 @jbarchuk As requested here are the highlights of failures building the hinged MaslowBH base:
 
@@ -251,20 +251,20 @@ I hope this post could provide some smiles or even laughter and can help others 
 
 ---
 
-Posted on *2017-03-23 12:05:27* by *gero*
+Posted on **2017-03-23 12:05:27** by **gero**:
 
 P.S. If the MaslowBH would ever cut itself some legs, they would probably look something like this quick and dirty sketch.  [Legs](//muut.com/u/maslowcnc/s1/:maslowcnc:9VBL:legs.jpg.jpg) With less holes, for more structural strength. And I would need a couple of those. The flat-pack, to-go version needs a little more thoughts.
 
 ---
 
-Posted on *2017-03-23 16:04:48* by *scottsm*
+Posted on **2017-03-23 16:04:48** by **scottsm**:
 
 I, too, assembled without thinking about the final orientation :) had to move much stuff to get it rotated, and it's an unwieldy beast to wrestle by one's self.
 I like the idea of 'flat pack' legs, the ones you drew look like to me they would be strong enough.
 
 ---
 
-Posted on *2017-03-23 18:27:21* by *jbarchuk*
+Posted on **2017-03-23 18:27:21** by **jbarchuk**:
 
 > @scottsm
 > I, too, assembled without thinking about the final orientation ) had to move much stuff to get it rotated, and it's an unwieldy beast to wrestle by one's self.
@@ -274,49 +274,49 @@ You DON'T wanna hear about the hour it took me yesterday to draw six straight pa
 
 ---
 
-Posted on *2017-04-07 07:05:20* by *gero*
+Posted on **2017-04-07 07:05:20** by **gero**:
 
 Not sure Who is following this :-) . It is specific to my frame so I'll just ask here. I'm about to mount the Motors and would love to have the now most widely used distance on final frames between A) Center of motor axis. B) Height of top of the sheet to be cut to horizontal line motor axis. Just for comparability aspects. Can I assume that the defaults in Ground Control are those figures?
 
 ---
 
-Posted on *2017-04-07 08:36:59* by *blsteinhauer88*
+Posted on **2017-04-07 08:36:59** by **blsteinhauer88**:
 
 Mine is working great so far, few distortions at the far corners and top.  I have 18 inches from workspace to motor, and my motors are 116.5 inches apart.
 
 ---
 
-Posted on *2017-04-07 08:37:43* by *blsteinhauer88*
+Posted on **2017-04-07 08:37:43** by **blsteinhauer88**:
 
 The defaults are close, likely from Bar's machine
 
 ---
 
-Posted on *2017-04-07 08:43:32* by *scottsm*
+Posted on **2017-04-07 08:43:32** by **scottsm**:
 
 My experience is that more distance is better. The defaults are good, less is a compromise.
 
 ---
 
-Posted on *2017-04-07 08:56:27* by *gero*
+Posted on **2017-04-07 08:56:27** by **gero**:
 
 Thanks Maslowians, you helped me out Big Time. Mounting the motors drunk tonight (not recommended!). First moves by afternoon tomorrow sober (recommended!).
 
 ---
 
-Posted on *2017-04-07 09:21:43* by *blsteinhauer88*
+Posted on **2017-04-07 09:21:43** by **blsteinhauer88**:
 
 Maybe drunk you can get circles instead of ovals. Ha ha
 
 ---
 
-Posted on *2017-04-07 09:35:02* by *gero*
+Posted on **2017-04-07 09:35:02** by **gero**:
 
 @blsteinhauer88 In my current condition, ester Eggs :-)
 
 ---
 
-Posted on *2017-04-07 10:45:37* by *davidlang*
+Posted on **2017-04-07 10:45:37** by **davidlang**:
 
 as far as motor positions go, you are trying to trade off total machine size for accuracy/reliabilty
 
@@ -328,50 +328,50 @@ to increase the 'sweet spot' move the motors further apart and work lower from t
 
 ---
 
-Posted on *2017-04-07 12:06:13* by *gero*
+Posted on **2017-04-07 12:06:13** by **gero**:
 
 Further apart and mount them higher is what I read now. Plus I have a starting point. The oversizes squares and how I made the motor mount s will give me variation of positions to test. For the start I want to be as close to the Mother as possible. Would not know how to adjust what before I have seen it (Her,Him) moving around. Am thinking of painting the sheet white and with colored felt pens drawing a grid of hor and ver lines in 10cm distance. Once the hardware is set up and running I know I have to face the CAD/.gcode.
 
 ---
 
-Posted on *2017-04-07 12:22:27* by *scottsm*
+Posted on **2017-04-07 12:22:27** by **scottsm**:
 
 To face the CAD, take a look at Easel. It lets you create boxes or circles or just plain lines, and will generate gcode from them. It will take SVG files too.  Also will generate gcode from tracing an image (haven't tried that yet).
 
 ---
 
-Posted on *2017-04-08 15:29:59* by *gero*
+Posted on **2017-04-08 15:29:59** by **gero**:
 
 No software movements today. :-( Part of the weekend stolen by work and the other part from me insisting to have different motor mounts. Shame on me for this design, but live is beating me up this year and a trip to the hardware store is out of question. So the scrap lying around had to do for the moment. A rusty TV-Mount was found and used.  [MtMnt1](//muut.com/u/maslowcnc/s1/:maslowcnc:WSDQ:mtmnt1.jpg.jpg)  [MtMnt2](//muut.com/u/maslowcnc/s1/:maslowcnc:XHTU:mtmnt2.jpg.jpg) Cutting the gap for a U-Profile was hell at first, needed fiddling from both sides, at the end I could get rid of my thought how to tighten it. My jigsaw not cutting straight through 2 sheets made it so tight. I adjust buy ~0.5 mm by hammering in or out.  [U-cut](//muut.com/u/maslowcnc/s1/:maslowcnc:EDZ9:ucut.jpg.jpg) The frame almost vertical, chains on the sled in the 4th hole from down gave me 94mm from bottom of sled. The same was adjusted to motor mounts from surface to sprocket.  [MSLW-Bh-S](//muut.com/u/maslowcnc/s1/:maslowcnc:Cw6G:mslwbhs.jpg.jpg) The rubber stole some time because I counted the chain links in this picture. https://cdn.hackaday.io/images/8596731476320712737.jpg That was far to high, tried 150mm lower, still to tight and after more 300mm I was convinced tha t the sled could reach the outer-down corners without taring the rubber apart.  [Rub-hk](//muut.com/u/maslowcnc/s1/:maslowcnc:25X1:rubhk.jpg.jpg) It's hanging.  [MSLW-Bh-F](//muut.com/u/maslowcnc/s1/:maslowcnc:z4hD:mslwbhf.jpg.jpg) Fair enough for today. To be continued.
 
 ---
 
-Posted on *2017-04-08 15:49:16* by *scottsm*
+Posted on **2017-04-08 15:49:16** by **scottsm**:
 
 Great progress. It's never simple :)
 
 ---
 
-Posted on *2017-04-23 15:07:31* by *gero*
+Posted on **2017-04-23 15:07:31** by **gero**:
 
 Opening the parcel, mounting and calibrating things and start cutting a huge butterfly, that's not how it works.  [Bf](//muut.com/u/maslowcnc/s1/:maslowcnc:b6Bg:bf.jpg.jpg) 
 Back to earth and more knowledgeable about the meaning of 'Beta-Tester' (thanks for the reminder), today was a great day to see what is actually possible. A accuracy that just left me speechless.  100mm x 100mm within a 10th of a mm.  [Perfect](//muut.com/u/maslowcnc/s1/:maslowcnc:0WgM:perfect.jpg.jpg) My sheet after a very interesting week.  [Sheet-24-04-17](//muut.com/u/maslowcnc/s1/:maslowcnc:B4Wg:sheet240417.jpg.jpg) Thanks to all of you!
 
 ---
 
-Posted on *2017-04-23 15:46:08* by *rancher*
+Posted on **2017-04-23 15:46:08** by **rancher**:
 
 That's awesome Gero.  Did you adjust the settings until you got it square?  What did you change, and what worked for you?
 
 ---
 
-Posted on *2017-04-24 01:10:11* by *gero*
+Posted on **2017-04-24 01:10:11** by **gero**:
 
 I only changed the settings for the distance between the chain mounts on the sled. My real distance is 240mm and in settings i went up to 255 mm.
 
 ---
 
-Posted on *2017-04-27 11:45:27* by *gero*
+Posted on **2017-04-27 11:45:27** by **gero**:
 
 The path to the 15 squares of happiness
 
@@ -416,7 +416,7 @@ In my dreams, I visualize Maslowians from all over the world, folding their falt
 
 ---
 
-Posted on *2017-04-27 11:53:47* by *davidlang*
+Posted on **2017-04-27 11:53:47** by **davidlang**:
 
 to make sure I understand you, you are saying you need more friction because the sled swings when it hits the corners and changes direction. Is this correct?
 
@@ -428,13 +428,13 @@ Well, I would like to see us change those last two items :-)
 
 ---
 
-Posted on *2017-04-27 12:02:13* by *gero*
+Posted on **2017-04-27 12:02:13** by **gero**:
 
 I'd rather not decrease the speed, I want to go faster :-). With the mm issue, I had incredible precession going very slow, i think, but I need to slow down again to prove that. At F500 I am tempted to increase the angle and run the test again. New sheets of plywood are arriving soon, so I get rid of those 'plex' things. That will add friction too. So many variables
 
 ---
 
-Posted on *2017-04-27 12:08:21* by *davidlang*
+Posted on **2017-04-27 12:08:21** by **davidlang**:
 
 a note on the gcode, you do a lot of
 g1z3f300 type things, the feedrate (f300) is something you can set and it will stay the same until the next time you set it. So I like to do things like
@@ -450,7 +450,7 @@ There should be some way to set the drilling mode to a particular speed so that 
 
 ---
 
-Posted on *2017-04-27 12:09:54* by *davidlang*
+Posted on **2017-04-27 12:09:54** by **davidlang**:
 
 I don't see where you failed to retract the bit either.
 
@@ -458,7 +458,7 @@ you should be able to use g0 for retracting the bit
 
 ---
 
-Posted on *2017-04-27 12:10:34* by *Bar*
+Posted on **2017-04-27 12:10:34** by **Bar**:
 
 Thank you for the kind words gero. You get the dream.
 
@@ -466,19 +466,19 @@ Acceleration ramping is a big priority, as I'm working on the feed back control 
 
 ---
 
-Posted on *2017-04-27 12:21:24* by *davidlang*
+Posted on **2017-04-27 12:21:24** by **davidlang**:
 
 I think that we may be very near the point where there is more value in you taking time from direct support of beta testers to implement the feed back control re-write than in continuing the wack-a-mole debugging process. There seem to be a lot of improvements that are waiting for that, and I suspect that as you do that re-write you will find/fix other bugs in the process.
 
 ---
 
-Posted on *2017-04-27 12:22:50* by *scottsm*
+Posted on **2017-04-27 12:22:50** by **scottsm**:
 
 Does G0 retract the bit before moving? I try to get the bit up before traversing because I've had z cuts like gero.
 
 ---
 
-Posted on *2017-04-27 12:37:03* by *Bar*
+Posted on **2017-04-27 12:37:03** by **Bar**:
 
 Great question! G0 retracts the bit at the same time as it's doing the XY move. Technically G0 should just run all the motors as fast as possible until they end up where they are supposed to (if you follow the spec). I had it coordinate the XY move because I think it's much nicer, but z doesn't happen first. 
 
@@ -490,7 +490,7 @@ If that isn't retracting before moving, it's a bug and we should track it down!
 
 ---
 
-Posted on *2017-04-27 12:52:12* by *davidlang*
+Posted on **2017-04-27 12:52:12** by **davidlang**:
 
 per the gcode specs, if you give all coordinates on one line g0x0y0z0 it should do a smooth move between where you are and where it's telling you to go (in all three dimensions)
 
@@ -500,7 +500,7 @@ Remember that the machine doesn't know where the wood starts, we tend to assume 
 
 ---
 
-Posted on *2017-04-29 03:11:52* by *gero*
+Posted on **2017-04-29 03:11:52** by **gero**:
 
 MaslowBH is out of service :-( and looks like for a while.
 
@@ -536,43 +536,43 @@ I guess I am down for now, unless you know something else to try ;-)
 
 ---
 
-Posted on *2017-04-29 03:42:12* by *gero*
+Posted on **2017-04-29 03:42:12** by **gero**:
 
 [Abo](//muut.com/u/maslowcnc/s2/:maslowcnc:sNs6:abo.jpg.jpg)  [Adb](//muut.com/u/maslowcnc/s1/:maslowcnc:Mn0s:adb.jpg.jpg)
 
 ---
 
-Posted on *2017-04-29 03:45:26* by *gero*
+Posted on **2017-04-29 03:45:26** by **gero**:
 
 [Bo](//muut.com/u/maslowcnc/s2/:maslowcnc:lQWN:bo.jpg.jpg)  [Cl](//muut.com/u/maslowcnc/s2/:maslowcnc:0W3d:cl.jpg.jpg)
 
 ---
 
-Posted on *2017-04-29 04:42:28* by *gero*
+Posted on **2017-04-29 04:42:28** by **gero**:
 
 [Chip](//muut.com/u/maslowcnc/s1/:maslowcnc:eqbE:chip.jpg.jpg) Measuring the diodes I found one that let through in both directions. Unslodering, lifting one side up I found it to be fine. Checking the chip the is a pass in both directions, that is not there on the other chip. That seems to confirm that the chip itself is fried. :-(
 
 ---
 
-Posted on *2017-04-29 10:13:53* by *davidlang*
+Posted on **2017-04-29 10:13:53** by **davidlang**:
 
 leaving the diode off should still let the board work, it removes a 'just in case' protection from the board (ideally solder a replacement on though :-)
 
 ---
 
-Posted on *2017-04-29 10:27:41* by *scottsm*
+Posted on **2017-04-29 10:27:41** by **scottsm**:
 
 If you could live without the z-axis motor for a while, we could get you a version of firmware that uses that connector for your right motor?
 
 ---
 
-Posted on *2017-04-29 10:31:50* by *gero*
+Posted on **2017-04-29 10:31:50** by **gero**:
 
 Thank you for the suggestion. Both motors would run on the right chip. I read that has some strange behavior. Plus will that chip take the load of 2 motors?
 
 ---
 
-Posted on *2017-04-29 10:53:56* by *Bar*
+Posted on **2017-04-29 10:53:56** by **Bar**:
 
 First, I'm sorry to hear that we're sending you a new board express, and I will look into the buffer overflow issue with that file. Let me see if I can cook up something for us to test with.
 
@@ -582,31 +582,31 @@ The L298P (the motor controller chip) is supposed to have over current and over 
 
 ---
 
-Posted on *2017-04-29 11:07:53* by *Bar*
+Posted on **2017-04-29 11:07:53** by **Bar**:
 
 Is it OK if I send the new board via DHL? That way you will get it in a few days rather than a week.
 
 ---
 
-Posted on *2017-04-29 11:16:00* by *gero*
+Posted on **2017-04-29 11:16:00** by **gero**:
 
 That would be great! Do you have a shop where I can buy some spare :-)
 
 ---
 
-Posted on *2017-04-29 11:21:38* by *gero*
+Posted on **2017-04-29 11:21:38** by **gero**:
 
 My motor mounts and the sled survived the 'stess-test', but I could not get out of my mind, what if... So"  [Sled-chain](//muut.com/u/maslowcnc/s2/:maslowcnc:E2mL:sledchain.jpg.jpg)
 
 ---
 
-Posted on *2017-04-29 11:23:20* by *gero*
+Posted on **2017-04-29 11:23:20** by **gero**:
 
 Will buy 2 of these hooks the mountain climbers use, to make that chain 1 string.
 
 ---
 
-Posted on *2017-04-29 11:27:39* by *Bar*
+Posted on **2017-04-29 11:27:39** by **Bar**:
 
 Perfect, I'll go to the DHL office right now!
 
@@ -614,25 +614,25 @@ I agree that we need a spare parts store. I'm not quite sure how to do it becaus
 
 ---
 
-Posted on *2017-04-29 11:28:32* by *gero*
+Posted on **2017-04-29 11:28:32** by **gero**:
 
 On the PCB, perhaps a overload-diode, or more easy to change a fuse?
 
 ---
 
-Posted on *2017-04-29 11:32:31* by *gero*
+Posted on **2017-04-29 11:32:31** by **gero**:
 
 For the shop, spare parts for people who bought the Kit only. I understand that getting more kits out is highest priority and it will benefit us all.
 
 ---
 
-Posted on *2017-04-29 11:36:32* by *gero*
+Posted on **2017-04-29 11:36:32** by **gero**:
 
 Or just on case to case bases per email. I would really like to have a board spare and have no issues with paying the PCB and the shipment. Just can't imagine if I start my first project and then I get stuck because of a chip.
 
 ---
 
-Posted on *2017-04-29 11:43:34* by *Bar*
+Posted on **2017-04-29 11:43:34** by **Bar**:
 
 Good point, I will send you two so that you have a spare, no need to pay for it. My apologies for the delay while you are waiting for it to arrive.
 
@@ -640,49 +640,49 @@ I'd say priority #1 is getting all of you guys building things. My goal in start
 
 ---
 
-Posted on *2017-04-29 11:47:12* by *Bar*
+Posted on **2017-04-29 11:47:12** by **Bar**:
 
 Rather than add a fuse, I'd rather spec a chip that we can't possibly damage. I chose the L298P because it's a chip that has been around for a long time and is widely used, but it might be time to spec a new chip. The Texas Instruments DRV series of chips looks like it might be a good option.
 
 ---
 
-Posted on *2017-04-29 12:20:04* by *Bar*
+Posted on **2017-04-29 12:20:04** by **Bar**:
 
 The [L6206](http://www.st.com/content/ccc/resource/technical/document/datasheet/6e/e7/d6/58/65/53/48/2a/CD00002346.pdf/files/CD00002346.pdf/jcr:content/translations/en.CD00002346.pdf) looks like it might be a better option. It's similar in operation to the L298P, but a little more modern. I mostly put this here for my own benefit later.
 
 ---
 
-Posted on *2017-04-29 13:16:15* by *gero*
+Posted on **2017-04-29 13:16:15** by **gero**:
 
 That is very kind of you Bar, did not mean it that way. I am checking to order 2 of those H-Bridges, although my soldering skills on SMD are a shaky, I am determined to repair the controller. Unless you want me to send it for debugging. As far I can tell the short is between GND and OUT 1, explaining that right motor is not moving. The rest seems fine, but Z-Axis is not working either, although they seem separated in the diagram.
 
 ---
 
-Posted on *2017-04-29 13:45:28* by *Bar*
+Posted on **2017-04-29 13:45:28** by **Bar**:
 
 It's been my experience that once chips fail they do strange things. Sometimes they'll still partly work but in strange ways. Replacing the chip is a great idea. If you are going to order those, [here](https://www.digikey.com/product-detail/en/stmicroelectronics/L298P/497-1396-5-ND/585919) is a link to where we got them. I've got two new arduino shields tested and I'm heading to the DHL store now :-)
 
 ---
 
-Posted on *2017-04-29 14:19:56* by *Bar*
+Posted on **2017-04-29 14:19:56** by **Bar**:
 
 Unfortunately DHL is closed for the weekend, but my guess is that DHL sent Monday morning will get there faster than another service sent today. What do you think?
 
 ---
 
-Posted on *2017-04-29 14:21:33* by *gero*
+Posted on **2017-04-29 14:21:33** by **gero**:
 
 Yes, DHL should be fastest. Great thanks!
 
 ---
 
-Posted on *2017-04-29 14:24:55* by *gero*
+Posted on **2017-04-29 14:24:55** by **gero**:
 
 Gives me some time to do a few adjustments on the frame and the sled. I would have kept those unsolved forever, because it is more fun to cut :-)
 
 ---
 
-Posted on *2017-04-30 02:31:22* by *gero*
+Posted on **2017-04-30 02:31:22** by **gero**:
 
 FYI and perhaps of interest for other international testers: Digikey wanted $75 for shipping only. I have ordered from Arrow US.
 L298P013TR
@@ -725,55 +725,55 @@ Tax $0.00
 
 ---
 
-Posted on *2017-04-30 02:49:45* by *gero*
+Posted on **2017-04-30 02:49:45** by **gero**:
 
 The standing version of the chip is for an Arduino proto shield I happen to have lying around. I am happy to read that we can go with a lot less weight. I am ready to reduce weight and go for a steeper angle, as I need more preassure on the sled, but I'm still curious if is was a 17kg sled at a 6 degree angled frame, at the top of the sheet, that fried the chip. The protoshield with measure points will hopefully cure my curiosity and I will not kill my 'production motor shield'.
 
 ---
 
-Posted on *2017-04-30 03:22:11* by *davidlang*
+Posted on **2017-04-30 03:22:11** by **davidlang**:
 
 no matter what the angle and weight, running the motors at full power is what would cause the problem (if it was caused by the load as opposed to manufacturing problems, you aren't the first person to have a failed board)
 
 ---
 
-Posted on *2017-04-30 03:22:59* by *davidlang*
+Posted on **2017-04-30 03:22:59** by **davidlang**:
 
 can you put a heatsink on the chips? or arrange for a fan to blow on them? anything you can do to cool them will let them live longer.
 
 ---
 
-Posted on *2017-04-30 04:42:34* by *gero*
+Posted on **2017-04-30 04:42:34** by **gero**:
 
 I had the heatsinks on the Maslow motor shield and have not put it in a box yet. The AC needs to run all time in the Maslow-room when testing, as in spring the temperatures already go above 35C/95F. I had the Arduino on the top of the frame, but will place it down behind the frame now. There it will benefit more from the AC. The little fans, like for the R-Pi, would be an option, but I have a feeling that there will be a redesign of the shields soon ;-)
 
 ---
 
-Posted on *2017-04-30 06:25:59* by *MakerMark*
+Posted on **2017-04-30 06:25:59** by **MakerMark**:
 
 @gero Sorry to hear about the chip getting fried. I agree with David that the weight of your sled shouldn't have caused the issue but I'd be curious to see the pid values from the motor calibration process on a heavier sled like yours to help document a base of values. Thanks!
 
 ---
 
-Posted on *2017-04-30 11:06:58* by *scottsm*
+Posted on **2017-04-30 11:06:58** by **scottsm**:
 
 That L6206 Bar mentioned offers over-current detection.
 
 ---
 
-Posted on *2017-04-30 11:12:51* by *davidlang*
+Posted on **2017-04-30 11:12:51** by **davidlang**:
 
 I think they have already received the shields for the first order, so they are probably not going to throw them away and order new ones unless there are bigger problems that we've seen so far.
 
 ---
 
-Posted on *2017-04-30 11:25:35* by *scottsm*
+Posted on **2017-04-30 11:25:35** by **scottsm**:
 
 But a Maslow Mark II!
 
 ---
 
-Posted on *2017-05-01 04:21:58* by *gero*
+Posted on **2017-05-01 04:21:58** by **gero**:
 
 > @MakerMark
 > pid values from the motor calibration
@@ -781,19 +781,19 @@ I need to wait for the new motor shield to provide those. I was sure I had them,
 
 ---
 
-Posted on *2017-05-03 07:16:34* by *gero*
+Posted on **2017-05-03 07:16:34** by **gero**:
 
 The parcel has arrived ! The security check was on your side this time. If you see Janeth and the Pope, please say thanks to them, for letting this weapon of mass distraction pass.  :-)  [Parcel](//muut.com/u/maslowcnc/s1/:maslowcnc:f51I:parcel.jpg.jpg)
 
 ---
 
-Posted on *2017-05-03 07:17:33* by *gero*
+Posted on **2017-05-03 07:17:33** by **gero**:
 
 Can't wait for Saturday, to have full day of testing and driving the sled around.
 
 ---
 
-Posted on *2017-05-05 05:02:06* by *gero*
+Posted on **2017-05-05 05:02:06** by **gero**:
 
 @MakerMark
     pid values from the motor calibration

@@ -1,5 +1,5 @@
 ## Bosch GOF 1600 CE Z-axis/depth adjustment
-Posted on *2017-05-06 21:41:33* by *mcginniwa*
+Posted on **2017-05-06 21:41:33** by **mcginniwa**:
 
 Moving this from [My Z Struggles](http://www.maslowcnc.com/forums/#!/general:my-z-struggles) to it's own thread since it's evolved to be about Bosch router.
 
@@ -19,7 +19,7 @@ I do feel like I've made progress though and that the Bosch fixed base should wo
 
 ---
 
-Posted on *2017-05-07 01:36:58* by *larry357*
+Posted on **2017-05-07 01:36:58** by **larry357**:
 
 Good that you are making some progress, I did notice that the hole closest to the spindel would make it all wobble a bit more than if it was in the middle one. I ordered some router bits that are 50mm long with 25mm cutting part as the shorter the better I guess... But without a machine to test on I`m not that much help :)
 

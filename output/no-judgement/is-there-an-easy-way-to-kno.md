@@ -1,5 +1,5 @@
 ## Is there an easy way to know when to update?
-Posted on *2017-03-27 14:30:15* by *Jennifer D*
+Posted on **2017-03-27 14:30:15** by **Jennifer D**:
 
 I don't have a great deal of experience with GitHub and I imagine that's where I'm tripping up. But what would be the easiest way to check and see if I need to update firmware or Ground Control?
 
@@ -9,7 +9,7 @@ I'm fairly confident that by the time my schedule and the weather cooperate to a
 
 ---
 
-Posted on *2017-03-27 14:43:38* by *davidlang*
+Posted on **2017-03-27 14:43:38** by **davidlang**:
 
 right now, updates are happening extremely frequently and irregularly (sometimes several updates a day)
 
@@ -17,7 +17,7 @@ Until today's updates (which may not have been packaged into a release yet) ther
 
 ---
 
-Posted on *2017-03-27 15:45:31* by *Bar*
+Posted on **2017-03-27 15:45:31** by **Bar**:
 
 +1 for what davidlang said.
 

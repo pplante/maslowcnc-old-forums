@@ -1,5 +1,5 @@
 ## SKP files in CAD repository
-Posted on *2017-02-04 11:47:14* by *jbnimble*
+Posted on **2017-02-04 11:47:14** by **jbnimble**:
 
 TL;DR; I want to convert the [CAD Sketchup](https://github.com/MaslowCNC/CAD) files to something I can view/edit in Linux.
 
@@ -11,7 +11,7 @@ The feeling I get from my reading is that Sketchup is not open source friendly. 
 
 ---
 
-Posted on *2017-02-04 13:49:44* by *scottsm*
+Posted on **2017-02-04 13:49:44** by **scottsm**:
 
 Do you have an idea what format you want/need? There is a free plugin for Sketchup that will make these formats:
 
@@ -25,7 +25,7 @@ If you like, send me a private message and I'll send you one or two to try. Zipp
 
 ---
 
-Posted on *2017-02-04 14:06:00* by *scottsm*
+Posted on **2017-02-04 14:06:00** by **scottsm**:
 
 Looking in Sketchup itself, it is willing to do COLLADA .dae format or Google Earth .kmz format  - would one of those work? Looks like GLCplayer would handle the .dae and .stl formats.
 
@@ -34,13 +34,13 @@ http://www.viewstl.com
 
 ---
 
-Posted on *2017-02-05 05:28:38* by *gero*
+Posted on **2017-02-05 05:28:38** by **gero**:
 
 I finally got Sketchup to run with wine on Ubuntu MATE 16.04. The trick was to use the 2016 installer. The export to .dae seemed to work, howerver, importing in Blender, i was missing the back legs. Back to Sketchup I "exploded" the legs and exported again. This time the arms were missing. Importing both models and deleting double parts got me a model. The scale was accurate. But if I touch a property like material, the model scales up randomly. Will try my luck with Drafsight and LibreCAD tonight.
 
 ---
 
-Posted on *2017-02-05 10:02:02* by *jbnimble*
+Posted on **2017-02-05 10:02:02** by **jbnimble**:
 
 @scottsm, no, I don't know what format would be a good fit, I was hoping someone could tell me the best open source format. I mostly wanted to be able to view the files to get a better idea of what I will eventually need to make before the cnc arrives.
 
@@ -48,7 +48,7 @@ Posted on *2017-02-05 10:02:02* by *jbnimble*
 
 ---
 
-Posted on *2017-02-05 10:23:44* by *Bar*
+Posted on **2017-02-05 10:23:44** by **Bar**:
 
 I haven't really found a good open format yet. .STP files are pretty good because they give you surfaces which can be used to generate tool paths from. If you are just looking for a way to see the model .STL files are the most widely supported because they are used for 3D printing. Adding 2D .SVG files would give you a blueprint like view of each part. 
 
@@ -56,26 +56,26 @@ I like the idea of having multiple file formats available to download. I'm a lit
 
 ---
 
-Posted on *2017-02-05 18:09:51* by *jbnimble*
+Posted on **2017-02-05 18:09:51** by **jbnimble**:
 
 I defer to the experts on formats, but svg or stl files I can handle. Agreed that having a process to update the agreed source into other formats is a great idea. Thanks all for being so responsive and flexible to support multiple platforms.
 
 ---
 
-Posted on *2017-02-05 18:13:31* by *scottsm*
+Posted on **2017-02-05 18:13:31** by **scottsm**:
 
 @gero, is that a 32-bit version you've got set up there? If so, then @jbnimble's issue might be solved and he could use your solution to work with the .skp files, yes?
 @Bar, I agree that adding multiple formats adds to the burden of document management, best to minimize that.
 
 ---
 
-Posted on *2017-02-06 06:49:29* by *TheRiflesSpiral*
+Posted on **2017-02-06 06:49:29** by **TheRiflesSpiral**:
 
 With Sketchup being free, I would think the skp format is probably the most portable. Maybe a recommended list of plugins to export to other formats would be helpful, but managing a repository of multiple file formats sound like a nightmare.
 
 ---
 
-Posted on *2017-02-06 07:20:56* by *jbnimble*
+Posted on **2017-02-06 07:20:56** by **jbnimble**:
 
 @gero, can you point me to some instructions on how you got sketchup working in linux? I had problems as stated above with the instructions I found previously.
 
@@ -85,14 +85,14 @@ I'll do some research, maybe I can find a compromise that is not too onerous.
 
 ---
 
-Posted on *2017-02-06 12:04:41* by *jbnimble*
+Posted on **2017-02-06 12:04:41** by **jbnimble**:
 
 This article describes the fear I have of not using an open source format for files
 http://hackaday.com/2017/02/06/will-your-cad-software-company-own-your-files-too/#more-242772
 
 ---
 
-Posted on *2017-02-07 05:28:36* by *paulhart*
+Posted on **2017-02-07 05:28:36** by **paulhart**:
 
 I agree with @jbnimble that "free" isn't always "free"... I haven't used Sketchup very much at all, so can't comment on its qualities (specifically, what is it about sketchup that makes life easy when translating a 3d model into 2d?), but I know that other, freer applications can emit useful file formats.
 
@@ -102,7 +102,7 @@ http://wiki.thinkhaus.org/index.php?title=THLaser_Plugin
 
 ---
 
-Posted on *2017-02-08 15:51:36* by *growbot*
+Posted on **2017-02-08 15:51:36** by **growbot**:
 
 I use onshape.com and love it.
 

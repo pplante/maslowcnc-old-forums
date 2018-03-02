@@ -1,5 +1,5 @@
 ## Questions regarding Gcode
-Posted on *2017-04-30 09:37:57* by *seventhram*
+Posted on **2017-04-30 09:37:57** by **seventhram**:
 
 I'm designing my first piece and I have several questions.
 I design everything in AutoCAD, I'm going to try to DXFOUT and dxf2gcode (I'll let you know how this works)
@@ -11,7 +11,7 @@ I design everything in AutoCAD, I'm going to try to DXFOUT and dxf2gcode (I'll l
 
 ---
 
-Posted on *2017-04-30 10:19:34* by *Bar*
+Posted on **2017-04-30 10:19:34** by **Bar**:
 
 Great questions:
 

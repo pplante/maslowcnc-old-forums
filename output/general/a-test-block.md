@@ -1,5 +1,5 @@
 ## a test block
-Posted on *2017-04-17 14:53:53* by *jbarchuk*
+Posted on **2017-04-17 14:53:53** by **jbarchuk**:
 
 You don't need Fusion360 to view designs stored at a360.co. This address simply opens the file in probably some sort of java viewer. If you have Fusion it's downloadable, or maybe a copy function to put it in your own account, I don't remember.
 http://a360.co/2oGvjDJ
@@ -12,13 +12,13 @@ This is a 'tiny-local' test. A wider test would be to cut out these kinds of tes
 
 ---
 
-Posted on *2017-04-17 14:59:25* by *blsteinhauer88*
+Posted on **2017-04-17 14:59:25** by **blsteinhauer88**:
 
 If you have a gcode for that, I can run it tonight in the different spots.
 
 ---
 
-Posted on *2017-04-17 15:43:45* by *rancher*
+Posted on **2017-04-17 15:43:45** by **rancher**:
 
 I can run it as well.
 

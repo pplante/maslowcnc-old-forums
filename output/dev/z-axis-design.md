@@ -1,11 +1,11 @@
 ## Z-Axis design?
-Posted on *2016-10-25 12:29:17* by *jgunnr*
+Posted on **2016-10-25 12:29:17** by **jgunnr**:
 
 Could you tell us a little bit about the automatic Z-Axis that you have in the works? Will it still work with most fixed-base routers? Any pictures or prototypes?
 
 ---
 
-Posted on *2016-10-25 12:45:14* by *Bar*
+Posted on **2016-10-25 12:45:14** by **Bar**:
 
 Good question. The parts are in the mail so I should have pictures of at least a first pass at a prototype in the next week. The way I am aiming to make it work is that I have a motor/gearbox/encoder combo similar to the ones which move the router except smaller. The gear box will adjust the height on the router by connecting to the shaft where the adjustment knob is. 
 
@@ -17,7 +17,7 @@ Long story short, the z-axis is clearly a priority for a lot of people so it's a
 
 ---
 
-Posted on *2016-10-25 13:29:52* by *jgunnr*
+Posted on **2016-10-25 13:29:52** by **jgunnr**:
 
 Good to hear, thanks. I do a lot of pure profile cuts, but at least half of my projects do pockets of some sort. Having an auto-Z seems like it would take this a long way towards doing 95% of my projects at home  rather than the shop, without a lot of time hacking around with the router in between cutting paths.
 

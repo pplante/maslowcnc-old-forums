@@ -1,5 +1,5 @@
 ## Modified Stand V2
-Posted on *2017-03-27 13:44:06* by *jknox*
+Posted on **2017-03-27 13:44:06** by **jknox**:
 
 I started a new stand with simplicity and rigidity in mind, this is what I have so far:  [V2 Concept](//muut.com/u/maslowcnc/s1/:maslowcnc:dmnH:mk2preliminary.png.jpg) 
 
@@ -15,19 +15,19 @@ FYI, I'd like to add the major hardware to the model (probably not nuts and bolt
 
 ---
 
-Posted on *2017-03-27 13:45:48* by *jknox*
+Posted on **2017-03-27 13:45:48** by **jknox**:
 
 (I mean the angle brackets, motors, sprockets, etc)
 
 ---
 
-Posted on *2017-03-28 06:42:29* by *jknox*
+Posted on **2017-03-28 06:42:29** by **jknox**:
 
 [V2 Concept 2](//muut.com/u/maslowcnc/s1/:maslowcnc:CUEu:mk2preliminary2.png.jpg)
 
 ---
 
-Posted on *2017-03-28 12:41:43* by *davidlang*
+Posted on **2017-03-28 12:41:43** by **davidlang**:
 
 hmm, I tried to comment earlier and the comment didn't show up :-(
 
@@ -35,25 +35,25 @@ I like this stand, it looks simpler to build and probably stronger. My only conc
 
 ---
 
-Posted on *2017-03-31 11:09:50* by *jknox*
+Posted on **2017-03-31 11:09:50** by **jknox**:
 
 I was planning to use the same motor mount plate, or at least one similar, on top of the 2x6.
 
 ---
 
-Posted on *2017-04-03 06:12:39* by *ericleahy*
+Posted on **2017-04-03 06:12:39** by **ericleahy**:
 
 I really like your design, very similar to what I was planning, though I'm using aluminum, as I'm hoping to mount a DIY panel saw on the back side. [Assembly_Version_3_2017-Apr-02_10-36-20PM-000_CustomizedView7541649624](//muut.com/u/maslowcnc/s2/:maslowcnc:jREK:assembly_version_3_2017apr02_103620pm000_customizedview7541649624.png.jpg)  [Assembly_Version_3_2017-Apr-02_10-46-23PM-000_CustomizedView258031503](//muut.com/u/maslowcnc/s3/:maslowcnc:IyBS:assembly_version_3_2017apr02_104623pm000_customizedview258031503.png.jpg)
 
 ---
 
-Posted on *2017-04-03 07:56:43* by *jknox*
+Posted on **2017-04-03 07:56:43** by **jknox**:
 
 That's a great idea to use both sides of the stand, certainly would justify spending a little more money to beef up the frame!
 
 ---
 
-Posted on *2017-04-03 08:20:21* by *scottsm*
+Posted on **2017-04-03 08:20:21** by **scottsm**:
 
 The bricks stick down from the sled a fair bit. I've raised my stand by 10" so they don't hit the floor. Another mod would be to support the sled past the bottom of the 4'x8' work area, as it gets tippy when the center of gravity point nears the bottom edge.
 

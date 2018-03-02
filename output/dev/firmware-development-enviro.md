@@ -1,5 +1,5 @@
 ## Firmware Development Environment
-Posted on *2017-01-19 22:52:24* by *jbnimble*
+Posted on **2017-01-19 22:52:24** by **jbnimble**:
 
 Pulled down the [Firmware](https://github.com/MaslowCNC/Firmware) repository, and installed Arduino IDE (v2:1.0.5+dfsg2-4), because I saw the cnc_ctrl_v1.ino file, opened that file in the IDE, and tried to "Verify/Compile" and it failed with this error:
 
@@ -19,13 +19,13 @@ What are you using to develop the Firmware code, and how do I get it setup so th
 
 ---
 
-Posted on *2017-01-20 05:44:54* by *scottsm*
+Posted on **2017-01-20 05:44:54** by **scottsm**:
 
 I just confirmed that it will compile using the current version (1.8.1) of the IDE. There have been many changes/improvements to the IDE since v2:1.0.5. One change was to roll EEPROM.h and other common libraries into the core. They seem to release new versions almost monthly. Their policy of making older versions is admirable, but sometimes confusing.
 
 ---
 
-Posted on *2017-01-20 06:51:48* by *jbnimble*
+Posted on **2017-01-20 06:51:48** by **jbnimble**:
 
 @scottsm, thanks I installed 1.8.1 and got past the EEPROM error, now it complains about "Error compiling for board Arduino/Genuino Uno.", which board should I be targeting?
 
@@ -33,19 +33,19 @@ I was previously using the version that was part of "apt install" for my distrib
 
 ---
 
-Posted on *2017-01-20 07:35:49* by *scottsm*
+Posted on **2017-01-20 07:35:49** by **scottsm**:
 
 I think Maslow uses the Mega; I had success using Arduino/Genuino Mega.
 
 ---
 
-Posted on *2017-01-20 07:38:19* by *jbnimble*
+Posted on **2017-01-20 07:38:19** by **jbnimble**:
 
 Yep, just figured that out, I changed the Arduino IDE to use board "Arduino/Genuino Mega or Mega 2560" and the Firmware compiled, thanks for your help!
 
 ---
 
-Posted on *2017-01-20 09:22:00* by *jbnimble*
+Posted on **2017-01-20 09:22:00** by **jbnimble**:
 
 I created a [Wiki page](https://github.com/jbnimble/Firmware/wiki/Development-Environment) to describe the steps for setting up the Arduino IDE for the Firmware repository, but it appears that pull requests on Wiki pages is not a thing.
 
@@ -57,7 +57,7 @@ Essentially I am looking for a place where I can create missing documentation th
 
 ---
 
-Posted on *2017-01-20 09:59:30* by *Bar*
+Posted on **2017-01-20 09:59:30** by **Bar**:
 
 That's a real bummer that GitHub doesn't support pull requests against the wiki pages. From doing a bit of reading, it looks possible to treat the wiki pages as a separate repository and target them that way, but it looks complicated and I'm afraid that if we set it up like that it will be too difficult to contribute. 
 
@@ -67,13 +67,13 @@ If you make a PR to add that information to the README, I will merge it right aw
 
 ---
 
-Posted on *2017-01-20 12:09:51* by *davidlang*
+Posted on **2017-01-20 12:09:51** by **davidlang**:
 
 There are a number of projects that make the docs a separate repo from the code. This helps in that people are less intimidated by making a change/pull request for docs than for 'code'
 
 ---
 
-Posted on *2017-01-20 13:29:38* by *jbnimble*
+Posted on **2017-01-20 13:29:38** by **jbnimble**:
 
 @Bar, added a new pull request, also figured out how to setup PlatformIO for the Firmware repository, pretty simple, and Atom is a nice editor, lots of plugins, and things just seem to work out of the box. 
 

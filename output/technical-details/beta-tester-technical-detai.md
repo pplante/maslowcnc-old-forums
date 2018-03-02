@@ -1,5 +1,5 @@
 ## Beta Tester Technical Details
-Posted on *2017-03-08 16:53:41* by *Bar*
+Posted on **2017-03-08 16:53:41** by **Bar**:
 
 Hey Everyone!
 

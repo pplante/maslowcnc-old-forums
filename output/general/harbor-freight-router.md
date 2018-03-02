@@ -1,5 +1,5 @@
 ## Harbor Freight Router
-Posted on *2017-02-08 20:34:52* by *tjdux*
+Posted on **2017-02-08 20:34:52** by **tjdux**:
 
 Hi money is pretty tight for me and I know many folks hate HF tools but it may be my only option for now.  I would like the rigid r22 but HF has 2 plunge routers, one for 89.99 and one for 79.99 that can both be bought with their famous 20% off coupons making the cheaper one $100 cheaper than the rigid.  Plus I already own one and it certainly gets the job done for me.
 
@@ -16,7 +16,7 @@ Thanks
 
 ---
 
-Posted on *2017-02-08 21:01:55* by *davidlang*
+Posted on **2017-02-08 21:01:55** by **davidlang**:
 
 I have the second one, the adjustment screw is fixed to the base and what you have it a nut with a long plastic knob. coupling the nut to the Z axis wouldn't be easy, and I find that the nut doesn't turn well (I find I need to move the router so the nut is not engaged, turn the knob to set the height, then let the router move back against the nut)
 
@@ -24,13 +24,13 @@ All this said, the test that Bar did last week of cutting the full depth in a si
 
 ---
 
-Posted on *2017-02-08 22:13:45* by *tjdux*
+Posted on **2017-02-08 22:13:45** by **tjdux**:
 
 Thanks for the info on that second router.  I may just make mine work for now and get the rigid or something compensable when I can.  I really want z axis capibility so I don't have to babysit the machine as much.  I also really want z axis to possibly drill pilot holes for some projects.
 
 ---
 
-Posted on *2017-02-09 11:18:35* by *Bar*
+Posted on **2017-02-09 11:18:35** by **Bar**:
 
 I think that sounds like a sensible plan. When I started the project buying an expensive router wasn't something I could afford. I ended up picking up an old one up at a flea market and using it for a while gave me a better sense of what I wanted.  
 
@@ -40,7 +40,7 @@ I expect that the community will do a much better job of testing and reporting o
 
 ---
 
-Posted on *2017-02-09 13:14:55* by *tjdux*
+Posted on **2017-02-09 13:14:55** by **tjdux**:
 
 Hey thank you for replying Bar.  It's great how you the leader of this community take so much time to reply and talk to everyone you can.  I truly appreciate that.
 

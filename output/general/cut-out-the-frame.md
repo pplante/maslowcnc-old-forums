@@ -1,59 +1,59 @@
 ## Cut out the frame
-Posted on *2017-03-25 19:29:06* by *mattnelson*
+Posted on **2017-03-25 19:29:06** by **mattnelson**:
 
 I cut out the Maslow frame today at a local makerspace.  Used a $50 sheet of maple veneer.  Should be very pretty after I router the edges and polyurethane everything.   [IMG_91692](//muut.com/u/maslowcnc/s3/:maslowcnc:cnAI:img_91692.jpg.jpg)
 
 ---
 
-Posted on *2017-03-25 19:41:07* by *tmaker*
+Posted on **2017-03-25 19:41:07** by **tmaker**:
 
 That's cheating!  Just kidding, looks nice :)
 
 ---
 
-Posted on *2017-03-25 20:03:55* by *jwolter0*
+Posted on **2017-03-25 20:03:55** by **jwolter0**:
 
 I'm wondering if I could cut those out using the laser cutter at my local makerspace.  I love the look of laser-cut wood, with the wood grain on the flat surfaces, but laser char on the edges...  Now I have to go find out how thick a sheet of wood the laser cutters can take!
 
 ---
 
-Posted on *2017-03-25 20:29:31* by *mattnelson*
+Posted on **2017-03-25 20:29:31** by **mattnelson**:
 
 I really doubt you could laser cut it.  A 40 W laser maxes out at about 1/4"  You need a CNC router or water jet cutter.
 
 ---
 
-Posted on *2017-03-26 06:40:09* by *rollandelliott*
+Posted on **2017-03-26 06:40:09** by **rollandelliott**:
 
 those look good. someone should sell the parts premade IMHO. I'd buy them.  but your local makerspace might get annoyed if you sell stuff for a profit. I'd make the work surface 5x10' If I were you that way you can cut all the way to the left, right, and bottom edges, otherwise you loose about 20-30% of the material.
 
 ---
 
-Posted on *2017-03-26 08:21:09* by *davidlang*
+Posted on **2017-03-26 08:21:09** by **davidlang**:
 
 shipping of the parts would be the problem
 
 ---
 
-Posted on *2017-03-26 10:05:57* by *rollandelliott*
+Posted on **2017-03-26 10:05:57** by **rollandelliott**:
 
 No it wouldnt i ship parts that big via ups everyday
 
 ---
 
-Posted on *2017-03-26 12:35:06* by *davidlang*
+Posted on **2017-03-26 12:35:06** by **davidlang**:
 
 things that big and heavy? I'd expect the shipping to be more than the cost of the wood
 
 ---
 
-Posted on *2017-03-26 14:45:37* by *rollandelliott*
+Posted on **2017-03-26 14:45:37** by **rollandelliott**:
 
 people that buy things premade don't generally care what raw materials costs, they buy it for convenience. I know this is hard for DIY mindset to understand, but its true.
 
 ---
 
-Posted on *2017-03-26 21:52:30* by *jbarchuk*
+Posted on **2017-03-26 21:52:30** by **jbarchuk**:
 
 > @rollandelliott
 > those look good. someone should sell the parts premade IMHO. I'd buy them. but your local makerspace might get annoyed if you sell stuff for a profit.
@@ -67,7 +67,7 @@ If the cost of shipping is worth it to you to have one, then another option is t
 
 ---
 
-Posted on *2017-03-26 21:58:06* by *rollandelliott*
+Posted on **2017-03-26 21:58:06** by **rollandelliott**:
 
 Im a backer and fan 
 Not going to buy anything precut till i get my unit
@@ -76,7 +76,7 @@ Personally id rather spend my time using the machine not building it.  I can cer
 
 ---
 
-Posted on *2017-03-26 22:34:26* by *jbarchuk*
+Posted on **2017-03-26 22:34:26** by **jbarchuk**:
 
 > @rollandelliott
 > Personally id rather spend my time using the machine not building it. I can certainly make it though
@@ -84,13 +84,13 @@ Cool, then you can operate and maintain it easily. That was an option I didn't m
 
 ---
 
-Posted on *2017-03-26 23:39:09* by *davidlang*
+Posted on **2017-03-26 23:39:09** by **davidlang**:
 
 the motor/encoder is a custom part, they found that ordering a custom one was about the same price as separate components, and much easier for people to use.
 
 ---
 
-Posted on *2017-03-26 23:40:17* by *davidlang*
+Posted on **2017-03-26 23:40:17** by **davidlang**:
 
 motor controllers are a custom board, but electronically they should just be a set of h-bridges connected to the arduino
 
