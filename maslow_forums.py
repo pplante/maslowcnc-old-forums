@@ -25,24 +25,23 @@ def write_meta(fp, post):
 def write_body(fp, post):
     body = post['body'].replace('\n', '\n\n')
 
-    if '//muut.com' in body:
-        matches = re.findall(r'\((\/\/muut.com.+?)\)', body)
+    matches = re.findall(r'\((\/\/muut.com.+?)\)', body)
 
-        for match in matches:
-            filename = match[37:].replace(':', '_').lower()
-            path = f'images/{filename[:2]}/'
-            os.makedirs(path, exist_ok=True)
+    for match in matches:
+        filename = match[37:].replace(':', '_').lower()
+        path = f'images/{filename[:2]}/'
+        os.makedirs(path, exist_ok=True)
 
-            file_path = os.path.join(path, filename)
-            if not os.path.exists(file_path):
-                url = f'https:{match}'
-                print('Downloading:', url)
-                response = urllib.request.urlopen(url)
-                
-                with open(file_path, 'wb') as dest:
-                    dest.write(response.read())
+        file_path = os.path.join(path, filename)
+        if not os.path.exists(file_path):
+            url = f'https:{match}'
+            print('Downloading:', url)
+            response = urllib.request.urlopen(url)
 
-            body = body.replace(match, f'/{file_path}')
+            with open(file_path, 'wb') as dest:
+                dest.write(response.read())
+
+        body = body.replace(match, f'/{file_path}')
 
     fp.write(body)
 
