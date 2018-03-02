@@ -15,9 +15,15 @@ Posted on **2017-02-11 19:31:08** by **jbarchuk**:
 
 Here's a page about v-plotter design that was mentioned elsewhere. The math is over my head. :( The visual charts at the bottom of the page make more sense to me. :) http://2e5.com/plotter/V/design/
 
+
+
 When I first saw your post I was most concerned with having enough lateral force for the cutter to work effectively at the lowest corners. The chart says that it's doable.
 
+
+
 The question is 'where in space' the rabbit ears need to mount the motors to fit a -given- work area. For example I've seen another mention 5'x5', and I intend to build 5'x3'.
+
+
 
 There needs to be an equation for that. @Bar?&quest; I'll start a new thread in Modifications to ask the Q directly.
 
@@ -33,6 +39,8 @@ Posted on **2017-02-13 10:08:28** by **Bar**:
 
 I can't speak from experience (not having built a portrait version) but I would expect it to work. We're shipping with 11' chains which are extra long to give everyone some flexibility to play the design so you might be able to get away with the stock chains. 
 
+
+
 Out of curiosity, what's the advantage of going vertical? Even less floor space used? Be careful loading and unloading plywood!
 
 ---
@@ -47,7 +55,11 @@ Posted on **2017-02-13 18:21:29** by **davidlang**:
 
 re: cutting multiple pieces at once, one problem is finding a long enough cutter, getting something with a cutting edge much longer than 1" becomes more difficult.
 
+
+
 my estimate on the dimentions is based on playing around with the software I posted under the 'rabit ear' topic
+
+
 
 a portrait mode doesn't need noticeably more length in the chains. and type 25 chain is easy to get and easy to extend.
 

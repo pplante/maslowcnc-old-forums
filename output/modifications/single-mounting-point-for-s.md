@@ -21,7 +21,11 @@ Posted on **2017-06-09 17:22:28** by **davidlang**:
 
 moving the weights further out just makes the problem worse.
 
+
+
 if the system is moving horizontlly at full speed and hits the end of the motion and stops, the sled will want to continue moving.
+
+
 
 But in any case, give it a try, adjust the machine dimensions to say there is no distance between the chain anchor points.
 
@@ -37,7 +41,11 @@ Posted on **2017-06-09 19:04:05** by **davidlang**:
 
 The idea of putting bearings around the center of the sled so that the chains are always directed to the center of the sled where the bit is has been raised many times. So far nobody has built one, or at least nobody has reported the results of trying it.
 
+
+
 We also have not had anyone do a test and report back how accurate things with the latest software (other than a note from bar that when he cut the table it was much more accurate.
+
+
 
 So we don't know if the problem has already been solved, and we don't know how well this change in sled attachment would work.
 
@@ -59,9 +67,15 @@ Posted on **2017-06-10 18:31:18** by **kneelo**:
 
 I have been thinking about this issue quite a lot recently.  
 
+
+
 Having a single mounting point for the two chains that is offset from the router bit would make it easier to calculate position but mean that the cutting force on the bit would act to rotate the sled about the chain attachment point adding inaccuracy.  You would need to move the sled COG as low as possible and slow cutting speed to try to counteract this as much as possible but you could never eliminate it.
 
+
+
 Having the chains pivot about the router centreline is really the only solution I can see and would seem to deliver a lot more accuracy and potentially faster cutting speeds.  
+
+
 
 I am waiting on the delivery of some motors but have a concept that would use a lasercut semicircle strip and a couple of rollers that should work and be relatively cheap and easy.
 
@@ -71,7 +85,11 @@ Posted on **2017-06-10 19:14:56** by **davidlang**:
 
 one thing to remember with that design, the torque of the router will tend to rotate the sled until one of the chains hits a limit 
 
+
+
 that's not necessarily a fatal flow, just something to account for.
+
+
 
 This design has been suggested since the very early days of this forum, we just need someone to build and test it (and be able to compare the accuracy with the standard design)
 
@@ -87,7 +105,11 @@ Posted on **2017-06-10 20:50:15** by **davidlang**:
 
 as long as it doesn't interfere with the router and is strong enough to handle the tension on the chains, the size shouldn't matter.
 
+
+
 The biggest thing to watch out for is the strength of the bearing. They are rated for the weight they support  when flat. In this case the load is sideways, and the load can be quite a bit.
+
+
 
 if both motors are pulling at max power (top center, trying to go higher), there is about 130 pounds of force between the two chains. Now, this has been enough to pull the wood of the sled apart, so the machine should not ever see this much load in real life, but if you are testing bearings, you should test them out to the max stress the machine could produce and have some safety margin.
 
@@ -109,9 +131,15 @@ Posted on **2017-06-11 00:30:32** by **davidlang**:
 
 well, it is possible to only have one bearing.
 
+
+
 the idea is that you are going to keep the chain pointing directly at the router at all times, so you need to have (at least) two parts to the sled, one for each chain. These two parts need to be able to rotate freely (this means that you can't have things like your dust collection preventing one from rotating)
 
+
+
 one person described these as two banjo shaped parts, with the chains attached to the necks.
+
+
 
 the angle of the chain can vary from ~10 degrees off of vertical (bottom corner nearest the motor)  to ~80 degrees off of vertical (top corner opposite the motor)
 
@@ -126,6 +154,7 @@ With one bearing you will need to balance the two sled halves to make sure the C
 Posted on **2017-06-11 06:32:00** by **rollandelliott**:
 
 [Screen Shot 06-11-17 at 06](//muut.com/u/maslowcnc/s3/:maslowcnc:ZhUW:screenshot061117at06.19am.png.jpg) 
+
 these are $35 on ebay and support 500 lbs.  Once could cut 400mm inside circle out of wood and an outside doughnut that is 450mm ID and 500mm OD and expoxy them to the aluminum bearing. Alternative aluminum brackets can be welded to the lazy susan. really not that hard or expensive. I think Maslow buyers would gladly pay for such a premade part and it would give a better machine.
 
 ---
@@ -139,6 +168,8 @@ I like those bearings, they sound like the right thing, but I couldn’t find th
 Posted on **2017-06-11 13:40:34** by **davidlang**:
 
 that's 500 pounds if you lay them flat and pile weight on top of them, not if you pull sideways on them. some lazy susan bearings will fall apart, some will not be supported by the balls in them, but will just rub disk to disk. tests are needed before it's declared that they aolve all the problems (especially when we don't know how much of a problem remains to be solved)
+
+
 
 you don't need to fancy cutting/welding, just make a two layer sled, attach the router and the bearing to the bottom one, and have the top one with a hole large enough to clear the router.
 
@@ -178,6 +209,8 @@ Posted on **2017-06-12 17:51:24** by **davidlang**:
 
 look at the hangprinter
 
+
+
 I'll point out that the large format printer is only needed for the disks, and they could be created with more traditional means (say a router on a pivot point)
 
 ---
@@ -203,6 +236,8 @@ It would need to be stiff to keep from spreading due to radial force. What mater
 Posted on **2017-06-12 22:53:48** by **davidlang**:
 
 a good hardwood would probably work in this case, you could get a usable prototype (good enough to see if it works) out of good quality plywood.
+
+
 
 a good plastic or aluminum would last long term.
 

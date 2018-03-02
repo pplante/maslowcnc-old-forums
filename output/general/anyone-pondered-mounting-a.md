@@ -32,10 +32,15 @@ I've pondered it for wood burned designs (not for cutting), but don't quite know
 Posted on **2017-04-09 09:02:03** by **jbarchuk**:
 
 > @ylexot
+
 > it would need to be able to turn the laser on and off.
+
 It's very doable, though not part of the current design -yet-.
+
 The control board has extra outputs and inputs to control and be controlled by other devices/sensors.
+
 The g-code file would have to have extra information to tell the laser when to turn on/off. Maybe a power level control is possible.
+
 If you can research other existing software that do these kids of things, and create an 'issue' in the git store, maybe someone will look into it.
 
 ---
@@ -44,9 +49,15 @@ Posted on **2017-04-09 19:10:17** by **davidlang**:
 
 Laser cutters tend to want more speed than the maslow is able to provide, and you _really_ don't want the laser to be operating without a laser-safe box around it.
 
+
+
 the maslow design is not a good fit for the needs of a laser cutter, but you could potentially build something along similar lines.
 
+
+
 As for marking parts, just have a tool change operation and put a small v-bit in the router and have it carve part numbers in the material
+
+
 
 or put a pen in the router and use it to mark the parts.
 
@@ -74,9 +85,15 @@ Posted on **2017-04-10 18:51:11** by **davidlang**:
 
 re: wood not being reflective
 
+
+
 That's true, until you have a piece that has a screw in it, or you cut over a screw/nail in the frame.
 
+
+
 In theory goggles can be all you need, but making sure that you have everyone in goggles that don't have any openings at any corners and that nobody will wander in to the area is non-trivial for most people.
+
+
 
 As for power, there are 'laser engravers' being sold on e-bay with 40w CO2 lasers, so when someone starts talking about laser engravers, I don't assume that they are talking a trivial power level
 

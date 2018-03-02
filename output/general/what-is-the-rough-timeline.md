@@ -3,6 +3,8 @@ Posted on **2017-07-05 18:03:56** by **jeebiss**:
 
 I paid $1 to reserve a spot to buy a kit at the kickstarter price a couple months ago. I know that the first round of kits just started flying out recently. Is there any information on a timeline (even just a rough estimate) of when the list I got on will start to ship? More importantly, I just want to make sure I get the full amount paid as soon as the option is available. Im hoping that within a month or two I may see my kit!
 
+
+
 Any updates would be appreciated!
 
 ---
@@ -29,6 +31,8 @@ Posted on **2017-07-05 19:25:03** by **Bar**:
 
 Fun story :-) 
 
+
+
 We did have paypal for about a week, but then paypal called us and said that for part of paypal's terms of service are that the thing paid for with paypal have to ship within 30 days :-(
 
 ---
@@ -42,6 +46,8 @@ Posted on **2017-07-05 19:27:35** by **Bar**:
 Posted on **2017-07-05 20:33:20** by **iroc999**:
 
 @Bar Yes I can see how that would be an issue. That leads me to ask. Do you for see point at which ships within 30 days would be a reality? Thank you for such a speedy reply.
+
+
 
 I mean I'll go get a prepaid credit card if i have to ( I just don't like tieing anything to a bank account. They can't steal money they don't have access to is my online spending mantra )
 
@@ -62,6 +68,7 @@ That seems a little shady :-), I bet we can work something out which doesn't req
 Posted on **2017-07-06 07:53:06** by **alfrz**:
 
 You can always accept (international) wire transfers ;). For one, accepting payments for more kits will help you to fund new resources and maybe hire more hands to get everything quicker.
+
 I'm REALLY exited of getting my kit (I couldn't pay for the kickstarter at the time). I've got everything on my shop to build it myself, except the arduino shield. Is there any open source (hardware) schematic for it?
 
 ---
@@ -93,6 +100,7 @@ Posted on **2017-07-09 14:56:18** by **spyker**:
 Posted on **2017-07-12 19:01:39** by **xordinaryman**:
 
 I might have missed the answer to the original question; so if you don't mind me asking again:
+
 What is the approximate timeline for kit batches (Whether you bought from Kickstarter or from the website back in May)
 
 ---

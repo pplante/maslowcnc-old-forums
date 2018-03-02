@@ -3,7 +3,11 @@ Posted on **2017-02-08 22:47:55** by **thomasgkristensen**:
 
 I haven't purchased my router for the kit yet but I'm planning on buying the dewalt D26204K-QS router. I was wondering if anyone in the community knows which z axis kit size to get for it?
 
+
+
 Thanks!
+
+
 
 Thomas
 
@@ -24,7 +28,9 @@ Hmm, I think it might be a Danish ID for it. I went for a different router. Sorr
 Posted on **2017-02-20 11:37:41** by **jbarchuk**:
 
 > @thomasgkristensen
+
 > a Danish ID
+
 Yeah I thought about that possibility much later. Different voltages/plugs/label languages might be different part numbers. I tried trimming numbers and letters off the ends of the ID but the site wouldn't return any 'partial match' hits either.
 
 ---

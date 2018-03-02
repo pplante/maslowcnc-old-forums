@@ -3,9 +3,15 @@ Posted on **2017-04-24 11:08:12** by **TheRiflesSpiral**:
 
 As if high speed router bits and talk of lasers and plasma cutters wasn't enough, the materials we're cutting could be very heavy and that's no treat for the back...
 
+
+
 I highly recommend one of these contraptions for lugging 4x8 material around; I've been using one for years when I sheetrock and for the investment, it's a major back saver!
 
+
+
 https://www.amazon.com/Stanley-93-300-Panel-Carry/dp/B00002X2EV
+
+
 
 The Gorilla grippers are nice too; I've used one but they're kinda pricey. This one is under $10.
 
@@ -123,6 +129,8 @@ Posted on **2017-04-26 15:40:02** by **jwolter0**:
 
 I took a look at the page and I can't think of anything to add.  On the topic of panel carriers, here's an interesting review on 3 very different designs.
 
+
+
 https://granworks.com/which-panel-carrier-is-best/
 
 ---
@@ -130,6 +138,7 @@ https://granworks.com/which-panel-carrier-is-best/
 Posted on **2017-04-26 17:30:30** by **gero**:
 
 Ask, before using your partners sewing machine pulleys!  [IMAG0669](//muut.com/u/maslowcnc/s3/:maslowcnc:nuqA:imag0669.jpg.jpg) 
+
 They make nice chain guides, but get permission first!
 
 ---

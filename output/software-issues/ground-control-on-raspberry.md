@@ -9,6 +9,8 @@ Posted on **2017-03-28 18:53:16** by **TheRiflesSpiral**:
 
 "...As of this writing the current version of KivyPi does not actually come with Kivy installed for python 2..."
 
+
+
 LOL whoops!
 
 ---
@@ -119,6 +121,8 @@ Posted on **2017-03-29 21:24:18** by **Bar**:
 
 @theriflesspiral that's a great suggestion.
 
+
+
 @everyone, please open issues! If we have issues open for things like the text being off screen an no touch screen way to edit settings we will be sure to fix them!
 
 ---
@@ -138,7 +142,9 @@ I updated the GitHub issue for both the mouse cursor and the double-typing issue
 Posted on **2017-03-30 09:42:09** by **scottsm**:
 
 You're an ace, @TheRifleSpiral! 
+
 For posterity, on my kivypie, (but I think it's generic) the location to put the defaulttheme-0.png file is:
+
 /usr/local/lib/python2.7/dist-packages/kivy/data/images
 
 ---
@@ -152,9 +158,14 @@ That's where I found it as well. Is this only an issue with the Pi or are Window
 Posted on **2017-03-30 10:04:59** by **scottsm**:
 
 Once again, you've done it with regard to the keyboard double-keystroke issue.  👍 
+
 For posterity, on my (generic) kivypie setup, I edited
+
 /home/sysop/.kivy/config.ini and commented out the line:
+
 %(name)s=probesysfs,provider=hidinput
+
+
 
  Note that this change also corrected an issue with mouse-clicking which affected the mouse but not the touchscreen, causing double-clicks instead of single clicks.
 
@@ -175,6 +186,8 @@ Ah yes... I hadn't considered that. The %(names) wildcard exists for support of 
 Posted on **2017-03-30 10:29:20** by **TheRiflesSpiral**:
 
 I'm sorry @Bar I'm a GitHub newbie... I see you that you merged my changes but when I try to fork MaslowCNC/GroundControl I get different contents. There's a note that says "This branch is 8 commits behind MaslowCNC:master"
+
+
 
 How do I synchronize my branch with the current one?
 
@@ -225,9 +238,13 @@ Posted on **2017-03-30 11:36:20** by **Bar**:
 Posted on **2017-03-30 11:44:21** by **jbarchuk**:
 
 > @TheRiflesSpiral
+
 > I'm a GitHub newbie…
+
 Me too mostly. I'm getting a grip on command line because it's faster and more versatile than the GUI and the GUI is not intuitive.
+
 The screen isn't laid out very well IMO. Or a least there're points where I'd move things around on the screens.
+
 I commented once that Bar's tutorial got me through the process fairly straightforward. I'll read it again and see what looks thin or awkward on the explanation and description sides of things. Any Qs or problems you have by all means ask away.
 
 ---
@@ -367,9 +384,13 @@ I use a similar process to get the release of the firmware. I use the Arduino GU
 Posted on **2017-06-29 11:45:24** by **TheRiflesSpiral**:
 
 I *think* you can just
+
 ---
+
 git pull GroundControl
+
 ---
+
 from a terminal window. That will update your clone to the newest revision. If you want to keep your versions separate (from release to release) then you'll have to use a browser to download the repository.
 
 ---
@@ -384,12 +405,20 @@ Posted on **2017-06-29 14:13:50** by **TheRiflesSpiral**:
 
 Nice tip, David. 
 
+
+
 On my system, I had to
+
 ---
+
 git remote update
+
 git fetch
+
 git checkout v0.73
+
 ---
+
 And that did it. Prior to remote update and fetch I was getting a pathspec error.
 
 ---

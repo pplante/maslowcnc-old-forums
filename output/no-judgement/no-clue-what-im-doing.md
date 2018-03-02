@@ -9,6 +9,8 @@ Posted on **2017-03-25 18:49:23** by **boandersen**:
 
 No, you probably just need to add a path to the python file location - its probably c:\python27\
 
+
+
 .. or change to that directory first and execute from there
 
 ---
@@ -28,11 +30,18 @@ or how to spell apparently
 Posted on **2017-03-25 18:57:35** by **boandersen**:
 
 Assuming you are on windows,
+
 to check that python is there and works;
+
 right click start and click command Prompt
+
 then type:
+
 cd \python27\
+
 now try the python --version command
+
+
 
 if that works, you need to add this to the path environment variable.. (i'll post that as a new reply
 
@@ -41,6 +50,8 @@ if that works, you need to add this to the path environment variable.. (i'll pos
 Posted on **2017-03-25 18:59:20** by **boandersen**:
 
 it's actually all here: https://github.com/MaslowCNC/GroundControl/wiki/Windows#step-1-install-python
+
+
 
 If python does not open, it is most likely an issue with needing to add python to you PATH. You can find out more information about that here: http://superuser.com/questions/143119/how-to-add-python-to-the-windows-path
 
@@ -61,6 +72,7 @@ type as a whole thing..
 Posted on **2017-03-25 19:32:52** by **fsubigturk**:
 
 thank you that worker and I made it all the way to the install kivy part but when I type in the python -m install kivy it turns around and tells me
+
 "C:\Users\User\Desktop\Python27\python.exe: No module named install"
 
 ---
@@ -86,6 +98,8 @@ You are good to go!
 Posted on **2017-03-25 20:56:50** by **Bar**:
 
 The other steps are just there if you want to run it from the source...but I can see how that is not clear. I will update it to make the distinction more obvious.
+
+
 
 Thanks you for pointing that out!
 

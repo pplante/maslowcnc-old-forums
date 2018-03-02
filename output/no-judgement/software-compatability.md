@@ -39,6 +39,8 @@ Posted on **2017-03-31 19:18:24** by **davidlang**:
 
 That would be a good move, that way you can concentrate on the firmware and hardware (which is unique to maslow) and then think hard about the value-add of maintaining Ground Control instead of just using one of the exiting grbl compatible tools.
 
+
+
 GUI/Front-end programming is a different skill set than firmware programming and hardware design is even more different. How many different projects do you need to keep up on?
 
 ---
@@ -46,9 +48,14 @@ GUI/Front-end programming is a different skill set than firmware programming and
 Posted on **2017-03-31 20:27:37** by **rancher**:
 
 > @davidlang
+
 > exiting grbl compatible tools
 
+
+
 Wow, some of those tools look pretty interesting. 
+
+
 
 https://github.com/grbl/grbl/wiki/Using-Grbl
 
@@ -111,6 +118,7 @@ My first. NC file test work very nicely on it, I'm offline with my arduino uno f
 Posted on **2017-04-01 23:23:08** by **mikeberg**:
 
 link for universal gcode sender 
+
  http://winder.github.io/ugs_website/
 
 ---
@@ -148,6 +156,8 @@ Nice tutorial about how to flash uno and make it run https://youtu.be/rX8nLEuN2n
 Posted on **2017-04-02 12:43:39** by **Bar**:
 
 I've started digging into how the grbl protocol works and it's very similar to how our protocol works so we should be able to adopt it without too much trouble.
+
+
 
 There are a couple key differences like they use G91 (switch to relative coordinate system) to jog the machine so it will take me a couple hours to get everything playing nice, but it is very doable.
 

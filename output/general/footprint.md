@@ -3,6 +3,8 @@ Posted on **2017-07-06 10:06:56** by **javierrubio**:
 
 Any one know the total footprint when you work on a regular 4 x 8? I have little space. 
 
+
+
 Tks
 
 ---

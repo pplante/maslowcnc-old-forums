@@ -15,6 +15,8 @@ Posted on **2017-05-20 21:25:49** by **davidlang**:
 
 for now, that's the way you will have to do it. Later on we can setup an automated zero (some mechanism to flip a switch when the bit hits a given depth), there will need to be software support for that, but it should be trivial when we get there.
 
+
+
 hooking one wire to the bit (with a clip) and then putting a sheet of metal under the bit and lowering the bit until they make contact is a cheap way to do things, but you will ding the metal.
 
 ---

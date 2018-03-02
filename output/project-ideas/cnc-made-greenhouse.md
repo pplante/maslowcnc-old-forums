@@ -2,6 +2,7 @@
 Posted on **2016-10-31 19:03:28** by **nathanmiller**:
 
 Has anyone seen a good CNC cut greenhouse design? I've looked around but keep running across this wild thing: https://www.youtube.com/watch?v=1Bn2o-xyS6M
+
 I'm looking out for a simpler, practical (as in grow vegetables style) greenhouse. Thoughts?
 
 ---
@@ -21,6 +22,8 @@ I've been dreaming about something inspired by one of these http://www.n55.dk/MA
 Posted on **2016-11-23 11:11:34** by **TheRiflesSpiral**:
 
 Hey Nathan: I saw something relevant to your greenhouse idea in an imgur album last night: imgur.com/gallery/ecVOZ
+
+
 
 Check out the section where he CNC's the ribs for the ceiling in the bus; there's a really neat puzzle piece joint for the smaller pieces that reminded me of a greenhouse roof.
 

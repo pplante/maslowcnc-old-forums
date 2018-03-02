@@ -2,6 +2,7 @@
 Posted on **2017-05-28 21:11:49** by **mrjeggles**:
 
 has anyone done a build using stepper motors? If not are there specific reasons for not using them?
+
 thanks.
 
 ---
@@ -21,6 +22,8 @@ there's the torque but also the fact that a worm gear configuration provides a n
 Posted on **2017-05-29 02:25:19** by **davidlang**:
 
 cost of motors big enough, accuracy of motors (these motors measure 8148 steps/rev, steppers commonly measure 200), more expensive drivers, different software to run them.
+
+
 
 lots of reasons that switching to steppers is a major effort.
 

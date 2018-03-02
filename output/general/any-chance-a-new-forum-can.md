@@ -9,7 +9,11 @@ Posted on **2017-07-02 12:19:01** by **davidlang**:
 
 I would prefer NOT to have videos as a general rule, this forum support photos fairly well.
 
+
+
 But I agree that this forum software is very poor, it really discourages searches, and has no provisions for a FAQ or pinned posts, so we end up with many repetitive threads.
+
+
 
 It's easy to see everything new that is posted, but the other forums usually have a way to do that as well (and some of them have the ability to subscribe via e-mail and reply via e-mail, which makes it very easy to watch everything and respond later if needed)
 
@@ -18,6 +22,8 @@ It's easy to see everything new that is posted, but the other forums usually hav
 Posted on **2017-07-02 14:27:41** by **davidfryauf**:
 
 I feel qualified to say that it's not noob-friendly.  As Hannah and I have discussed, most of the conversation you find on here is legit detailed optimization and application of maslow use, some of it getting pretty nitty gritty.  There's no Beginners Read First thread, so it looks pretty intimidating.
+
+
 
 And yeah, I don't get the search function.  Does it actually work?
 
@@ -33,7 +39,11 @@ Posted on **2017-07-02 17:04:56** by **davidlang**:
 
 It works for some definition of works :-)
 
+
+
 I've been able to use it to track down threads I remembered, but you have to have a pretty solid idea of what you are looking for, which rules out finding if your question has already been asked.
+
+
 
 @davidfryauf, there is the "no judgements" section, but since the main view that people tend to watch is 'all posts' (and therefor people don't put much effort into putting a post into the correct channel, and many belong in multiple channels), that doesn't really help much.
 
@@ -43,9 +53,14 @@ Posted on **2017-07-02 17:30:04** by **Bar**:
 
 Yeah, I agree. Muut is not the best. I support the idea to move to something else.
 
+
+
 We did a phpBB system for Makesmith and I wasn't that stoked on it. It took a ton of hours to get set up, had a lot of spam bot problems, and had to be hosted on a separate website because our web host Squarespace couldn't support it. 
 
+
+
 Recommendations
+
 for other forum services to look into?
 
 ---
@@ -53,7 +68,9 @@ for other forum services to look into?
 Posted on **2017-07-02 18:02:19** by **rancher**:
 
 As a forum member/user, I really like XenForo
+
 https://xenforo.com/
+
 I've never set it up so no idea on that part.
 
 ---
@@ -68,6 +85,8 @@ Posted on **2017-07-02 22:59:58** by **davidlang**:
 
 BAen books uses FUDForum, and ties it into e-mail so that people can treat it like a series of mailing lists if they want.
 
+
+
 they have it up at bar.baen.com (free registration required to access it)
 
 ---
@@ -75,6 +94,8 @@ they have it up at bar.baen.com (free registration required to access it)
 Posted on **2017-07-04 16:19:58** by **TheRiflesSpiral**:
 
 I sort of prefer the muut format for discussion purposes. It keeps the most active/recent threads "in your face" and feels much more conversational than a phBB style board. It doesn't lend itself to archival or knowledge retention purposes but I think that's what the wiki is for. Discussion here, solutions there.
+
+
 
 Anyway, I'm up for whatever, just tossing in my $0.02
 
@@ -89,9 +110,13 @@ Check out [Discourse](http://www.discourse.org). Hosting is free for open source
 Posted on **2017-07-04 18:19:59** by **gero**:
 
 Drunk as I am I will just throw this in:
+
 From my past experience, I would ask a question in here and it was answered. Are we expecting new Maslowians to use the crappy search function here, or better searches on other platforms? I don't think so.
+
 What kept me alive and active was the prompt response from the fantastic community and I have no issues with answering the same question over and over again.
+
 It is valuable feedback on what parts of the Wiki or tutorials to address improvements. The 'No Judgment' was a great addition.
+
 All I have to do is to save links to forum threads that are important to me. A simple text file can do that. Commenting on old topics will 'Bump' it up to the top again.
 
 ---

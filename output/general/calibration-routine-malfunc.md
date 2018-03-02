@@ -69,6 +69,8 @@ Posted on **2017-06-17 13:29:52** by **Bar**:
 
 That sign is beautiful!
 
+
+
 I *think* I've got a fix for the calibration issue with FW 76 up, and we're hot on the trail of the missing serial characters (if that's not a Hardy Boys book title, it should be)
 
 ---
@@ -88,6 +90,7 @@ blsteinhauer88 What software are u using to make those signs?
 Posted on **2017-07-06 22:51:48** by **blsteinhauer88**:
 
 @rollandelliott I got the pattern from cnc dfx site, https://cncdxffiles.com/
+
 Then I used illustrator to convert to svg, then I used Easel to clean up the design so that Maslow can cut it with a .062 or 1/16 bit.
 
 ---

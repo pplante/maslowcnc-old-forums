@@ -2,6 +2,7 @@
 Posted on **2017-05-27 11:29:14** by **gero**:
 
 FreeCad v.17 daily build might be responsible for this interesting find. FreeCad is under development, so bugs are expected. I am not sure though, so I thought I will share this. I wanted to cut a shelf with cutouts for LED lamps. The circles go down in 3 steps and the last round has 4 holding tabs. MaslowBH decided that music notes would look much better.  [IMAG0801](//muut.com/u/maslowcnc/s3/:maslowcnc:V6ka:imag0801.jpg.jpg) 
+
 It was interesting to see how it lost position, found itself and continued as if nothing had happened. Interesting also that after each position loss it assumed itself higher in GC, showing the error circle and displaying a downward move, while the sled was going up to meet the position GC showed. https://youtu.be/JTxUoL5ntzU It takes off at 1:12. The .nc is here (at own risk) https://www.dropbox.com/s/qc07z9749kxre45/light2.nc?dl=0
 
 ---
@@ -21,6 +22,7 @@ The finding itself feature work really nice
 Posted on **2017-05-27 11:34:54** by **davidlang**:
 
 hmm, gcodesimulator has trouble with it
+
 https://nraynaud.github.io/webgcode/
 
 ---
@@ -46,10 +48,16 @@ I did not choose any post processor, because other than linuxCNC, I did not know
 Posted on **2017-05-27 11:39:14** by **davidlang**:
 
 it also has lines like:
+
 G0 G0 F800 X348.500000 Y292.500000 Z5.000000
 
+
+
 (the double g0 isn't right)
+
 and calls for a tool change as T1.000000 instead of T1  (it's outputting float, not int there), it's also dumping everything in far too high a precision.
+
+
 
 was this using FreeCAD to convert to the .nc file?
 
@@ -83,7 +91,11 @@ Posted on **2017-05-27 12:01:56** by **davidlang**:
 
 Ok, I cleaned up the file a bit, it's at http://lang.hm/maslow/light2.simplified.nc
 
+
+
 other than the double G0, I don't see anything that I would expect to cause grief on the maslow (I expect the T1.00000 would confuse machines that actually looked at the Tool change command, but maslow is too simple to do so)
+
+
 
 see if this works any better (and see if you still get the buffer overflow errors popping up)
 
@@ -93,7 +105,11 @@ Posted on **2017-05-27 12:09:03** by **davidlang**:
 
 I probably misread what was happening the first time I looked at the gcode simulator.
 
+
+
 looking at things in more detail, I'm pretty sure it's the G0 G0 that messed up the maslow, but check
+
+
 
 I also created lang.hm/maslow/light2.single.nc that just cuts a single circle
 
@@ -108,6 +124,7 @@ P.S. could you re-run the accuracy test with all the squares around the sheet no
 Posted on **2017-05-27 12:25:10** by **gero**:
 
 The buffer overflows are still there, on the first circle it did not throw the position off, on the second it did. Will try to get rid of those digits.
+
 PS, will do my best to find a slot to rerun the squares the next days.
 
 ---
@@ -169,6 +186,7 @@ brackets to the outside edges, bricks to top/bottom to make the sled balanced
 Posted on **2017-05-27 13:12:30** by **gero**:
 
 Tried with post processor LinuxCNC and less digits and K is gone.
+
 G3 X92.0937 Y218.6482 Z-5.5000 I-15.9063 J-23.6482 F6000.00
 
 ---
@@ -176,6 +194,7 @@ G3 X92.0937 Y218.6482 Z-5.5000 I-15.9063 J-23.6482 F6000.00
 Posted on **2017-05-27 13:15:07** by **davidlang**:
 
 on another CNC machine I built, I used type 25 chain and milled the ends off a couple bolts, drilled a hole in them, and used a master link to attach the chain to the bolt. Doing something like this would give us as accurate a pivot point as we could get (limited by flex of the brackets)
+
  [Cnc_chain](//muut.com/u/maslowcnc/s3/:maslowcnc:YGMY:cnc_chain.jpg.jpg)
 
 ---
@@ -190,9 +209,15 @@ Posted on **2017-05-27 13:37:00** by **davidlang**:
 
 You are correct about the direction of forces
 
+
+
 But if the bolt is flattened to the correct thickness, and drilled for the master link, the chain can pivot on the pin from the master link (just as it would on a normal chain link at that point)
 
+
+
 In the picture the bolt was mounted so the chain could flex up and down, rotate the bolt 90 degrees and the chain can flex in the direction we need to for the maslow. With a nut on each side of the mounting bracket (ideally a nylock nut long-term), the pivot points are going to be as solid as we can get them.
+
+
 
 another approach (more suited to mass production) would be to change the mounting bracket. Instead of punching large holes in the bracket, punch a small hole (for the pin) and a U shape around it, then fold the tab out 90 degrees and hook the chain to it.
 
@@ -225,6 +250,7 @@ it looks like he created a new branch (buffer-over-flow-bug) bit didn't finish m
 Posted on **2017-05-27 16:25:30** by **gero**:
 
 It looks like the buffer overflow is gone, all circles went smooth. I had one more issue on the outer cut, but this seems to be related to something else. Perhaps a loose screw on the right motor sprocket. Strange noises there and ending to low suggests that.
+
 Far beyond bed time and hard working day tomorrow leaves no time for investigation.
 
 ---
@@ -263,6 +289,8 @@ Posted on **2017-05-28 00:11:34** by **davidlang**:
 
 @scottsm, there is some sideways flex to the chain, it should be enough for the +- 1 inch over a couple of feet. We should build it to be parallel when you have about 1.5" of material on the frame (3/4 backer board + 3/4 workpiece), with ~+-1 inch of play, you can handle down to 1/2" total or up to 2.5" total
 
+
+
 and also remember, this is less important the further you are from the motors, so if you are pushing the the thickness,just avoid cutting in the upper corners.
 
 ---
@@ -294,6 +322,8 @@ Posted on **2017-05-28 14:56:43** by **gero**:
 Posted on **2017-05-28 21:31:10** by **Bar**:
 
 Thank you for giving me clearly defined problems to solve, and for taking our growing pains in stride!
+
+
 
 I'm starting to accumulate a collection of other people's things as I do these test cuts. Just this weekend I got a copy of blsteinhauer88s sun moon sculpture and a copy of your shelf! :)
 

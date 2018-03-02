@@ -9,6 +9,8 @@ Posted on **2017-06-14 16:46:29** by **TheRiflesSpiral**:
 
 I think there's an Android implementation of Python so Kivy should be okay too... I think the biggest challenge will be serial communications.
 
+
+
 Also, check out my.sketchup.com it's a slightly less capable Sketchup in an HTML 5 browser.
 
 ---

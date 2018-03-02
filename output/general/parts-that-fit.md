@@ -3,9 +3,15 @@ Posted on **2017-04-23 14:25:42** by **rancher**:
 
 Since day one, I have been using test files with joined parts, and failing.  No surprise, as we have been going through the Beta process and I am starting from scratch in every aspect of this.
 
+
+
   I chose joined parts to get me up to speed on how to use CAD/CAM and because they would reveal machine error in a way that matters to me.  My plan for this machine mostly involves simple tab joined parts that don't need incredible resolution or accuracy, but do need to fit.  It forced me to buckle down and learn how to model in 3d and sort out the CAM process.  
 
+
+
 I'm happy to say, as of this morning, I cut parts of my own design that fit together.  Thank you so much, all of you.  It works!
+
+
 
  [Letter Box](//muut.com/u/maslowcnc/s2/:maslowcnc:GUjh:letterbox.jpg.jpg)
 
@@ -69,7 +75,11 @@ Posted on **2017-04-23 19:31:37** by **Bar**:
 
 That looks fantastic! Great work! 
 
+
+
 Can I put that picture in the weekly update on Wednesday? (And give you credit of course) I think everyone would enjoy seeing it.
+
+
 
 If you want to email me the files (bar@maslowcnc.com) I would be more than happy to put them in the Community Garden.
 
@@ -90,6 +100,8 @@ Did'ja see my new metric tape?
 Posted on **2017-04-23 19:47:04** by **Bar**:
 
 Hahah I totally missed it, just looked at all those beautiful tabs :-)
+
+
 
 Thanks for sending me the files and letting me use the picture. I'll put the files up right now.
 

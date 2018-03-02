@@ -9,7 +9,11 @@ Posted on **2017-03-25 07:50:51** by **Bar**:
 
 I sure hope so! 
 
+
+
 We're working with a group of architects and City Hall locally to design and build tiny houses for a local houseless womens group. The goal is have a house by July so we're pushing to see this happen soon. 
+
+
 
 I also think it's a good project to push the design forwards because building a house is going to require Maslow to cut fast and mostly right around the edges of the plywood which are the two biggest challenges right now so committing to the project lights a fire under my booty to get things sorted quick.
 
@@ -42,7 +46,9 @@ Well yeah, but: a) Those ladies won't see it as a tiny house, just an actual hou
 Posted on **2017-03-25 11:05:08** by **jbarchuk**:
 
 How about a tabletop size Mini-Maslow small enough to be used IN the tiny house?&quest;? For storage the frame must be foldable down to 18"x18"x2", discounting the sled/router. This rotary tool weighs 26oz. 1-1/2" diameter. http://www.proxxon.com/en/micromot/29800.php
+
 With the Mini-Maslow one could build a Mini-Tiny House, with teacup size Micro-Maslow!!
+
 Just let me know when you want me to stop. I probably won't but it's OK to let me know. ;)
 
 ---

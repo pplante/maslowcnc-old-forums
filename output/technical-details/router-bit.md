@@ -2,11 +2,18 @@
 Posted on **2017-04-11 04:24:51** by **larry357**:
 
 Which router bits should I get?
+
 1) 1 2 or 3 flute
+
 2) how long, ill be cutting mainly 12mm and 9mm plywood but also the 18mm for the frame
+
 3) up cut?
+
 4) 1/4 inch (6mm) width
+
 5) flat, ball nose
+
+
 
 To start of I will make chairs, large logo, doll house, but also a halftone cnc art piece 😁
 
@@ -16,9 +23,15 @@ Posted on **2017-04-11 04:55:53** by **davidlang**:
 
 2- flute, long enough to get through the workpiece (and if you make an extra thick sled, you may want a bit longer), 3/4 to 1" should be good.
 
+
+
 up cut will pull sawdust out of the cut, but will cause more tearout.
 
+
+
 if you are wanting to cut all the way through things, you want a flat nose so that you don't have to cut your backing material to get all the way through your workpiece.
+
+
 
 As for diameter, Bar started off using 1/" bits, but as I understand it, is now using larger ones (3/8" or 1/2") you can use anything, but there are advantages and disadvantages to any size.
 
@@ -27,6 +40,8 @@ As for diameter, Bar started off using 1/" bits, but as I understand it, is now 
 Posted on **2017-04-11 08:06:25** by **Bar**:
 
 +1 for everything @davidlang said.
+
+
 
 My go-to bit is a 1/4inch two flute carbide up spiral with a flat tip.
 

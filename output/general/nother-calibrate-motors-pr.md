@@ -3,30 +3,56 @@ Posted on **2017-05-03 23:06:11** by **MikeT**:
 
 Early last week the sled was running off the top of the sheet of plywood when I ran Calibrate Motors. Then we spent the end of the week tracking down the problem. Strangely, the problem seems to have come back.
 
+
+
 I installed the new Arduino shield, downloaded the latest version of the Firmware, did Actions/Advanced/Wipe EEPROM, ran the Arduino IDE, and uploaded V 0.67. I got the z-axis kit assembled and calibrated. Then I went back to restart the Using the Temporary Frame to Cut Parts step.
+
+
 
 I checked all the Settings values and set Z-Axis Installed to Yes. Then I ran Test Motors/Encoders and got Fail for Testing left-axis motor: Direction 1, but got Pass for Directions 2, and for both directions on the right motor and the z-axis. That didn't seem to make sense, because the left motor turned both directions (clockwise and counter-clockwise) during the test. So I kept going and did Calibrate Chain Length - Automatic, which seemed to work fine. When I did Calibrate Motors things seemed to start off OK, but then the sled migrated up toward the top of the sheet of plywood, an d then started going up over the top. At that point I yanked the USB out of my laptop and both motors stopped.
 
+
+
 Logging during Calibrate Motors was as follows. 
 
+
+
 Testing 127
+
 -good
+
 Testing 63
+
 -good
+
 Testing 31
+
 -stall
+
 Testing 47
+
 -stall
+
 ...
+
 Testing 62
+
 -stall
+
 decided on a final value of: 63
+
 Testing -127
+
 Connection Lost
+
+
 
 I presume the "Connection Lost" happened when I yanked out the USB.
 
+
+
 Thanks,
+
 Mike
 
 ---
@@ -35,7 +61,11 @@ Posted on **2017-05-03 23:10:45** by **davidlang**:
 
 failing a test doesn't mean that the motor doesn't move, it means that the arduino doesn't get the response it expect when the motor is told to move. (it can't tell how far or how fast the motor is moving)
 
+
+
 try re-seating the connections to the left motor.
+
+
 
 until it passes the motor/encoder test, it's not going to work
 
@@ -45,7 +75,11 @@ Posted on **2017-05-04 07:47:49** by **Bar**:
 
 @davidlangis right, if the test isn't passing in one direction but the motor is turning that means the signal from the encoder isn't making it to the Arduino.
 
+
+
 There are no components along that path so a lose connection is the most likely culprit.
+
+
 
 I would try swapping the motor wires to see if the problem moves or stays with the motor. Then I would try plugging the motor into the z-axis port to see if it passes the test there
 
@@ -55,37 +89,71 @@ Posted on **2017-05-04 09:07:40** by **MikeT**:
 
 In what follows, I'm numbering the white connectors on the Arduino shield as #1 through #4 from left to right, as I look at the shield from the top with the black power port in the lower-right hand corner. Please see attached photo of my numbering scheme.
 
+
+
 Below is  my standard configuration. Note that the left motor (the one on the left as I stand facing the plywood while watching the router making its cuts) is plugged into Connector #3, and the right motor is plugged into Connector #1 (the left-most connector on the shield). This might be backwards from how you're set up.
 
+
+
 Connector #1 - Right motor
+
 Connector #2 - Z-Axis
+
 Connector #3 - Left motor
+
 Connector #4 - N/A
+
+
 
 The results I get from Test Motors/Encoders are shown below.
 
+
+
 Left motor, Dir #1:    FAIL
+
 Left motor, Dir #2:   Pass
+
 Right motor, Dir #1:  Pass
+
 Right motor, Dir #2: Pass
+
 Z-Axis, Dir #1:           Pass
+
 Z-Axis, Dir #2:          Pass
+
+
 
 If I swap the left and right motor cables at the Arduino, which is to say I use the following configuration, I get exactly the same results as shown above from Test Motors/Encode rs.
 
+
+
 Connector #1 - Left motor
+
 Connector #2 - Z-Axis
+
 Connector #3 - Right motor
+
 Connector #4 - N/A
+
+
 
 If I swap the cables at the Arduino again, to the following configuration, I get exactly the same results as shown above from Test Motors/Encoders.
 
+
+
 Connector #1 - Z-Axis
+
 Connector #2 - Left motor
+
 Connector #3 - Right motor
+
 Connector #4 - N/A
 
+
+
 Does all this say that Connector #1, which the systems always believes is connected to the left motor, is bad? That's hard to believe, because Bar was using this very Arduino shield successfully himself in Portland six days ago.
+
+
 
  [ArduinoShield](//muut.com/u/maslowcnc/s3/:maslowcnc:2u46:arduinoshield.jpg.jpg)
 
@@ -94,6 +162,8 @@ Does all this say that Connector #1, which the systems always believes is connec
 Posted on **2017-05-04 09:28:14** by **Bar**:
 
 Hmmm....that is strange. I agree with your deduction that since the problem doesn't move with motor it's got to be the board. 
+
+
 
 The strange thing is that between that connector and the Arduino there is nothing but a wire trace on the PCB. I would say maybe take the shield off the Arduino and put it back on? It might be a bad connection between the shield and the Arduino.
 
@@ -151,6 +221,8 @@ Posted on **2017-05-04 09:59:24** by **MikeT**:
 
 "Fortunate" is working as well as "brilliant" today. (It's good to be Irish!) I just got "Pass" across the board from Test Motors/Encoders, including against the pesky left motor/direction #1 combo.
 
+
+
 One thing that changed when I swapped in the old, blue Arduino board, is that the Arduino IDE connected to it via COM4 rather than COM3, which is what I had been using to connect to the Arduino board that came with the Beta package. Ground Control reported "No connection" when I tried Connect via COM3, so I changed that setting to COM4. Now things seem happy. Whatever works, right?!
 
 ---
@@ -158,6 +230,8 @@ One thing that changed when I swapped in the old, blue Arduino board, is that th
 Posted on **2017-05-04 10:02:05** by **Bar**:
 
 Fantastic! We got really lucky there that you already had a spare. Good thinking.
+
+
 
 The COM3 COM4 thing is normal, every time you connect a new one it's going to get a new number.
 

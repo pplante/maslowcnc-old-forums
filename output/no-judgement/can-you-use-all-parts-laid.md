@@ -3,9 +3,15 @@ Posted on **2017-05-02 22:48:29** by **mcginniwa**:
 
 I'm a little under the gun time wise and wondering if I can use the combined parts file rather than individual svg files for each frame part.
 
+
+
 Bad idea?
 
+
+
 Is this file even something that is ready to be tuned into a gcode file?
+
+
 
 I'll probably do a test run on a gcode for an individual part before digging into this, but just wanted to know if this is workable.
 
@@ -26,6 +32,8 @@ The downside of cutting the final sled then using it to cut remaining parts is t
 Posted on **2017-05-03 07:42:56** by **Bar**:
 
 I agree with @scottsm you can do it, but it's nice to have different parts as different files so if something goes wrong with one you can easily restart.
+
+
 
 If you really need to get things done fast I would say just cut the sled and arms on the temporary frame and fake the legs. The angle is not critical and cutting out all those braces takes a while. Maybe cut one of each and then copy it by hand.
 

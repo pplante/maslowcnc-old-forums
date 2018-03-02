@@ -3,7 +3,11 @@ Posted on **2017-05-14 15:55:49** by **Bar**:
 
 While I was cutting some parts today I had some concentric circles which were just slightly more than one bit width in size resulting in a very thin piece of wood being left between them. It's a scrap not really a project, but it thought it was cool that a machine so big could make something so small (thin really)
 
+
+
  [With pencil for scale](//muut.com/u/maslowcnc/s3/:maslowcnc:AZNU:screenshot_20170514155141.png.jpg) 
+
+
 
  [Seen through microscope](//muut.com/u/maslowcnc/s3/:maslowcnc:TvFI:screenshot_20170514155150.png.jpg)
 

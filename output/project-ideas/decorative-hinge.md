@@ -2,7 +2,9 @@
 Posted on **2017-02-20 05:49:43** by **jamesbil**:
 
 I'm thinking of using Maslow to do a set of decorative false hinges for my workshop doors. 1/4" birch ply painted black.
+
 Something like this..
+
 http://l7.alamy.com/zooms/827b52bc7c7b4a0bb13f197f70b6a5cc/old-ornate-church-door-hinge-f3ym5g.jpg
 
 ---
@@ -22,9 +24,14 @@ Clever idea and would look great. Watch out for the thickness though, as compare
 Posted on **2017-02-20 09:15:01** by **TheRiflesSpiral**:
 
 > @jbarchuk
+
 > Doable but shaky.
 
+
+
 The recommended G-Code creation software (MakerCAM.com) allows for tabs to be placed every "x" inches that aid in keeping delicate things like this in-place.
+
+
 
 There's a video around here somewhere of Bar using this feature but I can't find it at the moment...
 
@@ -40,6 +47,8 @@ Posted on **2017-02-20 10:47:50** by **Bar**:
 
 I would expect that to work great. You will probably want to do some tabs, but other than that I would expect it to go well. 
 
+
+
 Can wait to see pictures.
 
 ---
@@ -47,8 +56,11 @@ Can wait to see pictures.
 Posted on **2017-02-20 11:31:45** by **jbarchuk**:
 
 > @TheRiflesSpiral
+
 > tabs to be placed every “x” inches
+
 For sure it needs that during cutting. The fragile thing, I meant after the tabs are cut and the carved wood is completely free/loose from the base material.
+
 @jamesbil, that'll still be a very cool door decoration. The rivets could be simulated with clothing buttons. Or, leave it all flat and the relief could be airbrushed.
 
 ---

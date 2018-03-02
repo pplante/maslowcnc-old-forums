@@ -38,6 +38,7 @@ http://www.davegardner.org/CNC_PenHolder.html
 Posted on **2017-07-17 03:56:09** by **scottsm**:
 
 My experience with felt pens is similar to @gero’s. Pencils don’t mark dark enough and go blunt too fast. I’ve found that gel pens work acceptably and come in various point sizes and colors.
+
 I replace the router motor with a stack of wood disks with a brass tube down the center. I fasten the pen in a smaller tube that telescopes inside, and follow that in with a spring attached to give the pen point light pressure when z is negative and to lift the pen when z is positive. I’ve found a spring size that works through 20mm of z travel, so I can pre-flight a file without needing to change the z settings to protect the pens.
 
 ---

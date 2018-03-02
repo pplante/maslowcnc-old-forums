@@ -2,7 +2,9 @@
 Posted on **2017-02-22 19:13:26** by **jbarchuk**:
 
 The z-axis purchase page http://www.maslowcnc.com/purchasez-axis/ has a dropdown to select the coupler desired.
+
 There's 'Ridgid 3/8"' and '3/8"' listed.
+
 Is there a difference/distinction between them?
 
 ---

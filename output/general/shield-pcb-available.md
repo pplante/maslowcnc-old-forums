@@ -9,6 +9,8 @@ Posted on **2017-07-14 13:36:49** by **jdogherman**:
 
 I missed the kickstart and first wave of open purchases so I am building my own from source. 
 
+
+
 I ordered a PCB and due to min quantity I have a few (four) boards that I am not needing. Let me know if you are interested I will let them go at cost ($6 each) + shipping.
 
 ---
@@ -22,6 +24,7 @@ I'm interested RollandElliott at gmail is my eemail
 Posted on **2017-07-14 17:29:50** by **mrfugu**:
 
 so these are MaslowCNC PCB's? ie: https://github.com/MaslowCNC/Electronics 
+
 Do they contain all the motor plugs and connect to an Audrino?  if so I'd be interested in one.  robert at islandless dot net  thanks!
 
 ---
@@ -77,6 +80,7 @@ I'm interested too - if you ship to europe? Can send you money using paypal. mtz
 Posted on **2017-07-16 08:37:58** by **laor**:
 
 I would Like one, if still available.
+
 hrlao at aol dot com
 
 ---

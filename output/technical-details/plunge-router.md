@@ -51,6 +51,8 @@ Posted on **2017-01-17 11:56:28** by **mcginniwa**:
 
 I'm concerned about dust as well. Looking around still. Pretty disappointed by selection. Going to do a field trip to http://www.powertoolcentres.co.nz/stores/lower-hutt-powertool-centre/ to see if I can get more options by talking to them in person.
 
+
+
 I had hoped that AEG would have a version of the Ridgid R2200, but haven't found one.
 
 ---
@@ -101,11 +103,19 @@ Posted on **2017-01-31 19:37:42** by **larry357**:
 
 Just read the following at http://www.productreview.com.au/p/bosch-gof1600-ce.html :
 
+
+
  To save you some research on buying the fixed base:
+
+
 
 The official fixed base for the GOF 1600CE (240V model) has the Bosch part number: 1600A001GJ. Unfortunately, I've yet to find any store that has this in stock... globally.
 
+
+
 A little-known fact:
+
+
 
 Unofficially, the fixed base for another Bosch router is actually entirely compatible with the GOF 1600 CE (240V Australian edition). I purchased the Bosch MR23 fixed base from Amazon and it works. However, it is a snug fit, and at first I didn't think it would fit at all.
 
@@ -127,9 +137,15 @@ Posted on **2017-01-31 23:12:39** by **davidlang**:
 
 @bar, given what we just found about the cutting power of the r2200, could you easily setup a trim router on there and see how deep you can cut with it?
 
+
+
 Here in the US, the price difference isn't that much between a trim router with no good way to do a depth adjustment and the R2200 with it's nice depth adjustment and speed control. But if we see what a low-power router can do
 
+
+
 this cheap 1/2H (400w) harbor freight trim router for $30 would make a good low-end to test http://www.harborfreight.com/14-in-24-amp-trim-router-61626.html
+
+
 
 I wouldn't expect it to be able to cut a full 3/4" depth, but I wouldn't be surprised to see it do a 1/4" deep 1/4" dia cut without a problem
 
@@ -144,6 +160,8 @@ Maybe the dewalt trim router https://www.amazon.com/DEWALT-DWP611PK-Torque-Varia
 Posted on **2017-02-01 02:25:22** by **davidlang**:
 
 Larry, that's more expensive then the r2200 :-)
+
+
 
 but my point was that before we start looking at any other specific routers, let's get an idea of how much power we need. 2-3HP is the max from a standard 110v  15A circuit and we know the r2200 @2HP has more power than we need. So let's look at the low end and find out what can be done with a small amount of power, and the $30, 1/2HP trim router is about as low as you go. Once we figure out what the lowest power we can get away with is, then finding routers to use above that power level can take place.
 
@@ -182,6 +200,7 @@ that looks like the depth adjustment turns a nut rather than a shaft, not ideal
 Posted on **2017-02-09 03:22:16** by **jamesbil**:
 
 If I'm reading the schematic found here correctly, the depth adjustment turns a screw thread inside the post. Question is would the z axis motor cope with the pressure need to turn against the plunge spring. Maybe @bar could comment? http://www.tritontools.com/en-GB/Product/Power%20Tools/Routers/JOF001
+
 This is another option, on this router the depth adjustment turns a rack and pinion. Also the plunge spring can be removed.  http://www.tritontools.com/en-GB/Product/Power%20Tools/Routers/MOF001
 
 ---
@@ -190,7 +209,11 @@ Posted on **2017-02-09 09:09:48** by **davidlang**:
 
 remember that any plunge router is not designed to be set to a depth by the adjustment, it's designed to sit at max height out of the wood, and then be plunged by the user down to the set stop (with a latch to hold it in place)
 
+
+
 no plunge router is going to have a screw that will pull it down into the wood, that's not how they work.
+
+
 
 yes, you can rig something up, but if you go that route, just look at the many designs for a router lift that are available.
 
@@ -199,6 +222,7 @@ yes, you can rig something up, but if you go that route, just look at the many d
 Posted on **2017-02-09 14:03:44** by **jamesbil**:
 
 The Triton one does have a fine adjustment screw that pulls it down. It is in the form of a threaded bar and rack and pinion setup. I have the 3.25 2400 watt version permanently mounted in a router table. It also comes with a handle that is inserted through the table top to wind the router up or down. The plunge spring is removed for this application. [Screenshot_2017-02-09-21-55-47](//muut.com/u/maslowcnc/s3/:maslowcnc:f6mJ:screenshot_20170209215547.png.jpg) 
+
 I use it daily in my cabinet workshop and love it. Heavy beast tho at 7.5kg
 
 ---
@@ -207,6 +231,8 @@ Posted on **2017-03-12 16:40:51** by **mcginniwa**:
 
 Follow up for others in NZ out there (@larry357). Talked to Mitre 10 who in turn called Bosch NZ. The fixed base is not available here or in Australia. So yeah, have to order the US fixed base part (MRF01) separately from the US.
 
+
+
 Did get a slightly better price on the GOF 1600 CE router of $558 (plunge base only).
 
 ---
@@ -214,6 +240,8 @@ Did get a slightly better price on the GOF 1600 CE router of $558 (plunge base o
 Posted on **2017-03-18 17:09:27** by **mcginniwa**:
 
 Another follow up for NZ crowd. I checked the price of ordering the AEG MF 1400 KE from the UK (https://www.amazon.co.uk/d/Electronics-Photo/AEG-MF-1400-KE-Router/B0068IJ74I, only place I could actually find it available was Amazon UK) and using YouShop to get it shipped. Without NZ shipping and customs, but with exchange it was roughly $811 NZD! Ouch!
+
+
 
 So I settled on buying the Bosch GOF 1600 CE locally (plunge base only) locally and buying the MFR01 fixed base part separately from Amazon US. The cost for the MFR01 including exchange and shipping was $150 NZD. Total for Bosch set up around $708 NZD. Should be less wait and less hassle with power adapter. Still, ouch!
 
@@ -241,7 +269,11 @@ Posted on **2017-03-20 15:00:30** by **mcginniwa**:
 
 @roberta_aus, here ya go:
 
+
+
 https://www.amazon.com/Bosch-MRF01-Router-Fixed-Routers/dp/B00AEBXH7S/ref=sr_1_1?ie=UTF8&qid=1489880973&sr=8-1&keywords=bosch+fixed+base
+
+
 
 Link worked for me for getting it shipped to NZ. It's US Amazon, but my account has my NZ credit card and shipping address and it offered to ship to NZ for $21 USD for standard shipping.
 
@@ -257,9 +289,15 @@ Posted on **2017-03-20 15:20:56** by **mcginniwa**:
 
 I don't, https://github.com/MaslowCNC/Mechanics/wiki/Tested-Routers-List says the "ease of attaching z-axis" is "tight", but I haven't seen info on which Z-Axis option to choose. 
 
+
+
 The "More photos" has a measurement photo I think:
 
+
+
 https://github.com/MaslowCNC/Mechanics/wiki/More-Photos
+
+
 
 Looks like 7mm shaft. I haven't following the Z-Axis stuff closely. Would be good if someone with more knowledge could jump in to answer.
 
@@ -268,6 +306,7 @@ Looks like 7mm shaft. I haven't following the Z-Axis stuff closely. Would be goo
 Posted on **2017-03-21 19:02:07** by **larry357**:
 
 was the $558.00 inc gst or plus? I went to Bunnings and they had it for $700 lol
+
 Just ordered the fixed base as well from amazon. Heading to mitre10 tomorrow. I also wonder if https://www.tooltimeonline.co.nz/shop/power-tools/ken-240v1850w-router-3912bs/ is an plunge or fixed base... it is also available from aliexpress :)
 
 ---
@@ -330,6 +369,8 @@ Posted on **2017-04-02 17:34:48** by **mcginniwa**:
 
 Nice! Pics?
 
+
+
 Once the GOF 1600 CE is definitely working with Maslow, we should update the section in the wiki about supported routers. There's a "untested" or the like in there now.
 
 ---
@@ -362,6 +403,8 @@ Posted on **2017-04-05 02:01:04** by **mcginniwa**:
 
 My GOF 1600 CE came today. That thing is a beast! Putting the unit in the american fixed base gave me a little heart attack! Thought it wasn't actually compatible until I realized there was a third thing to engage to get it slide in. Whew!
 
+
+
 Ok, now it's just power supply I'm waiting on. Might grab the part locally if I can find it.
 
 ---
@@ -375,6 +418,8 @@ Cool, did you get it for the 558 inc gst? Yeah a snug fit, think the fixed base 
 Posted on **2017-04-05 15:42:55** by **mcginniwa**:
 
 557 including GST
+
+
 
 I'm new to routers so lots to learn for me. Good to know about the 3 notches.
 

@@ -9,6 +9,8 @@ Posted on **2017-05-11 15:08:01** by **Bar**:
 
 I asked how she designed them so fast and Hannah said that she picked the first result on google for "Sword SVG" which is a good tip
 
+
+
 Halloween is going to be fun next year :-)
 
 ---
@@ -16,6 +18,8 @@ Halloween is going to be fun next year :-)
 Posted on **2017-05-11 15:24:38** by **davidlang**:
 
 https://www.youtube.com/watch?v=sjn6qeFzQCA
+
+
 
 the maslow should be able to cut this sort of thing. aligning the board for the cut on the other side will be interesting, but drill a hole as the very last thing on one side, then flip the board and move it until the hole lines up again, then start the other side.
 

@@ -8,6 +8,7 @@ The subject says it all.. is it just that the shopping cart needs an extra optio
 Posted on **2017-06-01 09:02:52** by **gero**:
 
 Hi wispfrog, I copied this from the Kickstarter update.>>
+
 Since shipment is closing in on us, it’s about time to send out our Backer Survey. We plan to send the Backer Survey next Wednesday, June 7th along with our weekly update. Please keep this in mind and try to respond to the survey as promptly as possible. The survey will most importantly ask for an up-to-date shipping address, but will also include a few other questions including whether or not you purchased a Z-Axis Kit through our website. If you did, please be prepared to share that order number in the survey so that we can be sure to ship all of your parts in the same box!<<
 
 ---
@@ -15,6 +16,8 @@ Since shipment is closing in on us, it’s about time to send out our Backer Sur
 Posted on **2017-06-01 09:39:42** by **hannahteagle**:
 
 Hey Wispfrog. If you follow the link below, the z axis kit at that link has free shipping. Just please be sure to give your Kickstarter backer number so that we'll pack both kits in the same box!
+
+
 
 www.maslowcnc.com/superduperultrasecretsale
 
@@ -54,7 +57,11 @@ Posted on **2017-06-02 09:41:49** by **hannahteagle**:
 
 ethanwaldman you are correct!
 
+
+
 and wispfrog so sorry I thought it was set to $0 but it wasn't! but now i promise it is. give it another try :)
+
+
 
 thanks for your patience!
 

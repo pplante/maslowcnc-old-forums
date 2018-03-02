@@ -20,12 +20,19 @@ Thanks! Reminds me to order some to have spares on-hand and some that are longer
 Posted on **2017-04-14 12:13:44** by **jbarchuk**:
 
 What's hard to find about it? Where are you?  That has to be one of the top-10 sizes anywhere. Lowes and Home Depot have them, and Ace I'm sure too though their web pages lists only a 100-count box.
+
 I know you've ordered them already but here are a few bodging clues:
+
 If all you can find is 1", cut off 1/4". 
+
 Secret clue if you don't have a hacksaw... It takes finesse, but a hacksaw -frame- isn't necessary, just the -blade-. ;)
+
 Secret-secret clue... For custom long or short sizes, keep some plain threaded rod and nuts on hand. Cut to length, screw threaded rod into part, attach another part, and put a nut on the exposed thread. Sure it's more work but beats waiting a week for a shipment. Hobbytown has threaded rod, (through maybe not #8/#10 and larger) and maybe has those screws. They're definitely more expensive than a Big Box source, but again in a pinch it avoids wait time.
+
 If a screw head is ever too large diameter to fit a recess, file/grind it down smaller. 
+
 Secret-secret-secret clue..... Whittle one out of a discarded automobile brake drum or leaf spring. ;) (Only  half-kidding.)
+
 Not kidding on this one! -- NEVER EVER EVERRRRRRRR BUY WALMART HARDWARE!!!!!!!!!!!!!!!!!! EVER NEVERRRRR!!!! It's the worst silly putty metal on the planet! NOBODY ever buys Walmart hardware -TWICE-. LOL!!!
 
 ---

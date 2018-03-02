@@ -3,6 +3,8 @@ Posted on **2017-03-11 07:31:10** by **garyw17**:
 
 Here is an interesting chair design, with free download of the design.  There are also other furniture files available on the web site.
 
+
+
 https://www.opendesk.cc/kerf/kerf-chair#make-it-yourself
 
 ---
@@ -52,6 +54,7 @@ Nope, not Tom. Just a forum moderator who has experience with start-ups, a passi
 Posted on **2017-03-13 05:56:15** by **TomTheWhittler**:
 
 Ahh.. The Rabbit of Caerbannog strikes again. ;) lol
+
 I am glad someone is fixing things so there is some flow control.
 
 ---
@@ -65,6 +68,7 @@ TomTheWhittler...are you Tom?
 Posted on **2017-03-13 07:45:27** by **TomTheWhittler**:
 
 I am a "Tom" but not "The Tom" of Bar, Hannah, and Tom.
+
 Just a wood working guy that just Whittles away and actually owns a Kickstarter WhittlerCNC machine.
 
 ---
@@ -78,7 +82,9 @@ This thing? https://www.whittlecnc.com/
 Posted on **2017-03-13 09:52:40** by **jbarchuk**:
 
 Tom, that looks pretty cool. I like the 'no bottom' effect. That machine could be -portable- and -clamped- to any surface and mill it. Fireplace mantles, headboards and tables otherwise too big to move conveniently.
+
 The web page mentions phenolic, which in my mind means a bakelite type material.
+
 Do you know what the exact trade name of the frame material is?
 
 ---
@@ -86,8 +92,11 @@ Do you know what the exact trade name of the frame material is?
 Posted on **2017-03-13 11:12:41** by **TomTheWhittler**:
 
 That is the one : The Kickstarter was here :
+
 https://www.kickstarter.com/projects/464808174/whittlecnc-high-quality-affordable-small-footprint
+
 In the Kickstarter it was wrote : "The frame is made of 1/2" Phenolic which is extremely strong and durable. It's the same material that is used for bowling lanes.".
+
 It was okay to learn from and got me into CNC but I would not recommend it. Almost everyone got their machine but then the creator (Zachary)  just disappeared for the last 10 months. The forum turned negative as peoples machines broke down and there was no support. All the parts were made from 3-D printed material and would not hold up. Just recently Zachary appears to have returned then erased the entire forum so there is no evidence of the problems. I replaced the controller that came with it (never could get it to work) with a Raspberry Pi 3 and a Protoneer CnChat. That worked great. A couple 3-D printed parts broke and I started to rebuild in metal. I then decided  if I was going to go to that trouble I would build a bigger better machine to actually hold a real r outer as the WhittleCnc had a Dremel clone and a whip shaft tool holder that would fail. Then MaslowCnC came along and I thought that would be easier. The MaslowCNC even has a active forum with positive users even before the product ships. I am so looking forward to the MaslowCnc.
 
 ---
@@ -95,7 +104,9 @@ It was okay to learn from and got me into CNC but I would not recommend it. Almo
 Posted on **2017-03-13 11:18:40** by **TomTheWhittler**:
 
 For a "no bottom effect" I think this (handibot)  is the one to get.
+
 https://handibot.com/videos.php
+
 But at $ 2,895.00 it is a little tough to swallow.
 
 ---

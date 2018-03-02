@@ -33,7 +33,11 @@ Posted on **2017-05-22 06:52:47** by **davidlang**:
 
 yes, but the other motion software probably won't talk to this hardware.
 
+
+
 almost all other CNC machines are based on stepper motors, this is based on worm gear driven motors and encoders, you aren't going to find other software that knows how to talk to it. you would have to do all the programming from scratch.
+
+
 
 Since you say that the programming stuff is not what you are sure about, this would be a bad place to start
 
@@ -60,7 +64,9 @@ You won't be the only one to abandon a gantry type CNC after having bought some 
 Posted on **2017-05-22 14:31:10** by **gero**:
 
 The Rial option for the current hardware and design is following me since I built the frame. At least a rail-supported option.  [RailMSLW](//muut.com/u/maslowcnc/s2/:maslowcnc:3NfZ:railmslw.jpg.jpg) 
+
 The challenges would be not only that plenty of the math have to be changed. There is also the fact that the 4 horizontal tubes would be around 3m, so a droop is expected. The top and down one can be supported, but not the 2 at the sled. Bought bearings for this job would cost quite an amount. Not sure if DIY V-bearings could be done.
+
 Advantages would be: No tilt of the sled, less friction, 2.5D cutting as the sled is not resting on the material. Still the challenges are too many for me, but dreaming is allowed.
 
 ---

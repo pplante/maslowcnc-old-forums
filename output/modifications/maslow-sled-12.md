@@ -3,8 +3,13 @@ Posted on **2017-06-09 08:14:24** by **chadzimmerman**:
 
 Ok, my z axis is bigger than the standard sled. So I have been working on a newer design. I took the current sled and added on the design of the original sled and came up with this. 
 
+
+
  [20170609_110539](//muut.com/u/maslowcnc/s3/:maslowcnc:pe1U:20170609_110539.jpg.jpg) 
+
  [20170609_110734](//muut.com/u/maslowcnc/s3/:maslowcnc:sEni:20170609_110734.jpg.jpg) 
+
+
 
 It increases the length another 7", but I think I can shrink that down to something more acceptable with later revisions.
 
@@ -38,9 +43,15 @@ Posted on **2017-06-23 15:11:54** by **chadzimmerman**:
 
 Ok, here is an assembled sled. Only missing the drive motor. Weight is at 12 lbs at this stage. 
 
+
+
  [20170623_175345](//muut.com/u/maslowcnc/s3/:maslowcnc:cb1N:20170623_175345.jpg.jpg) 
+
  [20170623_175411](//muut.com/u/maslowcnc/s3/:maslowcnc:ut7T:20170623_175411.jpg.jpg) 
+
  [20170623_175426](//muut.com/u/maslowcnc/s3/:maslowcnc:AxOH:20170623_175426.jpg.jpg) 
+
+
 
 And a video in action (https://youtu.be/aq437BecPRc)
 
@@ -67,6 +78,8 @@ Great build! Gives you the option to use spindles as well. Any play on side forc
 Posted on **2017-06-25 14:59:29** by **chadzimmerman**:
 
 Won't know for sure until I get a completed setup.  At this point, it is a paper weight :) 
+
+
 
 With next weekend being a holiday, I will have a few days to build the framework. I have some different design thoughts in my head for that.
 

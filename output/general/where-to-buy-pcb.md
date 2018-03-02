@@ -27,7 +27,11 @@ Posted on **2016-11-20 15:02:03** by **TheRiflesSpiral**:
 
 rollandelliott, there are several tutorials on the net that explain how to make PCB's from copper-clad boards from materials you probably have around the house. If you're looking to do some DIY, that might be the way to go.
 
+
+
 If you're not up for that, a quick Google search came up with rushpcb.com, pcbway.com, allpcb.com and sunstone.com/pcb and about a dozen others.
+
+
 
 Finally, you wouldn't necessarily need to use a PCB... you might be able to breadboard it out.
 
@@ -48,13 +52,21 @@ basically I"m asking if I told rushpcb.,com look at the git hub page would they 
 Posted on **2016-11-21 06:24:52** by **TomTheWhittler**:
 
 "Just dont' know enough about electronics.."  That is going to be the tough part. The schematics are there : https://github.com/MaslowCNC/PCBs/blob/master/PowerDistributionBoardSchematic.JPG
+
 The Bill of Materials (BOM) is there : https://github.com/MaslowCNC/PCBs/blob/master/BOM.txt
+
 The firmware is there : https://github.com/MaslowCNC/Firmware
+
 The picture of the PCB shows the parts direction silkscreen.
+
 The PCB and schematic for the motor encoders does not appear to be there but I am sure Bar will eventually get these posted..
+
 Since this is an "evolving" project all of this information is in a state of "flux" so if you "build it" now it may be different than what version Bar finally releases and supports. That could leave you still waiting for a working PCB.
+
  Kickstarters are not a "off-the-shelf" product. They take time to finish the development as we can see from Bar working out the bugs of the "Z" axis control. That is the purpose of the Kickstarter is to help push that development along at a bit faster rate then a "work it on the weekend" project.
+
 I think Bar might b e a little overwhelmed at this point as I do not think he was thinking this idea was going to be so hot. 
+
 So you really need that have a little "patients".
 
 ---
@@ -62,9 +74,13 @@ So you really need that have a little "patients".
 Posted on **2016-11-21 14:23:14** by **TomTheWhittler**:
 
 In case you are really wanting to build your own version the BOM listed seem to be Digi-key parts numbers.
+
 The H-bridge is Digi-key: 497-1395-5-ND that translates into L298N
+
 Searching Ebay for the L298N returns already made driver boards using that part and for interfacing to an Arduino. Some already made Arduino interface boards are for steppers motors and some for DC motors.
+
 There is still a lot of work to go from point A to point B even if you got a set of these boards to control the axis.
+
 I'm am just going to wait till Bar delivers the rewards, Lots to do until then anyways.
 
 ---
@@ -72,13 +88,21 @@ I'm am just going to wait till Bar delivers the rewards, Lots to do until then a
 Posted on **2016-11-21 14:37:08** by **TomTheWhittler**:
 
 This instructables  explains how to get an Raspberry Pi to interface with one of those Ebay modules to drive a DC toy motor.
+
 http://www.instructables.com/id/Raspberry-PI-L298N-Dual-H-Bridge-DC-Motor/
+
 Also a youtube video
+
 https://www.youtube.com/watch?v=AZSiqj0NZgU
 
+
+
 This instructables  explains how to get an Arduino Pi to interface with one of those Ebay modules to drive a DC toy motor.
+
 http://www.instructables.com/id/Arduino-Modules-L298N-Dual-H-Bridge-Motor-Controll/
+
 another video on how to interface one of those Ebay modules to an Arduino.
+
 https://www.youtube.com/watch?v=kv-9mxVaVzE
 
 ---
@@ -86,6 +110,7 @@ https://www.youtube.com/watch?v=kv-9mxVaVzE
 Posted on **2016-11-21 14:40:22** by **TomTheWhittler**:
 
 An example of Ebay 298N module interface with Arduino code with some more details..
+
 http://www.allaboutcircuits.com/projects/control-a-motor-with-an-arduino/
 
 ---

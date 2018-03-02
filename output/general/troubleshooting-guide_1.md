@@ -3,7 +3,11 @@ Posted on **2017-07-03 11:36:35** by **ledsled71**:
 
 At this stage in the game, would it make sense to start up a "lessons learned / troubleshooting guide" to capture all of the snags we've captured in one spot?
 
+
+
 Could include motors running backwards, lack of motor response, chain jumping, z axis adjustments/tweaks, etc
+
+
 
 The forum seems unmanageable for someone starting from scratch to capture everything we've learned
 

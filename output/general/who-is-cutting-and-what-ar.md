@@ -3,6 +3,8 @@ Posted on **2017-03-29 07:10:54** by **rancher**:
 
 I'm stuck, and dying to try the machine on something of my own.  I can do a basic makercam part, but anything complex I have designed in Fusion360 and they won't run in GC.  I also have used some vector programs on my ipad to create SVGs which I tried to convert using makercam and fusion with no luck.  
 
+
+
 So.  Who has had success cutting their own design?  Can you share your process?
 
 ---
@@ -23,6 +25,8 @@ Posted on **2017-03-29 08:21:50** by **Bar**:
 
 When you get files that give you undesirable behavior (like going too slow and burns in the corners) I would love to see them so I can figure out what is going on. If you make an issue and attach them (in a zip file) they will become part of my to-do list and I'll fix what's wrong.
 
+
+
 In the short term things like a 45 degree offset are good workarounds.
 
 ---
@@ -37,7 +41,11 @@ Posted on **2017-03-29 08:39:41** by **rancher**:
 
 I was having endless trouble with the dogbones.  WAS!
 
+
+
 Bar, I think that did it.  I just tested two files output from Fusion360 using the GRBL generic setting.  There was some strange Z handling at the start of the cut, up and down a bunch.  It may be an issue with my file output setting.  Otherwise, it was right on!  Dogbones and small curves and everything that was giving it trouble before. 
+
+
 
 I also struggled getting a useable file out of Makercam if there was much detail.  I don't know if that was me or it.
 
@@ -47,7 +55,11 @@ Posted on **2017-03-29 08:45:37** by **Bar**:
 
 Awesome!
 
+
+
  I was seeing the same strange z-axis behavior but I looked into the code and all those up down z-axis moves are in the gcode, not sure why but at least it's doing what it's told.
+
+
 
 @mindseye you are right that you really should be cutting faster, probably the full speed of the machine most of the time. Right now the feedback control system can't keep up so you start to loose accuracy as you go faster, but I'll have that part of the code improved as soon as we get everyone cutting things as is.
 
@@ -80,12 +92,19 @@ Thanks guys, I do my best. Thank YOU for giving us the feedback and guidance abo
 Posted on **2017-03-29 10:00:39** by **blsteinhauer88**:
 
 I cut this before the circle fix with Makercam. [IMG_0486](//muut.com/u/maslowcnc/s3/:maslowcnc:MjRp:img_0486.jpg.jpg) a bit oval but looks good. Will try it again. 
+
 Last night just trying to cut the Motor mounts ended up like this,  [IMG_0493](//muut.com/u/maslowcnc/s3/:maslowcnc:LMC4:img_0493.jpg.jpg) [IMG_0495](//muut.com/u/maslowcnc/s3/:maslowcnc:Aagx:img_0495.jpg.jpg)
+
 Cut from top center. Ground control was even showing the error circle. Don't know if just friction or what.  I cut again from bottom center and they are ok. 
+
+
 
 Am almost finished with Maslow frame and will recut the VW emblem. 
 
+
+
 [51225858978__B006AC36-B3D0-4128-B5FA-5E2256AA4C99](51225858978__b006ac36b3d04128b5fa5e2256aa4c99
+
 .jpg) this turned out cool with an intentional oval.
 
 ---
@@ -93,9 +112,14 @@ Am almost finished with Maslow frame and will recut the VW emblem.
 Posted on **2017-03-29 15:32:17** by **MakerMark**:
 
 I've tried the following:
+
 Makercam - mixed results. tabs seem to cause random depth and direction changes.
+
 Easel - works great. no issues so far.
+
 Aspire / vCarvePro - both work great when using NC-Easy format.
+
+
 
 To be fair, I haven't tried Makercam using the latest firmware and Ground Control.
 
@@ -123,6 +147,8 @@ Posted on **2017-03-30 16:11:45** by **alstaxi**:
 
 www.tinkercad.com
 
+
+
 really simply and easy
 
 ---
@@ -149,6 +175,8 @@ Posted on **2017-03-31 16:20:01** by **davidlang**:
 
 we're trying to figure out what output settings for fusion360 will work
 
+
+
 we also don't want to be dependent on one source.
 
 ---
@@ -156,6 +184,8 @@ we also don't want to be dependent on one source.
 Posted on **2017-03-31 16:26:03** by **davidmarkman**:
 
 @davidlang, nice first name.
+
+
 
 Thanks for answering my question.  I thought that gCode was gCode, and the source of the gCode does not matter.  I thought the Maslow had a gCode interpreter.
 
@@ -165,7 +195,11 @@ Posted on **2017-03-31 17:04:28** by **davidlang**:
 
 unfortunately not all gcode is the same. different machines understand different subsets of all possible gcode.
 
+
+
 simple CAM programs tend to output only the simplest gcode, the fancier the CAM program (and fusion360 is among the fanciest) will use more sophisticated gcode features. This is why fusion360 has a large pull-down menu asking you what type of machine you have.
+
+
 
 Part of the machine setting is setting limits/defaults for things like speed, but part of it is what subset of gcode to use
 

@@ -3,11 +3,19 @@ Posted on **2017-04-26 17:03:44** by **sparhawk2k**:
 
 Is EVERYBODY in the US going with the Ridgid R22002? :)
 
+
+
 I'm curious about the Bosch 1617EVS.
+
+
 
 Though I'm not sure how adventurous I want to be trying something nobody has tested yet. There was a thread on the details (http://www.maslowcnc.com/forums/#!/technical-details:z-axis-question-for-bosch-r) but I don't see anything on actually trying it yet.
 
+
+
 I'm curious to see how it works with other options in general though. There's only one other router in the Tested Routers List that's not the EU one. Are there beta testers with other routers that haven't made it to the wiki yet?
+
+
 
 https://github.com/MaslowCNC/Mechanics/wiki/Tested-Routers-List
 
@@ -35,6 +43,8 @@ Posted on **2017-04-27 12:26:21** by **sparhawk2k**:
 
 Unfortunately, I'm not a beta tester so I don't have the system yet to test. So I can't add info on tested routers YET. I was hoping to get feedback before mine ships so I can decide which z-axis kit to order.
 
+
+
 I figure it's more helpful earlier as it will impact the orders of a lot more people. Though I certainly plan on contributing back once I've got mine up and running.
 
 ---
@@ -48,6 +58,8 @@ I've also been eyeing that one. I'd like to get the kit with both the fixed and 
 Posted on **2017-04-27 20:22:55** by **mcginniwa**:
 
 I think @jbarchuk is using a similar Bosch rig. Check out the vids mentioned [here](http://www.maslowcnc.com/forums/#!/general:bosch-ra1161-fixed-base-mod).
+
+
 
 Here in NZ, a couple of us are trying the Bosch GOF 1600 CE combo router (have to buy fixed base from states) which I think has a US equivalent model. I'll report back once I have my beta kit put together. Should be this week.
 
@@ -63,7 +75,11 @@ Posted on **2017-04-29 11:28:03** by **jonmatcho**:
 
 I bought the Bosch 1617 with an extra two bases, one for a router table and one for the Maslow (so I still always have a free standing base).  I am waiting for the next round to receive my Maslow kit.
 
+
+
 I can't imagine how I could go wrong with this router and wouldn't be surprised that this Bosch turns out to be the best balance of cost, precision, and durability.  
+
+
 
 We shall see... looking forward!
 
@@ -138,6 +154,8 @@ So you've got an inch of travel automatically but can then manually move it to g
 Posted on **2017-06-04 11:00:03** by **ylexot**:
 
 This review might help explain the detents some: http://www.newwoodworker.com/reviews/bsch1165rvu.html
+
+
 
 It looks like the fine adjustment (which is what the Z-axis will use) only has 7/8" of travel. That's a bit tight, but it'll still work with 3/4" plywood. For thicker stock, I guess you'll have to have a manual plunge step somewhere in the g-code.
 

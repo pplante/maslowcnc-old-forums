@@ -9,6 +9,8 @@ Posted on **2016-10-18 20:13:20** by **Bar**:
 
 I haven't tried but I will. 
 
+
+
 I live in a pretty remote place so it takes about 2hrs to get to home depot, but next time I'm there I'll pick some up and let you know.
 
 ---
@@ -28,8 +30,11 @@ Thanks! :-)
 Posted on **2016-10-21 10:58:01** by **jbarchuk**:
 
 Also try Lexan. The big boxes have that too.
+
 I'm interested of the quality of the edge surface finish with Lexan.
+
 The usual way to do Lexan is a band saw or better table saw. Those leaves fine parallel visible lines. Then the edge is hit with a quick blast of MAAP gas which melts the edge slightly and leaves a smooth high gloss.
+
 If Maslow can produce that same 'almost finished' edge then that's a major plus.
 
 ---
@@ -50,6 +55,8 @@ Posted on **2016-10-24 10:39:54** by **Bar**:
 
 Another cool material is coroplast http://www.coroplast.com/
 
+
+
 Someone asked me in an email if they could cut it for making costumes because it's quite strong and light.
 
 ---
@@ -63,6 +70,8 @@ What do you think about cutting plates of aluminum? Too much.
 Posted on **2016-10-25 16:02:27** by **jwolter0**:
 
 My research on the web indicates that homebuilt CNCs and wood routers can cut aluminum.  It's all about the feed rate and spindle speed, and not cutting too deep per pass.  Metal is much less forgiving than wood or plastic.  Too slow or too fast and you don't cut cleanly or gum the mill up with melted aluminum.
+
+
 
 See, for example, http://www.cnczone.com/forums/diy-cnc-router-table-machines/31208-can-wood-router-cut-aluminium.html
 

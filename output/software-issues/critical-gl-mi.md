@@ -2,33 +2,62 @@
 Posted on **2017-05-18 14:21:16** by **digital_janitor**:
 
 Ground control errors out with [CRITICAL          ] GL: Minimum required OpenGL version (2.0) NOT found!
+
 I saw a couple posts regarding opengl 2 and older hardware.   I don't think this pertains precisely to the previous thread, so I am starting a new one.  Windows 10 fresh install, i5-2430, intel 3000.  Installed drivers directly from MS.  Ran GLview, verified opengl 3.1 support is being provided by driver.  I also ran across this 
+
 https://github.com/kivy/kivy/issues/3576
+
 added Config.set('graphics', 'multisamples', '0') to main.py, didn't seem to make a difference, though I may not understand where that should be placed.
+
+
 
 Any help would be appreciated.  Full log below
 
+
+
 [INFO              ] Logger: Record log in C:\Users\gateway\.kivy\logs\kivy_17-05-18_6.txt
+
 [INFO              ] Kivy: v1.9.1
+
 [INFO              ] Python: v2.7.11 (v2.7.11:6d1b6a68f775, Dec  5 2015, 20:32:19) [MSC v.1500 32 bit (Intel)]
+
 [INFO              ] Factory: 179 symbols loaded
+
 [INFO              ] Image: Providers: img_tex, img_dds, img_gif, img_sdl2 (img_pil, img_ffpyplayer ignored)
+
 [INFO               ] OSC: using <thread> for socket
+
 [INFO              ] Window: Provider: sdl2
+
 [INFO              ] GL: GLEW initialization succeeded
+
 [INFO              ] GL: OpenGL version <1.1.0>
+
 [INFO              ] GL: OpenGL vendor <Microsoft Corporation>
+
 [INFO              ] GL: OpenGL renderer <GDI Generic>
+
 [INFO              ] GL: OpenGL parsed version: 1, 1
+
 [CRITICAL          ] GL: Minimum required OpenGL version (2.0) NOT found!
+
+
 
 OpenGL version detected: 1.1
 
+
+
 Version: 1.1.0
+
 Vendor: Microsoft Corporation
+
 Renderer: GDI Generic
 
+
+
 Try upgrading your graphics drivers and/or your graphics hardware in case of problems.
+
+
 
 The application will leave now.
 

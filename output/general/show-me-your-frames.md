@@ -3,7 +3,10 @@ Posted on **2017-04-18 16:53:33** by **hannahteagle**:
 
 Hey everybody! Bar told me he's been really impressed with the different machine frames Beta testers have constructed in the past few weeks, so I wanted to feature some of those in the update! If you've got a frame and are open to having me share photo(s) of it in the update, please post your pictures here so I can show you off tomorrow.
 
+
+
 Thanks!
+
 hannah
 
 ---
@@ -12,6 +15,8 @@ Posted on **2017-04-18 17:14:17** by **mexicomillionaire**:
 
 Steel frame in progress...
 
+
+
 [20170409_173117](//muut.com/u/maslowcnc/s3/:maslowcnc:e4Ks:20170409_173117.jpg.jpg)
 
 ---
@@ -19,6 +24,7 @@ Steel frame in progress...
 Posted on **2017-04-18 20:43:47** by **rexklein**:
 
 In Progress
+
 https://goo.gl/photos/JW3dD1HCwkC8ZLKc9
 
 ---

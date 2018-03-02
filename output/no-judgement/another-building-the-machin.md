@@ -15,6 +15,8 @@ Posted on **2017-03-13 10:05:23** by **Bar**:
 
 Yup, @davidlang is right. We're spending the next few days scrambling getting kits out the door. This week's update will come with more details about the assembly process. 
 
+
+
 That being said, if you were to use the measure tool in sketchup and measure out the 2x4s and cut them that should work. We're working on a write-up so you don't have to go through all that trouble.
 
 ---

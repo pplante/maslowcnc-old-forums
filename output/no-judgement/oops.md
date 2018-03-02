@@ -3,9 +3,15 @@ Posted on **2017-03-25 14:39:16** by **boandersen**:
 
 at least I know the motors are strong enough to pull the temp-sled apart.
 
+
+
 I was pressing the Home button repeatedly - it kept bringing the sled/router up - I guess I pressed one too many times. I had calibrated chain length.. 
 
+
+
 I did not really know when it would be considered home enough..
+
+
 
 https://goo.gl/photos/LzyFzQsxamV8wcLq5
 
@@ -14,6 +20,8 @@ https://goo.gl/photos/LzyFzQsxamV8wcLq5
 Posted on **2017-03-25 14:46:19** by **Bar**:
 
 They are pretty dang strong!
+
+
 
 We can read how much force each motor is applying in the firmware, and I think ultimately we will need to put a limit in there which will stop the motors if they detect they are applying an excessive amount of force.
 

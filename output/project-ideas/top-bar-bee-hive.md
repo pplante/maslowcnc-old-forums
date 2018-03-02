@@ -2,6 +2,7 @@
 Posted on **2016-12-12 13:43:35** by **nathanmiller**:
 
 I found a really cool design for a top bar bee hive: https://akerkits.com/collections/source-files/products/colorado-top-bar-v1-0
+
 Looks like it is built from one 4x8' sheet of plywood. Not sure if that includes the bars though. I have a top bar hive and like it but it was a pain to build with the angles. Using Maslow would make the whole construction a breeze!
 
 ---

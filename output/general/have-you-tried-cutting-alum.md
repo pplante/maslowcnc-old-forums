@@ -2,7 +2,9 @@
 Posted on **2016-11-20 04:52:43** by **rollandelliott**:
 
 I have used a $3 single flute 1/8" diameter downcut router bit from Aliexpress.com to cut aluminum sheet metal up to 1/16 thick.  1/16th takes a bit of force to cut through so I"m not sure if this machine can handle it? But I"m guessing 0.040" or thinner might be possible? Also Aluminum Composite Material with plastic core would probably work too. 
+
 https://www.youtube.com/watch?v=zVi1GXiFEiU
+
 above is video showing how easy it is to do handheld
 
 ---

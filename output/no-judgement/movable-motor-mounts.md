@@ -9,6 +9,8 @@ Posted on **2017-05-28 03:30:03** by **davidlang**:
 
 it depends on exactly how thick that is, but the answer is probably 'yes'
 
+
+
 although, I'd seriously consider cutting a hole in the plywood that's the frame and just having that stick through to the correct height. If the hole is fairly centered, you can cut a pretty large one without loosing too much stiffness, and if you run with a backer board normally (to avoid cutting the frame), it shouldn't matter that there's a hole there (and worst case, buy a new sheet of plywood and re-attach the arms and legs :-)
 
 ---

@@ -3,11 +3,19 @@ Posted on **2017-03-19 14:11:59** by **aalbinger**:
 
 I've been hard at work testing the initial "pull yourself up by the bootstraps" version of the machine.  One thing that was becoming tedious while testing was the router with no sled needing to be held by hand.  It is a general rule in woodworking that the worst accidents happen when you aren't paying full attention to the power tool.  As Bar has indicated elsewhere running groundcontrol while hand steadying the very basic machine can be a challenge.
 
+
+
 To that end I think a starter sled would be a great idea.  I made a template by taking a standard sheet of 8.5x11 or A4 paper and folding it three times.  Once corner to corner in each direction and once in half along the long side.  This will give you a centerline to place the router on and two reasonable angles for the sled brackets to bolt to.  Cut out a chunk of wood the same size as the paper.  Place your router on it up near the top and trace around your router.  Place the sled angle brackets on the folded lines and mark out where you want a bolt to go in each side.  Be mindful of where the bolt with end up so that yo u don't have it smooshing into your handles.
+
+
 
 Here is a photo of my template: http://i.imgur.com/Uffjh5O.jpg?1
 
+
+
 Now either use a drill to make the necessairy holes or use your new router to carefully trace out the marks you have made with your template.  Bolt on the bits and try it out.  The measured distance between mounting points on my version was 343mm.  I put that into GroundControl and ran motor calibration.
+
+
 
 Here is a video of the machine calibrating: https://www.youtube.com/watch?v=WAKDB-9Kkfc
 
@@ -34,6 +42,8 @@ Nice job!
 Posted on **2017-03-19 20:32:25** by **aalbinger**:
 
 I suspect there might be a few other geometry things to enter for this sled to work just right.  I cut out the real sled using the gcode from the wiki and got a pretty good version but it is a bit of an oval instead of a perfect circle.
+
+
 
 http://i.imgur.com/DKYjDuY.jpg
 
@@ -85,8 +95,13 @@ Posted on **2017-03-20 17:17:50** by **Bar**:
 
 I've been working out how to build the starter sled in a way which is simple and clear, and here's where we are so far. I made a [PDF](https://github.com/MaslowCNC/Mechanics/blob/add-temp-sled/tempSled.pdf) of a version of the sled which is the size of a standard sheet of paper. I then printed the sheet and attached it to a sheet of plywood using a [glue stick](http://www.officedepot.com/a/products/698325/Elmers-Glue-Stick-Classroom-Pack-All/) and cut along the lines using my router by hand which worked well. 
 
+
+
 The problems are 1) Does everyone have access to glue sticks? I feel bad suggesting you need to use something which isn't included in the box. 
+
 2) The gluestick leaves a sticky residue on the wood when the paper is removed
+
+
 
 What are everyone's thoughts on this idea? Does this seem like a promising avenue?
 
@@ -120,7 +135,11 @@ Posted on **2017-03-21 08:47:33** by **Bar**:
 
 I was thinking about that too. Ideally, from now on the paper will come in the box. 
 
+
+
 I think you are spot on that the question to ask is "How important is it to keep the original dimensions".
+
+
 
 I will look into how much having the page distorted by adding default margins will cause problems. Fortunately, I think we can tolerate a fair amount of distortion and still end up with a sled which is at least good enough to cut out a better one.
 
@@ -141,6 +160,8 @@ Putting dimensions on the .pdf would be good.
 Posted on **2017-03-21 08:52:39** by **Bar**:
 
 Dimensions on the PDF are a great idea. 
+
+
 
 As for the bricks wanting to tip everything over, yes. Are you using the steel 'L' brackets to attach the frame? There are a number of holes to allow for adjustment. I can send a picture in a few minutes, but the basic idea is that with the two holes side mounted down you can move the chain attachment point in or out to adjust for your routers center of gravity
 
@@ -173,6 +194,8 @@ absolutely.
 Posted on **2017-03-21 18:36:03** by **MakerMark**:
 
 Thanks aabinger! My attempt to cut the sled with the router connected directly to the chains was sketchy at best. Using your temp sled idea made it much safer. 
+
+
 
 I used a little wood glue to adhere the template to the wood. It didn't snag or bind when using it, but I'm sure glue stick would be better.  [Image](//muut.com/u/maslowcnc/s3/:maslowcnc:KuHj:image.jpeg.jpg)
 
@@ -217,6 +240,7 @@ I'm chuckling at calling a nice round sled cheating :)  The thought was to make 
 Posted on **2017-03-23 18:44:21** by **rexklein**:
 
 here is how my cheat ended up I have a experiment I am going to try for the brick alignment.
+
 [2017-03-23_18-41-34](//muut.com/u/maslowcnc/s1/:maslowcnc:8DV9:20170323_184134.jpeg.jpg)
 
 ---
@@ -261,6 +285,8 @@ Posted on **2017-03-25 09:16:09** by **davidlang**:
 
 The sled will tilt as it moves around the workspace. If it's on the left side of the workspace, it will tilt to the right (because there is less tension on the right chain), and if it's on the right side of the workspace, it will tilt to the left (because there is less tension on the left chain)
 
+
+
 the maslow firmware takes this into account.
 
 ---
@@ -287,6 +313,8 @@ Posted on **2017-03-25 09:30:26** by **davidlang**:
 
 note that the round bar doesn't need to be exactly horizontal. mark the edges where it balances, flip it over and draw a line between those points.
 
+
+
 draw a line between the chain attachment points, find it's center, and then draw a line perpendicular to the chain attachment line, and measure the distance along this line until you hit the balance line
 
 ---
@@ -306,6 +334,7 @@ Perfect thanks!
 Posted on **2017-03-25 13:34:34** by **scottsm**:
 
 Here's what I understood for the center gravity.
+
  [Maslow Center of Gravity](//muut.com/u/maslowcnc/s1/:maslowcnc:o7o0:maslowcenterofgravity.jpeg.jpg) The round rod winds up under the bricks, parallel to the chain attachment line.
 
 ---
@@ -313,6 +342,8 @@ Here's what I understood for the center gravity.
 Posted on **2017-03-25 14:55:29** by **davidlang**:
 
 that sounds fairly reasonable, can you show it from the top.
+
+
 
 The bricks are heavier than the router, so I am not surprised to see them under the edge of the bricks
 

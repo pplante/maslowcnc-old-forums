@@ -3,7 +3,10 @@ Posted on **2017-04-14 06:48:08** by **travelbug007**:
 
 What is everyone using to create their own designs? I don't think ground control creates designs from scratch but converts designs go Maslow instructions correct?
 
+
+
 I want to know what others recommend to go from idea to dxf file for a newbie.
+
 Thx so much. Looking forward to hearing from you all.
 
 ---
@@ -23,7 +26,9 @@ Fusion360 works great, I also find myself using Adobe Illustrator.
 Posted on **2017-04-14 08:25:49** by **jbarchuk**:
 
 Sketchup and Qcad are also mentioned at https://github.com/MaslowCNC/GroundControl/wiki/CAD-(Computer-Aided-Design)-software-packages
+
 Correct, no software -within- Maslow design or create anything.
+
 Neither does Maslow convert the design file to the g-code that the control board accepts. See makercam.com for one example of that, and there are others. (They should get listed in the software page too.)
 
 ---

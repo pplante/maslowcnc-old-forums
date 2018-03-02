@@ -15,6 +15,8 @@ Posted on **2017-04-16 05:49:09** by **rancher**:
 
 That looks awesome!  I'm still struggling.  I've spent the last two days trying to get something useable and I'm still having loss of position, drifting, GC crashing on 'home', and code handling issues.  I'm going to try again today with slower feedrates.
 
+
+
 I'd love to know if anyone has had any success with complex cuts generated in Fusion.  I'm still wondering if it's me or it, but I am way off and getting lots of errors.  I'm truly encouraged to see a finished thing.  I'm just about out of test material and reluctant to waste good material at this point.
 
 ---
@@ -23,7 +25,11 @@ Posted on **2017-04-16 09:37:05** by **Bar**:
 
 That looks amazing! So so so cool. Thank you for sharing it, definitely made my day. 
 
+
+
 Was the 700kb file that wouldn't open part of the bench? 
+
+
 
 @rancher It's not you!!! If you are stuck somewhere it's never your fault. My goal is to make everything as easy to use as possible, if you are struggling then it's not easy. Whenever you hit a bug or see something which is confusing, please please please file an issue on GitHub. Your feedback makes a HUGE difference in making sure I'm working on the right things.
 
@@ -117,7 +123,11 @@ Posted on **2017-05-07 12:34:02** by **rancher**:
 
 I've been struggling with the g code on this address sign project I've been working on, but today had some success.  I had a bad run on the other, "good" side of this stock, so this one gets a little weird in the ant damage there, but I'm okay with it.  I originally wanted to do it as a relief, using pocket operations, and tried positive and negative versions.  All were too much and choked any software I used.   I was barely able to get this to process, but after a week of struggling, I have something.  It is still pretty rough, but that suits me.
 
+
+
  [IMG_3960](//muut.com/u/maslowcnc/s3/:maslowcnc:aqHz:img_3960.jpg.jpg)
+
+
 
 [IMG_3961](//muut.com/u/maslowcnc/s3/:maslowcnc:pCjX:img_3961.jpg.jpg)
 

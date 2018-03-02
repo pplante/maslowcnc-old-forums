@@ -21,6 +21,8 @@ Posted on **2017-07-07 21:18:35** by **ledsled71**:
 
 I actually did cut the arms, but didn't use them, as I was concerned about flex throwing the accuracy off.
 
+
+
 However,I did use the arms to approximate the location of the motors.  If I understand correctly, standard machine dimensions help with proper calibration
 
 ---

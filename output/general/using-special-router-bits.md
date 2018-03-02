@@ -2,9 +2,13 @@
 Posted on **2017-06-09 12:01:31** by **beach4maslow**:
 
 Does anyone have experience using bits other than straight?  For example you are cutting a lid or tabletop and wanted an other than straight bit like a round over, chamfer, or Roman ogee.
+
 Is this possible? Done using that bit only? Combination?  Or cut entire piece, remount then a pass around?.
 
+
+
 Thanks
+
 Bob
 
 ---

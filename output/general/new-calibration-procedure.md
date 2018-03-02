@@ -3,7 +3,11 @@ Posted on **2017-05-04 14:46:23** by **Bar**:
 
 I've been working on a new calibration procedure that rolls all the things we've learned into an easy to follow set of instructions. The community created so much great knowledge about how to setup and calibrate the machine and I wanted to make sure that knowledge was easy for future generations to pick up. 
 
+
+
 I've created a wizard type system where you click next and do what it asks in each step to calibrate the machine. You can now access it by clicking *Actions -> Calibrate Machine Dimensions*.
+
+
 
 It's not 100% done yet, but I would still love everyone's feedback about how it works for you, what could be made more clear, and what could make it better.
 
@@ -37,7 +41,11 @@ Posted on **2017-05-05 10:33:11** by **Bar**:
 
 Good point about the z-axis needing to be set. Z=0 should be the surface of the wood.
 
+
+
 I think the process is ready to be tested. I just finished running it and ended up with values true to as close as I could measure with the tape  measure ~.5mm.
+
+
 
 If you are going to test it, be sure to grab the latest version!
 
@@ -47,21 +55,39 @@ Posted on **2017-05-05 12:56:51** by **Bar**:
 
 Here are my results after testing the new system.
 
+
+
 I ran the calibration process until it completed so both of my ~600mm measurements were within .5mm of each-other (or about the limit of what I can measure with my tape measure). I didn't do any calibration other than to step through the calibration process and do what it said to do in each step.
+
+
 
 Then I ran the the straight line test and cut 80inch (~2000mmm) straight lines across the board at Y= +14 Inches, Y = 0, Y = -14inchs. [Straight line test](//muut.com/u/maslowcnc/s3/:maslowcnc:Wdz1:fourcuts.jpg.jpg) 
 
+
+
 I borrowed a giant straight edge from the cabinet makers next door to measure the bend in each cut.
+
+
 
 The bottom line domed up .096 Inches in the middle of the 80 inch span  [Bottom](//muut.com/u/maslowcnc/s3/:maslowcnc:b6QX:bottom.jpg.jpg) 
 
+
+
 The middle line domed up .041 Inches in the middle of the 80 inch span [Middle](//muut.com/u/maslowcnc/s3/:maslowcnc:Mo6y:middle.jpg.jpg) 
+
+
 
 The top line had some weird funkiness to it that I think has to do with the feedback system so I couldn't measure it accurately  [Top](//muut.com/u/maslowcnc/s3/:maslowcnc:xGNU:top.jpg.jpg) 
 
+
+
 I'd love to be able to say everything is perfect, but we are at least seeing significant progress. We've gone from being 1/4inch  out on a 6-inch test shape to 1/16-1/32 out on an 80 inch test shape.
 
+
+
 *Here's what I think is next:*
+
+
 
 I think we should do the same thing we did with the 6-inch test shape and instead of cutting the whole line, we just need to make a mark out at +-40 inches and in the center. From that we can measure the bow over that span and see do the same kind of automated correction we do on the other test shape. The hard part is that it's tough to measure 1/32 bend over an 80 inch span. Using my tape measure as a straight edge, I really couldn't tell and not everyone can borrow a giant straight edge from the cabinet shop. Is there another way we could measure?
 
@@ -95,9 +121,15 @@ Posted on **2017-05-05 14:14:53** by **davidlang**:
 
 for measuring the error, drill down on the ends, find a bolt/rod that is a tight fit, take a string line (chalk line) and stretch it tight over the top of the two bolts and snap a line onto the wood
 
+
+
 This will give you a straight line that 'should' be exactly even with the top of the cut.
 
+
+
 now, as close as we are getting, this still may not be enough, but it's the best we can do short of light based checks
+
+
 
 as a light based check, drill three holes (ends and middle) put good tight pegs/bolts into all three and sight down the length of the board, you will be able to tell if they are all exactly lined up or not
 
@@ -124,6 +156,7 @@ Has anyone else tried the new calibration and had it work for them?
 Posted on **2017-05-05 17:54:36** by **scottsm**:
 
 I'm wading through it, taking notes. I swear my right motor sprocket got pulled a half a degree counter clockwise, and the chain popped. I remember that my last adjustment to it was a CCW turn; shouldn't have backlash, should it? I've noticed that if I stop the calibration and leave that section, when I come back, the calibration cuts are over the top of the previous ones, even if I've moved 'Home' in the mean time. I'm working on a sheet of 2mm ply screwed to the work area; I guess the assumption is that I would slide the ply over so the new cuts will be discernible from the previous set :) . I'll move and finish the cal steps. A warning about chain over-wraps when starting into the left chain movements will help those who haven't yet experienced that. Measuring the motor height didn't flow smoothly; is the assumption that the chain hasn't yet been retracted from the motor measurement and sled measurement? I used the 500mm move (six times :( ) to reel in the chai n to make the measurement, and the measurement was 20mm+ long.
+
  Sorry to have such a gray list - the many many parts that worked well and correctly are a separate list :) :) !
 
 ---
@@ -131,6 +164,8 @@ I'm wading through it, taking notes. I swear my right motor sprocket got pulled 
 Posted on **2017-05-05 18:04:13** by **davidlang**:
 
 The calibration routines are working from the absolute machine dimensions and are going to be used to figure out where home is. This is why changing the home doesn't change any of the cuts.
+
+
 
 there is only no backlash if the machine is fully setup and you have the tension on the chains from the weight of the sled. That keeps the gears pulled towards the center and makes backlash a non-issue.
 
@@ -140,11 +175,19 @@ Posted on **2017-05-05 18:12:18** by **Bar**:
 
 Better to know than to not know!
 
+
+
 Right now the test pattern isn't affected by the home position, but maybe that should be more clear, or there should be an option to move the design over.
+
+
 
 Adding a note about being careful about the chain wrapping is a great idea.
 
+
+
 Concerning about the measure motor height measurement coming out wrong. I will double check those. The idea is that you have the chain extended fully at that point and reel it back in to where it is the right height. It seems like more clear wording in the instructions is needed for each of these steps at the very least. 
+
+
 
 Thank you for the advice!
 
@@ -172,14 +215,25 @@ Posted on **2017-05-06 07:34:19** by **gero**:
 
 Finlay I got to catch up a bit. The is a lot of activity on GitHub and I could not go through all, so first here to avoid duplicates:
 
+
+
 1) 3-8 Detach chain from right sprocket? That just popped off.
+
 2)4-8 Could use reel back 1000 or more. I went out 3010 and back -7 till it popped.
+
 3) 6-8 is misleading. Hook right chain to right sprocket and click calibrate is not correct. At this point the left chain is still hanging from the motor hight measurement. Both chains should be hooked at 12:00 before clicking. This brings me to the most interesting point.
+
 6-8 is also missing a "Mount the sled"
+
 4) Going back to 1-8 to bring the left sprocket to 12:00 changes the value for Vertical Offset. It is just overwritten in the .ini file.
+
 But after motor hight, my left sprocket has a gap between the teeth at 12:00. So calibrate chain length did not seem right.
 
+
+
 Ignoring the changed Vertical Offset (from first 477.65mm to then 475.31 after turning left CCW) it took 4 cuts to get from H67/V59 to H60.5/V60.5
+
+
 
 Nice calibration path though.
 
@@ -189,6 +243,8 @@ Posted on **2017-05-06 09:30:46** by **Bar**:
 
 Perfect feedback! 
 
+
+
 I'm going to go through and make all of those changes right now.
 
 ---
@@ -197,6 +253,8 @@ Posted on **2017-05-06 10:33:39** by **Bar**:
 
 I've added the changes you suggested. I'm going to try to replace the poping off mechanism in 2-8 with an automatic pull tight system.
 
+
+
 Something that your feedback made me realize wasn't clear is that 6-8 needed to be re-worded. You actually don't have to move the left chain back to 12:00, it can just stay the length it is but that wasn't clear at all in the text. Hopefully it's clearer now and you've saved someone in the future from being confused  :-)
 
 ---
@@ -204,6 +262,7 @@ Something that your feedback made me realize wasn't clear is that 6-8 needed to 
 Posted on **2017-05-06 13:54:07** by **gero**:
 
 Since i moved my brackets to the outside of the sled, i was lucky to go through all again. Looks great now! On 4-8 you removed the 500 and put the 1000, i think i ended up with the same amount of clicks 8).
+
 Can go through tomorrow again, forgot the bungees and had chain jumps :-)
 
 ---
@@ -253,8 +312,11 @@ Great catch, I believe it should be fixed now :-)
 Posted on **2017-05-08 09:31:25** by **gero**:
 
 This is form yesterday, so if it is fixed, forgive me, as I can not be THE CALIBRATOR today :-(
+
 On 3-8 I would add a 'extend left chain' before the detach. I went up the ladder first, looked at the chain and decided to go down again and check what buttons are there :-)
+
 If not fixed by now, there is some metric confusion on 7-8. The day before, I entered numbers like 59.5 and 60. 5 and automatic came to the finish page, Yesterday I thought, wait a moment, the unit is mm, but what did I enter before? I entered cm and 60.5 cm is 605 mm. I tried 605 this time and CG was happy. So the rage GC accepts is in the range of 1cm = 10mm.
+
 On the tape i measured 60.05 cm or 600.5 mm.
 
 ---
@@ -274,8 +336,12 @@ sanity checking the input to see if it's close to the expected range (as opposed
 Posted on **2017-05-12 09:31:59** by **blsteinhauer88**:
 
 Ok,  I just finally tried the new calibration.  Wow.  Nice from a user point of view.  It was easy to understand and follow.  The end result was that it made a couple very small but important for the math, adjustments to the measurements.   My test cut came out calibrated on the first try.  
+
 I recommend others to got through it if they are having some accuracy issues. 
+
 I suggest only maybe a way to zero the Z in the Wizard also.  ( I saw something grayed out in the settings?&quest;?)  
+
+
 
 After thought, This also put my 0,0 in the center of the work-space! (unlike with just the chain calibration before)  Nice!!!
 
@@ -296,6 +362,8 @@ I am building the new arms today @rancher, and will repeat the process.
 Posted on **2017-05-12 10:36:28** by **Bar**:
 
 @blsteinhauer88 great point about the z-axis being calibrated as part of the same process. 
+
+
 
 @rancher Go for it! I'd say use the firmware and software from Wednesday's release because I'm making all kinds of improvements to the feedback control system right now so Master on GitHub is a little untested. Let me know if there are any steps you think could be more clear.
 

@@ -2,6 +2,7 @@
 Posted on **2017-04-11 07:42:34** by **mindeye**:
 
 Just sharing a quick project from last night. Designed and cut in about an hour! It needs a few tweaks but pretty good for a prototype.
+
  [IMG_20170410_210822261](//muut.com/u/maslowcnc/s3/:maslowcnc:mKD2:img_20170410_210822261.jpg.jpg)  [IMG_20170410_210851054](//muut.com/u/maslowcnc/s3/:maslowcnc:8CXL:img_20170410_210851054.jpg.jpg)  [IMG_20170410_210948273](//muut.com/u/maslowcnc/s3/:maslowcnc:OQxf:img_20170410_210948273.jpg.jpg)
 
 ---
@@ -39,6 +40,7 @@ I actually tried that and found good success with it but then I had one particul
 Posted on **2017-04-11 10:15:11** by **scottsm**:
 
 Interesting about the wandering cut. GroundControl has always done a good job showing gcode paths for me. I've forgotten to raise the z-axis at the end of a cut and cut a groove going home, before the version that raises the z-axis at the start of the home command. I've had the z-axis go crazy when the connector came loose, but so far the xy motors haven't acted up for me - gotta go knock on some wood!
+
 Your project's got me rarin' to go, I'll have to go get some more plywood :)
 
 ---
@@ -100,6 +102,7 @@ Ha! Sorry i must have posted my last comment well before i had finished it. Nath
 Posted on **2017-05-22 21:58:54** by **chrisbourke**:
 
 Sorry last link was directly to a .dxf file. See this link for images too. 
+
 https://goo.gl/2FQnkW
 
 ---

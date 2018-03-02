@@ -2,6 +2,7 @@
 Posted on **2017-06-11 19:19:44** by **henricuus**:
 
 Wandering if Maslow could be able to create cladding like building blocks like the Brikawood. Would be an amazing to create your DIY house
+
 https://youtu.be/TICDir9htqg
 
 ---

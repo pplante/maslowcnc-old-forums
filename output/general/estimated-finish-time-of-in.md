@@ -27,7 +27,11 @@ Posted on **2017-03-28 20:21:13** by **davidlang**:
 
 @tmaker it's never safe to assume the "official" frame will result in the "best results" :-) people wouldn't have other designs if they didn't think they were an improvement.
 
+
+
 but the "official" design is going to be the way bar understands the most and will probably have the best support. It is probably also the one that the most people are going to be using.
+
+
 
 all that said, the one under the topic "Modified Stand V2" is one I'm going to be watching very closely, it looks a little faster/easier to build and just as good as the fancy arms of the 'official' one.
 

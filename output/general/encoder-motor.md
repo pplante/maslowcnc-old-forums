@@ -3,6 +3,8 @@ Posted on **2017-04-27 19:10:19** by **stevenu**:
 
 Hello - What is the DC motor and gearbox used in the Maslow CNC?  I have been trying to determine the model without much luck.  I want to determine the specifications to build my own unit.  Thank you all
 
+
+
 Steven
 
 ---
@@ -11,9 +13,15 @@ Posted on **2017-04-27 19:30:16** by **davidlang**:
 
 it's a custom motor. 12v DC (~1A IIRC) with a 200:1 gear on it producing 30Kg/cm torque with an encoder on the motor that results in 8148 steps/rev and able to rotate at ~20 rpm
 
+
+
 this has more torque than is needed (enough to rip the sled apart), so something with less gearing that produces higher speeds would work.
 
+
+
 This is also a much higher resolution than is needed (they mounted the encoder on the motor, so it benefits from the 200:1 gear ratio as well)
+
+
 
 you could put something like this encoder (2400 steps/rev) on the output shaft of any gear motor of about the right speed and power http://www.ebay.com/itm/360-600P-R-Photoelectric-Incremental-Rotary-Encoder-5-24V-AB-Two-Phases-Shaft-/142133029511?var=&hash=item2117c9ea87:m:miAAqDospQN2_5XmhdmG4HQ
 

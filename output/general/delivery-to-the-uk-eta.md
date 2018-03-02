@@ -9,7 +9,11 @@ Posted on **2016-10-15 09:20:01** by **Bar**:
 
 Hey arigbs!
 
+
+
 The machine will actually cost $350 and domestic shipping will be like $15 and shipping anywhere in the world will be like $70. We've been saying $500 because you still have to buy plywood and bricks. If you don't have a router and buy a pretty nice one, it ends up being around ~$500 by the time you cut your first thing out. If you already have a router or buy a cheaper one, you will come out under $500 even including shipping to the UK.
+
+
 
 We are estimating that it will take four months to go from the end of the kickstarter (we won't even get the money for two weeks after the campaign ends) to shipping the kits out. We think we can do it faster than that, but we would rather be early than late ;-)
 

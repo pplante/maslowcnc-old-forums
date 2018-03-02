@@ -3,6 +3,8 @@ Posted on **2017-04-13 19:19:09** by **ledsled71**:
 
 Anything special needing to be done to get a new z axis up and running?  Any controller slot?  Any software update/reboot needed?
 
+
+
 Got mine installed today, but it doesn't respond to manual input from Ground Control
 
 ---

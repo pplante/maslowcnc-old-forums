@@ -2,12 +2,19 @@
 Posted on **2017-06-06 15:18:43** by **chadzimmerman**:
 
 Ok, I ran a partial test of my z axis sled. It is running upside down in this video. 
+
 (https://youtu.be/E709lMgDZ5M) 
+
+
 
 Now that I know where the axis runs, I can drill and mount the bearing. 
 
+
+
  [20170606_180927](//muut.com/u/maslowcnc/s3/:maslowcnc:rVrx:20170606_180927.jpg.jpg) 
+
  [20170606_180935](//muut.com/u/maslowcnc/s3/:maslowcnc:JRnb:20170606_180935.jpg.jpg) 
+
  [20170606_180944](//muut.com/u/maslowcnc/s3/:maslowcnc:Y7QM:20170606_180944.jpg.jpg)
 
 ---

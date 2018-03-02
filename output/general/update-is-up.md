@@ -3,6 +3,8 @@ Posted on **2017-01-11 16:05:07** by **Bar**:
 
 The weekly Wednesday update is up, you can read it here: https://www.kickstarter.com/projects/1830738289/maslow-cnc-a-500-open-source-4-by-8-foot-cnc-machi/posts/1782184
 
+
+
 The highlight is the new tilt compensated kinematics video, check it out here https://www.youtube.com/watch?v=skhjJnE5E2U
 
 ---

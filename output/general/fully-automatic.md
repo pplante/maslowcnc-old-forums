@@ -87,7 +87,11 @@ Posted on **2017-03-27 19:39:31** by **mindeye**:
 
 Here's two quick pics of the installed z-axis:
 
+
+
 https://drive.google.com/file/d/1NKtBSNMVCIPy7yermcwn45ceu_gaC7RpUQ/view?usp=sharing
+
+
 
 https://drive.google.com/file/d/17PZ0NLM5N-CGln_USFeXtEX7C9egjMFlKA/view?usp=sharing
 

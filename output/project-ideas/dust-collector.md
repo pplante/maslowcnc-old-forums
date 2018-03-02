@@ -9,6 +9,8 @@ Posted on **2016-12-06 08:09:22** by **TheRiflesSpiral**:
 
 In my small basement shop, I bought a cheap dust collector and put casters on it so I could move it to whatever tool I was using. It took some time and some futzing to get the hose connections all the same but it was worth it. It became second nature to just set up the tool, go get the dust collector and hook it up.
 
+
+
 The empty space behind Maslow is a great spot for a dedicated dust collector, though. I think Matthias' solution is a good one for this application.
 
 ---
@@ -82,6 +84,8 @@ My best dumpster dive was for a mop bucket. I ripped the handle off and bent it 
 Posted on **2017-01-26 15:30:33** by **chauhuh**:
 
 Even cheaper. $2 buck check anyone?
+
+
 
 https://www.youtube.com/watch?v=9w8jXS8Fjh8
 

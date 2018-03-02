@@ -2,15 +2,26 @@
 Posted on **2017-01-28 20:11:23** by **garyw17**:
 
 Hello all,
+
 Since I didn't make the cutoff for kickstarter kits, I decided to give it a go and see if I could make something work.  After lots of internet searching, I found a motor that looks like it might work.  The Pololu 25D with a 227:1 gearbox puts out 1.7 ft-lbs of torque, has a max speed of 33 rpm, and has a built in encoder with over 10,000 counts per rev.  I bought a couple of them along with an L298 dual H bridge motor controller and an Arduino mega.  I downloaded the latest version of firmware and ground control software, and had no problem getting python, etc, installed and running on my Windows 7 PC.
+
+
 
 I connected the motors and encoders up according to the pinout listed in CNC_Function.h    I then wrote a simple sketch to drive either the left or right motor based on a pwm value, and used the encoder library included with the firmware download to look at the encoder output in the serial monitor.  That way I can tell when the pwm value drives the motor CW or CCW, and I can see whether it is accumulating a positive or negative rotation angle from the encoders. 
 
+
+
 Could someone please let me know what the required directions and signs are?  I.e., if I apply a pwm signal to the left motor, which way should it turn (facing the shaft), and should that be a positive or negative encoder angle: and same for the right motor.
+
+
 
 I have been experimenting today, and part of my trouble is I don't quite know what to expect.  I guessed at some sign conventions.  I find that when I upload the firmware to the Arduino, both motors oscillate a few times back and forth, then stop.  The same happens when I then launch ground control.  Typically at that point the white cross hairs are not on top of the red ones.  I think they are supposed to be?  But I figured that may just be because the PID gains are not set correctly for me, although I'm not clear yet on whether those gains update automatically some how, or I need to manually tune them somehow.  In any case, at that point if I use the manual move command, I see the red circle move, and then the white cross hairs moves off sort of randomly, rather than following it.  The position in ground control updates until the white cross hairs get way off the screen, at which point the position stops updating and the motors just spin continuously.
 
+
+
 I think the most likely problem is my sign convention, but if anyone has another idea please let me know.
+
+
 
 Thanks!
 
@@ -61,11 +72,17 @@ Hi, I'm in the same position as you (Missed the kickstarter so plan to build my 
 Posted on **2017-02-02 16:38:56** by **TomTheWhittler**:
 
 I am not sure that is the best motor to use. Being a direct geared reduction motor and not a worm driven geared motor it might be prone to movement/slippage with a heavy router attached when no power is being applied. You might be able to compensate by putting weights on the opposite chain end to lessen the weight of the router.
+
 I think a worm driven motor might be best like this one
+
 http://www.ebay.com/itm/High-Torque-Turbo-Worm-Gear-Motor-100RPM-DC24V-3-43NM-GW6280-with-Sensor-DIY-New/112043801280?
+
 but I am not recommending that one as I have not gotten one to tear apart to see the construction. The cheap worm drive one I did get :
+
 http://www.ebay.com/itm/262494873809?
+
 has metal gears but a plastic worm drive gear off the motor shaft. It would not last long trying to drag a router around.
+
 Perhaps Bar has more insight as I am sure he experimented with a bunch of motors before deciding on a custom made motor.
 
 ---
@@ -80,6 +97,8 @@ Posted on **2017-02-02 18:23:00** by **kiwimaker**:
 
 Thanks for the quick reply.  I'm going to go with these: https://www.surplustronics.co.nz/products/4752-maxon-dc-geared-motor-with-encoder-and-gearbox- 
 
+
+
 They're available locally for me and seem to be very good quality.  RS components sell the motor, gearbox and encoder for over $1000
 
 ---
@@ -87,6 +106,8 @@ They're available locally for me and seem to be very good quality.  RS component
 Posted on **2017-02-02 22:24:09** by **davidlang**:
 
 a good source for cheap geared motors (no built-in encoder, but that's not hard to add)
+
+
 
 http://www.allelectronics.com/category/400400/motors/dc-gear-motors/1.html
 

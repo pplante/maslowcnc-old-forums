@@ -3,7 +3,11 @@ Posted on **2017-03-28 16:16:36** by **carlosrivers**:
 
 Hey I think it would be a great tutorial if we could have a video walk through of taking a DXF file and turning into G-code. I think a lot of people on this forum would greatly benefit from it. I've seen a maslow video, but there was some parts that still confused me.
 
+
+
 There's a lot of great designs on this website, like this bed frame.
+
+
 
 http://atfab.co/?portfolio=silver-lining-bed
 

@@ -3,6 +3,8 @@ Posted on **2017-02-22 11:17:15** by **carlosrivers**:
 
 How useful do you guys think a cnc would help in making a pool table?
 
+
+
 Also I was thinking for the top table part where the pool balls go (and has to be totally level), could a bar top epoxy work as a self leveling material?
 
 ---
@@ -34,8 +36,11 @@ Posted on **2017-02-25 11:03:20** by **carlosrivers**:
 Posted on **2017-02-25 14:04:45** by **jamesbil**:
 
 For a pool table you need two things, level and dead flat.
+
 If you use heavy mdf, you will be spoiling a perfectly flat surface by pouring levelling compound over it to achieve something very easily done with simple ready available feet.
+
 I have used cement based compounds quite a lot in the construction industry, and while they are great for levelling a floor prior to tiling, I would not say that it is flat enough to play pool on. The cement based ones can develop pinholes as it dries. It is more for "over all" level, to take the worst out of a floor, than dead flat and level.
+
 Plus if you move the table, you have to level it again anyway.
 
 ---

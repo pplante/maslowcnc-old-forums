@@ -9,11 +9,19 @@ Posted on **2017-06-07 18:31:14** by **willishf**:
 
 We have  built and began testing of maslow cnc where because we do robotics for middle/high school we already had a collection of motors with encoders. Using neverrest motor that you can purchase from andymark or servocity with 256:1 planetary gear box(banebot). We went through the dimension calibration but didn't see anything in user interface to adjust for different motors. For the z-axis it had adjustment for distance traveled to accommodate different routers. 
 
+
+
 When we tested in the Y direction(going up) the distance was fairly close to the distance asked to move. When going the same distance in the X direction it was off by 3X. The repeatability of going in the opposite direction and returning to the same spot was very good. 
+
+
 
 Looking for guidance on how to calibrate for a motor with different gear ratio and potential different ticks per revolution for motor encoder. Have no problem editing arduino code if that is the place to make the adjustments. Didn't hav e time to look at code before it was time to go home. 
 
+
+
 Short video of the first movement test. 
+
+
 
 https://goo.gl/photos/LKn1ZRJ4zYXYiTgF7
 
@@ -23,9 +31,15 @@ Posted on **2017-06-07 19:15:54** by **scottsm**:
 
 I think what you’re looking for is in the firmware file CNC_functions.h:
 
+
+
 #define ENCODERSTEPS   8148.0 //7*291*4 --- 7ppr, 291:1 gear ratio, quadrature encoding
 
+
+
 Not sure, but I think that’s worth a try :)
+
+
 
 It looks like you’re very close to having a working unit, keep us informed on how it goes. Do you have model numbers or links for those motors?
 
@@ -34,6 +48,8 @@ It looks like you’re very close to having a working unit, keep us informed on 
 Posted on **2017-06-07 19:17:25** by **davidlang**:
 
 the settings you are looking for are in Kinematics.h and CNC_Functions.h
+
+
 
 specifically for the encoder, look for ENCODERSTEPS in CNC_Functions.h but you should look through both for the various definitions for machine dimensions.
 
@@ -49,17 +65,31 @@ Posted on **2017-06-08 14:20:02** by **willishf**:
 
 Yes the student working on this just informed me he found what was needed in advance settings.
 
+
+
 For the motors and they have built in encoders so you need the custom cable. You would order it without the gearbox or could use the 60 gear box and setup a 1:4 chain drive for a gear box. 
+
+
 
 http://www.andymark.com/NeveRest-s/550.htm
 
+
+
 http://www.andymark.com/product-p/am-2992.htm
+
+
 
 The 256-1 planetary gear box can be found at this link where you may need a different press on gear to make it work plus grease. If you call andymark they will know the details. Videos on youtube how to put it together. Not hard if you know what you are doing. 
 
+
+
 http://www.andymark.com/Banebots-P60-256-1-Planetary-Gearbox-p/am-2878.htm
 
+
+
 Any consideration for using stepper motors for precise control?  100:1 gearbox on stepper motor is $53 at amazon. http://a.co/j0Ql6wq Changes the motor controller requirements but plenty of those options in CNC space. 
+
+
 
 The larger value of this project is an ar duino hat that can handle more than 1 amp motor load with built in support for encoders. I think you could get that board on adafruit and sell a few of them.
 
@@ -75,7 +105,11 @@ Posted on **2017-06-08 15:44:04** by **davidlang**:
 
 a planetary gear box can be back-driven, which means that when the motor is not being driven, the weight of the sled can cause the output shaft to move. This can be a problem.
 
+
+
 a worm gear setup cannot be back driven, so it's much better for this use.
+
+
 
 Yes, software can handle the change from brushed DC motors to steppers, someone just needs to write it  (patches welcomd :-) )
 

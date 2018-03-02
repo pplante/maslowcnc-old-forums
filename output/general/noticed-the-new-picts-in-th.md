@@ -9,7 +9,11 @@ Posted on **2017-07-02 23:09:07** by **davidlang**:
 
 I suspect that most people won't bother with the plywood parts of the arms as they are purely cosmetic.
 
+
+
 The screws are an issue, but I'd bet that these are the smallest ones they stocked for the kit, possibly putting a second layer of plywood on the bottom of the motor mount will solve this (and if it's shaped to match the top part, just shorter, it also will serve as a guide to mounting it straight.
+
+
 
 I noticed that the front plywood for the arm has a dogbone in it to handle the sharp edge of the mount. But the dogbone is done my cutting 1/2 the bit diameter continuing the short edge. If you instead cut diagonally away from both edges, you only have to cut .115 times your diameter ((1-sqrt(2)/2)  x radius) since .115 is harder to keep track of, think that you only have to cut 1/4 the bit radius instead of the full radius to make room for the corner.
 
@@ -25,11 +29,19 @@ Posted on **2017-07-03 08:24:52** by **Bar**:
 
 Great recommendations!
 
+
+
 @davidlang is regrettably correct, we just shipped two sizes in the box so we're a little stuck. We could add a note recommending using shorter screws if people have them, oraybe add a second layer of plywood? We will add some which are shorter in the future.
+
+
 
 Rounding off the point corners is a great idea, and I've made that change to the model. I'll need to regenerate the .Svg files.
 
+
+
 I agree that having the 2x4 showing is not asthetically pleasing, but I tried it with a square end and I thought it was uglier that way. Do you think it would be reasonable to ask people to cut off the 2x4 corner? 
+
+
 
 @scottsm is right that the real goal of the arm covers is to ensure that the arms end up symetical. I've tried to design the frame with as little measuring as possible :-)
 

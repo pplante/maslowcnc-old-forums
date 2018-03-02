@@ -3,6 +3,8 @@ Posted on **2017-01-21 08:24:35** by **jbnimble**:
 
 Found this tool for creating SVG files via JavaScript (http://paperjs.org/). It does way more than creating SVG's, but could be a useful tool, and can be downloaded and used offline.
 
+
+
 Found it from this [fractal headboard](http://www.instructables.com/id/LED-CNC-Fractal-Headboard/?ALLSTEPS) build, which is quite neat.
 
 ---

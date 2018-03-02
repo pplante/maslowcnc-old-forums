@@ -9,6 +9,8 @@ Posted on **2017-03-30 17:00:23** by **Bar**:
 
 Great question.
 
+
+
 You are looking for the "Zero Z" button near the arrow keys in Ground Control. It will set the z-axis position to 0 so the intended use is to jog the z-axis down until it touches the surface of the wood, then click "Zero Z" to let the machine know where the surface of the wood is.
 
 ---

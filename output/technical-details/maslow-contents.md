@@ -9,7 +9,11 @@ Posted on **2016-11-18 04:38:38** by **boblq**:
 
 Instead of a motor sensor why not build an LED + Photo sensor based system that simply looks through the chain. The digitized output feeds into the main computer and is interpolated to provide feed back on the chain position. Software and hardware are both simple. 
 
+
+
 Then use inexpensive highly reliable mass produced DC motors like wind shield motors to further reduce the cost. DIY robots use these motors quite effectively. 
+
+
 
 BTW, great project, brilliant work BAR.
 
@@ -19,7 +23,11 @@ Posted on **2016-11-18 10:09:03** by **Bar**:
 
 I used AMS encoders (http://ams.com/eng/Products/Magnetic-Position-Sensors/Angle-Position-On-Axis/AS5145B) on the output shaft on early versions of the machine which would be much easier to DIY. Make sure you get the 8mm magnet, because then it will press fit into the sprocket on the 8mm shaft so alignment is not an issue. 
 
+
+
 That encoder is quite a bit lower resolution than the ones we're using now, but it is high enough to work. 
+
+
 
 -Bar
 

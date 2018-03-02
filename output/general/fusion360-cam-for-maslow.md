@@ -3,6 +3,8 @@ Posted on **2017-04-23 18:59:05** by **rancher**:
 
 I made you guys a thing.  It's my first try with the screen recording stuff, and the audio is terrible.  Sorry!  Hope it helps.
 
+
+
 https://youtu.be/5UbAr7VcK4U
 
 ---
@@ -10,6 +12,8 @@ https://youtu.be/5UbAr7VcK4U
 Posted on **2017-04-23 19:44:31** by **Bar**:
 
 That's fantastic! Thank you for making the video of the process. 
+
+
 
 I know Hannah has been working on figuring out Fusion 360 so I'm sure she'll love seeing this and if it's OK with you I'd like to pass it along to the people at Autodesk. I'm sure they know how to use the software, but I think showing that you are using it and helping others to use it with Maslow would lend more weight to our push for  a Maslow post processor.
 
@@ -43,7 +47,11 @@ Posted on **2017-04-24 14:06:35** by **hannahteagle**:
 
 this is amazing!!! thank you so much for taking the time :)
 
+
+
 a couple of questions - did you create that piece in fusion 360 on your own or was the a file that you downloaded and then opened in 360? second thing - did you actually open that .nc in ground control and make a successful cut with it?
+
+
 
 again, you rock for putting the time into that.
 
@@ -53,6 +61,8 @@ Posted on **2017-04-24 16:05:13** by **rancher**:
 
 I created that piece in Fusion 360, and I'd be happy to do another tutorial to show you how if you like.  
 
+
+
 I have not yet cut that part successfully since we only just got online with accuracy and all that, but I have used that method on my little mail box project from design to cut, finished object.  It seems to be working.
 
 ---
@@ -60,6 +70,8 @@ I have not yet cut that part successfully since we only just got online with acc
 Posted on **2017-04-24 16:14:02** by **hannahteagle**:
 
 Yeah Bar showed me that mailbox. That thing is sweet! 
+
+
 
 If you're open to making another tutorial I think that'd be great. This one is really good and I'm sure everyone would appreciate the content.
 

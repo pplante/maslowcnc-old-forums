@@ -3,6 +3,8 @@ Posted on **2017-05-05 21:13:26** by **fly-fast**:
 
 I'd love to see what people have created with there Maslow.  If you've built something cool, can you please post a picture and a link to download the associated gcode?  
 
+
+
 The Disney themed chair by blsteinhauer88 is outstanding.  Does  anyone know if this code is publicly available?
 
 ---
@@ -16,6 +18,8 @@ I was wondering something similar. Does anyone know of any websites that provide
 Posted on **2017-05-06 09:31:23** by **Bar**:
 
 I feel like we've all gotten sucked into the hole of calibrating. I know I have.
+
+
 
 This is a good prompt to get back into building things.
 

@@ -3,7 +3,11 @@ Posted on **2017-04-02 07:47:31** by **rancher**:
 
 I'm running a non standard frame at the moment, and am experiencing some significant accuracy errors as I move away from the origin.  I have adjusted my offset settings as best I can and I can't quite get it.
 
+
+
 I'm assuming that the settings default to the proper frame size, and the machine is accurate at those dimensions.  I intend to modify my frame to those dimensions for my next cuts.  
+
+
 
 I brought this up to open up the dialog again about accuracy and machine dimensions, and to get verification that most likely that is my issue.  As well, if someone could post the actual motor offsets in ft/in, and appropriate settings values, I would be forever grateful.  Thanks all.
 
@@ -13,6 +17,8 @@ Posted on **2017-04-02 08:04:33** by **Bar**:
 
 That might not be a just you issue. I had everything pretty dialed in for my machine originally, but everyone else was seeing oval circles. When I changed the way the measurements are done it fixed the problem of everyone getting really oval ciecles, but now when I cut a new circular sled it's off by about 1/16th to 1/8th inch which it wasn't before. I haven't tested at the extremes of the bed yet, but I'd assume it's worse there.
 
+
+
 It might be worth filing a bug in the firmware for this, because it's something we need to look into.
 
 ---
@@ -20,6 +26,7 @@ It might be worth filing a bug in the firmware for this, because it's something 
 Posted on **2017-04-02 08:26:59** by **scottsm**:
 
 I see the same kind of accuracy issue. I'm hot to help address it.
+
  What would you like for information in the issue? Should we create and use a standard 'check shape'? What shape would be simplest, quickest most informative to test with - circle, square or rotated square, or dogbone for instance? Would you like measurements taken from the center of the work area as well as the four corners? Which measurements will be the most helpful, which not? Should we do a motor cal at each location?
 
 ---
@@ -34,6 +41,8 @@ Posted on **2017-04-02 08:47:42** by **Bar**:
 
 @scottsm I have been testing with a circle because it is an easy shape to measure inacruacy in, a square could also work well. I've also been playing around with the idea of using the machine to draw a grid across a very large piece of paper, that way we could "see" the distortion in an intuitive way.
 
+
+
 @rancher I didn't change the machine dimensions, just the way the calculations in the firmware are done. The default values are still my machine dimensions. In theory the changes I made shouldn't have changed how the underlying math works, just how the setup is done, but that's only in theory.
 
 ---
@@ -41,6 +50,8 @@ Posted on **2017-04-02 08:47:42** by **Bar**:
 Posted on **2017-04-02 08:54:01** by **rancher**:
 
 Okay, great, thank you.  I wasn't clear due the "crossbar" temp version you had posted way back at the start of all this.  So, you are getting accuracy issues on the standard size frame as well?  I see.  
+
+
 
 I didn't/don't want to put you onto another issue before everyone else is up to speed on assembly, which is why I was hoping to just modify my frame.
 
@@ -55,6 +66,8 @@ I've got a roll of 44" wide butcher paper, I can chuck up a pencil and plot a gr
 Posted on **2017-04-02 09:29:47** by **Bar**:
 
 Y'all are awesome. I have no idea what I did to deserve this incredible group of beta testers. Thank you.
+
+
 
 I think we could start pretty corse with maybe 1 foot squares with the goal of getting a sense of where the distortion is concentrated. The feedrate shouldn't matter too much, but I would keep it at around 20ipm just so we know we're really seeing the kinematics and not the feedback control system when we see distortion.
 
@@ -123,7 +136,9 @@ The more I think about it, the more this feels like a feedrate issue. Does that 
 Posted on **2017-04-02 20:16:03** by **rancher**:
 
 > @davidlang
+
 > what size frame did you use?
+
 I used a crossbar that is 10' long so the Horizontal measurement is the same, but my height offset is lower than default at 370mm.
 
 ---
@@ -210,6 +225,8 @@ Posted on **2017-04-03 22:38:25** by **davidlang**:
 
 the maslow theoretically will dow 48 ipm with the current configuration/hardware.
 
+
+
 Once I get mine, I'm going to experiment with larger sprocket on the motors, since they have more resolution than they will ever need, and have enough power with the standard gears to rip a sled to pieces, using a larger sprocket that trades resolution and power for speed should be a win.
 
 ---
@@ -223,7 +240,9 @@ Posted on **2017-04-03 22:56:07** by **Bar**:
 Posted on **2017-04-03 23:16:02** by **jbarchuk**:
 
 > @scottsm
+
 > They all came out slightly stretched in the vertical direction, typically 12.125” high and 12" wide.
+
 Aside from dimension off a little, are all the lines straight and corners square? (You can get accurate gauge of squareness by measuring diagonally across opposite corners, and they should both be equal.)
 
 ---
@@ -232,9 +251,15 @@ Posted on **2017-04-04 00:43:25** by **davidlang**:
 
 I also would have expected differences in the distortion at different places. The distortion we've seen so far seems to be from the match not matching reality, so the amount of chain let out mispositions the bit/pen.
 
+
+
 the fact that it's off so consistancly makes me think there's an error in the math and we have some other error that counters it in our common dimensions.
 
+
+
 can you try deliberately distorting the config values and see if everything is still a consistent error?
+
+
 
 the critical values should be the distance between the motors, the distance between the sled attachments, and to a much lesser degree the distances down to the bit and the center of gravity of the sled. (I would expect errors on these last two to make the lines a little wavy horizontally as the tilt of the sled is miscalculated)
 
@@ -243,9 +268,13 @@ the critical values should be the distance between the motors, the distance betw
 Posted on **2017-04-04 01:15:09** by **jbarchuk**:
 
 > @scottsm
+
 > They all came out slightly stretched in the vertical direction, typically 12.125” high and 12" wide.
+
 Another Q. I know you're using a pen but what size is your router bit set to? If my guess of 1/4" is right then it's an 'off by 1 radius' error.
+
 The next question is whether it's in the +y or -y quadrants, or both.
+
 The way to find that is to draw an x at the center of the square, and see if one side (top or bottom) is 1/8" oversize, or possible split between the two (meaning each top/bottom half being 1/16" oversize.)
 
 ---
@@ -259,7 +288,9 @@ I suspect that he's using plain g-code, not something that involves defining a b
 Posted on **2017-04-04 07:03:00** by **rancher**:
 
 > @scottsm
+
 > I've plotted a grid of twelve 12“ squares
+
 Scott, would you kindly share that gcode?  Perhaps it could be incorporated into the Ground Control zip with the example gcode files.
 
 ---
@@ -267,6 +298,8 @@ Scott, would you kindly share that gcode?  Perhaps it could be incorporated into
 Posted on **2017-04-04 14:41:08** by **Bar**:
 
 I started working on the next step in the instructions and immediately ran into this problem. I'm getting very oval circles on my temporary frame. I tested very carefully that I was getting consistently round circles last week so it's a bit of a mystery what changed at this point. My results back up what @scottsm saw with the error being consistent across the work area. I cut two circles one at the very center and one at the right side and they both came out with  [similar dimensions](//muut.com/u/maslowcnc/s1/:maslowcnc:WI40:similardimensions.jpg.jpg) but both were  [very oval](//muut.com/u/maslowcnc/s1/:maslowcnc:zXyA:veryoval.jpg.jpg) .
+
+
 
 I'm going to try to play around with it more and see if I can figure out what is going on.
 
@@ -276,9 +309,15 @@ Posted on **2017-04-05 08:34:18** by **scottsm**:
 
 I've written up the pen plot data [here](//muut.com/u/maslowcnc/s3/:maslowcnc:Kp9e:penplotdata.png.jpg). I had trouble with the z-axis so I had to change one square to avoid the tear, and the crushed pen tip made very wide lines - hard to get accurate numbers from fat lines.
 
+
+
  I made a version to cut outside the lines with a 1/8"bit and the [result](//muut.com/u/maslowcnc/s3/:maslowcnc:i0kH:img_0482.jpg.jpg) was surprising at first. The [left](//muut.com/u/maslowcnc/s3/:maslowcnc:dlKb:img_0485.jpg.jpg) and [right](//muut.com/u/maslowcnc/s3/:maslowcnc:AjTe:img_0483.jpg.jpg) edges were unusable and the [top center](//muut.com/u/maslowcnc/s3/:maslowcnc:z2P2:img_0484.jpg.jpg) kept jumping the sprocket of the left motor - notice the stairstep path.
 
+
+
  The [accuracy](//muut.com/u/maslowcnc/s3/:maslowcnc:nB7A:routerdata.png.jpg) in the center and lower middle is quite good, though. I'm not sure why the pen was able to work in places the bit didn't. It was chucked up in the router, but not spinning. The machine is still the 'beginner model', so it's only 3010mm wide and 422mm to the motors. I used the main software branches as of the evening of 4/1. The plywood workarea sheet has 1.5" of bow across the width, and the ply I was routing was warped as well; I had to tack it down to the workarea sheet.
+
+
 
  I’m going to have to plan how to get the large arm  parts cut out of the ‘sweet spot’ of the work area, and I think I’ll try to have a flat workarea on my final machine.
 
@@ -306,15 +345,27 @@ Posted on **2017-04-05 10:40:02** by **Bar**:
 
 What a fantastic and thorough test! Awesome work.
 
+
+
 It seems like you are getting better accuracy than I am right now. You results seem pretty in line with what I've seen on the temporary frame in the past, but now I'm getting VERY oval circles. What are all of your setting values? I want to try to replicate your results to figure out why I'm getting such stark ovals. 
+
+
 
 I think that the squares that didn't come out fall into three issue categories.
 
+
+
 1) Chain skipped (top center and corners) - Plan to fix: adding a second roller to increase the amount of chain wrapped around the sprocket and keeping the chain "in plane" so making sure the motors are in line with the chain mounting points on the sled, and that the extra chain is pulled into plane by the bungee
+
+
 
 2) Not enough tension in long chain (bottom left and right) - Plan to address: reducing friction between the sled and the wood, changing the angle of the frame to reduce friction between sled and wood, moving where chains mount on sled to increase the righting force.
 
+
+
 3) General distortion. Plan to address: Improve s elf measuring of machine? Add a calibration routine which is independent of entering measurements? 
+
+
 
 I've tested the adding a second roller to increase the amount of chain wrapped around the sprocket using a nylon spacer from the hardware store with good results. I haven't had the chain skip since adding it. Has anyone else experimented with a slicker sled surface or changing the angle of the frame and seen an improvement?
 
@@ -323,25 +374,45 @@ I've tested the adding a second roller to increase the amount of chain wrapped a
 Posted on **2017-04-05 12:06:48** by **scottsm**:
 
 My motors are at the ends of the 10' 2x4 as in the pictures' the 2x4 bottom is 12" from the edge of the sheet. My settings are:
+
 [Maslow Settings]
+
 openfile = 
+
 motoroffsety = 422
+
 sledwidth = 322
+
 bedwidth = 2438.4
+
 comport = /dev/tty.usbmodem1461
+
 zaxis = 1
+
 sledcg = 85
+
 zdistperrot = 3.17
+
 bedheight = 1219.2
+
 sledheight = 130.6
+
 motorspacingx = 3010
 
+
+
 [Advanced Settings]
+
 gearteeth = 10
+
 encodersteps = 8148.0
+
 zencodersteps = 7550.0
+
 chainpitch = 6.35
+
  
+
 I've tried a 'pre-roller', but on the slack end. The jumps I saw were on the taught end, the rollers did not prevent the jump. My sled is the circular pattern made to the plan with a 1/8" UHMW face rounded over at a 1/16" radius. The frame is at 17 degrees from vertical.
 
 ---

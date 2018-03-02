@@ -9,6 +9,8 @@ Posted on **2016-10-14 21:53:41** by **Bar**:
 
 Thank you! Safety is super important. I've never seen the router come even close to jumping. The chains hold it very rigidly in place. Something I was worried about is what happens if someone sets the feedrate really high and the depth of cut really deep, so I tested that. What ended up happening was almost nothing. The cut was ugly as can be, but that was pretty much all. 
 
+
+
 Over all I'd say the machine is a lot safer than using a router by hand or even in a router table. It's still a power tool, and it's important to treat it with the proper respect, but I've never seen it jump in any significant way
 
 ---

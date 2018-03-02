@@ -9,7 +9,11 @@ Posted on **2017-05-24 11:01:58** by **davidlang**:
 
 what do you mean by 2x12" 
 
+
+
 by default, the maslow uses a 2.5 HP motor, going to 1.5" deep will require that you have a very long bit, probably something larger than 1/4" diameter :-) figure out how well a router will go through that material and then you can plan your feed rate (or just experiment and see how fast you can go)
+
+
 
 Going to a water cooled spindle will mean that you have more 'stuff' hanging off the sled that you need to make sure doesn't generate too much tension on the sled or it can impact accuracy.
 

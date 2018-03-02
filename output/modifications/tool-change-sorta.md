@@ -3,9 +3,15 @@ Posted on **2017-01-26 15:27:29** by **chauhuh**:
 
 I was thinking about tool changes and how that might look and I was wondering what others thought. Obviously the original wasn't planned with this in mind but here goes.
 
+
+
 If a sled was designed to be able to hold two routers/spindles you could have two cutters. The software would need to be able to account for the offset and you would probably lose some cut space on the outside of the cutting piece. I believe the routers would have to be placed vertically aligned...
 
+
+
 I just thought that this might be easier to implement than actually swapping tools.
+
+
 
 Thoughts?
 

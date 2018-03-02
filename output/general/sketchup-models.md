@@ -3,6 +3,8 @@ Posted on **2017-03-28 15:57:59** by **tmaker**:
 
 Hello - 
 
+
+
 I downloaded the Machine.skp file from Github thinking that this was a Sketchup file but when I try to open it with Sketchup 2017 it just gives me a "This does not appear to be a SketchUp model!" error.  So my questions are 1) Is this a Sketchup file? and 2) If so, is there a special way that I should be loading this into Sketchup to view it?
 
 ---
@@ -34,6 +36,8 @@ Oh! Well that is odd... I'm not at home or I would download them and try them my
 Posted on **2017-03-28 16:11:37** by **tmaker**:
 
 Ah it looks like the right-click method doesn't work.  If I download the entire Mechanics master branch as a zip file, extract the zip, then open the files from there, it works as expected. 
+
+
 
 However, I do get this version warning message as I assume that I'm running a newer version of Sketchup: "This model was last saved in version 16.1.1449. If you save it with the current version you will no longer be able to load it in the previous version."
 

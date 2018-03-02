@@ -3,11 +3,19 @@ Posted on **2017-07-17 14:28:19** by **Bar**:
 
 Last week it was pointed out by a number of our most active forums users, that the Muut system we have been using for forums is not well suited to our needs as the community grows and that it was time for a new forums. 
 
+
+
 We heard you guys, and after much time trying to guess the password to access our DNS settings :-) I'm really excited to let everyone know that the new forums are up and running (mostly) over at http://forums.maslowcnc.com/
+
+
 
 The new system is based on discourse.org and gives us a lot of the features we've been missing like the ability to make threads we don't want to get lost sticky or @ mentions that we use anyway, but which will actually notify us now.
 
+
+
 Almost all of the content over at http://forums.maslowcnc.com/ right now is stuff that was auto-populated, but head on over there and claim your user name (or claim someone else's! I think I'm going to be @gero :-p from now on. Just kidding, don't actually do that :-) )
+
+
 
 Let us know what you want to see, and let's settle into our new home!
 
@@ -41,21 +49,38 @@ Posted on **2017-07-17 22:30:43** by **noexit**:
 
 Tried to register with Google, got an error.
 
+
+
 400. That’s an error.
+
+
 
 Error: invalid_request
 
+
+
 Missing required parameter: client_id
+
+
 
 Learn more
 
+
+
 Request Details
+
 access_type=offline
+
 client_id=
+
 redirect_uri=http://forums.maslowcnc.com/auth/google_oauth2/callback
+
 response_type=code
+
 scope=email profile
+
 state=f1ca0c711c6af781f4a4aee90ce570da83ed6d58799fed2b
+
 That’s all we know.
 
 ---
@@ -94,6 +119,8 @@ Posted on **2017-07-18 10:36:51** by **Bar**:
 
 Good spot! I think I need to configure those on my end for them to work properly. Thanks for the head up, I'm on it!
 
+
+
 Especially thanks for the link to exactly what to change @TheRiflesSpiral
 
 ---
@@ -101,6 +128,8 @@ Especially thanks for the link to exactly what to change @TheRiflesSpiral
 Posted on **2017-07-18 11:26:44** by **bdillahu**:
 
 I assume you'll include this in the weekly email, but you might want to make the swap after the next note?
+
+
 
 Just a thought...
 

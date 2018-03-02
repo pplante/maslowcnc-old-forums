@@ -2,11 +2,18 @@
 Posted on **2017-04-16 15:06:25** by **rexklein**:
 
 1. Adding the furniture pads really helped the the @Rex frame.
+
 2.It would be really cool if there was some kind of measurement order list for example if your getting ovals then check this etc. How about creating a maslow.nc pattern with a know pattern maybe a square and a circle from this known cut if it's oval check this or if it is not level check that etc.
+
+
 
 3. Sprocket sensitivity I am thinking of making a very adjustable motor mount to get the vibrations out of the chain. As tension increases I get more vibration.
 
+
+
 Finally here is my progression pic. 
+
+
 
 https://goo.gl/photos/cxUnnzyALs9hx6XF9
 
@@ -33,10 +40,15 @@ I think a square, it would be easy to measure the sides and corners with a 90 de
 Posted on **2017-04-16 17:59:57** by **jbarchuk**:
 
 Carlosrivers, exactly-exactly. I'd thought about this before, seeing all the circles folks were cutting, but didn't think about it enough to mention it.
+
 A square is drastically easier to eyeball-measure than a circle. With a circle it's harder to find the two 'opposite points' that define the diameter. Not impossible of course, but the square is purely easier.
+
 Further, a circle could be egg shaped by a few mm, with different radii at different points, and that effect be nearly invisible.
+
 Further, the egg could be rotated a couple of degrees and be nearly invisible.
+
 A faulty square could have several faults and come out as a parallelogram or trapezoid, or even have curved edges. Those non-90 degree angles are much easier to gauge and measure.
+
 The story I heard many years ago was that when the ancient Greeks first thought about optics they started by trying to study spheres because they *thought* it was the cleanest, simplest shape. Turned out that of the simple sha pes it's actually the most complex in the geometric sense, and they never got very far with it. Or at least not as far and fast and they -could- have if they'd started out with simpler cubes. and triangles.
 
 ---
@@ -80,6 +92,8 @@ I like the idea of not going all the way through. So how about a square with a c
 Posted on **2017-04-17 08:56:51** by **davidlang**:
 
 @rexklein, the problem is that the distortions are in the way the maslow is positioning things, having it cut multiple shapes is not going to let you see the flaws because all the shapes are going to be off by the same amount
+
+
 
 a square that can easily be measured and checked for square (measuring from opposite corners) is what's needed
 
@@ -137,6 +151,8 @@ Posted on **2017-04-18 08:50:58** by **Bar**:
 
 I used the measurements off the knob on the router. I believe each rotation was marked as 1/8th inch so I just converted that length to mm and entered it as the thread pitch. 
 
+
+
 I've found it to work well with the exception that it's important to keep in mind that an up spiral bit will pull the router into the wood so any backlash in the router adjustment will be taken up in the into the wood direction. That's important when setting the z-axis zero point.
 
 ---
@@ -162,12 +178,20 @@ Good to know. Explains why the "Home" button steps out so far before traversing,
 Posted on **2017-04-18 10:26:00** by **jbarchuk**:
 
 > @Bar
+
 > important to keep in mind that an up spiral bit will pull the router into the wood so any backlash in the router adjustment will be taken up in the into the wood direction. That's important when setting the z-axis zero point.
+
 *Emphasis!!!* This is related to a recent comment about how important 'new user' docs will be as regards cal and ops and saving support time. This whole project has MORE UNCONTROLLED VARIABLES than any other project I've ever seen. Between routers, bits, materials, speeds, frame design and build, no two machines will ever be the same. Similar but not identical. The more variables that can be described and explained in the docs, the easier user support will be.
+
+
 
 For users for whom z-depths are important (or even critical) I think it's very important to describe as many of these effects as possible in the z-cal docs. Touching the (stationary) router bit to the working surface does not suffice. Materials such as flakeboard have an extremely variable surface. Other materials such as plywood will have a more regular surface, but there will still  be variation based on whether it's a solid soft or hard wood, or plywood. A -test- cut using MDF or falkeboard, and then a -final- cut on plywood, will have varying effects.
 
+
+
 Z-cal will require running the motor and doing plunges and measuring them, recording notes, and doing similar tests for different bits/materials.
+
+
 
 *IDEA* Rather than the user keeping manual records of this, how about the GC keeps a user-managed table of bits/materials? The user names a material, and the cal process keeps record of them? When the user cuts something, the GC displays the material it's using the calibrations as previously recorded. Should I write an issue? Or is this too much work -and- too much variability that there's a threat of Useless Feature Creep?
 
@@ -183,7 +207,11 @@ Posted on **2017-04-18 10:54:07** by **Bar**:
 
 @scottsm I think upping the z-axis lift to .2 is a great suggestion. Do you want to make a PR for it or should I just change it?
 
+
+
 @jbarchuck I couldn't agree more that we need more user documentation about how to get started. I think we need to walk the line between the fact that if we write too much a lot of people won't read it all, and not saying enough. I think maybe a concise "Getting Started" wiki page which has links to other pages with more details. Eg "What kind of router bit should I use? Use a 1/4 inch up spiral, or click [here](www.google.com) to learn about other options"
+
+
 
 I'd like to keep GC as simple as possible for now because like you said, there are already SO MANY new things to explore. I do think that a materials GitHub page so that we can all share experiences would be a great idea though.
 
@@ -192,6 +220,8 @@ I'd like to keep GC as simple as possible for now because like you said, there a
 Posted on **2017-04-18 11:23:12** by **rancher**:
 
 Look what I just did.  Downforce!
+
+
 
 [DownZ1](//muut.com/u/maslowcnc/s2/:maslowcnc:PN49:downz1.jpg.jpg) [DownZ2](//muut.com/u/maslowcnc/s2/:maslowcnc:frmL:downz2.jpg.jpg) [DownZ3](//muut.com/u/maslowcnc/s2/:maslowcnc:NG2Z:downz3.jpg.jpg)
 
@@ -218,8 +248,11 @@ Posted on **2017-04-18 12:10:00** by **rexklein**:
 Posted on **2017-04-18 12:18:59** by **jbarchuk**:
 
 > @rancher
+
 > Look what I just did. Downforce!
+
 *BAR!! LOOK AT THIS!!! IT'S A GAME CHANGER!!!* THE ROUTER Z-AXIS BACKLASH WAS THE ONLY UNCONTROLLABLE/UNMEASURABLE BACKLASH ITEM IN THE WHOLE SYSTEM!!! THIS IS A MEGA-FIX!!!
+
 Rancher, You are SOOOO LUCKY that you wrote 'just did.' I've thought about this literally for months. But being a metals-mechanical kinda guy all I could think about was springs, levers, adjustment screws and all that complicated crap. *IF* you had said, 'Oh, yeah, I did this weeks ago...' I woulda had to box you SEVERELY about the head and shoulders, and I HATE any kind of violent activity. Instead... (back in a few minutes...)
 
 ---
@@ -251,7 +284,9 @@ they can be zeroed at any point of extension.
 Posted on **2017-04-18 13:29:02** by **jbarchuk**:
 
 > @scottsm
+
 > can you give me any tips or pointers?
+
 Not really. I'm better at seeing -potential- problems or issues than sometimes finding fixes. A solid state pressure gauge is also an option. A kitchen scale with a 5# or 10# range should work. It doesn't take much pressure to hold the router down. That's static testing though -- with the route running and chains pulling there a a billion milligrams of pressures flying in all directions. Very tiny distances, but measurable enough to confuse an analog or digital gauge. With a scratchbuilt digital gauge software could dampen and average the numbers, but that's a ton of work. Static should be good enough.
 
 ---
@@ -259,8 +294,11 @@ Not really. I'm better at seeing -potential- problems or issues than sometimes f
 Posted on **2017-04-18 13:32:48** by **jbarchuk**:
 
 > @rancher
+
 > Look what I just did. Downforce!
+
 I said I'd be back. Rancher, congratulations, you are the first recipient of the *Maslow User Contribution Gold Star Award!* (Pronounced 'mugs.') So I edited your icon. Here are two different file formats depending on what you need.
+
  [Rancher-icon-01](//muut.com/u/maslowcnc/s1/:maslowcnc:DOoY:ranchericon01.jpg.jpg) [Rancher-icon-01](//muut.com/u/maslowcnc/s1/:maslowcnc:GLxj:ranchericon01.png.jpg)
 
 ---
@@ -268,7 +306,9 @@ I said I'd be back. Rancher, congratulations, you are the first recipient of the
 Posted on **2017-04-18 13:37:33** by **jbarchuk**:
 
 > @scottsm
+
 > rigging a dial indicator
+
 SORRY! I MISREAD THAT! As I thought about it in the past I never had any concern over -distance-, only the -pressure- required to lock down the router. Once it's solid the backlash is zero. But the TRADEOFF is that anything we attach fights the penUP motion. There's a balance where enough is fine and too much will wear out threads muuuuch faster.
 
 ---
@@ -282,6 +322,7 @@ quick and dirty test move distance set to 100mm so I expected 10mm
 Posted on **2017-04-18 13:53:31** by **rexklein**:
 
 https://goo.gl/photos/aCTvPoNHWZ3Qh4UZ6
+
 https://goo.gl/photos/zfDupcWj2tyRgMnx6
 
 ---
@@ -337,7 +378,9 @@ Thanks, @Bar, that will do it. I can then measure the actual travel and update t
 Posted on **2017-04-18 15:26:09** by **rancher**:
 
 > @jbarchuk
+
 > Maslow User Contribution Gold Star Award!
+
 Well if that isn't the coolest thing!  Thank you!
 
 ---
@@ -345,7 +388,9 @@ Well if that isn't the coolest thing!  Thank you!
 Posted on **2017-04-19 08:29:48** by **jbarchuk**:
 
 > @rancher
+
 > Well if that isn't the coolest thing! Thank you!
+
 YVW. That really is an awesome mod and fixes a major problem.
 
 ---
@@ -354,7 +399,11 @@ Posted on **2017-04-19 09:01:24** by **rancher**:
 
 Okay gang, so....we have a test shape.  Now what?
 
+
+
 I just spent the last couple hours in the shop, tweaking parameters slowly, and trying to see a pattern and figure out how to dial in the accuracy.  I got nowhere.  My circle/square is wider than tall, and I could make it change a bit with the H and V offsets, but......I sure could not get it close enough to build something.  
+
+
 
 Does anyone have any clues on how to improve accuracy?  Do we have a plan for how we are going to get there?  I'm a bit lost as to the next step.  I was sorta hoping I just had to go beat my head against it and put the work in, but I cut a dozen of those little suckers and am no closer to a useable machine.  What's next?
 
@@ -376,7 +425,11 @@ Posted on **2017-04-19 09:46:52** by **Bar**:
 
 I'm in the same boat. It seems like some days are better than others and I have no idea why.
 
+
+
 The next step I'm working on is fully automating the calibration process with a step by step process in Ground Control which will look like  [this](//muut.com/u/maslowcnc/s3/:maslowcnc:B5t5:stepbystepprocedure.jpg.jpg) . All of the measurements will be done by the machine itself. I think that having at least a repeatable procedure where the last step is to cut a test shape will go a long way towards reducing variability. 
+
+
 
 I'm glad (well not glad) to hear that you are seeing the same behavior where what works one day might be off the next. I was worried that I was the only one seeing that issue because I keep changing everything about my machine so often. Maybe we should go back to hard coding the machine dimensions in the firmware as a test to see if something is going wrong with how the settings are sent to the machine? If we are truly seeing different results every day it would be nice to KNOW with absolute certainty that the math is being set up the same way every time.
 
@@ -403,9 +456,13 @@ I found it in Git Hub nevermind...
 Posted on **2017-04-19 10:04:59** by **scottsm**:
 
 One thing I noticed was that over night, the sled had 'crept up' so that the home position was 6" to 8" above the center. I had hung the sled on a nail with the chains slack. Do you leave your sled hanging? I wonder whether this is a factor? 
+
 These are the things I can see to try; any thoughts about which order to apply them? Any other things to check or try?
+
 - Verify measurements recorded in groundcontrol.ini
+
 - Recalibrate chain length, automatic
+
 - Wipe Eprom
 
 ---
@@ -414,7 +471,11 @@ Posted on **2017-04-19 10:14:31** by **rancher**:
 
 Hmmm, that's interesting about the overnight creep.  With slack on the router side, the tension side could have been slowly backing the chain down.   I thought the motors were locked when not powered, but maybe not.
 
+
+
 I agree with you Bar, that things got weird once the settings became a variable.  I also have a non standard frame, and even though I tried to copy your measurements, I feel I may be off by a few mm.  Due to that, I thought I might be able to adjust it out in the settings, but no luck so far.
+
+
 
 Perhaps the answer is not to try to make it perfect but to "stretch" it to fit?  I don't know anything about the firmware/software.  But is it possible to measure our shape, then push/pull X or Y to calibrate it.  It would seem that rather than worry about chains and position, it could be as simple as x1"=x1.12" or whatever.  Totally just brainstorming, that probably wouldn't work due to complicated stuff I don't understand.  There ya go though!
 
@@ -423,6 +484,8 @@ Perhaps the answer is not to try to make it perfect but to "stretch" it to fit? 
 Posted on **2017-04-19 10:20:57** by **Bar**:
 
 The motors are in theory locked when they aren't powered. There is a worm gear in the gearbox so it shouldn't be possible to back drive the motor from the shaft. That being said, if you saw it move then it moved and we shouldn't discount it. 
+
+
 
 I'm going to try to make a version of the firmware which has the dimensions hardcoded in the firmware and see what happens then.
 
@@ -456,6 +519,8 @@ Posted on **2017-04-19 10:45:35** by **Bar**:
 
 That's not a stupid question at all. I'm not sure. My guess would be that its a percentage, but I really don't know.
 
+
+
 I'm working through the same process right now. I just confirmed all the measurements, calibrated chain lengths and measured them, now I'm going to run the test cut.
 
 ---
@@ -470,13 +535,23 @@ Posted on **2017-04-19 11:13:53** by **Bar**:
 
 I've got good news and bad news. The bad news is that I definitely messed something up. I'm not sure what yet, but something in the math is wrong. The good news is that if you use the original values that the math was computed with the results are pretty good.
 
+
+
 Here are my test results:  [square-x](//muut.com/u/maslowcnc/s3/:maslowcnc:fOhI:img_20170419_105831366_hdr.jpg.jpg)  [square-y](//muut.com/u/maslowcnc/s3/:maslowcnc:F10b:img_20170419_105858474_hdr.jpg.jpg)  [circle-x](//muut.com/u/maslowcnc/s3/:maslowcnc:vKSs:img_20170419_105929898_hdr.jpg.jpg)  [circle-y](//muut.com/u/maslowcnc/s3/:maslowcnc:yP4x:img_20170419_110003070_hdr.jpg.jpg)  [Settings](//muut.com/u/maslowcnc/s3/:maslowcnc:IHIA:settings.jpg.jpg) 
+
+
 
 The square is almost unbelievably good, the circle is a little more off (but very consistent). I think that the error in the circle probably has more to do with my ability to measure exactly across the widest part than with the real dimensions. 
 
+
+
 So what do we do now? What can we do in the next 2ish hours before this week's release to make it as productive a week as possible for everyone? Do we just recommend making your motor spacing the same as mine, and disable the settings panel altogether?
 
+
+
 Would someone be willing to fudge their motor spacing to match mine and try to replicate my re sults?
+
+
 
 In terms of a long term fix, I need to reach out to Keith (our resident math genius) and get his input on what I did wrong.
 
@@ -642,6 +717,8 @@ Posted on **2017-04-19 12:40:32** by **Bar**:
 
 Let's think about it for a minute and make sure we're doing the right thing before we do anything else. What are all the things which could be different between our machines?
 
+
+
 Where does the number .795 come from? Your circle and square were both measured almost exactly .795 which is interesting.
 
 ---
@@ -703,7 +780,9 @@ Oh! Well in that case we've nailed it!
 Posted on **2017-04-19 12:47:58** by **Bar**:
 
 :-)
+
 :-)
+
 :-)
 
 ---
@@ -813,8 +892,11 @@ I will, but have to be later.  Reading all this on my lunch.
 Posted on **2017-04-19 13:00:07** by **Bar**:
 
 I believe the procedure is:
+
 1) Enter all the settings like [this](//muut.com/u/maslowcnc/s3/:maslowcnc:xfEQ:settings.jpg.jpg) 
+
 2) Calibrate chain lengths - automatic
+
 2) Run the test shape with a 1/4 inch bit
 
 ---
@@ -870,10 +952,15 @@ If someone can replicate this, it might help. I had a wrong distance of the chai
 Posted on **2017-04-19 14:14:31** by **MakerMark**:
 
 Here are my results using the Groundcontrol settings Bar posted.  
+
 square-x = 5.945 inches
+
 square-y = 5.984 inches
+
 circle-x=3.493
+
 circle-y=3.513
+
 My actual motorspacingx = 3048 and sledwidth = 324.
 
 ---
@@ -924,6 +1011,8 @@ Posted on **2017-04-19 14:40:58** by **Bar**:
 
 I am going to put a quick spot in the update this week to let everyone know what we found here today and I'll find out what's going on with the math and get if fixed ASAP.
 
+
+
 How do we make sure everyone knows what's going on? I don't want anyone wasting time mucking about with oval circles now that we know what the fix is.
 
 ---
@@ -962,6 +1051,8 @@ Posted on **2017-04-19 15:06:02** by **Bar**:
 
 It wouldn't be hard at all to disable them. We could do it on either the Ground Control side (make the options grey and unchangeable) or on the firmware side (just ignore command to change them). Doing it in GC seems like the more transparent thing to do, but part of me wants to just disable it in the firmware, that way people won't get out of the habit of adjusting the settings.
 
+
+
 I think that the most transparent thing we can do is to tell everyone what's going on. I say we leave the settings in for the next few days. If we haven't got a complete fix by next Wednesday we force it to the defaults to prevent undue hill climbing.
 
 ---
@@ -969,6 +1060,8 @@ I think that the most transparent thing we can do is to tell everyone what's goi
 Posted on **2017-04-19 15:07:59** by **rancher**:
 
 I did not mean to imply that it should be hidden.  It makes sense since it offers the best results across the board.  I spent a LOT of time this morning trying to make the settings match real measurements, then tweaking from there, to no avail.
+
+
 
 I think just grey them out for now, and make a note that optimal performance is achieved with correct motor spacing.  Somewhere.  :)
 
@@ -983,6 +1076,8 @@ You are right. If it saves even one person from having to mess with them we shou
 Posted on **2017-04-19 15:57:19** by **Bar**:
 
 The settings are now disabled like [this](//muut.com/u/maslowcnc/s3/:maslowcnc:pWvS:settings.jpg.jpg) in the newest version of Ground Control. The default values are now also used by the latest firmware. When the command to change the settings is sent to the latest firmware it will respond with "Settings Not Updated" to make it clear that the command was not accepted.
+
+
 
 I'm going to run a test cut with both right now to make sure everything is good to go, then I'll release a new version.
 
@@ -1052,6 +1147,8 @@ Posted on **2017-04-19 18:05:29** by **bdillahu**:
 
 I just wanted to thank all of you guys... as a non-beta person, you don't know how much I appreciate you working out stuff like this (and having the knowledge to figure it out). Something like the non-circle circles slipping through to "production" would have been highly disappointing to a lot of people, and gotten some bad press.
 
+
+
 So now it's all narrowed down (soon to be fixed, I'm sure) :-)
 
 ---
@@ -1066,6 +1163,8 @@ Posted on **2017-04-20 16:41:36** by **Bar**:
 
 Slick! I've got a fix that I think works, I'm just working on updating the wiki page now, then I would absolutely love help testing it to make sure it truly works. Give me maybe 20 minutes to get things squared away?
 
+
+
 Your work in dialing in the sled mounting points was incredibly helpful today so thanks for sharing that yesterday!
 
 ---
@@ -1074,19 +1173,34 @@ Posted on **2017-04-20 17:28:54** by **Bar**:
 
 Alright I think I've got things tracked down, but I'd like at least two other people to agree before we move on. 
 
+
+
 I think that we were dealing with two issues. 
+
+
 
 1) There was a bug in the way the settings were transmitted to the machine thanks to some help from Keith who worked out the math initially, I think I've tracked down. 100% my fault, not his.
 
+
+
 2) We needed a clear testing procedure for what to do when the calibration is off. Thanks to @gero's contribution yesterday I've determined that the most critical measurement is the spacing between where the chains  mount onto the sled, which is also a difficult distance to measure accurately. I've taken gero's method of iteratively cutting the test shape and tweaking spacing based on the result and made it a "Check Calibration" step in the instructions [here](https://github.com/MaslowCNC/Mechanics/wiki/Using-the-Temporary-Frame-to-Cut-Parts#step-9-check-the-calibration)
+
+
 
 Based on these two methods I've been able to get good cuts on my temporary frame which has a 3025mm motor spacing and a 200mm sled mount spacing.
 
+
+
 Would  anyone else be willing to confirm that these two fixes in conjunction solve the problems we were seeing yesterday?
 
+
+
 The steps to test are:
+
 1) Update to the very latest version of Ground Control and the Firmware  
+
 2) Enter your machine's true dimensions
+
 3) Follow the calibration testing instructions  [here in step #9](https://github.com/MaslowCNC/Mechanics/wiki/Using-the-Temporary-Frame-to-Cut-Parts#step-9-check-the-calibration)
 
 ---
@@ -1113,6 +1227,8 @@ Posted on **2017-04-20 19:30:06** by **Bar**:
 
 Fantastic! That's great news. Thank you so much for testing it. 
 
+
+
 165+ messages to get it tracked down, great work everyone!
 
 ---
@@ -1120,6 +1236,7 @@ Fantastic! That's great news. Thank you so much for testing it.
 Posted on **2017-04-21 07:23:55** by **scottsm**:
 
 @Bar, is there a linear relationship between the sled measurement and the error? I'm going to tune up a difference of 0.024" today, about 0.61mm. Is this even the right place to tune?
+
 From a different angle, what a difference your recent work has made! Here I am, chasing a half a millimeter... :) Exciting times...
 
 ---
@@ -1128,7 +1245,11 @@ Posted on **2017-04-21 07:47:47** by **Bar**:
 
 It is exciting times! Don't give me too much credit, I just do what you guys tell me to :)
 
+
+
 There is a relationship between the sled measurement and the amount of error, but I think it's very non-linear and I haven't determined what exactly the relationship is yet. @jbarchuck recommend last night that it would be great to have an option in Ground Control to enter the measured sizes of the test part and have it tell you what the right setting is. I've filed an issue for that idea, I think it's a great one.
+
+
 
 Any insight you have about how the changes effect the outcome are more than welcome!
 
@@ -1143,7 +1264,9 @@ I cutting test now.  I used the Master firmware and GC so I could enter exact me
 Posted on **2017-04-21 08:05:41** by **scottsm**:
 
 Since this measurement is critical, how about putting up measured drawings of a starter sled and the finished sled with the important geometry called out? Accurate center marks for the chain bracket bolts, measured from each other and the router bit seem like important numbers to get right, since every user will need these numbers and success and satisfaction are so closely tied to them. Something along the lines of "drill these holes very carefully in your piece of wood" and the rest of the starter sled is more forgiving.
+
 Much more detailed info (pictures) of _exactly_ how and where to make this measurement might help as well. 
+
 Or a one-piece chain-attachment fixture with the measurement fixed instead of separate chain brackets? A piece of flat stock with the bracket holes to put onto the sled and locate the existing brackets? Bolt that to a piece of wood and success for the beginner is much closer...
 
 ---
@@ -1157,6 +1280,8 @@ Posted on **2017-04-21 08:17:17** by **Bar**:
 Posted on **2017-04-21 08:21:15** by **Bar**:
 
 @scottsm that's a great idea. I will post a picture with all of the dimensions for the starter sled. I really like the idea of a one piece bracket which would ensure that the dimension is perfect every time.
+
+
 
 Ultimately I think we need to ship the sled with the machine. If we move the motors to mount on the sled and ship it, the whole assembly process will be so much easier. That's going to require a lot of design changes.
 
@@ -1225,10 +1350,16 @@ How close to 6" are you guys seeing your test shapes come out?
 Posted on **2017-04-21 09:24:14** by **blsteinhauer88**:
 
 Started with:
+
 circle H 3.541 w 3.4
+
 Square h 6.103 w 5.891
+
 After 4 adjustments of about 3-4 mm smaller distance 
+
 circle h 3.472 and w 3.495
+
+
 
 I think I'm pretty much there...
 
@@ -1280,6 +1411,8 @@ Posted on **2017-04-21 09:39:10** by **Bar**:
 
 Beautiful!
 
+
+
 That's a really good point about the size changing as a function of position. We should investigate that further. Maybe there is one part of the sheet where it is the most sensitive and we should recommend calibrating there, or maybe we need to do calibrations in multiple locations to get things 100% dialed in.
 
 ---
@@ -1294,27 +1427,51 @@ Posted on **2017-04-21 10:23:44** by **davidlang**:
 
 once we have the math properly figured out, any dimensions will work, as long as they are measured properly.
 
+
+
 I think that trying to ship a sled would cause all sorts of grief (mounting for the different routers, shipping costs and sizes, etc)
+
+
 
 the idea of a temporary sled template that you print out on letter/A4 paper (and then measure something on it to find out how much your printing process distorted it to fit it on the page) is a great one.
 
+
+
 Now that the error in communicating the dimensions from the user software to the firmware has been fixed, can someone test with 'standard' machine dimensions, make sure they are getting an accurate test, and then move one of the motors substantially (a foot or something similarly extreme), enter the new machine dimensions and see if they still get an accurate cut?
+
+
 
 After that, it would be wonderful to have someone do a study of how the four critical measurements affect the test pattern.
 
+
+
 We have
+
+
 
 1. the distance between the two motors
 
+
+
 2. the distance between the two chains on the sled
+
+
 
 3. the distance from where the chains conn ect down to the center of the router bit
 
+
+
 4. the distance from where the chains connect down to the center of gravity of the sled.
+
+
 
 around the center of the work area, #3 and #4 are not going to matter much, but at the edges (and I would guess especially the lower edges where the tension is the lowest on the chains) where the sled tilts more, the lower three measurements will matter a lot more.
 
+
+
 we know that if the distance between the motors is wrong, the cuts get distorted vertically. I expect that if the other dimensions are too far off, the result is going to be that a stright line across the workspace isn't actually going to be straight, but we need either modeling, or someone experimenting to see exactly what happens. 
+
+
 
 And it's faster for someone with a working machine to experiment than to build the model (and you still have to test the model against reality) :-)
 
@@ -1324,7 +1481,11 @@ Posted on **2017-04-21 10:37:23** by **rancher**:
 
 My results are in.  My measurements are pretty much default, with the exception of height which for me is 450mm.  I can't measure motor distance in mm, but I moved mine to match the 9'91/4" the other day.  Bar, is it possible to make those settings selectable mm or in?  It's driving me crazy, still, after all this time.  I can deal though.
 
+
+
 Okay, so my sled settings are the same.  I did three tests vertically, the center was close, one 4" below was a little off, one 8" above was way off.  By about half an inch.  None were good enough to build something.
+
+
 
 Yesterday was better.
 
@@ -1334,7 +1495,11 @@ Posted on **2017-04-21 10:46:48** by **Bar**:
 
 Hmmmm that's not great.
 
+
+
 Making the units select-able is on my todo list. I think that the first step is to make the default that you don't measure it at all using a tape measure but instead string the chain from one sprocket to the other and the encoder measures the distance. That way we're all working from the exact same system.
+
+
 
 Were you able to tweak the setting for the sled spacing based on the values in the guide and see improvements?
 
@@ -1410,9 +1575,15 @@ Posted on **2017-04-21 11:57:29** by **rancher**:
 
 I went from bad to worse....
 
+
+
 I was gonna leave it alone, but I had to go down and get the chicken feed.  I was thinking....maybe I was out, I skipped a tooth or something.  I hadn't measured or calibrated for the last three runs.
 
+
+
 So, I set the chains on my chalk points, did "Manual Chain" and got the 1900mm pop-up.  Hit Home, Z retracts, and.....the sled takes off up, giant position circle.  It tried to tear itself apart again!  I had the position circle closed and the thing was at the top of the sheet, I hit down, it went up again.  
+
+
 
 I'm back to loss of position, random UP, and sled tearing.
 
@@ -1482,7 +1653,11 @@ Posted on **2017-04-21 12:35:02** by **Bar**:
 
 I saw the same thing which is great news, because that means that I will be able to track down what's happening.
 
+
+
 Here's what I did to make it happen. I moved the sled to the very top right corner, then powered everything off, then reset the chains manually to the center, then clicked "calibrate chain lengths - manual", saw the popup (which is a bug because the machine wasn't plugged in yet, it shouldn't say it's done it until the command has been sent and processed), then clicked one of the arrow keys and the sled tried to go off the top. 
+
+
 
 I don't know what the cause is yet. I'll keep you posted as I investigate.
 
@@ -1521,6 +1696,7 @@ Perfect, that's all I needed to know :-)
 Posted on **2017-04-21 12:59:34** by **davidlang**:
 
 @blsteinhauer88
+
 for that error in the bottom right, I'll bet it was cutting the bottom before the right side and the sled stuck instead of sliding, then when it started pulling up on the side, it moved, resulting in that rounded corner
 
 ---
@@ -1528,6 +1704,8 @@ for that error in the bottom right, I'll bet it was cutting the bottom before th
 Posted on **2017-04-21 13:16:17** by **Bar**:
 
 @rancher I think I've got it worked out, give me a few minutes to clean everything up and let's test it?
+
+
 
 Are you running Ground Control from the source or from the compiled version?
 
@@ -1548,16 +1726,28 @@ Bar, I just delete the GC folder each time, put the new one in the computer, and
 Posted on **2017-04-21 13:36:00** by **Bar**:
 
 @rancher
+
 That's perfect. 
+
+
 
 I think I've fixed the problem which you saw where the sled was running away. The short version is that it was possible to see the "chain lengths calibrated" window without the lengths having been actually updated, but it isn't anymore. 
 
+
+
 Getting you up and fully calibrated is my *top* priority right now, I think we can get everything worked out if we go through everything on our machines at the same time. I can do it now or any other time, just let me know when.
 
+
+
 When you do go back to the machine I would recommend these steps:
+
 1) Take the latest version of the firmware and Ground Control
+
 2) Run the automatic chain length calibration at least one more time just because it's the most tested method
+
 3) Give the method of cutting the test shape and tweaking the setting for sled mounting points a try. I know it seems wrong to mess with a length that you measured carefully, but it seems to work. Maybe there is something we don't yet understan d at play like the last link in the chain isn't bending. Adding 11mm to mine made all the difference in the world.
+
+
 
 I really think that if we go through it at the same time we can figure out what's up
 
@@ -1627,6 +1817,8 @@ Posted on **2017-04-21 13:45:44** by **rancher**:
 
 [IMG_1452](//muut.com/u/maslowcnc/s3/:maslowcnc:T42x:img_1452.jpg.jpg) 
 
+
+
 I go down there.
 
 ---
@@ -1659,22 +1851,41 @@ Posted on **2017-04-21 14:23:29** by **Bar**:
 
 Here are the steps I followed: 
 
+
+
 1)Upload the latest firmware by clicking the upload firmware button in GC
+
 2) Hook the first link of each chain on the sprocket tooth at 12:00
+
 3) Launch the latest version of Ground Control
+
 4) Click *Actions -> Calibrate Chain Lengths - Automatic*
+
 5) The terminal in GC will say "Measuring out left chain" and the left sprocket will start to turn. When it finishes the length "1650.xx" mm will be added below. The xx may be any decimal. This number is the exact length of chain measured out, the decimal value isn't particularly important as long as the system knows what it is.
+
 6) The same process will repeat on the right
+
 7) Attach the sled
+
 8) Click the left arrow once and then the right arrow once. This will let the machine adjust the chain lengths to put the machine in the center. You may see the position error circle shrink, but it should correct quickly and not try to run off the top or anything crazy like that.
+
 9) Enter all the settings values as best you measure them
+
 10) Open the test shape
+
 11) Run the test shape
+
 12) Measure it, ignore the  circle part and just focus on the square part because it's much easier to measure
+
 13) Adjust the distance between sled mounting points as described on the wiki page. I did 5mm steps at first, then 1mm steps to dial it in
+
 14) Return the sled to the start by clicking the "Home" button
+
 15) Move it down and right by 3/4 of an inch and click define origin to move the shape over. This will save you from using a ton of wood to dial it in
+
 16) Repeat 11-16 until the test shape comes out square
+
+
 
 Let me know how it goes, if it goes. Best case scenario this method works for you. Worst case scenario, it doesn't work at all, but at least we'll have a good repeatable set of conditions to try to figure out what went wrong.
 
@@ -1708,11 +1919,19 @@ Posted on **2017-04-21 14:36:53** by **Bar**:
 
 I want to call an issue to everyone's attention that I just found which could trip us up. Because the settings are sent to the machine when GC is first launched, if you unplug the machine, don't close GC, plug the machine back in the machine has lost track of it's settings, but GC doesn't send them again.
 
+
+
 I think the proper solution is that the machine should store it's settings in the EEPROM. That way each machine "knows" it's own dimensions.
+
+
 
 I'm hesitant to start digging into it until we've got everyone up and running as is. It seems like were so close to having things work the way they are that I don't want to throw everything into chaos again by breaking something. This change would be a pretty big one in terms of how things are done, so I want to wait until after the Wednesday release.
 
+
+
 Let's keep this issue in mind to make sure it's not tripping us up. 
+
+
 
 I've made an issue for it [here](https://github.com/MaslowCNC/Firmware/issues/183)
 
@@ -1739,16 +1958,27 @@ That explained a lot of runaways!!!!!!!!
 Posted on **2017-04-21 16:23:29** by **rancher**:
 
 Okay,  here we go....
+
 Center cut was pretty dang great.
+
  [IMG_3785](//muut.com/u/maslowcnc/s2/:maslowcnc:msA0:img_3785.jpg.jpg) [IMG_3787](//muut.com/u/maslowcnc/s2/:maslowcnc:YXqM:img_3787.jpg.jpg) [IMG_3788](//muut.com/u/maslowcnc/s2/:maslowcnc:fpdU:img_3788.jpg.jpg)
 
+
+
 Then I went up 8 inches and tried again.
+
 [Upper y](//muut.com/u/maslowcnc/s2/:maslowcnc:YeAp:uppery.jpg.jpg) 
 
+
+
 And changed sled width wider by 3, then 6.  Same results.  Not too bad, but it didn't get any better.  Have you guys tried one up high center?
+
  [IMG_3796](//muut.com/u/maslowcnc/s2/:maslowcnc:zAhH:img_3796.jpg.jpg) 
 
+
+
 The new flock hit the pond for the first time while I cut.
+
  [IMG_3801](//muut.com/u/maslowcnc/s2/:maslowcnc:Ee97:img_3801.jpg.jpg)
 
 ---
@@ -1763,9 +1993,15 @@ Posted on **2017-04-21 16:29:20** by **Bar**:
 
 It seems like z-run away might be the next thing on my to fix list.
 
+
+
 Overall that feel like we made some progress. We still have some room to improve, but I think we're getting there.
 
+
+
 My experience was that the higher you go, the more any error is exaggerated. That makes sense because high and in the center is where the chains have to move the least to move the sled a given distance. I haven't tried high and in the center yet, but I will right now.
+
+
 
 Maybe we should recommend running the calibration in the middle towards the top, that way if it looks good there it will look good everywhere?
 
@@ -1787,6 +2023,8 @@ Posted on **2017-04-21 16:31:41** by **rancher**:
 
 No problem.  I wasn't able to get it close enough for me at that location.  I am hoping you will try calibrating there, or BLS, or someone.  Show me it's possible!  My measurements remained the same throughout on that upper cut.
 
+
+
 Muscovey Ducks, straight out of Hadlock!
 
 ---
@@ -1800,10 +2038,15 @@ I mean, I bought them from a farm in PH.  They are a popular farm breed.  Good l
 Posted on **2017-04-21 16:34:50** by **gero**:
 
 Thumbs up for this exceptional collaboration!
+
 Will throw this in and if it is is only good for laughter, it still had a good purpose.
+
 I wasted the entire night confusing ‘define origin’ with ‘Set Home’.
+
 For me ‘Home’ is the centre of the sheet from where I would like to start all tests.
+
 After chain and motor calibration.
+
 Am I missing the ‘Set Home’ button? Since my sled chain mounts are closer to the cutter (I might even turn them to get more close to the cutter), after chain calibration, I am in the middle horizontal and above centre vertical. With the original mounting, is the sled at the centre of the sheet? [Home](//muut.com/u/maslowcnc/s2/:maslowcnc:qjaK:home.jpg.jpg)
 
 ---
@@ -1836,7 +2079,11 @@ Posted on **2017-04-21 16:39:21** by **Bar**:
 
 Right now the behavior is that clicking "Home" takes you back to wherever the "Define Origin" button was last clicked so calling it "Set Home" makes sense.
 
+
+
 There is a "Return To Center" button under "Actions" which will always return the machine to the center of the sheet.
+
+
 
 Is this the behavior we want?
 
@@ -1851,6 +2098,8 @@ Set center is what I am looking for
 Posted on **2017-04-21 16:41:07** by **Bar**:
 
 There is no "define the center of the sheet" button right now. I had one in the past, but I found that it lead to wonky cut's because actually finding the perfect center and getting the machine lined perfectly with that point is hard enough that I could never do it consistently.
+
+
 
 What is the situation where you are looking for that button?
 
@@ -1992,6 +2241,8 @@ Posted on **2017-04-21 17:17:58** by **Bar**:
 
 That's a great point! Haha I hadn't thought of the fact that we might be in different days. Two hours prior to now :-)
 
+
+
 You are more than welcome. Thank you guys for making it work. Getting to build this project has been one of the coolest, most rewarding, most exhausting, and most exciting things I've ever done. I could never do it without everyone here's help.
 
 ---
@@ -2053,12 +2304,19 @@ I put in a PR to have 'Return to Center" lift z before traversing.
 Posted on **2017-04-22 00:30:54** by **gero**:
 
 Waking up this morning I was hoping that it was the wine that got me confused last night. After the second coffee and rereading the last quarter of this thread this morning, I am still confused.
+
 Home, define origin, return to center, Set Home...
+
 Where is center and does it stay there for the math?
+
 Let's say the standard Maslow has the cutter at the center of the sheet after calibrations.
+
 All math is calculated from that point 0,0. Now I want to cut a square  10 x 10 in the lower left from the center.
+
 I move the sled to X-10 and Y-10. Then I click 'Define Origin'. I see X and Y are zero now, but does the software still know that I am at X-10 and Y-10 for the math?
+
 Define Origin has it's great job of showing me where on the sheet I am about to cut and the origin of my part and path, but it should not tell the software to do the math from this point, or am I wrong?
+
 Home should bring the cutter to 'Origin' if it was defined, if not Home and Center are the same, 'Retur n to Center' should bring it back to the center of the sheet, no matter on which part of the sheet I clicked 'Define Origin' right?
 
 ---
@@ -2066,7 +2324,10 @@ Home should bring the cutter to 'Origin' if it was defined, if not Home and Cent
 Posted on **2017-04-22 06:53:30** by **rancher**:
 
 > @gero
+
 > Home should bring the cutter to ‘Origin’ if it was defined, if not Home and Center are the same, ‘Retur n to Center’ should bring it back to the center of the sheet, no matter on which part of the sheet I clicked ‘Define Origin’ right?
+
+
 
 This is correct Gero.
 
@@ -2075,7 +2336,9 @@ This is correct Gero.
 Posted on **2017-04-22 09:01:21** by **gero**:
 
 Did all from Bar’s list except ‘1)Upload the latest firmware by clicking the upload firmware button in GC’ (Can’t find that so I used Aruino IDE).
+
 On ‘8) Click the left arrow once’ the sled sacked down, moved left and went down again, without any changes of X on the screen . After chain calibration I am above the real center of the sheet because my chain brackets are closer to the cutter. I think the software was already trying to get me to my center, but was now a bit to low. I was surprised to find all my settings. After cutting 6 shapes dialing in, a ‘Return to center’ surprised me by bringing the sled spot on where the center of my sheet is. I confirmed a second perfect 6 inch square, but with a 6mm cutter, so scale might be off.
+
 So what is next? Find the second parameter that produces ellipsis and then tweak both to get the dimensions right?
 
 ---
@@ -2156,6 +2419,8 @@ Posted on **2017-04-22 10:59:32** by **Bar**:
 
 My guess is that the distortion we're seeing is a percentage of the size of the object.
 
+
+
 Should we be testing with a large shape say a 2 foot by 2 foot square? It might be easier to really dial everything in that way.
 
 ---
@@ -2164,9 +2429,15 @@ Posted on **2017-04-22 21:17:19** by **davidlang**:
 
 I think in this case a sanity check with say a 3" square (since that can be measured with the calipers) and possibly a very large square (2' or 3' a side) would be useful. If we are off by the same fraction of a mm on all of them, we can say it's stable (other than checking if cutting on the edges works or not)
 
+
+
 if the g-code is set up for a 6.25mm (1/4") bit, and you use a 6mm bit, the part should be oversized in all directions by 0.25mm (the radius difference * 2, which also equals the diameter difference)., which is ~0.005" with the target goal of 1/64" being 0.015", so this is well within the margin of error, and I think should be considered 'good enough' at least for now (until the new control loops are implemented)
 
+
+
 But the biggest problem we've been fighting has been the vertical movement not matching the horizontal movement.
+
+
 
 so do you have similar accuracy at the corners of the workpiece?
 
@@ -2175,7 +2446,9 @@ so do you have similar accuracy at the corners of the workpiece?
 Posted on **2017-04-24 04:22:50** by **gero**:
 
 I had 0.5mm off on left up and left down, but with ridiculous slow speed.
+
 After the quick fix I was 1mm off on right up and right down with F450. Wondering if it was the speed. With my own 100mm x 100mm square and hand written gcode. No 'I' or 'J', pure X and Y moves. I want to use my caliper and that does not go 6'. This is the plan for tonight.  [Testpattern](//muut.com/u/maslowcnc/s2/:maslowcnc:5HSA:testpattern.jpg.jpg)  Just a rough sketch, the .nc will have exact distances for the squares.
+
 Handwritten code in a spread sheet, exported to .csv, so not only the squares can be compared, also the distance between them.
 
 ---
@@ -2190,6 +2463,8 @@ Posted on **2017-04-24 04:29:31** by **davidlang**:
 
 in theory it doesn't matter, but you know theory vs practice :-)
 
+
+
 I would have it return to center and do a quick cut down into the wood. If you see this center hole growing, you know that the maslow is loosing track of where it really is.
 
 ---
@@ -2203,6 +2478,8 @@ Great idea to add 15 Z-Down and up. I could still do it in one file by adding X0
 Posted on **2017-04-24 05:12:30** by **davidlang**:
 
 I would move Z up before doing the xy move.
+
+
 
 but return to center should not do anything else
 
@@ -2229,6 +2506,7 @@ Awesome work writing all that gcode by hand! I saw your post yesterday about gen
 Posted on **2017-04-26 02:45:26** by **gero**:
 
 Sorry that I need to keep you waiting for the report, but I need to sit back and enjoy this picture for a while  [IMAG0672](//muut.com/u/maslowcnc/s3/:maslowcnc:5UDs:imag0672.jpg.jpg) 
+
 The center hole is drilled 16 times  [IMAG0673](//muut.com/u/maslowcnc/s3/:maslowcnc:lSVo:imag0673.jpg.jpg) and measures 6.5 mm, it's a 6mm cutter! I am not measuring the squares and distances between them now, because I am to drunk of happiness right now.
 
 ---
@@ -2236,24 +2514,43 @@ The center hole is drilled 16 times  [IMAG0673](//muut.com/u/maslowcnc/s3/:maslo
 Posted on **2017-04-26 03:03:10** by **gero**:
 
 @Bar, for my test pattern I wanted clear dimensions and distances.
+
 A 100 x 100 square in mm in partcam gives me code like this:
+
 G1 X100.18274111675127 Y-2.868020304568528 F1500
+
 G3 X103.18274111675126 Y0.1319796954314721 I0 J3
+
 G1 X103.18274111675126 Y100.13197969543148
+
 G3 X100.18274111675127 Y103.13197969543147 I-3 J0
+
 G1 X0.18274111675126906 Y103.13197969543147
+
 Why if working with mm would I need 17 digits after the point and why are those numbers so cryptic? Am sure there are CNC's that can operate within those parameters, my guess is the Maslow can work with less.
+
 My gcode made with a spread sheet, is something I can read:
+
 G0X0Y0
+
 G1Z-3F300
+
 G1Z3F300
+
 G0X-53Y-53
+
 G1Z-3F300
+
 G1X53Y-53F500
+
 G1X53Y53F500
+
 G1X-53Y53F500
+
 G1X-53Y-53F500
+
 G1Z3F300
+
 Hope that makes sense.
 
 ---
@@ -2274,7 +2571,11 @@ Posted on **2017-04-26 07:06:22** by **Bar**:
 
 That is fantastic news @gero! Great work! Thank you for sharing.
 
+
+
 What an awesome thing to wake up to.
+
+
 
 Would it be ok for me to put that picture in the email update today and give you credit for figuring out the method of tweaking the settings based on the test shape dimensions that has gotten us so far in the last few days?
 
@@ -2289,6 +2590,7 @@ Take anything, going to measure the truth now :-)
 Posted on **2017-04-26 10:18:04** by **TomTheWhittler**:
 
 "Take anything, going to measure the truth now )"
+
 Is that one glass or two ;)
 
 ---
@@ -2302,6 +2604,7 @@ So is it possible to boil down these 331 messages into a best practices checklis
 Posted on **2017-04-26 10:20:40** by **TomTheWhittler**:
 
 " best practices checklist? "
+
 That would be awesome.
 
 ---
@@ -2309,6 +2612,8 @@ That would be awesome.
 Posted on **2017-04-26 10:21:38** by **Bar**:
 
 Yes! Even better, I'm building a wizard which where you do what it says on the screen then click "next" until everything is dialed in. It won't be ready for today's release, but hopefully in the next few days I'll have something we can all play with.
+
+
 
 I'm not sure that the wizard fully replaces the "best practices checklist", we'll still probably want one of those. Wiki page?
 
@@ -2329,6 +2634,7 @@ After cutting the pattern, I ordered Booze. No need to explain what happed after
 Posted on **2017-04-26 12:08:09** by **gero**:
 
 I discontinued to take the distances. Because they are from the sides of the cuts. Not taking into account the variation of the squares. Should have drilled a center hole in each square. Will do that in the morning.
+
 I think I tried to make a point that if we compare results, they should be under comparable conditions. Comparing squares on different parts of the sheet is comparing apples to oranges.
 
 ---
@@ -2349,9 +2655,15 @@ Posted on **2017-04-26 12:16:48** by **Bar**:
 
 Beautiful! Fantastic work. I can't thank you enough for everything you are doing. 
 
+
+
 I agree that we should have set coordinates at which to run the test file when we want to compare.
 
+
+
 I'm seeing some clear patterns in the drift looking at one dimension from left to right or top to bottom which is exciting. I think that we can use that pattern to dial things in further. I'm eagerly awaiting your full debrief. 
+
+
 
 Awesome.
 
@@ -2378,6 +2690,8 @@ Yes, I am continually overwhelmed by the amazing people in the community. I don'
 Posted on **2017-04-26 12:27:22** by **davidlang**:
 
 Thanks for doing this. This gives us much more information than we had before on the variability across the workpiece.
+
+
 
 I think that this will improve when Bar gets time to implement the two-stage controller, but I think we also need to look very closely at the modeling in the firmware to make sure that it's matching the physical layout.
 
@@ -2465,6 +2779,8 @@ Posted on **2017-04-28 12:05:40** by **davidlang**:
 
 I'll point out that we don't have to cut full squares to dial things in. We could cut small lines (say a 1/2"-3/4" or so long to fit the hook of a tape measure) horizontally and vertically, then shift a bit for the next set. We will just need to fix the control loops so that we can cut over the whole work area a bit more accurately than we do now.
 
+
+
 let me think about this a bit and try to come up with suitable g-code
 
 ---
@@ -2485,13 +2801,23 @@ Posted on **2017-04-28 14:21:39** by **davidlang**:
 
 could someone test the file http://lang.hm/maslow/testpattern2.nc
 
+
+
 If I have it right, it should move up and left ~18", cut a slot, move down ~3' cut another slot, move up to the right, cut a vertical slot, move left, cut a fourth slot, then move left further to get out of the way and prompt for a tool change
+
+
 
 This should let you measure the distance between the slots (900mm in each direction, not counting tool diameter) 
 
+
+
 After you do the tool change (and potentially tweak the system dimensions), you tell it that you've changed the tool and it will repeat the cuts, offset slightly both horizontally and vertically.
 
+
+
 I decided to do this in metric because everyone's tape measure will have mm on it, and I think it's going to be easier to read and enter accurate mm than inches and fractions.
+
+
 
 If this works, I can trivially extend it to repeat several more times and will be looking at other improvements (making it handle cutter dimensions, etc)
 
@@ -2536,6 +2862,7 @@ Never mind that last, I misread the code.
 Posted on **2017-04-28 18:27:53** by **scottsm**:
 
 The .nc file looks [different](//muut.com/u/maslowcnc/s2/:maslowcnc:ja3Z:screenshot20170428at6.20.58pm.png.jpg) in [this g-code simulator](https://nraynaud.github.io/webgcode/), but when I ran it my sled headed [off the edge of the worksheet](//muut.com/u/maslowcnc/s3/:maslowcnc:d3ZG:screenshot20170428at6.15.21pm.png.jpg) :(...
+
 davidlang, do you want to open the issue in Firmware, or shall I?
 
 ---
@@ -2544,7 +2871,11 @@ Posted on **2017-04-28 18:29:30** by **davidlang**:
 
 I'm suspecting that the problem could be in GroundControl
 
+
+
 Currently we have two different g-code interpreters, one written in python in ground control, and a different one written in C in the firmware
+
+
 
 I opened a couple tickets in the firmware, one for G91, one for the difference between g0 and g1 (g0 should move at max speed, g1 should move at the defined feedrate) and also one to not silently ignore unknown g-code.
 
@@ -2559,6 +2890,8 @@ That should catch it then. Certainly the picture on the screen is GroundControl,
 Posted on **2017-04-28 18:36:58** by **davidlang**:
 
 I made a slight update to the file and now the simulator shows it working the way I would expect it to.
+
+
 
 If I change the g91 to g90, I get a picture that matches Ground Control
 
@@ -2580,6 +2913,8 @@ Posted on **2017-04-28 19:11:26** by **davidlang**:
 
 whenever :-)
 
+
+
 by the way, it looks as if GroundControl looks for G90/G91 and sets self.absoluteFlag but I can't find anywhere in the code that uses this flag.
 
 ---
@@ -2587,6 +2922,7 @@ by the way, it looks as if GroundControl looks for G90/G91 and sets self.absolut
 Posted on **2017-04-28 22:23:15** by **scottsm**:
 
 I've run the new file and it works as you describe except that it doesn't wait for the tool change. FWIW I read 893.5 vertical by 904.5 horizontal. Cutting 8mm deep was too deep for my stock so I zeroed above the surface. 
+
 At the end of the file the sled remains in the upper left corner. 'Return to Center' and 'Home' do not move it from that location. Using the arrows to move by as little as 0.1mm away from that location causes 'Return...' or 'Home' to work correctly. Does this seem correct?
 
 ---
@@ -2595,9 +2931,15 @@ Posted on **2017-04-28 22:31:13** by **davidlang**:
 
 it's supposed to be cutting 3mm deep, starting from 5mm above the surface (it should move the bit to 5mm above the surface as the first thing it does, then make the first move to the top corner, and then do everything else)
 
+
+
 it looks like the firmware ignores T (tool) commands and M6 (tool change) commands
 
+
+
 return to center not working sounds like another relative vs absolute movement bug (doing a move x0y0 in relative position mode won't do anything)
+
+
 
 if you are using a 1/4" bit, the 893.5 vertical is just about dead on ( 0.25mm error, close enough to be within the margin of error for reading it), when you do the standard test pattern, does it show the square just a little wider than it is tall? It would only be off by about 1mm at 6" if it scales linearly
 
@@ -2606,9 +2948,13 @@ if you are using a 1/4" bit, the 893.5 vertical is just about dead on ( 0.25mm e
 Posted on **2017-04-28 23:25:22** by **scottsm**:
 
 I think that G1 Z-8 would go to 8mm below the Z zero point which is commonly the surface of the stock. I haven't looked - does the file redefine Z0? The first version did what you described (it uses G1 Z5 and G1 Z-3) but the new version uses G1 Z8 and G1 Z-8.
+
 Other than printing a line on the screen, it does seem to ignore the T and M commands. This will be a GroundControl issue, maybe an enhancement.
+
 There does seem to be an issue in the relative vs. absolute area. I wonder whether it matters whether the machine is left in relative mode at the end of a program? 
+
 I measured from edge to matching edge (bottom to bottom and left to left) in order to remove the tool size from the equation, yes? Should I be measuring nearest edges instead? I don't remember the 6" square measurement, I'll look it up in the morning. 
+
 Thanks for creating this test!
 
 ---
@@ -2617,34 +2963,65 @@ Posted on **2017-04-29 00:06:14** by **davidlang**:
 
 ahh, your way of measuring is better (nice tweak to not have to worry about the bit size). I assumed you measured closest edge to closest edge. If this scales linearly to the 6" square, you would be off by ~2mm there.
 
+
+
 the test that was posted earlier (that did many boxes across the sheet) used z5 for moving and z-3 for cutting, so I just did the same.
 
+
+
 When I was cleaning it up I realized that in relative mode, doing z5 z-3 would end up marching the router to the limits of the Z eventually, so I changed the movements after going into relative mode to z-8 z8, before going into relative mode, it does the following:
+
 G40
+
 G0 Z5
+
 G17
+
 G0 X-900 Y450
+
+
 
 the G40 G17 were from the initial file I copied from, so it should start out with the bit 5mm above the sheet and about 3' to the left and 1.5' up from the center.
 
+
+
 It then switches to relative mode, does the tool change, turns on the spindle, and does one set of cuts
+
 G0 X450
+
 G1 Z-8
+
 G1 X18
+
 G0 Z8
+
 G0 X-18 Y-900
+
 G1 Z-8
+
 G1 X18 
+
 G0 Z8
+
 G0 X900 Y900
+
 G1 Z-8
+
 G1 Y18
+
 G0 Z8
+
 G0 X-900 Y-18
+
 G1 Z-8
+
 G1 Y18
+
 G0 Z8
+
 G0 X-432
+
+
 
 this should end up 18mm high and to the right of where it started (if you add up all the X and Z changes) and the same height
 
@@ -2678,6 +3055,8 @@ Posted on **2017-04-29 12:30:39** by **davidlang**:
 
 @scottm, so the question is which is easier to measure, the small square with calipers or the large slots with a tape measure?
 
+
+
 I'd guess that since we're aiming for people with very little equipment, the tape measure is going to be better (more familiar to people and more likely to be on hand)
 
 ---
@@ -2698,7 +3077,11 @@ Posted on **2017-04-29 12:57:18** by **davidlang**:
 
 we don't even need a full square, the g-code I created makes two small slots horizontally, and two vertically centered 900mm apart. If you hook a tape measure to one and read the far side of the other slot, you will see your actual position error as it differs from 900mm.
 
+
+
 I picked mm because even US tape measures have mm on them, and it's easier to enter mm than it is to measure fractions and convert for entry.
+
+
 
 the file is at http://lang.hm/maslow/testpattern2.nc it does two passes, but since it uses relative positioning, it's trivial to repeat as many passes as needed, just change the tool number so that the machine pauses
 
@@ -2707,6 +3090,8 @@ the file is at http://lang.hm/maslow/testpattern2.nc it does two passes, but sin
 Posted on **2017-04-29 12:59:26** by **davidlang**:
 
 I think there are going to be people who prefer the small square, or a small version of my test due to the increased accuracy of calipers vs a tape measure, so I think both should be supported.
+
+
 
 to convert my testpattern to something that will fit calipers, change the 900 to 100 and the 450 to 50 (except for the very first one that moves it from the parking location)
 

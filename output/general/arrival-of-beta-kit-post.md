@@ -2,8 +2,11 @@
 Posted on **2017-03-18 12:26:07** by **aalbinger**:
 
 It is here!
+
 http://i.imgur.com/3RSUv1Vm.jpg
+
 http://i.imgur.com/z0c60qTm.jpg
+
 http://i.imgur.com/rvh2vnVh.jpg
 
 ---
@@ -17,6 +20,8 @@ Pick mine up yesterday at their shop. I am fortunate to live a few miles away.
 Posted on **2017-03-18 13:08:46** by **rancher**:
 
 Just got mine out of the mailbox a couple hours ago.  It's sitting unopened behind me while I get ready to tackle it this afternoon.
+
+
 
 SO STOKED!
 
@@ -50,6 +55,8 @@ Posted on **2017-03-18 16:23:35** by **Jennifer D**:
 
 Just unpacked mine, verified parts, and am hoping to make the trip to getvplywood et al in the morning! Missing one washer, but I'm sure I've a suitable floating around the shop :) can't wait to dive in!
 
+
+
 (I'm in Atlanta,GA, btw, and glad my Maslow was coming from the west and not the northeast! I think I've a package stuck in a snowbank somewhere up there...)
 
 ---
@@ -63,7 +70,9 @@ Mine also arrived tonight! The bolts in the large and medium bags punctured the 
 Posted on **2017-03-18 21:00:01** by **jbarchuk**:
 
 > @makermark
+
 > Mine also arrived tonight! The bolts in the large and medium bags punctured the bags. Half of each bags contents were loose in the box.
+
 I was about to comment that the packaging was very good. The -box- looked like it had been around the world eleven times -- all the corners and edges were rounded off, but the tape held and the contents were in place and completely intact. Yours must have gotten some particularly nasty handling. I once saw an aircraft baggage handler throw a stroller about 15' onto pavement. The debris field of broken parts and pieces spread another few yards. 'Ooopsie.' He looked at it for a second or two, then turned back to his 'job' and looked for something else to throw. Some people simply don't give a crap.
 
 ---
@@ -191,7 +200,9 @@ Posted on **2017-04-05 06:57:03** by **TomTheWhittler**:
 Posted on **2017-04-05 20:08:27** by **jbarchuk**:
 
 > @TomTheWhittler
+
 > “contained all components to build a tactical tank”.. haha.. a very small one.
+
 Small, but with a little raw material it can -replicate- -itself-!! ;)
 
 ---

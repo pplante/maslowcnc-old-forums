@@ -9,6 +9,8 @@ Posted on **2017-06-22 23:57:14** by **davidlang**:
 
 the bricks create tension in the chains, a vacuum would pull against the table.
 
+
+
 you need the least amount of friction against the table and a vacuum would increase the friction against the table.
 
 ---

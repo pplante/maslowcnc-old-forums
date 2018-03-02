@@ -74,11 +74,17 @@ Thanks, Tom. I'm backer 422. When did you get a tracking number? Was it emailed 
 Posted on **2017-07-14 08:33:07** by **TomTheWhittler**:
 
 I was backer # 519. There were 106 backers that were Beta and got their units first. There were 59 backers for support a school. There were 400 batch 1 backers. There were 250 batch 2 backers. Then there were 422 backers that were "pay what you want" or "buy us beer ;)".
+
 If you are backer 422 and were not in the batch 2 and were not beta then you should be batch 1.
+
 I got my tracking number on 7/10/2017 sent to my Kickstarter email account from info@maslowcnc.com.  All that email contained was my "after the kickstarter" Z-axis order along with the a USPS tracking number. When clicking on the USPS tracking on 7/10 all it showed was that the label was printed on June 22, 2017, 12:15 pm.
+
 The next USPS tracking entry showed it was finally accepted July 12, 2017, 6:27 pm at PORTLAND, OR 97214.  
+
 What finally arrived today (7/14) was my entire kit with the Z axis.
+
 So it looks like Hannah and Bar got things packed up and shipping labels printed while they waited a month f or the final parts to arrive.
+
 I am not sure if people that did not get the Z axis from their store actually got a tracking number. You can always email Hannah (hannah@maslowcnc.com)  and ask.
 
 ---
@@ -170,7 +176,9 @@ JUly 14, Baltimore, MD. Got home on Friday and there it was! I have a few other 
 Posted on **2017-07-17 04:47:42** by **andrew_w**:
 
 Just arrived today, 17th July 2017.  Derby, England.
+
 Includes Z axis motor
+
 Backer 135
 
 ---

@@ -3,6 +3,8 @@ Posted on **2016-10-28 13:27:45** by **chauhuh**:
 
 I have 1 1/2 HP Ryobi 163 fixed based router. Will this be a problem?
 
+
+
 Thanks.
 
 ---

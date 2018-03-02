@@ -3,7 +3,11 @@ Posted on **2017-05-15 14:14:07** by **Bar**:
 
 We're packing up to head to Maker Faire tomorrow and so I've been practice cutting our 8' sign
 
+
+
  [Take one, not enough tabs to hold the letters in](//muut.com/u/maslowcnc/s3/:maslowcnc:78P2:screenshot_20170515120928.png.jpg) 
+
+
 
  [Take two, more tabs added](//muut.com/u/maslowcnc/s3/:maslowcnc:VAJK:screenshot_20170515140932.png.jpg)
 
@@ -37,6 +41,8 @@ Posted on **2017-05-15 16:10:10** by **Bar**:
 
 A perfect circle thanks to your calibration routine Gero!
 
+
+
 I'm happy to put the .svg up somewhere. Let me dig around a little and see where to put it that makes sense
 
 ---
@@ -50,8 +56,11 @@ I put it in the [gcode for testing](https://github.com/MaslowCNC/GroundControl/t
 Posted on **2017-05-15 16:54:48** by **gero**:
 
 > @Bar
+
 > your calibration routine
+
 haha... I am following GitHub every morning while sitting on the Throne and know the guys behind this.
+
 Thanks for the .svg and with a scattered bit (thanks to china putting cement in plywood), somewhere on my test sheet, this (M) will appear and proudly be placed on the entrance to a fantastic machine.
 
 ---

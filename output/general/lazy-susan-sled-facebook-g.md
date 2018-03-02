@@ -2,9 +2,13 @@
 Posted on **2017-07-16 16:39:58** by **rollandelliott**:
 
 http://youtu.be/zQhhYgM_EZA
+
 My new sled 18" 450mm diameter
+
 And new facebook group
+
 https://Facebook.com/groups/MaslowCNC
+
 I don't really like Facebook groups  due to how hard it is to find all the information  but everyone seems to use them
 
 ---
@@ -12,6 +16,7 @@ I don't really like Facebook groups  due to how hard it is to find all the infor
 Posted on **2017-07-16 16:43:47** by **rollandelliott**:
 
 I  used 450 mm bearings but there's really no reason to have them big
+
 200 or 300 mm probably would've worked good and they're a lot cheaper at the smaller sizes
 
 ---
@@ -56,6 +61,8 @@ Posted on **2017-07-16 17:12:35** by **Bar**:
 
 We just don't want to miss out on any of the excitement :-)
 
+
+
 This forums format really doesn't make it easy to have a dedicated home for something like that, so a facebook group makes sense. Hopefully by next week we'll have a new forum system and we'll get you a section! The issue is really my fault, but I'm working on it!
 
 ---
@@ -94,11 +101,19 @@ Posted on **2017-07-16 18:37:51** by **davidlang**:
 
 one component of friction is the pounds per square inch of force between the materials, a larger sled has less psi which reduces friction.
 
+
+
 the other factor driving the size of the sled is how much of the surface below the sled you can cut away before it becomes a problem.
+
+
 
 This is partially a matter of falling into the cut area and partially the fact that the cut area reduces the surface area in contact (and therefor increases the pressure per square inch)
 
+
+
 Friction (and sled weight) is most noticeable in the bottom corners where one chain gets closes to vertical. The force of gravity pulling the other chain tight is the lowest here, and so if the friction is high enough, the sled will not move well when that far chain is let out.
+
+
 
 This isn't an area that has had a lot of experimentation done on it, so play with different sizes/styles of sleds and let us know what you get in terms of results.
 

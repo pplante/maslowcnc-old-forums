@@ -2,7 +2,9 @@
 Posted on **2017-05-06 18:34:05** by **boandersen**:
 
 Just finished cutting my first front arm. I do not know what I did wrong - this is my first day of the most recent firmware/GC build. I am cuttin 23/32 plywood (as usual) and had my depth at .8 with .12 increments.. For some reason It had cut through already after one less iteration that the software thought. 
+
 I hit stop and the Home button. 
+
 Previously, this would retract the bit, but this time it did not. I had to lift the router/sled until it was home, then use z-out a couple of time to retract..
 
 ---
@@ -22,6 +24,8 @@ I had the same thing a few minutes ago. I did not like the way a bit was working
 Posted on **2017-05-06 20:20:11** by **Bar**:
 
 I will look into it and see what I can track down.
+
+
 
 Does it do it consistently or only sometimes?
 
@@ -49,7 +53,11 @@ Posted on **2017-05-06 21:23:07** by **mcginniwa**:
 
 I just made an attempt at cutting the sled and I noticed Z-axis adjustment during travel between cuts. It's possible that's it's my Z-axis pitch since I'm not using the Ridgid ... but I thought I would mention it.
 
+
+
  [IMG_5604](//muut.com/u/maslowcnc/s3/:maslowcnc:UAg0:img_5604.jpg.jpg) 
+
+
 
 I watched the Z-axis measurement in GC during the cutting and I definitely saw it move on the X and Y before reaching the safety height in Z. So doesn't seem like it's simply bad calibration on my part. However, it could easily be that I generated a bad gcode file though since I don't really know what I'm doing. ;)
 

@@ -3,7 +3,11 @@ Posted on **2017-07-13 08:30:52** by **nathanmiller**:
 
 In preparation of my Maslow I've been scrubbing the wiki for all items I might need to get it up and running. So far I have this list put together: 
 
+
+
 https://docs.google.com/document/d/1O9q6mmUd9QyshDdgfv8O5HRPfRO7hF-rQ1jPLTVJpTQ/edit?usp=sharing
+
+
 
 Could you have a look and let me know what needs to be added, modified or removed? Once it's solid I'd like to add it to the wiki:
 
@@ -36,6 +40,7 @@ There are six gpio pins on the board that could be used for that. The Maslow fol
 Posted on **2017-07-13 13:17:29** by **nathanmiller**:
 
 As to the checklist, if there is some sort of kill switch one could put inline with the router power. I could list it as an optional item on my list. 
+
 Maybe there is some sort of extension cord that would have an emergency stop toggle inline?&quest; I've searched Amazon but can't find anything set up like that.
 
 ---
@@ -49,6 +54,8 @@ In light of previous comments I have added "extension cords" to the list. Thanks
 Posted on **2017-07-13 14:30:45** by **davidlang**:
 
 I like this emergancy off switch, given the size of this machine you may want one on each side
+
+
 
 http://www.rockler.com/safety-power-tool-switch
 
@@ -105,6 +112,7 @@ Posted on **2017-07-13 20:33:34** by **davidlang**:
 Posted on **2017-07-14 06:16:39** by **nathanmiller**:
 
 All the information gathered so far is on github in the wiki. You can see, and edit it here: https://github.com/MaslowCNC/Mechanics/wiki/Initial-Setup-Checklist
+
 Thanks again for the help in identifying needed components. Feel free to add/edit the wiki as needed.
 
 ---

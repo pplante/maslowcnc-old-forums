@@ -3,7 +3,11 @@ Posted on **2016-10-21 13:16:25** by **TheRiflesSpiral**:
 
 We're primarily Chromebook users at home; I have a Macbook Pro as my primary but it's not allowed in the shop...
 
+
+
 Are there open source or web-based tools to do what is necessary to make a vector file into a "cutter" file? (I'm a total CNC newbie, can you tell?) And what is the interface between the Maslow controller and the computer? USB? Supported by ChromeOS?
+
+
 
 Thanks!
 
@@ -19,7 +23,11 @@ Posted on **2016-10-24 10:14:33** by **Bar**:
 
 Having a dedicated computer in the shop is awesome. I bought the cheapest windows 10 tablet I could find (this one: https://www.amazon.com/Hi8-Windows-Android-Features-19201200/dp/B01AN6BBKI/ref=sr_1_3?s=pc&ie=UTF8&qid=1477328674&sr=1-3&keywords=windows+10+tablet) and used Velcro attach it to my machine. One flaw: that tablet has only one USB port which is both for charging and connecting which is a pretty poor design choice in my opinion. 
 
+
+
 I design things on my regular computer and then save them into a dropbox folder, then out in the garage I just turn on the machine and the files are ready to cut. Our software supports multi-touch which is nice, so the tablet basically is a touch interface to the machine. 
+
+
 
 The software is written in python specifically to make it easy to run on everything. A raspberry pi will handle it great. I haven't got any experience with ChromeOS, but after a little googling it looks like you can run python code on ChromeOS so it should be possible (but maybe a little bit of a hassle)
 
@@ -29,11 +37,19 @@ Posted on **2016-10-24 10:16:13** by **Bar**:
 
 Oh, and web based tools! Yes. 
 
+
+
 My favorites are: 
+
+
 
 www.makercam.com which is simple and no frills, but works great.
 
+
+
 http://jscut.org/ which is a little fancier.
+
+
 
 There are probably some other cool ones out there so if anyone else knows of some, let me know!
 
@@ -72,6 +88,8 @@ Maybe Bar could team up with Bertus Kruger (maker of the Raspberry Pi CNC hat bo
 Posted on **2016-11-11 19:01:57** by **karlthorp**:
 
 I'm planning on installing a CHIP on my Maslow that I can connect to remotely with my pocketCHIP, this way I can have it closed off except for a filtered vent without risking damage to a computer.
+
+
 
 for more information on CHIP and pocketCHIP check out www.getchip.com no I don't work for them, I was just one of their backers on Kickstarter
 

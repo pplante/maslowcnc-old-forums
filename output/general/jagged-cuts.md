@@ -3,6 +3,8 @@ Posted on **2017-04-02 15:42:37** by **ledsled71**:
 
 Cut my first part today (sled), and the quality of the cut was less than desirable.  I noticed on dry runs that the motors would start and stop (quickly), which causes the temporary sled to rock back and forth.  On portions of the cut, the motors run smoothly and the cut was much nicer.  
 
+
+
 Any way to get the motors to run at a slower& steadier pace?
 
 ---

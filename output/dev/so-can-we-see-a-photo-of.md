@@ -15,7 +15,11 @@ Posted on **2016-11-05 10:07:16** by **Bar**:
 
 Thanks for being stoked!
 
+
+
 It's a dual H-bridge shield on an Mega R3 with some extra traces added to route the encoders to the right pins. I'm going to be working on software from a coffee shop today, but I'll try to remember to snap a picture tomorrow. You can see see pictures of the schematics and layout on our github page here: https://github.com/MaslowCNC/PCBs.
+
+
 
 The motors are actually regular DC motors with encoders not stepper motors, which makes them a little easier to drive on the hardware side and a little more complicated on the software side :-)
 

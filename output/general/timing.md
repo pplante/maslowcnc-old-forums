@@ -9,6 +9,8 @@ Posted on **2017-02-23 16:31:36** by **sparhawk2k**:
 
 It's only been three weeks so I'm guessing this answer still stands. Bar said that his guess was "summer" but he's focusing on the backers first.
 
+
+
 http://www.maslowcnc.com/forums/#!/general:availability-date/great-question-i-wish-i-co
 
 ---

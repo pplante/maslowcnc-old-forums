@@ -9,6 +9,8 @@ Posted on **2017-04-29 10:56:31** by **Bar**:
 
 The screws from the back is a great idea. It's good for aesthetics, but also I've milled the heads off of a couple of those by not using a backing board so from the back is probably better for functionality too. I'm going to add a note about that to the wiki instructions, you can also if you would like to get the credit for that idea.
 
+
+
 Great suggestions!
 
 ---

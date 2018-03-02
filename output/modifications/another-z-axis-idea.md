@@ -3,9 +3,15 @@ Posted on **2017-06-06 17:53:09** by **gordonthiesfeld**:
 
 Hi all,
 
+
+
 I had an idea based on this [mini router lift](https://www.inventables.com/projects/mini-router-lift].   After pricing this out, I noticed that the wheel kits and all of the nuts and bolts do start to add up.  
 
+
+
 The [TrueUp Glide](http://www.openbuilds.com/builds/trueup-kit-version.4779/) replaces the wheels and bearings on the z axis with [5/16" nylon rod](http://3dwrx.com/pics/kit/insert.jpg).   So, I was thinking if you could take the mini router lift design with a piece of 20x40 or 20 x 60 v-slot, or even c-beam,  and replace the bearings with 5/16 nylon or delrin rod, I think the cost (not counting motors and electronics) would be about $20 dollars. 
+
+
 
 Any thoughts?
 

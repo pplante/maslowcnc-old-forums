@@ -14,6 +14,7 @@ I have the same issue. A little googling reveals that it affects various softwar
 Posted on **2017-03-17 16:20:17** by **scottsm**:
 
 I had this issue, misty memories about a security setting dealing with dlls... 
+
  I could cd into the GroundControl directory and run GroundControl.exe directly from there, though :)
 
 ---
@@ -58,7 +59,11 @@ Posted on **2017-03-19 16:20:47** by **Bar**:
 
 Would anyone who had trouble running Ground Control give the GroundControl.exe file in this folder a try: https://www.dropbox.com/s/7arudbbzqmephyh/GroundControl.zip?dl=0 
 
+
+
 Running the file file as administrator by right clicking on it may help.
+
+
 
 :fingers crossed:
 
@@ -74,6 +79,8 @@ Posted on **2017-03-19 17:19:37** by **Bar**:
 
 Woo! That's fantastic news. Thank you so much for testing it.
 
+
+
 Did you need to run it in admin mode?
 
 ---
@@ -87,6 +94,7 @@ No, I just selected 'Open'.
 Posted on **2017-03-19 17:24:42** by **scottsm**:
 
 Is it time for a new 'Release'? Does Build-OSX need to be updated? 
+
 Too, GroundControl is using the Release system, Firmware not. Is there a danger of a mismatch between the two?
 
 ---
@@ -94,6 +102,8 @@ Too, GroundControl is using the Release system, Firmware not. Is there a danger 
 Posted on **2017-03-19 17:40:23** by **Bar**:
 
 Great!
+
+
 
 I was planning to do a weekly "Releases" with the update, but it seems like so much has changed/improved/been fixed in the last two days that it might be time already. I just brought Build-OSX up to date, if you would be so kind as to run the build again, let's do it!
 
@@ -108,6 +118,8 @@ Got it, thanks. I'll send a link as before.
 Posted on **2017-03-19 17:58:43** by **Bar**:
 
 Awesome!
+
+
 
 I agree that the firmware should really be on a release system too, and I'm going to do releases weekly with the update so we have older versions to go back to if we need.  I think having the directions point to the latest possible version is good for now because things are getting better so quickly that having the five o'clock version is better than the two o'clock version is way better than the eight am version
 

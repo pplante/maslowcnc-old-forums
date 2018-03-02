@@ -26,6 +26,7 @@ Check to make sure your wires have continuity in all the pins.  I had a broken o
 Posted on **2017-03-23 18:26:32** by **rexklein**:
 
 I have the same problem. I have covered every base. all equipment is good every config I could think of will run the right motor. I swapped cables various ways. motors and cables are fine. so its either a board issue or a software issue. 
+
 like Carlos I was able to get it going although I had to reset a few times. but now the left motor just will not respond. The left motor stopped working several times during setup. But now it just will not come back.
 
 ---
@@ -52,6 +53,8 @@ Posted on **2017-03-23 20:11:10** by **carlosrivers**:
 
 @Rexklein, It can be very frustrating. I am not sure what exactly I did. I just kept trying to updated the firmware on Arduino, switched the motor cables, I too used a different computer, and then I hit calibrate motors and they came to life. I am currently working on my sled, which has me thinking too hard lol.
 
+
+
 Once I have this entire thing figured out I am going to Go-Pro a youtube video of the entire process, from software to building the machine. I know someone else is going to appreciate that.
 
 ---
@@ -66,6 +69,8 @@ Posted on **2017-03-24 07:46:33** by **Bar**:
 
 That sounds frustrating and I want to make sure we can figure out what's going on so nobody else has to struggle with it. 
 
+
+
 Do you have suggestions about how I can try to replicate the issue so I can figure out what's happening?
 
 ---
@@ -73,6 +78,7 @@ Do you have suggestions about how I can try to replicate the issue so I can figu
 Posted on **2017-03-24 10:55:07** by **rexklein**:
 
 Actually do you know what the data rate etc should be for the com1 port
+
 get this vibe that in the firmware there is a bug that if there are any deviant com settings there could be a break in the code. My ability to measure chains worked after I swapped com ports but I was not able to repeat the trick.
 
 ---
@@ -80,6 +86,8 @@ get this vibe that in the firmware there is a bug that if there are any deviant 
 Posted on **2017-03-24 11:36:42** by **Bar**:
 
 The data rate should be 19200. I think you are right that the serial connection is a little too touchy right now. The mystery to me is what settings are giving us a situation where the software says it is connected so it's still receiving positional information from the machine, but it won't move. 
+
+
 
 The issue could have something to do with when the machine indicates that it is ready for the next command. Ground Control won't send a new command until the machine asks for one, so if the machine isn't indicating that it is ready under some circumstances it could lock up.
 
@@ -100,6 +108,8 @@ Bar, troubleshooting tip. A user doesn't need a scope to do some simple probing.
 Posted on **2017-03-25 08:11:10** by **Bar**:
 
 We'll get you a new board in the mail ASAP. Can you email your address (or just name) to bar@maslowcnc.com so I know who to send it to? While it's in the post, let's see what we can learn. 
+
+
 
 @Jbarchucj is right, I think the best way to do that is to put the machine in a known state and probe the pins. I'll write a firmware version today which does nothing but command all four motors to spin and write up a guide about what the voltages on each pin of the wire should be. Do you have a volt meter we could use for testing?
 
@@ -127,6 +137,8 @@ Posted on **2017-03-25 13:28:29** by **Bar**:
 
 I just added a new firmware version which just commands the motors to run. I don't think we need the voltmeter, because all we would be looking for is 12v which we can detect easily by seeing the motor turn. 
 
+
+
 Give this version [here](https://github.com/MaslowCNC/Firmware) a try, but instead of installing the normal firmware, install  [test_electronics_firmware](//muut.com/u/maslowcnc/s3/:maslowcnc:JJem:testfirmware.jpg.jpg) . With the firmware installed, try plugging the same motor into each socket 1 at a time and let me know what happens. The goal is that in three of them it will turn for 1 second, stop for 1 second, and then reverse on and on forever.
 
 ---
@@ -134,6 +146,7 @@ Give this version [here](https://github.com/MaslowCNC/Firmware) a try, but inste
 Posted on **2017-03-25 13:47:36** by **rexklein**:
 
 great super easy test
+
 the port for left motor is indeed dead in this test as well
 
 ---
@@ -160,6 +173,8 @@ Posted on **2017-03-25 14:05:21** by **Bar**:
 
 Thanks for doing that. It looks like we've got it confirmed as a bad port. 
 
+
+
 What happens with the far right port (the 4th one)?
 
 ---
@@ -180,6 +195,8 @@ Posted on **2017-03-25 14:36:15** by **Bar**:
 
 Gotcha. That's what I would expect. Thanks for checking. 
 
+
+
 Will you shoot me a private message with your real world name or address and I'll send you a new board with express shipping!
 
 ---
@@ -187,11 +204,17 @@ Will you shoot me a private message with your real world name or address and I'l
 Posted on **2017-03-25 17:02:28** by **jbarchuk**:
 
 > @Bar
+
 > I just added a new firmware version which just commands the motors to run.
+
 Nice. :)
+
 > I don't think we need the voltmeter, because all we would be looking for is 12v which we can detect easily by seeing the motor turn.
+
 I meant measure the signal pins.
+
 If there's no 12v then nothing works anyway.
+
 If there's a wrong voltage on a signal pin, or no voltage, then it's an issue, that still might be either board or motor but at least that has to be fixed -before- looking at software. There's no sense chasing software ghosts when the hardware has no chance of working.
 
 ---

@@ -15,7 +15,11 @@ Posted on **2017-06-17 18:15:55** by **davidlang**:
 
 or another way to look at it is that we are in the beta-test stage, so every release is beta :-)
 
+
+
 But seriously, if Bar knew the version wouldn't work, he wouldn't release it. Every version he releases passes his 'it works' tests. It's only when things hit the real world of lots of people doing different things with different releases that problems show up (or show up as being significant enough to be a problem)
+
+
 
 If you don't want to be on the bleeding edge, never upgrade to a new version until you hear others are running it successfully. The problem is that if everyone does this, the new version never gets tested.
 

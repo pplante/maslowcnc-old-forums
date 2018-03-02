@@ -2,9 +2,13 @@
 Posted on **2017-07-06 14:38:44** by **rollandelliott**:
 
 I got my aluminum lazy susan and it is very strong, should be very easy to mount the router and chains to it. $25 plus $20 shipping from CA. I actually bought two, one is a little stiff, and smoemtimes snags,  but other one is perfect. 
+
 Since the current code is meant to compensate for the standard sled, what changes need to be input for a lazy susan type design? space between chains should be set to ZERO? in ground control? 
 
+
+
  http://www.ebay.com/itm/450mm-Lazy-Susan-Aluminum-Bearing-500-lbs-Turntable-Bearings-11282/400574167764?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649. 
+
 So
 
 ---
@@ -18,6 +22,7 @@ I haven't actually tried it, but I would guess that just setting the spacing to 
 Posted on **2017-07-06 16:00:56** by **scottsm**:
 
 @rollandelliott, I’ve got one of those on the way too. I’m wondering how to accommodate the bricks - if I fasten them to one or both of the pivoting portions, that might affect the dynamics. What do you think about this?
+
  Looks like it will need some work-around for the dust collection attachment as well.
 
 ---
@@ -31,11 +36,18 @@ Im going to use some concentric lead weights or maybe make the  sled out of stee
 Posted on **2017-07-07 09:38:58** by **stanleykazmierczyk**:
 
 I have just received a reply from a VXB rep regarding radial loads for their lazy susan bearings, specifically the 450mm model mentioned. 
+
 "Unfortunately all of our lazy susan bearings are only designed for axial load. We have had customers use them in a radial application, but applied maybe 10lbs to them, or so." 
+
+
 
 I am looking at using a smaller diameter bearing that provides a 2" diameter opening for the router bit and a 90mm outer ring that can be inserted into the 92mm opening in the Ridgid R2200 router metal base.
 
+
+
 I am not an engineer, but I believe this type of bearing is more suited for a larger radial load, and a smaller axial load, which is the reverse of the lazy susan type bearings.  Here is one bearing under consideration: 
+
+
 
 http://www.ebay.com/itm/TRITAN-ER31-Insert-Ball-Brng-ER-1-15-16-dia-Setscrew-/271877140825?hash=item3f4d23f159
 
@@ -44,6 +56,8 @@ http://www.ebay.com/itm/TRITAN-ER31-Insert-Ball-Brng-ER-1-15-16-dia-Setscrew-/27
 Posted on **2017-07-07 10:01:22** by **davidlang**:
 
 it seems that what we want for this design is a slew bearing
+
+
 
 https://www.youtube.com/watch?v=5o4Fj8OxkB8&t=14s
 
@@ -58,6 +72,7 @@ they are very strong easily 30 to 40 lbs, why do you want sucha  small bearing? 
 Posted on **2017-07-07 10:04:25** by **rollandelliott**:
 
 https://www.mcmaster.com/#5709k92/=18e9ihx 
+
 here you go, they have other sizes and types.
 
 ---
@@ -120,6 +135,8 @@ Posted on **2017-07-07 16:26:20** by **davidlang**:
 
 Taking this approach, you don't want the bricks hanging below the router, you need to have the router and the center of gravity at the point the arms would cross.
 
+
+
 So put one brick on one side of the router, and the other brick exactly opposite it so that they balance, no mater how that half of the mount is rotated..
 
 ---
@@ -145,6 +162,7 @@ Thanks, that’s doable, then.
 Posted on **2017-07-08 09:36:58** by **scottsm**:
 
 It looks like good radial support of the bearing races will be important - I bought a ‘used, like new’ unit from a warehouse site and it was ovalled by .75” when it arrived. A poor try at saving money... I’ll have to return that and pony up the full price to a different vendor. 
+
 The aluminum is soft so I guess I’ll look at insetting it to try to prevent deformation.
 
 ---

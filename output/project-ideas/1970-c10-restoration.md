@@ -39,7 +39,11 @@ Posted on **2017-06-04 12:58:01** by **Bar**:
 
 That looks absolutely gorgeous! Great work.
 
+
+
 Testing aluminum has been on my to-do list for a while, but other things seem to always take precedence. Got any tips?
+
+
 
 Thanks for sharing! It's so cool to see the machine getting used in ways I never imagined
 
@@ -48,6 +52,7 @@ Thanks for sharing! It's so cool to see the machine getting used in ways I never
 Posted on **2017-06-05 17:20:38** by **rexklein**:
 
 The whole reason I did not like the middle so I refined the design.
+
 https://goo.gl/photos/Bfr1U4uHvE58VQHY8
 
 ---
@@ -61,6 +66,8 @@ sorry the whole reason for having a home CNC to fix stuff easy and fast
 Posted on **2017-06-05 18:23:17** by **Bar**:
 
 Yeah, I like it even better now too. It looks cleaner.  Would you be OK with us putting your pictures in the weekly update? 
+
+
 
 I'm going to try to test aluminum for the update too.
 

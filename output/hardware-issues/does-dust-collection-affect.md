@@ -2,6 +2,7 @@
 Posted on **2017-03-29 01:36:34** by **scottsm**:
 
 Has anyone decided whether running a dust collector actually affects the motor calibration (suction/friction)? I've watched the calibration process with and without the sucker running, and the numbers are different, but ballpark close. Wish those numbers were available to inspect somewhere in groundcontrol :)
+
  I haven't cut enough wood to form an opinion from experience, does anyone have an answer?
 
 ---
@@ -9,6 +10,8 @@ Has anyone decided whether running a dust collector actually affects the motor c
 Posted on **2017-03-29 07:52:21** by **Bar**:
 
 That's a great thing to investigate. I know mine behaves differently with the router running vs off too because there is a good amount of air forced through the router motor which creates something of an air cushion under the sled.
+
+
 
 Rather than viewing the calibration numbers directly, I would like to add a metric to test how accurately the feedback control system is following the target, that way as the system improves we can track the progress
 
@@ -30,7 +33,11 @@ Posted on **2017-03-29 10:34:40** by **Bar**:
 
 In theory just once, but until I rewrite the feed back control system more often is probably good.
 
+
+
 I think this is one of those things that we could better answer if we had a quantifiable metric for how well the system is holding position.
+
+
 
 I find it helpful to calibrate whenever I am cutting in a different part of the sheet because the tensions will be different.
 
@@ -57,6 +64,8 @@ If you use the method of finding your sled's center of gravity per Bar's video, 
 Posted on **2017-07-13 21:41:55** by **davidlang**:
 
 one of the questions that the new simulation may be able to answer.
+
+
 
 now that the kits are getting out to more people, we can hopefully get a little more testing and validate the simulator results.
 

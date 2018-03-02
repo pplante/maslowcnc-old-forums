@@ -3,6 +3,8 @@ Posted on **2017-05-21 20:42:32** by **davidlang**:
 
 we aren't to the point of really needing to worry about this yet, but according to the cable droop calculator at https://www.spaceagecontrol.com/calccabl.htm we can have enough sag at full extension (right chain when cutting on the lower left) to through off the calculated position by a noticeable amount.
 
+
+
 once we get the PID loops tuned we will need to look at adding a droop compensation to the desired chain length.
 
 ---
@@ -16,6 +18,8 @@ Is it possible that sag is part of the inaccuracy we see at the top of the work 
 Posted on **2017-05-22 06:21:26** by **davidlang**:
 
 no, sag would be the worst at the longest chain and lowest tension, and in any case, we are talking about something on the order or 1/32 inch. enough to throw us off from our target of 1/64" accuracy, but probably not enough to cause our current 1/16" accuracy.
+
+
 
 The new PID loops need to be tuned to be stable everywhere, and after that stabilizes, we'll see what the accuracy looks like.
 
@@ -36,6 +40,8 @@ I was thinking about ... What if... the chain was longer so as the left chain le
 Posted on **2017-05-22 23:17:50** by **davidlang**:
 
 @scottsm, the PID settings that give absolute maximum performance will differ under different conditions, but a PID loop is designed to adapt to real-world conditions, so you don't try to tweak it for the absolute best performance, you tweak it to make it stable under all conditions and accept the performance that results.
+
+
 
 The video that Bar linked to in the weekly update talked about tuning the pid loop by increasing values by 10x until it became unstable and then backing down and increasing by 2x as the 'fine turning' of the loop
 

@@ -3,13 +3,23 @@ Posted on **2017-03-27 13:44:06** by **jknox**:
 
 I started a new stand with simplicity and rigidity in mind, this is what I have so far:  [V2 Concept](//muut.com/u/maslowcnc/s1/:maslowcnc:dmnH:mk2preliminary.png.jpg) 
 
+
+
 The entire sloping section can be built flat on the floor, just like framing a wall. Then you just lift it up, set the angle you want, and attach the rear legs (or attach it to a wall, bench, etc). It's mostly 2x4s, but the lowest horizontal member is a 2x6 so it sticks out far enough to support the work piece, and the top member is also a 2x6 for strength and to allow the motors to mount further forward on the frame.
 
+
+
 As shown it would take:
+
 (1) 2x6x10'
+
 (1) 2x6x6'
+
 (7) 2x4x6' (4 for legs, 2 cross members, 1 for 45 degree braces)
+
 (1) 4x8 sheet of plywood (hidden for clarity)
+
+
 
 FYI, I'd like to add the major hardware to the model (probably not nuts and bolts), is there somewhere with details of the parts in the kit? If not I would appreciate any pictures/sketches/dimensions/part numbers that anyone can provide. Thanks!
 
@@ -30,6 +40,8 @@ Posted on **2017-03-28 06:42:29** by **jknox**:
 Posted on **2017-03-28 12:41:43** by **davidlang**:
 
 hmm, I tried to comment earlier and the comment didn't show up :-(
+
+
 
 I like this stand, it looks simpler to build and probably stronger. My only concern would be how the motors end up mounting to the arms
 

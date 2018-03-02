@@ -9,9 +9,15 @@ Posted on **2017-04-02 07:57:59** by **Bar**:
 
 You are completely caught up!
 
+
+
 I've got to spend most of today working on version two of motor controller PCB inorder to get them shipping on time. If you want to push on, .svg files are available for all the parts from [GitHub](https://github.com/MaslowCNC/Mechanics/blob/master/SVG%20Files/AllPartsSVG.zip) and you can generate your own Gcode from www.makercam.com . There are some videos on our YouTube channel which will walk you through the process. 
 
+
+
 I will keep pushing the instructions forward as soon as I get these PCB designs sent to the factory, so if you want to wait, the instructions will be completed before next weekend.
+
+
 
 Congratulations on being done, and my apologies for not having the next step written up!
 

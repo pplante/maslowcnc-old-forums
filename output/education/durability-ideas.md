@@ -9,6 +9,8 @@ Posted on **2017-03-23 07:23:34** by **TheRiflesSpiral**:
 
 Tensioning with a weight may be tough since the chain path is not parallel to the force of gravity... I've actually given this some thought, though.
 
+
+
 What I plan to do is to attach a pulley where the hook is and run a fabric cord up to the motor mounts where another pulley would be. A weight can then hang parallel to gravity.
 
 ---
@@ -28,12 +30,19 @@ clear acrylic or polycarbonate guards over the left and right sides will keep ha
 Posted on **2017-03-23 12:38:17** by **jbarchuk**:
 
 > @mattnelson
+
 > What else could be done to make the maslow as kidproof as possible?
+
 Don't let them near it? :) This machine has a number of minor to major hazard points. OSHA would have a field day with this one. :)
+
 The router is the obvious hazard, but it makes a lot of noise which is always a red flag even to the less-than-seriously-safety-conscious.
+
 The motor plus gear and chain way up in the air is not a major issue because it's not easy to reach.
+
 My concern is the 'floating gear' because it lowers down to be in easy reach. It moves pretty slowly so it 'seems' less than dangerous. It's easy for someone standing but not facing the machine to back into it and get their hair wound up. It doesn't look dangerous. but touch it in a way that causes it to push a finger into the chain and there -will- be a bloody mess. The bungee plus rollers is a similar issue but not being metal on metal would cause slightly less damage to a finger.
+
 I can't think of a way to put a guard over that whole portion of the machine. Well, it could be covered with a box of some sort but part of the  purpose of education is to let the kids see how the machine works and learn a bit about physics and machinery. To cover it with clear plastic is a -large- piece of plastic, which is expensive.
+
 Regardless of guards I'd put yellow tape on the floor with verbal instructions and a couple of signs to -not- cross that line without direct adult supervision.
 
 ---

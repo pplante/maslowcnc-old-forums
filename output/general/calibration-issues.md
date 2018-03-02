@@ -3,11 +3,19 @@ Posted on **2017-06-20 21:01:09** by **Bar**:
 
 As we all know I broke the calibration process in last week's release, and I we've all been miserable ever since.
 
+
+
 I really really really want to make sure we've got it fixed for this week. I've run the process a couple times now on different computers and different machines, and I'll get Hannah to do it without me giving any advice first thing in the morning, but I would love another set of eyes if anyone has the chance to take a look the version currently on GitHub.
+
+
 
 It's not perfect, the motors are still a little jittery without the load of the sled sometimes and there's room for improvement in some other areas too, but I want to make sure this version is a good stable one for everyone to work from next week.
 
+
+
 You'll know you are running the right version because [the version numbers will be 0.77](//muut.com/u/maslowcnc/s3/:maslowcnc:4V1n:version0.77.jpg.jpg) 
+
+
 
 If you have a chance to give it a go, I would love to hear if it works or does not for you.
 
@@ -28,6 +36,7 @@ Sorry firmware, I was checking ground control.
 Posted on **2017-06-20 22:46:13** by **scottsm**:
 
 @carlosrivers, use the green 'Clone or download' button on the github code page.
+
 @Bar, I just completed the cal sequence, three cuts to arrive at 0.3mm difference between horizontal and vertical. The calibration seems to work correctly in the GC77/FW77 pair. I saw an odd twitch during the z-axis calibration step, but after the calibration the z-axis seems to behave normally.
 
 ---
@@ -60,9 +69,15 @@ Posted on **2017-06-21 07:49:09** by **Bar**:
 
 Ok, not ideal, but good to know.
 
+
+
 I'll try to whip up a test file here to see what we can learn. 
 
+
+
 What do you see when you open the serial monitor by clicking the magnifying glass like icon in the upper right corner of the Arduino program?
+
+
 
  It will let you see the commands being sent by the machine directly to confirm that the machine is sending it's position
 
@@ -113,10 +128,15 @@ Okay, I'll wait a bit.  No hurry on my end.
 Posted on **2017-06-21 09:58:10** by **gero**:
 
 @rancher Had the same symptoms with last weeks GC.
+
 On my elderly Ubuntu 14.04 the module version of pyserial was 2.6.
+
 Trying newer Linux from USB-Stick I was able to stay connected again.
+
 Checking the pyserial version I found out that it was pyserial 3.3.
+
 What OS are you running? On linux the >>>pip show pyserial<<< tells the version number.
+
 No to be confused with the Python version. We are still on 2.7 with that and Python 3.3 does not work.
 
 ---
@@ -131,16 +151,29 @@ Posted on **2017-06-21 10:24:58** by **Bar**:
 
 Ok, I think I've got something worth testing. Give this branch of Ground Control a try when you have a chance: https://github.com/MaslowCNC/GroundControl/tree/display-more-information-on-serial-disconect
 
+
+
 One of three things is going on. 
+
+
 
 1) Gero is right and it's a pyserial version issue. I've added a test which will now check your version of pyserial for you and display a message if it's < 3.0 which is the old ones. That's a good thing to have in general
 
+
+
 2) Something fishy is going on with the serial port on the windows side. I've seen this behavior happen and then go away when opening and closing the the  [serial monitor like this](//muut.com/u/maslowcnc/s2/:maslowcnc:7FGC:serialmonitor.jpg.jpg) a couple of times or restarting the computer (I know right, turn it off and back on again...)
 
+
+
 3) Something new and weird is going on in which case the information that will help me track it down is 
+
         a) What is shown in the serial monitor text  [like this](//muut.com/u/maslowcnc/s2/:maslowcnc:cAec:serialmonitortext.jpg.jpg) 
+
         b) What is displayed in the Ground Control text monitor  [like this](//muut.com/u/maslowcnc/s1/:maslowcnc:4Wx1:gctext.jpg.jpg) 
+
         c) What is displayed in the command  prompt terminal that opens with Ground Control  [like this](//muut.com/u/maslowcnc/s2/:maslowcnc:iVSF:cmdtext.jpg.jpg) 
+
+
 
 When you have a chance, let me know how those things go and we'll work from there!
 
@@ -168,15 +201,27 @@ Posted on **2017-06-21 11:02:49** by **rancher**:
 
 Looks like Python version is an issue somehow.  My machine has been off the internet since it went down to the shop for good a few months ago.  This is new behavior for me.
 
+
+
 [Ground control display](//muut.com/u/maslowcnc/s3/:maslowcnc:LDmx:groundcontroldisplay.jpg.jpg)
+
+
 
  [Python Start1](//muut.com/u/maslowcnc/s3/:maslowcnc:kE7W:pythonstart1.jpg.jpg)
 
+
+
  [Python start2](//muut.com/u/maslowcnc/s3/:maslowcnc:GKo6:pythonstart2.jpg.jpg)
+
+
 
  [Serial monitor GC running](//muut.com/u/maslowcnc/s3/:maslowcnc:Othl:serialmonitorgcrunning.jpg.jpg)
 
+
+
  [Serial monitor on start](//muut.com/u/maslowcnc/s3/:maslowcnc:vedh:serialmonitoronstart.jpg.jpg)
+
+
 
   [Bonus](//muut.com/u/maslowcnc/s3/:maslowcnc:w4YC:bonus.jpg.jpg)
 
@@ -185,6 +230,7 @@ Looks like Python version is an issue somehow.  My machine has been off the inte
 Posted on **2017-06-21 11:17:33** by **gero**:
 
 Love the bonus :-)
+
 Pyserial version.... not Python version...
 
 ---
@@ -193,9 +239,15 @@ Posted on **2017-06-21 11:20:51** by **Bar**:
 
 Perfect! Love the bonus.
 
+
+
 So now we need to decide what the solution is. 
 
+
+
 I'm going to merge the version which gives the error in right now because having a good error message that makes it clear what is going on is key.
+
+
 
 How hard is it to connect that computer to the internet?
 
@@ -229,10 +281,17 @@ Posted on **2017-06-21 12:13:00** by **Bar**:
 
 @davidlang is right we're using more of the pyserial features now and one of them is pyserial 3+ specific
 
+
+
 @rancher to update pyserial, type:
+
 ---
+
 >pip install pyserial --upgrade
+
 ---
+
+
 
 in the terminal like this:  [like this](//muut.com/u/maslowcnc/s2/:maslowcnc:8GDs:pyserial.jpg.jpg) when the computer is connected to the internet. Just bringing the Arduino to make sure it connects is enough to know if things are working
 
@@ -253,6 +312,7 @@ Should mine say git\groundcontrol\ like yours does?  Mine just shows my c\users\
 Posted on **2017-06-21 13:16:28** by **gero**:
 
 I think the \git is when you clone, so I would not worry.
+
 10 years away for win, but could the pip be a path environment thing?
 
 ---
@@ -303,6 +363,8 @@ Posted on **2017-06-21 13:30:12** by **davidlang**:
 
 pip is a tool to manage python libraries
 
+
+
 here is a video that says it walks you through installing it (I don't run windows on anything so I can't vouch for it's accuracy), search python pip windows and you will find lots of info
 
 ---
@@ -310,6 +372,8 @@ here is a video that says it walks you through installing it (I don't run window
 Posted on **2017-06-21 13:32:33** by **rancher**:
 
 Success
+
+
 
 python -m pip install pyserial --upgrade
 
@@ -331,7 +395,11 @@ Posted on **2017-06-21 13:33:29** by **Bar**:
 
 I feel you on the command line stuff, it can be a lot.
 
+
+
 For anyone following along, running ground control from installer version doesn't require any of this.
+
+
 
 @rancher What happens if you type "python -m pip"?
 
@@ -449,17 +517,31 @@ Posted on **2017-06-21 15:49:33** by **rancher**:
 
 Nailed it Bar!  It was smooth, 600mm on the nose first time through.
 
+
+
 Here are some notes:
+
+
 
  *  Put the chain wrap warning in the first chain feed action, measuring motors left motor feed.  Also, wrap is a problem as we get dustier.  It would be great to have OH CRAP STOP! button right on that page as well as Unwind.
 
+
+
  * If the calibration routine/Ground Control window is minimized the routine window disappears and must be started over.  Didn't cause a problem to skip to lost step, but made me nervous.
+
+
 
  * Perhaps a warning about vertical distance measure being thrown off by chain wrap guides leading chain away from motor.  Sorta obvious, but I might have missed it last time.
 
+
+
 *Return to center does nothing until home is defined.  I defined home as center, then rtc worked regardless of home.  I did not try define home away from center then home.  But neither rtc nor home worked until home was defined after calibration.
 
+
+
 * Long motor stutter on Z, occasionally.
+
+
 
 That's all I have right now.  Thank you so much for getting me back on board!
 
@@ -481,6 +563,8 @@ Posted on **2017-06-21 17:29:21** by **rancher**:
 
 It's cutting better than it ever has Bar.  I whipped out this 45 box in some scrap as a test.  Plan to redo in nice material soon, I think Maslow is ready!  I built the table while Maslow cut the box.
 
+
+
   [Table and Box](//muut.com/u/maslowcnc/s3/:maslowcnc:40T9:tableandbox.jpg.jpg)
 
 ---
@@ -489,7 +573,11 @@ Posted on **2017-06-21 17:34:56** by **Bar**:
 
 Fantastic! I'm glad to hear you say that, it's been a long week.
 
+
+
 Oh man, I wish I had waited another hour to post the update. We could have had a project of the week :-)
+
+
 
 Great work, and thanks for sharing the picture. Seeing the stuff you guys build is always my favorite
 
@@ -504,6 +592,7 @@ Just loaded the most recent FW and GC and competed the calibration.  Entered the
 Posted on **2017-06-21 20:37:39** by **blsteinhauer88**:
 
 A little jittery, but cut great! Thanks @bar
+
  [IMG_0045](//muut.com/u/maslowcnc/s3/:maslowcnc:rXjc:img_0045.jpg.jpg)
 
 ---
@@ -511,6 +600,8 @@ A little jittery, but cut great! Thanks @bar
 Posted on **2017-06-21 21:48:01** by **davidlang**:
 
 the current fix for the communications problem slows down the rate that GC sends lines to the firmware. In your case, you have thousands of tiny cuts and so this slowdown means that GC can't send the data fast enough to keep things going.
+
+
 
 But it's better to be slow and jittery than to be truncating data and cutting incorrectly.
 

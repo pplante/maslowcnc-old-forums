@@ -8,6 +8,7 @@ I am interesting in building a Maslow that is 1/2 the scale. Would I still be ab
 Posted on **2017-05-21 13:29:08** by **rollandelliott**:
 
 Since the middle area is the most accurate spot why dont u just use the exsisting frame design and load 4x4 sheets onto the frame?
+
 To answer your question u woulnot have to shorten the chains but it would take all of 15 seconds with chain delinker at any bike store
 
 ---
@@ -27,6 +28,8 @@ Posted on **2017-05-23 17:02:58** by **ajkelsey**:
 Posted on **2017-05-23 17:07:35** by **davidlang**:
 
 you would still be 6' wide
+
+
 
 grab the python file http://lang.hm/maslow/v-plotter.py and play around with the dimentions there to find out what will work for the work area you are trying for.
 

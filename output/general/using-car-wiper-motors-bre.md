@@ -3,7 +3,11 @@ Posted on **2017-05-23 09:51:09** by **dougl**:
 
 I just ordered a kit(#01782) instead of a first time DIY attempt and look forward to building from the validated parts provided. 
 
+
+
 But I also love to DIY so while I wait for the kit, I have some 12V automotive windshield wiper motors(worm geared) which turn at 30 RPM which I'll see about putting a magnetic shaft encoder on. I'll also be hacking together a test system using an Arduino and H-bridges I already use with the wiper motors.  
+
+
 
 BTW, the Z-axis addon was what brought be back to Maslow and the kit purchase. And if the kit arrives in time, I will sign up for showcasing it at the San Diego Maker Faire in Oct including doing a talk/discussion on one of the stages.  Thanks Bar and Team Maslow!
 
@@ -13,6 +17,8 @@ Posted on **2017-05-23 10:03:12** by **davidlang**:
 
 If you have to put the encoder on the output shaft, you will need a fairly high-res encoder ( something like http://www.ebay.com/itm/360-600P-R-Photoelectric-Incremental-Rotary-Encoder-5-24V-AB-Two-Phases-Shaft/142133029511?_trksid=p2481888.c100678.m3607&_trkparms=aid%3D111001%26algo%3DREC.SEED%26ao%3D1%26asc%3D20160908131621%26meid%3Da377d4c94fee4918830b672e8873c218%26pid%3D100678%26rk%3D1%26rkt%3D4%26sd%3D441209388746&var=441209388746&_trkparms=pageci%253A0bbe6748-3fd9-11e7-a477-74dbd180bd54%257Cparentrq%253A363ee0fa15c0aa472cd566cffffaa35d%257Ciid%253A1 would probably work as it gives 2400 pulses/rev but one that is encoded for 1000 lines/rev instead of this 600 lines/rev would be better)
 
+
+
 If you can put the encoder on the motor shaft rather than the output shaft, you can go with a much lower resolution encoder the stock motors are something like 10 lines/rev
 
 ---
@@ -20,6 +26,7 @@ If you can put the encoder on the motor shaft rather than the output shaft, you 
 Posted on **2017-05-23 10:31:34** by **dougl**:
 
 I will try one of these at 1024 ticks/rev since it just requires a magnet epoxied on the end of the shaft. 
+
  http://www.ecomorder.com/techref/ecomprice.asp?p=416078
 
 ---
@@ -27,6 +34,8 @@ I will try one of these at 1024 ticks/rev since it just requires a magnet epoxie
 Posted on **2017-05-23 10:36:08** by **davidlang**:
 
 the resolution of the machine is going to suffer a little from that, you won't be able to get the 1/64" that is the maslow target, but you may be able to get to 1/32" or 1/16"
+
+
 
 Bar used something very similar to those magnet sensors for the makesmith CNC and he was grumbling about the accuracy problems he had with them. it turns out that in practice, they are far from linear in their steps
 
@@ -95,6 +104,7 @@ I got a couple of those Ebay motors thinking I would roll my own before my Maslo
 Posted on **2017-05-24 19:25:38** by **TomTheWhittler**:
 
 This was the only Ebay geared motor I could find that actually showed the inside of their gear box (all metal) but no encoder. Even then it looks cheapish. 
+
 www.ebay.com/itm/381265109244?
 
 ---
@@ -102,7 +112,9 @@ www.ebay.com/itm/381265109244?
 Posted on **2017-05-24 19:28:37** by **TomTheWhittler**:
 
 Even them you are looking at a motor that fits easily inside your hand.
+
 http://www.ebay.com/itm/331910918012?
+
 Which leads me to believe they will not hold up for hours and hours of moving a heavy router around with bricks.
 
 ---

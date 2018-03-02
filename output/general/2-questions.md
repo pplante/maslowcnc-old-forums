@@ -9,7 +9,11 @@ Posted on **2017-03-08 21:18:58** by **Bar**:
 
 Great questions!
 
+
+
 There will be an assembly manual and assembly videos posted online.  We will probably do a manual first and then once we've got a clear procedure based on your feedback we will make videos of the process.
+
+
 
 There is no soldering required :-)
 

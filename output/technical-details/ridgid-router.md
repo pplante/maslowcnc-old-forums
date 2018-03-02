@@ -27,7 +27,11 @@ Posted on **2016-11-03 12:42:15** by **Bar**:
 
 I actually bought mine reconditioned and I'm very happy with it. I couldn't tell that it had ever been used before, but I may have gotten lucky. 
 
+
+
 The depth adjustment mechanism is one of the reasons I chose this router, but there are a number of other similar routers which use more or less the same mechanism which should work just as well. 
+
+
 
 I'm planning to make a video about what features I like about this router and talk about some other ones I like too in the next week or so.
 

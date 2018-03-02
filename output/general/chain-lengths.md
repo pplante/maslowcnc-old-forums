@@ -9,6 +9,8 @@ Posted on **2017-07-14 21:09:33** by **davidlang**:
 
 the chains are supposed to be 11', which would barely reach. but you can get a master link and join sections of chain together
 
+
+
 your machine is noticeably wider than the standard one (which I believe will help your accuracy)
 
 ---

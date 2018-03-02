@@ -2,6 +2,7 @@
 Posted on **2017-03-26 19:36:49** by **boandersen**:
 
 Y'all, on the rigid I have (I bought mine as a refurb, but it looked nice). The depth control takes a lot of effort to turn when I want to retract the bit. Is that normal?
+
 Should I try oiling the inside cylinder or something? I'm worried  that the z-motor will jam it..
 
 ---
@@ -21,6 +22,7 @@ I would try playing with the latch on the side. There should be a nut as part of
 Posted on **2017-03-27 05:43:00** by **rollandelliott**:
 
 https://www.mcmaster.com/#76445a721/=16xp8vz
+
 .005 thin UMHW tape will make the depth control silky smooth,  just line inside of cylinder.  hopefully this is thin enough that adjustment latch will still work      alternatively  you can always take some fine 400 grit or higher sand paper and car wax to make the cylinder and holder's contact area as smooth as can be
 
 ---

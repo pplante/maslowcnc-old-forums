@@ -9,6 +9,8 @@ Posted on **2017-04-07 16:28:50** by **Bar**:
 
 The free version of sketchup is designed to not allow you to easily open .DXF files, they want you to pay for the full version to be able to do that. 
 
+
+
 Fusion 360 can open them if you are willing to give it a try.
 
 ---

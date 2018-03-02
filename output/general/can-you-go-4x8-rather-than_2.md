@@ -15,6 +15,8 @@ Posted on **2017-07-11 16:09:38** by **davidlang**:
 
 You are not the first person to ask about this, you may want to make the arms a little longer or you may suffer accuracy in the bottom corners.
 
+
+
 unfortunately, nobody has reported on doing this, so we don't know the results for sure.
 
 ---
@@ -34,6 +36,8 @@ Extending the arms out longer shouldn’t be a problem.  I’m mostly interested
 Posted on **2017-07-11 16:16:28** by **davidlang**:
 
 There are a couple people who have hinged the machine to save space (one to a wall, one to a ceiling)
+
+
 
 they built a slightly different frame design, they built a rectangular frame (think of how a wall is framed) instead of depending on the plywood to be stiff enough
 
@@ -61,6 +65,8 @@ Posted on **2017-07-12 05:07:26** by **deanhuffman**:
 
 For the fold up, I've got lights on the ceiling, 4' wide works better for my situation.
 
+
+
 Another question about the impercise edge problem.  Is the problem related to the center of gravity vs the router but not maintaining linear "top to bottomness" as the sled moves beneath the motor?  If so, a possible easy solution would be to hang the weight off the sled via a string or roller skate wheel or something making the weight on a "trailer sled".  This should maintain "top to bottomness" regardless of the position.  I assume getting the router as close to center of gravity is always a good thing.
 
 ---
@@ -74,6 +80,8 @@ no, the problem is that as the angle of the chains get closer to vertical the am
 Posted on **2017-07-12 17:35:13** by **deanhuffman**:
 
 I ran through the Python program....If i'm measuring the square inches and feet correctly it looks like there is almost no loss on a 4x8, with the exception of the bottom couple of inches on each end.
+
+
 
 Has anyone made a full sheet of 1x1 or 2x2 holes and measured for accuracy?  Are there pics of the inaccuracy in practice?
 

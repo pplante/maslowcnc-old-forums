@@ -15,7 +15,11 @@ Posted on **2017-04-26 12:22:24** by **Bar**:
 
 I'm generating a 3/8ths version right now, but I also want to plug the new method described [here](https://github.com/MaslowCNC/Mechanics/wiki/Using-the-Temporary-Frame-to-Cut-Parts#step-11-generate-g-code) which guides you through the gcode generation process. 
 
+
+
 That way by the time you get the machine built, you already know how to design parts! Let me know what you think.
+
+
 
 Also, if you have the instructions open, you can just refresh the page, I rewrote them last night.
 
@@ -54,6 +58,8 @@ Great question. There is one. Give me a second to find where it is. I will updat
 Posted on **2017-04-26 14:29:57** by **Bar**:
 
 I'm going to work on integrating those steps into Ground Control next week so there is just a "cut test shape" button, the bit size will be important. Thank you for catching that. 
+
+
 
 I've added the .svg file to the folder [here](https://github.com/MaslowCNC/Mechanics/blob/master/SVG%20Files/AllPartsSVG.zip) and updated the wiki page to say that it is an option.
 

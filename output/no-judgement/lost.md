@@ -3,6 +3,8 @@ Posted on **2017-03-24 08:23:04** by **hnatkowicz**:
 
 [Fail](//muut.com/u/maslowcnc/s3/:maslowcnc:rAGR:fail.jpg.jpg) 
 
+
+
 I have no clue where to go from here...
 
 ---
@@ -28,7 +30,9 @@ I've literally spent hours on that. It's a real problem, not your fault. The nex
 Posted on **2017-03-24 10:09:13** by **jbarchuk**:
 
 > @hnatkowicz
+
 > Nevermind. I feel like an ass. I had the power in the wrong hole.
+
 If I had a nickel for every... ;)
 
 ---

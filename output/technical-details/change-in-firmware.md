@@ -2,14 +2,23 @@
 Posted on **2016-10-25 06:01:14** by **asleborgen**:
 
 Hi, Asle from Norway here. 
+
 I`m really impressed with your work, and as a fellow maker, also really keen on building my own Maslow :-)
+
 Enough intruductory mabojambo, over to the question:...
+
+
 
 Is there a simple way to change the parameters for motors and encoders in the Arduino program? I`ve found a couple of cheap geared motors with encoders on Ebay, but I highly doubt that they are equal to your motors... As a mechanical engineer i feel up to the task of making the mechanical bits, but my programming skills suck (at best), thus the question...
 
+
+
 Anywhoo; keep up the good work, this project is brilliant in its simplicity!
 
+
+
 Best regards
+
 Asle
 
 ---
@@ -17,6 +26,8 @@ Asle
 Posted on **2016-10-25 09:12:55** by **Bar**:
 
 Yes! It is very easy to set the encoder the resolution of the encoders and the dimensions of the machine in the software. We're an open source project so I wanted to make it as easy as possible for people to build their own. 
+
+
 
 If you start building one and have any questions, ask away, we're here
 

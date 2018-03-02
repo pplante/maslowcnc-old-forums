@@ -21,9 +21,15 @@ Posted on **2017-05-01 18:01:40** by **Bar**:
 
 Yep, you are looking for line 421 in the file CNC_functions.h 
 
+
+
 ---
+
 singleAxisMove(&zAxis, zgoto,45);
+
 ---
+
+
 
 45 is the speed in mm/minute
 

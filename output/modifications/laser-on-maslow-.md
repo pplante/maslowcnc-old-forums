@@ -32,6 +32,7 @@ Actually guys, the easiest way to do this, would be to get a laser package from 
 Posted on **2017-05-30 11:24:56** by **TomTheWhittler**:
 
 I am not sure but I do not think the Maslow controller hardware supports spindle speed (or even turning off/on a router) so the g-code M3 would have no effect.
+
 Since there is a fourth motor control it maybe possible to use that to control a laser with some software glue for g-code M3..
 
 ---

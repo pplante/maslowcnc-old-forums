@@ -15,6 +15,8 @@ Posted on **2017-07-15 09:53:48** by **umindedstrikesagain**:
 
 Yup, changed that in firmware and in the groundcontrol settings. 
 
+
+
 The firmware math says "7*291*4 --- 7ppr, 291:1 gear ratio, quadrature encoding" I tried 1000 and it was not correct so I will try 1000x4 as ENCODERSTEPS could be in ppr.
 
 ---
@@ -52,7 +54,10 @@ sorry, i see that this is currently an active issue, nm.
 Posted on **2017-07-18 17:53:49** by **umindedstrikesagain**:
 
 > @Bar
+
 > Have you messed with the encoder resolution settings in Ground Control?
+
+
 
 Why are there encoder resolution settings in both firmware and software? I tried 1000 and 4000 in each and nothing changed. There is a bit of slop on the encoder mounting, is the PID getting its feedback from the encoder?
 
@@ -61,6 +66,8 @@ Why are there encoder resolution settings in both firmware and software? I tried
 Posted on **2017-07-18 21:16:22** by **Bar**:
 
 Really the ones in the software are the ones I would recommend changing, the ones in the firmware are available to be changed mostly because since the whole machine is open source, really anything can be changed if you dig deep enough.
+
+
 
 The PID does get it's feedback from the encoders, so there is some slop on your encoder mountings I would fix that. I haven't had much experience with the effect of slop there since our encoders are built into the motor, but I could imagine that causing problems.
 

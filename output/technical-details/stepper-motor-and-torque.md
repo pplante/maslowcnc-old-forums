@@ -3,7 +3,11 @@ Posted on **2017-06-07 23:34:53** by **davebone**:
 
 As the Maslow cnc is not currently available to order, I am wanting to make somthing similar, I know the Maslow motors are 30kg /cm torque, but will this motor be suitable( NEMA23 - 425 oz-in torque).
 
+
+
 https://www.aliexpress.com/item/CNC-Router-Kit-3-Axis-kit-ST-M5045-replace-2M542-driver-5-axis-breakout-board-Nema23/32297927235.html?spm=2114.01010208.3.298.AVVxQ4&ws_ab_test=searchweb0_0,searchweb201602_3_10152_10065_10151_10130_10068_5010019_10136_10137_10060_10138_10131_10155_10062_10132_10133_437_10154_10056_10055_10054_10059_303_100031_10099_10103_10102_10096_10052_10053_10050_10107_10142_10051_10084_10083_10119_10080_10082_10081_10110_519_10175_10111_10112_10113_10114_10182_10078_10079_10073_5030019_10123_10120_10189_142-10120,searchweb201603_2,ppcSwitch_3&btsid=9f101de4-61cf-4a94-aaa9-2db8e9c168e1&algo_expid=53c2cff4-0393-4928-9d5f-ade6335bbabd-41&algo_pvid=53c2cff4-0393-4928-9d5f-ade6335bbabd
+
+
 
 Thanks
 
@@ -19,7 +23,11 @@ Posted on **2017-06-08 01:59:32** by **davidlang**:
 
 well, since the maslow firmware won't drive stepper motors, not without a lot of work. that's in the ballpark for the right amount of torque, but someone would need to add an option to the maslow firmware to driver steppers instead of a closed-loop motor.
 
+
+
 you would also be going from 8k steps/rev to 400 steps/rev or so, so your accuracy would suffer.
+
+
 
 It would be good to have someone include such an option, but nobody has started work on it yet.
 

@@ -9,9 +9,15 @@ Posted on **2017-07-18 21:23:49** by **krkeegan**:
 
 Stopping at the temporary frame I would say 3 hours as the average I can't imagine faster than 90 minutes even if you knew what you were doing.
 
+
+
 Then 2-3 hours to cut the final frame parts and another 90 minutes to 2 hours to setup the final frame. 
 
+
+
 All of these estimates assume you have the best told for the job, most importantly an impact driver.  Screwing by hand, way way longer.
+
+
 
 That is my guess, anyone faster than that?
 

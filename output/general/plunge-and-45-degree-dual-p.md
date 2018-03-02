@@ -2,6 +2,7 @@
 Posted on **2017-05-26 05:26:04** by **rollandelliott**:
 
 http://www.rockler.com/rockler-chamfer-edging-dimensioning-cnc-router-bit-45-x-1-in-dia-x-1-in-h-x-1-2-in-shank
+
 looks cool but at $52 kind of pricy anyone know of a cheaper source? it would save you a bit change potentially.
 
 ---
@@ -9,6 +10,8 @@ looks cool but at $52 kind of pricy anyone know of a cheaper source? it would sa
 Posted on **2017-05-26 05:34:45** by **davidlang**:
 
 probably not, that looks like a specialty bit. It will work only if you have either exactly the right thickness material, or if you are willing to cut deep enough into the material under your workpiece.
+
+
 
 In a router table, where the bit can extend above the workpiece, it can be a little more useful, but it seems targeted at a pretty specific use-case.
 

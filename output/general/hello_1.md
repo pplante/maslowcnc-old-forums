@@ -3,6 +3,8 @@ Posted on **2016-10-20 09:31:36** by **Bar**:
 
 One of the things I'm looking forward too most is getting to know all of you, building a community, and seeing what amazing projects you build. I'll always answer your questions in the forums, but we wanted to create a space specifically to encourage getting to know us. 
 
+
+
 So welcome! Introduce yourself! Where are you? Anything goes, so ask away!
 
 ---
@@ -23,7 +25,11 @@ Posted on **2016-10-20 09:50:49** by **Bar**:
 
 I guess I should introduce myself properly too! 
 
+
+
 I'm in Port Townsend, Washington. It's a little town on the Olympic Peninsula with a pretty long history of wooden boat building.
+
+
 
 This winter I'm looking forward to doing a kayak. http://cnckayaks.com/
 
@@ -81,7 +87,11 @@ Posted on **2016-10-23 08:39:49** by **jwolter0**:
 
 Hi all, I'm John, and I'm an engineering mentor for a high school robotics team in Ohio.  We build all sorts of stuff, much of it robotics related.  We're hoping to get a Maslow CNC to build wooden prototypes for parts of our robots as well as building tools and fun projects.  
 
+
+
 I've read about using CNC routers on aluminum, and we may experiment with that as well.  We build a lot of stuff out of aluminum.  
+
+
 
 I am looking forward to seeing what the community is building.  Are there plans for a home for sharing designs?
 
@@ -103,7 +113,11 @@ Posted on **2016-10-24 10:36:50** by **Bar**:
 
 @jwolter I've been playing around with the idea of a place to share designs. At the very least we're going to have a curated page with some of the best designs which have been tested, and which have clear instructions. 
 
+
+
 I like the idea of doing a thingaverse style site too, but I'm a little hazy on what that would look like.
+
+
 
 What are your thoughts?
 
@@ -143,6 +157,8 @@ Posted on **2016-10-26 12:34:22** by **sparhawk2k**:
 
 I'm in Seattle too so I vote for the PNW meetup!
 
+
+
 I actually have very little experience in this but was looking mostly at furniture and maybe artsy things like fancy door numbers and signs. Though if I get very ambitious I'd love to do a greenhouse some day.
 
 ---
@@ -162,6 +178,8 @@ Posted on **2016-10-31 11:48:02** by **sparhawk2k**:
 Posted on **2016-10-31 16:26:55** by **chadzimmerman**:
 
 This is something that is almost exactly what I need for my projects.  I have been designing some "Flat pack" furniture and my one design is a rocking horse where it is just such a pain to router out with a template.  This would speed up a lot of things for me AND take up less space :)
+
+
 
  [14212140_10209399158203608_492996548449941494_n](//muut.com/u/maslowcnc/s1/:maslowcnc:V2BU:14212140_10209399158203608_492996548449941494_n.jpg.jpg)
 

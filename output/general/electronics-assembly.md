@@ -3,6 +3,8 @@ Posted on **2017-07-14 08:28:39** by **TheRiflesSpiral**:
 
 Is there a page at the Wiki that describes assembly of the electronics? (Attaching the motor shield to the Mega, where to plug in the motors, where to plug in power, etc...)
 
+
+
 I couldn't find one.
 
 ---
@@ -23,7 +25,11 @@ Posted on **2017-07-14 09:01:04** by **Bar**:
 
 Yes! All the steps can be found here: http://www.maslowcnc.com/assemblyguide/
 
+
+
 and the electronics step in particular can be found here: https://github.com/MaslowCNC/Electronics/wiki/Electronics-Setup
+
+
 
 @TomTheWhittler you are right that we used to have four. The fourth one was giving me a ton of problems, and didn't seem like it was going to work properly without delaying things so I took it off rather than leave it there and have it confuse things. I'd still like to make a 4 axis controller, and maybe a 6 axis controller as soon as I can
 
@@ -38,6 +44,8 @@ Understood. No use in adding problems. You are going to have your hands full for
 Posted on **2017-07-14 09:09:55** by **TheRiflesSpiral**:
 
 Ah! gotcha. That's a much better jumping off point than the one I was using. I'll update that working checklist page to start there instead.
+
+
 
 Thanks, Bar!
 

@@ -3,7 +3,11 @@ Posted on **2016-12-11 08:14:12** by **bdillahu**:
 
 Wonder how this would work:
 
+
+
 http://toolguyd.com/cnc-diamond-drag-engraving-bit/
+
+
 
 Designed for drag use... you don't turn on the spindle/router.
 
@@ -12,6 +16,8 @@ Designed for drag use... you don't turn on the spindle/router.
 Posted on **2016-12-11 19:02:38** by **TheRiflesSpiral**:
 
 You can even score glass for cutting. :O
+
+
 
 I must have one.
 
@@ -56,6 +62,7 @@ put the bit in a ball point pen and use that spring. Yes some sort of spring is 
 Posted on **2017-01-07 16:17:32** by **TomTheWhittler**:
 
 Or this spring loaded Ebay one for $50.00
+
 http://www.ebay.com/itm/CNC-DRAG-ENGRAVING-TOOL-BIT-SPRING-LOADED-DIAMOND-SHERLINE-TAIG-MILL-TORMACH-BF2-/192053813799?hash=item2cb74ca227:g:okAAAOSwPc9WzRo0
 
 ---

@@ -3,6 +3,8 @@ Posted on **2017-06-23 10:54:09** by **Bar**:
 
 Hey everyone! I just wanted to let you all know that I'm going to be properly off the grid this weekend so if I don't respond quickly, I'm not ignoring you, I'm just out in the woods. I figure after this weekend I probably won't have a chance to take a day off for a while as we get everyone up and running.
 
+
+
 Have a great weekend everyone!
 
 ---

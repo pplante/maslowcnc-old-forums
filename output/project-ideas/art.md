@@ -33,6 +33,8 @@ Posted on **2017-05-26 04:31:16** by **davidlang**:
 
 Scottsm is correct, maslow doesn't interpret raster files. There are a number of software packages that can take a raster file and convert it into g-code.
 
+
+
 However, it's worth pointing out that the maslow is not well suited for cutting such projects. Projects that are starting from raster files tend to want to cut away the entire surface (to different depths), since the maslow sled rides on the surface of the material being cut, if you cut away the entire surface you can run into problems. You would have to make sure that enough surface is left intact for the sled to ride on (and no, I have no idea how much surface that would have to be, someone would need to experiment.
 
 ---

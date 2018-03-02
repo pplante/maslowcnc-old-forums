@@ -3,6 +3,8 @@ Posted on **2017-02-15 11:11:28** by **chauhuh**:
 
 I thought this might be of interest to the community.
 
+
+
 https://www.youtube.com/watch?v=4fFH_TcI-9U
 
 ---
@@ -16,6 +18,8 @@ That's really fun. I'm guessing Fusion 360 is pricey though... :)
 Posted on **2017-02-15 12:55:21** by **chauhuh**:
 
 It is free for start ups and educational use.
+
+
 
 https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/How-to-activate-start-up-or-educational-licensing-for-Fusion-360.html
 

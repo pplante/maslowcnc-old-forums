@@ -39,6 +39,8 @@ Posted on **2017-07-01 09:02:27** by **jwolter0**:
 
 I also like the davit for supporting the cord to the router.  Nice addition!
 
+
+
 One item on the original design that always looked a little edgy to me was the joints between the arms and the motor support plate.  My gut tells me that the joint is likely to flex, with the mount plate rotating around the long axis of the contact patch.  I have wondered if an extra gusset plate perpendicular to the other two pieces might improve repeatability and get us closer to the 1/64" goal.  Anyone looked at/thought about that?
 
 ---
@@ -52,6 +54,8 @@ I agree about extra reinforcement for the motor mounts. I found that they would 
 Posted on **2017-07-01 21:40:50** by **ledsled71**:
 
 That was part of my goal, to reduce flex at the motor mounts.  These ones I've made are pretty darn solid, especially with the additional diagonal braces.
+
+
 
 My goal with the arm up top is to use stretchy string to recoil the z axis cord as the router moves up the work piece.  I'm having some issues with finding a source for the stretchy string
 
@@ -84,6 +88,8 @@ hundreds to choose from with specifications and cut to length orders https://www
 Posted on **2017-07-02 15:47:21** by **ledsled71**:
 
 Never been a big fan of mc master prices.  Figured a local hardware store or crafts store would have some, but no luck
+
+
 
 Made a small mood today, was having issues with chain alignment on one side still.  Made this small alignment roller out of a 1/2" bolt and 1/2" pc, can be adjusted in and out with shims [IMG_20170702_184201869](//muut.com/u/maslowcnc/s3/:maslowcnc:pVhO:img_20170702_184201869.jpg.jpg)
 
@@ -122,7 +128,9 @@ Hahah, I think I added all of those are your suggestion :-)
 Posted on **2017-07-05 20:55:37** by **iroc999**:
 
 Couldn't a cheap derailleur be used on a swivel mount? Be used on the active side of the sprocket to force the chain to make optimum wrap/contact with the drive sprocket as 2davidlang mentioned. They really don't cost much and usually can be found for free on used MTB's
+
 I  mean the kit is using the most common and cheapest chain size on the planet, right?
+
 Might need to add a Torsion Spring to the swivel to aid in propper alignment. Though i feel the Sled would help accomplish that. Heck the swivel might not even be necessary.
 
 ---
@@ -130,6 +138,8 @@ Might need to add a Torsion Spring to the swivel to aid in propper alignment. Th
 Posted on **2017-07-05 21:10:14** by **ledsled71**:
 
 I messed around with that, but you only gain about one tooth worth of extra contact before getting in the way of the chain when it's at the bottom corners of the sheet.
+
+
 
 Didn't figure that was with anything, as it is with pulleys/belts
 

@@ -9,6 +9,8 @@ Posted on **2017-06-24 06:24:07** by **davidlang**:
 
 That is the combo kit that includes a plunge base as well as a fixed base, you will want to use the fixed base with the maslow.
 
+
+
 it's the correct router, but you are paying for the extra base you don't need.
 
 ---

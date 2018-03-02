@@ -2,6 +2,7 @@
 Posted on **2017-07-17 12:38:47** by **taylor47**:
 
 I am trying to do my initial calibration and my connection to COM 3 keeps timing out every few seconds. On a windows 10 machine
+
  [Timed out](//muut.com/u/maslowcnc/s1/:maslowcnc:QXRD:timedout.png.jpg)
 
 ---
@@ -9,6 +10,8 @@ I am trying to do my initial calibration and my connection to COM 3 keeps timing
 Posted on **2017-07-17 12:53:28** by **Bar**:
 
 Its running so you are making progress! Great work!
+
+
 
 Were you able to install the firmware successfully?
 
@@ -29,6 +32,7 @@ If we're seeing the disconnect issue, and neither motor is moving at all I think
 Posted on **2017-07-17 13:23:18** by **taylor47**:
 
 Here is what I am seeing after the firmware update
+
  [Arduino](//muut.com/u/maslowcnc/s3/:maslowcnc:QaAE:arduino.png.jpg)
 
 ---

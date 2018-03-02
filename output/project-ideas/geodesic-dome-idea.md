@@ -2,6 +2,7 @@
 Posted on **2016-12-14 11:57:34** by **nathanmiller**:
 
 Do you think this same design for a laser cut geodesic dome could be done on a large scale, with 3/4" OSB (instead of the small scale thin plywood they're using)? It boggles my mind that they've set things up to literally snap together! This could be a game changer if a structure could be engineered large enough to create, say a greenhouse, or shop, or shed! And with all the smaller, narrow pieces that connect together, it could be produced with very little waste per 4x8' sheet.
+
 http://machinesroom.org/post-your-project/laser-cut-geodesics-part-2
 
 ---
@@ -10,11 +11,19 @@ Posted on **2016-12-14 16:40:15** by **Bar**:
 
 Oh man!!
 
+
+
 What a cool idea!!! 
+
+
 
 I cut a quick piece to test the press fit idea and getting parts to press fit enough that they are hard to pull apart is pretty easy. Here's a picture  [Press fit](//muut.com/u/maslowcnc/s3/:maslowcnc:MVFF:pressfit.jpg.jpg) of the part press fit onto some 3/4 plywood.
 
+
+
 I've found that 3/4 plywood has quite a bit of variation in thickness from one batch to the next, but the sheets within a batch are all pretty consistent so I'd recommend buying all your wood in one go for something like this.
+
+
 
 What a cool suggestion. Thanks for sharing that, I think I'll be building one of those in the future.
 
@@ -24,7 +33,11 @@ Posted on **2016-12-14 23:51:59** by **thomasgkristensen**:
 
 That looks amazing! My biggest obstacle when trying to design a geodesic dome greenhouse is how to design and build the mounts for the transparent panels. I guess those mounts would be at an angle when using this construction method, but maybe that isn't a problem?
 
+
+
 I know that some people "just" cover the dome with a large square of plastic film but that always ends up looking a bit undone.
+
+
 
 Here is another alternative for super flexible geodesic dome joints: https://www.kickstarter.com/projects/25645348/geo-the-geodesic-dome-connector?ref=profile_starred
 
@@ -63,6 +76,7 @@ I very much want a greenhouse and yes, maybe cleats would be the right solution.
 Posted on **2017-04-09 07:18:49** by **ylexot**:
 
 Here's what I'm planning to make and the reason for me getting a Maslow:
+
 http://www.thisisinsider.com/ikeas-growroom-photos-2017-2/#measuring-about-nine-feet-tall-the-growroom-lets-you-grow-plants-indoors-1
 
 ---
@@ -82,6 +96,8 @@ Posted on **2017-04-28 22:14:15** by **gero**:
 Posted on **2017-04-29 05:44:44** by **rancher**:
 
 If you guys are looking for the frame work for a dome, you can use 2x4s and Starplates for the frame.  
+
+
 
 https://www.strombergschickens.com/category/Starplate-Dome-Kit
 

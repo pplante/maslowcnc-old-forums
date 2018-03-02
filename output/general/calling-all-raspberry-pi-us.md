@@ -3,10 +3,17 @@ Posted on **2017-04-06 11:29:34** by **TheRiflesSpiral**:
 
 If you're using a Raspberry Pi for Ground Control, please sound off with the following info:
 
+
+
 What version of board? (RPi 2/3/etc)
+
 What's your distro? (post output of 'uname -a')
+
 When you use the keyboard to type values, do you get double-input? (Click "Dist to move" then type (don't touch/click) numbers)
+
 When you use the mouse to click buttons, do you get double-clicks? (Click "Dist to move" then click a number (don't touch/type)
+
+
 
 I can't seem to get Kivypie functioning without double click/type issues regardless of the ~/.kivy/kivy.ini content and I need to find a pattern.
 
@@ -15,7 +22,10 @@ I can't seem to get Kivypie functioning without double click/type issues regardl
 Posted on **2017-04-06 12:42:25** by **scottsm**:
 
 I'm using a Pi 3 B, my distro is:
+
 Linux kivypie 4.4.50-v7+ #970 SMP Mon Feb 20 19:18:29 GMT 2017 armv7l GNU/Linux
+
+
 
 I had double keystrokes and mouse clicks before applying your ~/.kivi/config.ini fix. After the edit, both are corrected.
 
@@ -24,6 +34,7 @@ I had double keystrokes and mouse clicks before applying your ~/.kivi/config.ini
 Posted on **2017-04-06 21:17:23** by **scottsm**:
 
 Further info - I edited the .kivy/config.ini for the only user, named 'sysop' and when I ran groundcontrol from the command line, all worked correctly.
+
  I also have a line in /etc/rc.local to run groundcontrol on bootup, and that one had doubles until I thought to do the same edits in /root/.kivy/config.ini; now no doubles in my bootup version either.
 
 ---
@@ -32,11 +43,19 @@ Posted on **2017-04-07 06:12:53** by **TheRiflesSpiral**:
 
 Could you hear my massive head smack from where you are?
 
+
+
 I've been running Ground Control as the root user so of COURSE the /root/... config file is being used.
+
+
 
 Thanks for jogging my (clearly dusty) memory about how Linux works.
 
+
+
 Good grief. I'll update the instructions on the wiki.
+
+
 
 Thanks again!
 
@@ -63,6 +82,7 @@ Scott, is scrolling (to zoom the canvas) working for you? I was getting zooming 
 Posted on **2017-04-07 11:04:24** by **scottsm**:
 
 With the touch screen, both actions are as expected. 
+
 With the mouse, click-drag scrolls but the wheel does not zoom. Not sure if this is a kivy or a groundcontrol thing?
 
 ---
@@ -118,6 +138,8 @@ kivy-examples/demo/pictures scroll and zoom both work with the touchscreen but z
 Posted on **2017-04-07 13:27:26** by **Bar**:
 
 That's a good test. It might be that we are simply not getting mouse scroll events to kivy on the pi. Is there another way we could add zoom capability beyond the mouse wheel and touch pinch?
+
+
 
 Onscreen + and - buttons seem clunky but they would work.
 

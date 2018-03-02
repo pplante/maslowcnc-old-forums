@@ -2,6 +2,7 @@
 Posted on **2016-10-21 18:51:02** by **nathanmiller**:
 
 Do you think it would be possible/practical to use a gridded panel and some clamps like this on Maslow? https://youtu.be/bpJyqLoqV04
+
 I'm curious if Maslow would need to always work with 4x8' panels, or if dimensional lumber and small pieces could be used.
 
 ---

@@ -9,9 +9,15 @@ Posted on **2017-04-29 04:15:34** by **TheRiflesSpiral**:
 
 What are you using to convert from DXF to SVG?
 
+
+
 It's another piece of software to learn, but my go-to for all things SVG is Inkscape.
 
+
+
 It helps to draw a rectangle of known size around your design so you can -select all- then change your dimensions.
+
+
 
 Also, if you're drawing in Metric, this is helpful: https://discuss.inventables.com/t/how-to-import-dxf-files-into-inkscape-easel-perfectly-to-scale/20832
 
@@ -32,6 +38,8 @@ Inkscape worked perfectly, thank you for the suggestion.  Checking my dimensions
 Posted on **2017-04-29 10:58:55** by **Bar**:
 
 This is huge oversight within MakerCAM. I have the same problem. The only work around that I've found is to make a square (*Insert -> Rectangle*) with a known size and move it around to use as a ruler. It's far from a good work around.
+
+
 
 Is there any way to file an issue with MakerCAM? They might be willing to add a measuring tool.
 

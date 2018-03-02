@@ -27,6 +27,8 @@ Posted on **2017-03-24 12:33:26** by **Bar**:
 
 SO COOL! 
 
+
+
 A lot of that chatter is going to come from the feedback control system. If you watch the sprockets they don't move smoothly, but jump. That has to do with the way the PID loop is set up that I talked about in the video and it will go away very soon. As soon as I fix all the things that are preventing everyone from having awesome 'E's like that!
 
 ---
@@ -40,6 +42,8 @@ Thanks Bar! I'm really curious how clean of a cut is possible with this system. 
 Posted on **2017-03-24 12:47:51** by **hnatkowicz**:
 
 [IMG_0998](//muut.com/u/maslowcnc/s3/:maslowcnc:bjOz:img_0998.jpg.jpg) 
+
+
 
 One pass with 3/16" acrylic. "Forcing" the machine a little, to see what needs the most attention.
 
@@ -55,9 +59,15 @@ Posted on **2017-03-24 13:11:01** by **davidlang**:
 
 to keep the sled from "turning", reduce the friction on the sled.
 
+
+
 try sanding the bottom of the sled smooth, waxing the bottom of the sled, making it from a slipprier material.
 
+
+
 try adding weight to the sled
+
+
 
 try angling things so that the chains are closer to vertical.
 
@@ -90,6 +100,8 @@ I've tried choosing the chain attachment point by holding the chains in my hands
 Posted on **2017-03-24 14:01:21** by **Bar**:
 
 That is a GREAT question which I don't have an answer for. I've been going for balanced also, but you might be right that the real goal is to match the slope. I think it would have an effect because it would shift the weight to either the top or bottom of the sled where a little drag causes the sled to rotate more.
+
+
 
 Great thoughts!
 

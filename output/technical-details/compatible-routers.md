@@ -9,9 +9,15 @@ Posted on **2016-10-14 11:14:25** by **Bar**:
 
 Thank you for being the first ever forum post! You rock!
 
+
+
 The weight shouldn't be an issue, it might even be a good thing. Most of my prototypes were done using this ancient  [Craftsman Router](//muut.com/u/maslowcnc/s3/:maslowcnc:hga3:craftsmanrouter.jpg.jpg)  that I picked up at the flea market for $10, which actually works pretty well. It's quite heavy, and that hasn't been an issue.
 
+
+
 I'm pretty broke right now, but if the kickstarter hits its goal I will go out an buy all the major routers and test them all side by side. Festool makes beautiful tools. The dust collection on those looks especially fantastic. 
+
+
 
 Do you already own one? How is the dust collection?
 
@@ -20,6 +26,7 @@ Do you already own one? How is the dust collection?
 Posted on **2016-10-16 16:14:17** by **mattyp**:
 
 Thanks for the reply. Surprised I was the first to post. No I dont yet have a router, but have a few other festools and was thinking of one of their routers as it would fit in with the others I use - plus you get used to the quality and joy of using their tools... - and the dust collection on the tools I have (domino and track saw) is amazing! I'll wait to find them secondhand.
+
 Im hoping a Maslow would make a great investment for building some custom furniture - and the plywood boat I've dreamed of building one day...
 
 ---

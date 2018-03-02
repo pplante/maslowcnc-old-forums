@@ -26,6 +26,7 @@ Posted on **2017-07-16 10:28:43** by **laufu**:
 Posted on **2017-07-16 10:59:45** by **scottsm**:
 
 @laufu - you can skip that step, or any step in the wizard. Skipping a step leaves the previously recorded data value for that step unchanged. 
+
  You could instead use the ‘Actions/Calibrate Chain Length’ button which runs out the left motor chain first then the right. When using that, I usually use the auto calibration Step1 to get a sprocket tooth on each motor to 12 o’clock and then skip out of the rest of the auto steps. When extending the chains, watch out that the tag end of the chain doesn't over-wrap. Especially the right motor, which starts running immediately when the left one stops - gotta pay attention at least until that’s done! Having these chain links marked has saved me much time when experimenting.
 
 ---

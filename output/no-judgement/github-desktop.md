@@ -3,9 +3,14 @@ Posted on **2017-04-14 09:32:10** by **boandersen**:
 
 I am soooo not freinds with github. I have used git command line a long time ago, but dang it, I cannot get desktop to what I think it should to.. Maybe my expectations are wrong.
 
+
+
 I want to pick a repo, click sync and have my local files update to latest version - not have to select each change and then not even know if my local file is updated or not.
 
+
+
 I've spent time every weekend trying to get it working, but I end up deleting my local repos and getting them fresh - or just manually downloading the zip files.
+
 Should I just give up on it?
 
 ---

@@ -9,7 +9,11 @@ Posted on **2016-11-16 09:54:52** by **TheRiflesSpiral**:
 
 Sketchup seems to be popular. There's a web-based version of it that works in newer browsers. Also recommended by Bar are: www.makercam.com for simple stuff and jscut.org which has some features makercam doesn't but is still simple to use.
 
+
+
 Ground Control (the control software for Maslow) requires G-Code toolpaths, which can be created by either of those sites.
+
+
 
 Check out Bar's Youtube Video on this topic here: https://www.youtube.com/watch?v=ocmYJlFGjXY
 
@@ -48,6 +52,8 @@ I currently use emachineshop.com it is pretty easy to learn and can outbut DXF f
 Posted on **2017-01-05 17:41:55** by **Bar**:
 
 I use this website https://convertio.co/dxf-svg/ to do conversions and it's worked well for me. You can also use a drawing program (getting back to the original question) like inkscape (free) or Adobe illustrator to open and save both file types. 
+
+
 
 Occasionally I've had the web based converter choke on complicated files and then my default is QCAD (https://www.ribbonsoft.com/en/) which is a free windows/linux/mac CAD program.
 

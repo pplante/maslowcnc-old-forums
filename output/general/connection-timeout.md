@@ -8,8 +8,11 @@ I'm probably missing something simple here but any help would be great.  We have
 Posted on **2017-07-11 13:17:29** by **gero**:
 
 Hi, not sure I can help, but will try:
+
 1) After you flashed the Mega, is the Aruino IDE closed?
+
 2) What is the com port used by the IDE to flash? Is that port set in CG?
+
 ok, forget 2). Just read again and saw it moves
 
 ---
@@ -35,6 +38,7 @@ Perhaps determine if the connection only drops in GC. The is a test .ino that ju
 Posted on **2017-07-11 13:49:05** by **gero**:
 
 Does it ever reconnect after the timeout in GC?
+
 Is a gcode file loaded?
 
 ---
@@ -78,6 +82,7 @@ It is a shot in the dark that you might have the right version of python, but an
 Posted on **2017-07-11 14:42:48** by **gero**:
 
 If you are confident to open a command prompt and type... try
+
 python --version
 
 ---
@@ -85,6 +90,7 @@ python --version
 Posted on **2017-07-11 14:44:08** by **gero**:
 
 try also
+
 pip show pyserial
 
 ---
@@ -92,9 +98,13 @@ pip show pyserial
 Posted on **2017-07-11 15:16:44** by **gero**:
 
 Have a nice day @charleswiltgen. It is Tuesday 3PM in Portland and Wednesday 1AM in Bahrain, so I will have a good sleep. Once the Maslowians come from work, there will be a great support.
+
 Just to make my points clear:
+
 Python needs to be Version 2. It shows as 2.xx.xx. In my case Python 2.7.12. Do not use Python 3, as it will not work.
+
 The module Pyserial 2.6 is proven to cause timeouts. In my case replacing only that module to Pyserial 3.3 solved the issue.
+
 On your side it could be something else, like a defct USB cable. That can be excluded with a stopwatch and measuring the time between the connection drop and the reconnection. If they are consistent, it is not the cable. :-) See you soon.
 
 ---
@@ -102,16 +112,28 @@ On your side it could be something else, like a defct USB cable. That can be exc
 Posted on **2017-07-11 16:45:53** by **scottsm**:
 
 I get this behavior when my Mega doesn't have the firmware. GC posts that error if it can connect to the serial port chosen but does not receive a valid reply to messages sent.
+
  Here's a test to verify that the firmware is indeed programmed without iusing GC: In Arduino, open the Serial Monitor and set the speed to 57600. You should see many lines flying by like:
+
 [PE:-0.01,-0.01,255]
-<Idle,MPos:-37.66,27.16,0.00,WPos:0.000,0.000,0.000>
-[PE:-0.01,-0.01,255]
+
 <Idle,MPos:-37.66,27.16,0.00,WPos:0.000,0.000,0.000>
 
+[PE:-0.01,-0.01,255]
+
+<Idle,MPos:-37.66,27.16,0.00,WPos:0.000,0.000,0.000>
+
+
+
 If you send the string B05 - that's B zero 5 - using that tool, within the stream the Mega should respond:
+
 B05
+
 Firmware Version 0.79
+
 ok
+
+
 
 If your Mega answers this way, all is correctly programmed and the python/pyserial troubleshooting path would be the one to follow.
 
@@ -150,6 +172,8 @@ Ok I was able to final get this to run GC from the source.  I have verified I ha
 Posted on **2017-07-12 12:41:05** by **Bar**:
 
 Hmm, I remember there being some special issues with the Arduino drivers on windows 7. That's where I would look first. The connection timeout issue means that Ground Control is able to open a connection, but then never gets a response from the machine.
+
+
 
 The other thing I would check is to make sure Ground Control is connecting on the correct port. I know on my computer for some reason COM1 is always listed as an available connection, even when nothing is plugged in and when I try to connect to it I see the connected...connection timed out behavior
 

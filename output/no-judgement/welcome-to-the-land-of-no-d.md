@@ -3,11 +3,19 @@ Posted on **2017-02-22 10:10:13** by **hannahteagle**:
 
 Hey everyone :)
 
+
+
 As you may have read in the Kickstarter update, the creation of this channel is an attempt to draw in all those anonymous or "intimidated" users who might not feel comfortable asking their less-than-CNC-savvy questions in the rest of the forums.
+
+
 
 I plan to share about "silly" mistakes I make as I'm the non CNC-savvy one between Bar and I. Please share about your mistakes as well! Or, if you have ANY QUESTION AT ALL, don't be afraid to ask. Even if we don't know the answer, we'll trouble-shoot it together in a judgement-free zone!
 
+
+
 Happy mistake making!
+
+
 
 hannah
 
@@ -46,6 +54,7 @@ The first place I would look would be to double check all the measures in the se
 Posted on **2017-03-22 16:59:49** by **blsteinhauer88**:
 
 Meaning the distance measurements on the sled for
+
  the Maslow section of the groundcontrol?
 
 ---
@@ -60,7 +69,11 @@ Posted on **2017-03-23 10:07:15** by **mindeye**:
 
 When you're back @Bar, could you provide more detailed instructions on exactly where measurements should be taken from?
 
+
+
 So far I've assumed centers of motor shaft and center of router cutting tool but I'm not 100% certain that's correct.
+
+
 
 Additionally, does the calibrate chain length take into account the tiny half link that extends into the sled mounting bracket due to how the cotter pin holds it?
 
@@ -75,13 +88,21 @@ Those sound like the right dimensions, but I think you are right that it could b
 Posted on **2017-03-24 08:56:16** by **jbarchuk**:
 
 *Super-Emphasis: Anyone who has ANY potential confusion on ANY point, as Bar said in the instruction page, PLEASE write and say so. No one will judge you for your misunderstanding or confusion. This is a VERY complex machine, software, and process.
+
 Your input is not only useful but REQUIRED.
+
 I ABSOLUTELY GUARANTEE AND PROMISE that if YOU are confused on a point, then SOMEONE ELSE is also confused on that point.*
+
 > @Bar
+
 > Those sound like the right dimensions, but I think you are right that it could be more clear. I think a diagram in the instructions could help so I will make one. Thanks for the tip.
+
 Yes-yes! Pics are best! (Much faster to make than drawings, and less visual 'interpretation' required.) As has been mentioned, some people are more visually oriented (me), some ppl are more list oriented (I'm OK with that), and some ppl more 'descriptive/paragraph' oriented (I hate that.)
+
 Giving all -three- would be bestest, but it's time consuming, and prone to error when making changes. Pics are the most universally compatible because there's no language barrier for the no n-native-English-speaking folks. Pics are an exact representation of reality, rather than text which when -related- to reality are a kind of interpretation. Meaning getting across a point of -your- version of reality (which we're all trying to follow.)
+
 The assembly instructions page is -excellent-! As I read it I actually looked for but couldn't find any points where -I- was confused or possibly misunderstanding. But that's me.
+
 Example, it was a while back someone asked a Q about the motor mounts. I recalled a shot in a vid so I grabbed a frame and posted it and they said oh, OK, now I get it. Trying to 'descibe' how the motor, bracket, plate, u-bolt, sprocket and chain are assembled and oriented is essentially impossible. Well not impossible of course but verrry difficult given different ppls interpretations of the -exact- meanings of words.
 
 ---

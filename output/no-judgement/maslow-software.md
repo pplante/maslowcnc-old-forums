@@ -26,6 +26,7 @@ WINDOWS
 Posted on **2017-04-27 08:48:34** by **scottsm**:
 
 Hello @prasantapatro, and welcome. A good place to find information is [here](http://www.maslowcnc.com/assemblyguide/). It has links to instructions for the different tasks of getting started.
+
 The software on the computer is called [GroundControl](https://github.com/MaslowCNC/GroundControl/wiki/How-to-Install-Ground-Control), and that page has links to the installation instructions for all operating systems. This is the  [Windows](https://github.com/MaslowCNC/GroundControl/wiki/Windows) link.
 
 ---

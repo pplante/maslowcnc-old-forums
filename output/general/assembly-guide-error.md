@@ -21,9 +21,14 @@ Posted on **2017-03-19 04:21:00** by **flyingavatar**:
 
 Bar,
 
+
+
 Also, for the "Using the Temporary Frame to Cut Parts" page you can link to the raw GCode content directly using the raw.githubusercontent.com domain.  (These are the links that are generated buy clicking the "Raw" button on a particular file's page in the repository.)
 
+
+
 https://raw.githubusercontent.com/MaslowCNC/Mechanics/master/Gcode/Sled-EigthInchBit.nc
+
 https://raw.githubusercontent.com/MaslowCNC/Mechanics/master/Gcode/Sled-QuarterInchBit.nc
 
 ---
@@ -44,9 +49,15 @@ Posted on **2017-03-19 17:52:14** by **flyingavatar**:
 
 If you're able to control the HTML of the link, you can use:
 
+
+
 --- html
+
 <a href="https://raw.githubusercontent.com/MaslowCNC/Mechanics/master/Gcode/Sled-EigthInchBit.nc" download target="_blank">Sled-QuarterInchBit.nc</a>
+
 ---
+
+
 
 which will force a download in a new window.
 

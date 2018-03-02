@@ -8,6 +8,7 @@ Hi everyone. I'm really excited about Maslow and all the things I'm yet to desig
 Posted on **2017-04-08 15:45:28** by **scottsm**:
 
 I agree that the jpeg file is hard to read. I've printed it out to a pdf,  [MegaShield-schematic](//muut.com/u/maslowcnc/s3/:maslowcnc:0LN4:megashieldschematic.png.jpg) but you will be better able to learn if you use Eagle, the program the board was designed in. Some of the details overlap, and the program will let you zoom in or turn off some of them to see others. 
+
  Your mission is a big one, but will take you to lots of interesting projects!
 
 ---

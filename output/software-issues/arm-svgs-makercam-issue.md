@@ -3,7 +3,11 @@ Posted on **2017-03-25 19:06:31** by **chadheiser**:
 
 So we've got the temporary Maslow built and have cut the full sled (from provided Gcode) and the brick holders (from svg->MakerCam). All of that is correctly sized and assembled, I have also run MakerCAM on Arm_Front and Arm_Back with the same settings as the brick holder. 
 
+
+
 When we attempt to cut Arm_Front the sled moves way too far (headed up/right from origin, we haven't rotated the svg) so we hit stop on ground control which does stop the sled. However, and here's the part I don't understand, the sled is now dangerously high so I jog it down 1 inch (to test) and it continues to move showing no signs of stopping. We stop the process after 16+ inches of travel. Ground control shows the cutter moving 16+ inches, and the sled moves 16+ inches but any value we put into Ground Control is ignored (or multiplied). We have to close GC and restart to be able to jog properly again.
+
+
 
 I'm not 100% sure that this isn't an issue created by our importing the SVG into MakerCAM , but we followed the same steps as the brick holder which still cuts perfectly. Has anyone else cut the arms? What would cause GC to move 16+ inches when we call for 1 (it usually is nearly perfect with jog commands)
 
@@ -19,7 +23,11 @@ Posted on **2017-03-25 20:16:11** by **Bar**:
 
 It might have something to do with the way the gcode is generated, but the machine still shouldn't behave strangely when you jog it like that.
 
+
+
 Does the part to cut show up inside the 4x8 sheet on Ground Control?
+
+
 
 If you open a different file, maybe the sled file you know works do things behave as expected?
 
@@ -35,7 +43,11 @@ Posted on **2017-03-25 20:21:01** by **chadheiser**:
 
 The part does fit within the 4x8 sheet, but it might be a bit larger than actual size (I'm not sure of the actual dimensions of the arm.)
 
+
+
 If I open either the sled (that was pregenerated) or the brick holder (that I generated) the machine behaves perfectly, cuts as expected and can be jogged in accurate dimensions. I've even tried stopping the cut like I did with the arm and jogging and it still behaves normally.
+
+
 
 I've generated Gcode with both the svg in Github and the svg in the zip in github.
 
@@ -51,6 +63,8 @@ Posted on **2017-03-25 20:24:06** by **Bar**:
 
 What you are doing sounds like the right thing. 
 
+
+
 Excellent job finding something I can fix! If it happens every time with the same file, would you be willing to make an issue and attach the file (you can just drag and drop it on the text box), that way I can give it a go and see if I can make it do the same thing.
 
 ---
@@ -64,6 +78,8 @@ Sure. I plan to work on this tomorrow myself. I write Python/web apps for a livi
 Posted on **2017-03-25 20:26:11** by **Bar**:
 
 Thanks! If you can beat me to it, that's great :-)
+
+
 
 I'm at home, but I will run it first thing in the morning and see what's going on. I can take a look at the file right now.
 
@@ -96,10 +112,16 @@ Thanks! We do our best. You guys are the real champs tho. Thank you for bearing 
 Posted on **2017-03-25 20:30:53** by **Bar**:
 
 If you are going to jump into tracking down the issue, the first thing I would look at is what is the first line of gcode sent to the machine when it goes rogue. It will probably be something like 
+
 ---
+
 G01 X10.0 Y25.0
+
 ---
+
 Which just basically says go to the XY coordinates (10.0,25.0).
+
+
 
 If it's being sent to rogue coordinates then the problem is on the Ground Control side and the machine is just doing what it's told. If the coordinates look right then its a firmware issue.
 
@@ -259,9 +281,15 @@ Posted on **2017-03-26 07:58:30** by **rancher**:
 
 Forget the J specifically.  My observations lead me to believe that part of the positioning problem is related to code handling.  I have been referring to those "stops" in my cuts.  When that happens, if I don't Pause/Run right away, the time that passes is time the machine is losing it's place.  The longer it is, the more lost it is.
 
+
+
 Bar, I believe this is perhaps related to code output and code handling.  I believe that if you have not yet, you should download Fusion360 and look at those post options.   There is both a large list of presets, then 20 or so settable fields in each.  I played with lots of settings, "space after G", "Allow feedrate", etc. and they all manifest dramatically differently in GC, even if I'm still on HAAS-Generic.
 
+
+
 To my mind, the best way forward that ensures we all learn how to generate codes that comply, is to clearly define what G-code parameters we are going to use.  The code is so simple that after a few days now I understand that I can go in there and spot problems, so......yeah.
+
+
 
 I might be totally off base on all of this.  I'm brand n ew to every aspect, so I expect to be wrong.  However, hopefully there is some value in what I have experienced this past week.
 
@@ -277,6 +305,8 @@ Posted on **2017-03-26 08:25:32** by **davidlang**:
 
 bar can't test every g-code generator out there, that's what beta testers are for :-)
 
+
+
 sending him sample g-code that doesn't work is the best thing to do.
 
 ---
@@ -290,9 +320,14 @@ You misunderstand David.  I don't want him to test the generator.  I want to kno
 Posted on **2017-03-26 08:43:42** by **rancher**:
 
 > @Bar
+
 > Would you be willing to generate gcode for a simple shape I can test like a circle, and I will make that gcode work?
 
+
+
 Circles cut fine.  Bar, your example files exhibit the same behavior.  
+
+
 
 Why do I feel like I'm the only one running the machine?  Am I the only one who can't run those example files?  We need a test file.
 
@@ -302,15 +337,26 @@ Posted on **2017-03-26 08:57:34** by **Bar**:
 
 That's a really good point. I misunderstood also.
 
+
+
 The more boring the gcode, the better so we're looking for something like:
+
 ---
+
 G01 X10 Y21.5 F123
+
 ---
+
+
 
 I think the thing that Fusion 360 is doing that is probably causing the most issues is that it's putting section numbers in front of the lines like 
 
+
+
 ---
+
 N25 G01 X10 Y21.5 F123
+
 ---
 
 ---
@@ -331,7 +377,11 @@ Posted on **2017-03-26 09:02:25** by **davidlang**:
 
 There isn't really a 'standard' g-code that software creates, there are a lot of dialects. The more that the maslow can understand the better.
 
+
+
 there needs to be clearer error messages when it hits something it doesn't understand.
+
+
 
 It would also be handy to make a stand-alone program that uses the maslow g-code interpreter code to go through a file and report if it hits anything it doesn't understand.
 
@@ -341,7 +391,11 @@ Posted on **2017-03-26 09:03:38** by **rancher**:
 
 Bar, the reason I want you to look in Fusion is because it has a super long, comprehensive list of all of the output options.  You can open them in brackets and they have notes outlining all the functions and commands.  The variety is dazzling.  The idea that all are going to work is nuts.  That's why you need to go look, pick a direction, and work within those parameters.
 
+
+
 I originally chose two, randomly, from the list, remember?  Shopbot and HAAS,  one was a no go, and one is close.  Format matters.  A lot.  
+
+
 
 Let's define our format, please.
 
@@ -375,7 +429,11 @@ Posted on **2017-03-26 09:11:46** by **davidlang**:
 
 but we also need to be able to use things other than fusion 360, so adding a maslow option there doesn't solve the root problem.
 
+
+
 Maslow doesn't need to be able to handle every type of g-code out there, but it does need to be able to handle "enough" of the common g-code generators out there.
+
+
 
 have you looked at what other g-code interpreters are out there with opensource licenses? Linuxcnc has a pretty robust one, there are a bunch of them out there for arduinos that are used in 3d printing, etc.
 
@@ -385,6 +443,8 @@ Posted on **2017-03-26 09:19:31** by **Bar**:
 
 We do need to support more types of gcode in general. 
 
+
+
 I haven't played around with too many of them, but I think if we make a general rule that if you find a file that won't work and make an issue for it I'll make it work we'll catch most of them pretty quickly, or at least the ones that people are using
 
 ---
@@ -393,6 +453,8 @@ Posted on **2017-03-26 09:22:56** by **rancher**:
 
 Here's the download page for the Fusion trial.
 
+
+
 http://www.autodesk.com/products/fusion-360/free-trial
 
 ---
@@ -400,6 +462,8 @@ http://www.autodesk.com/products/fusion-360/free-trial
 Posted on **2017-03-26 09:25:42** by **davidlang**:
 
 @bar, I think that's exactly the way to do it. Initially identify a program that works (just to give people something to use) and then consider any g-code from any source that doesn't work a bug, and work to fix it.
+
+
 
 As programs are tested and work, they get added to the "known good" list (recognizing that the next release of those programs may break something)
 
@@ -433,6 +497,8 @@ Posted on **2017-03-26 11:51:53** by **chadheiser**:
 
 Well, we were just able to cut the part we had trouble with by turning the SVG on it's side in MakerCAM and generating from there, so that might lead to Gcode interpretation issues as you guys are thinking. I'll drop the working .nc in the Github issue page.
 
+
+
 On another note, can anyone confirm the size of the Arm_Front piece? We printed a pdf poster of the SVG and then cut the new gcode and ended up with two different sizes. I've attached some photos of the differences. The physical piece is not quite square, but that could be an artifact from how we spun the svg or the same reason we get slightly oval cuts. Anyways, still testing. Thanks. [20170326_141853](//muut.com/u/maslowcnc/s3/:maslowcnc:lcBq:20170326_141853.jpg.jpg) [20170326_141808](//muut.com/u/maslowcnc/s1/:maslowcnc:ZykH:20170326_141808.jpg.jpg)  [20170326_141905](//muut.com/u/maslowcnc/s3/:maslowcnc:UmLb:20170326_141905.jpg.jpg)
 
 ---
@@ -459,6 +525,8 @@ Posted on **2017-03-26 11:59:37** by **Bar**:
 
 It is! :-)
 
+
+
 I'm investigating the weird behavior you were seeing with the original model right now
 
 ---
@@ -472,6 +540,8 @@ The actual measurement of that opening is between .5 and .25 mm on the small sid
 Posted on **2017-03-26 12:13:01** by **Bar**:
 
 Looks like we're getting there!
+
+
 
 That hole for the U-bolt looks a little wonky and oval. I would recommend cutting on the inside for sure, but it should still be rounder than that. Was it acting strange for that part at all?
 
@@ -492,6 +562,8 @@ I really need to update that screen shot
 Posted on **2017-03-26 12:20:17** by **Bar**:
 
 Those dimensions don't seem to be right for anyone else. I added some text to indicate that they shouldn't be used this morning. I'm changing the way the dimensions are calculated probably tomorrow tho so I think I will update the screenshot once the new way is in place
+
+
 
 Are you running ground control from the source code or from one of the pre-compiled versions?
 
@@ -530,8 +602,11 @@ The latest version from the source actually improves the way the calculations ar
 Posted on **2017-03-26 13:22:38** by **jbarchuk**:
 
 > @chadheiser
+
 > I think we are still running from a pre-compiled version that I downloaded on Thursday the 23rd.
+
 All downloadable files should have a version embedded in the name to make keeping older files for fallback easier.
+
 All screen based software should have the version right there so there's no uncertainty.
 
 ---
@@ -557,7 +632,10 @@ I've created issues in both the firmware and Ground Control for this [here](http
 Posted on **2017-03-27 12:04:08** by **rancher**:
 
 > @Bar
+
 > the GRBL-generic one looks pretty good
+
+
 
 This one is a no go.  Open paths at the fillets again.
 

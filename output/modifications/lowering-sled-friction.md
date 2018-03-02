@@ -3,6 +3,8 @@ Posted on **2017-04-24 04:58:11** by **jbnimble**:
 
 I've read different discussions here suggesting ways of lowering sled friction and many people suggested [UHMW sheets](https://www.amazon.com/dp/B00CPRDLAW/ref=biss_dp_sa2), but I also saw this [UHMW Tape](https://www.amazon.com/dp/B01CL91NEY/ref=biss_dp_sa1) product that may also be an option.
 
+
+
 Having something that is simple to re-apply and not too expensive seems like a nice solution in theory. Does anyone have insight whether the tape would work for lowering sled friction, and stand up to the abuse of the sled?
 
 ---

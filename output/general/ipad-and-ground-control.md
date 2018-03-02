@@ -20,6 +20,7 @@ Thanks for your quick reply.
 Posted on **2017-05-19 10:12:28** by **scottsm**:
 
 I had hoped to use a RPi to run GroundControl and remote to it with VNC. Kivy has issues with remote screens on the RPi so that didn't work.
+
  I recently damaged my motor shield because I wasn't in the room when it tried to climb beyond the upper limits - wouldn't have happened if I had been present. Not for unattended use.
 
 ---

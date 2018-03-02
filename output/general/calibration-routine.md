@@ -3,6 +3,8 @@ Posted on **2017-06-09 07:59:23** by **rancher**:
 
 Okay guys, I hung back after my +15mm post because I was cutting accurately enough for me.  I'm ready to catch up, and did the basic auto calibrate a week ago, but got hung up on the "self-adjusting" test pattern.  It didn't get square after four tries, and the way it moves down and over had it off my sheet.  I gave up on that, but I want to get back to cutting.   I am not sure after the Wed. update that we are back online?  Are we?  How do I get there fastest?  Is there a simple test pattern that will self calibrate that we are using now, or do I need to go through the chain measure steps again.  Also, the test pattern had no Z zero step, and I could not reset to work piece center, both of which made it impossible for me to finish. 
 
+
+
 So, where are we at, and what is my best path to get back to making stuff?
 
 ---
@@ -22,6 +24,7 @@ Yep, that's the normal routine.  But.....have you made a good cut with it?  That
 Posted on **2017-06-09 08:22:27** by **scottsm**:
 
 The auto-calibration really does want to cut a 600mm x 600mm pattern and steps 10 or 20 mm southeast with each iteration. It really did a good job of calibration for me. It is adjusting the distance between sled mounting points using the difference between the horizontal and vertical measurements.
+
 For the chain calibration, I had marked the two 'home links' with a white paint pen during an automatic calibration session, now I put those onto the top of the sprockets, use the controls in Step 1 to rotate them to the very top of the sprocket, then skip out and finish the automatic session and use the Advanced/Calibrate-manual to re-establish the workarea center point.
 
 ---
@@ -78,7 +81,11 @@ Posted on **2017-06-09 12:34:01** by **Bar**:
 
 I've added a step to the calibration process to adjust the z-axis depth. Great point that it was missing.
 
+
+
 I've also moved the starting point for the calibration up and to the left 36mm to give some more space to run the process. I don't want to make it user definable because I think the process has enough variables already, and having everyone doing their calibration in different places seems like asking for trouble.
+
+
 
 I've seen that stop and start behavior with my motors too during the calibration process. It comes from the PID controller expecting the weight of the sled, but not finding it. Think like picking up a soda can that you expect to be full, when it's actually empty. I'll look into making that go away right now, but it shouldn't effect the measurements being taken. The encoder readings should still be correct.
 

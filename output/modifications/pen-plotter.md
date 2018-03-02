@@ -15,6 +15,8 @@ Posted on **2016-11-20 14:49:32** by **Bar**:
 
 You might be interested in this: http://www.widgetworksunlimited.com/CNC_Plotter_Pen_Bit_Thick_Line_p/cnc-pltr_pen_thick.htm
 
+
+
 There have also been a couple suggestions to add a second axis so the machine could draw and cut all in one process which would let you label parts and then cut them.
 
 ---

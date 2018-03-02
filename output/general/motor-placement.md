@@ -33,7 +33,11 @@ Posted on **2017-04-20 07:41:15** by **Bar**:
 
 Thats a great point that it's easier to measure the distance between the motor mounts. Thanks everyone for calculating what that is.
 
+
+
  I believe that the optimal distance from the face of the motor mount to the work surface is determined by the goal of keeping the chain in plane the whole time so the optimal distance from the sprocket to the cutting surface would be the same distance as the distance from where the chains mount on the sled to the cutting surface.
+
+
 
 Does that make sense?
 

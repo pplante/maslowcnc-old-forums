@@ -3,7 +3,11 @@ Posted on **2017-07-17 19:36:03** by **beettlle**:
 
 I'm trying to run the calibration but it's stuck on before for the last vertical cut in "step 8 of 9".  The "Re-cut test pattern" button is still grayed out but it's been over 10 minutes and I haven't gotten any new instruction to finish the square.  I'm running this on a Mac (OS X 10.12.5) with Ground Control 0.80.  
 
+
+
 If I stop the cut and start again it gets stuck in the same place.  I've tried it twice now.
+
+
 
 Any help would be greatly appreciated.
 

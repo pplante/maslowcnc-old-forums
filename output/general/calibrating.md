@@ -15,6 +15,8 @@ Posted on **2017-07-15 08:33:09** by **Bar**:
 
 There is absolutely something going on with the right motor, but I'm having trouble tracking it down because every time I try to make it happen may machine starts acting normal. It is on the top of my to-do list.
 
+
+
 Were you a beta tester or a regular backer?
 
 ---
@@ -46,6 +48,7 @@ So that looks like you confirmed a bug in FW0.80 that blsteinhauer88 reported 8 
 Posted on **2017-07-16 01:19:26** by **gero**:
 
 He also has problems with moving the sled. Better stick with FW0.78 for the moment. The thread http://www.maslowcnc.com/forums/#!/general:right-motor-issue
+
 UPS! You have the new motor shied, right? The new shield was introduced in 0.79 where the right motor bug started. So I guess the new shield will not work with 0.78 :-(
 
 ---
@@ -77,6 +80,8 @@ Pretty sure the new shield will not work with FW prior to 0.79. I guess that is 
 Posted on **2017-07-16 13:29:47** by **Bar**:
 
 @Gero is right that anything prior to 0.79 won't work with the newer shields.
+
+
 
 It's good to hear that Actions -> Test Motors works, because that means all of the electronics are good. It seems like we've got an issue with the right motor behaving very strangely. I'm in the process of tracking it down, but it's a tough one to crack because it seems to only affect some people some times which is weird to say the least.
 
@@ -278,7 +283,11 @@ Posted on **2017-07-16 16:18:09** by **davidlang**:
 
 @bar, the text of that message (calibrate chain lengths) is very misleading. Can you change it to something like "unable to calculate position, possible machine dimension problem" or something that doesn't point at a specific step as the solution. It may be useful to have the firmware output the machine dimensions as it thinks they are (along with the position it was trying to calculate)
 
+
+
 In playing with the simulation, I found I could get that error to happen regularly, not because of chain length problems, but because the forward loop to find it's position would get into a bad state.
+
+
 
 I was most able to replicate this when I tried setting the S and H3 values small as it would miscaclulate the chain lengths and at the center think one chain needed to be longer than the other, then as it was hunting for optimum, as it passed center, the chain lengths would flip and it would start hunting again and be in an endless loop.
 
@@ -287,6 +296,8 @@ I was most able to replicate this when I tried setting the S and H3 values small
 Posted on **2017-07-16 17:04:35** by **Bar**:
 
 I agree that it is unclear, and we should re-write it, but I like that it gives the user specific feedback about what to do about the problem. 9/10 times someone sees that issue all they need to do is Actions -> Calibrate Chain Lengths, but I agree we should make it clear that isn't the only solution. 
+
+
 
 Can anyone think of better text that makes it more clear why the error is popping up, and better recommends what to do about it?
 

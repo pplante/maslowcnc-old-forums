@@ -3,7 +3,11 @@ Posted on **2017-02-01 12:06:48** by **chauhuh**:
 
 How does Ground Control physically interface with the maslowcnc? USB?
 
+
+
 I was thinking of picking up this cheap windows 10 tablet in order to run my machine. Will it work?
+
+
 
 https://www.amazon.com/Hi8-Windows-Android-Tablet-Features/dp/B01AN6BBKI/ref=sr_1_4?ie=UTF8&qid=1474463265&sr=8-4&keywords=chuwi%20hi8%20pro&tag=wpcentralb-20&ascsubtag=UUwpUdUnU43704
 
@@ -30,6 +34,8 @@ Posted on **2017-02-01 13:19:47** by **Bar**:
 Posted on **2017-02-01 17:08:16** by **jbarchuk**:
 
 The Maslow board can put 5V on the USB power pins. ;)
+
+
 
 I don't know what kind of power interface protocol is best. A current limiter and back EMF protection might be good ideas.
 

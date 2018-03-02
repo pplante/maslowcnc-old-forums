@@ -15,6 +15,8 @@ Posted on **2017-06-22 16:13:26** by **mcginniwa**:
 
 With the Bosch GOF 1600 CE, you'll need to order the fixed base part separately from the [US Amazon](https://www.amazon.com/Bosch-MRF01-Router-Fixed-Routers/dp/B00AEBXH7S/ref=sr_1_1?ie=UTF8&qid=1489880973&sr=8-1&keywords=bosch+fixed+base).
 
+
+
 Getting it working with the Z-axis kit is still a work-in-progress for the Bosch GOF 1600 CE. So be warned it's not a sure thing until you hear otherwise.
 
 ---

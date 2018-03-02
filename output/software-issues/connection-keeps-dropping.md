@@ -2,18 +2,32 @@
 Posted on **2017-06-09 06:22:32** by **gero**:
 
 With the Firmware and GC from Wednesday GC alters between 'Connected' and 'connection lost' ~ every second. The terminal does not give much info. It's sending commands in between:
+
 Connected on port /dev/ttyACM0
+
+
 
 Sending: B03 A2444 C1222 Q2998.08 E481.93 F158.75 R75 H-1 I1 J8148.0 K10 M6.35 N2.3 P7560.0   
 
+
+
 Sent Space available: 170
+
 connection lost
+
 Connected on port /dev/ttyACM0
+
 Sending: B05   
+
 Sent Space available: 249
+
 connection lost
+
 Connected on port /dev/ttyACM0
+
 Sending: G21
+
+
 
 A older GC (29/04) stayed connected
 
@@ -52,7 +66,9 @@ I just downloaded the [source for V75](https://github.com/MaslowCNC/GroundContro
 Posted on **2017-06-09 08:28:04** by **gero**:
 
 Downloaded the master the third time. The connection loss is gone :-o
+
 57600 confirmed in serialPortThread.py
+
 Whatever it was, it is gone... If it stays away, OK. Thanks for the support
 
 ---
@@ -90,34 +106,64 @@ Macro buttons are there, but no text or macro... Screen shows sled following the
 Posted on **2017-06-09 11:30:25** by **gero**:
 
 Back to square one. Since I had a version of CG with no text on the Macro buttons; after 3 downloads suddenly a stable connection, but crazy moves; I downloaded the master of FW and GC I my office, placed them in my public folder and copied it in the workshop from there.
+
 The Arduino gives warnings:
+
 sketch/number.c: In function 'bc_str2num':
+
 sketch/number.c:1523:7: warning: assignment discards 'const' qualifier from pointer target type
+
    ptr = str;
+
        ^
+
 sketch/number.c:1548:7: warning: assignment discards 'const' qualifier from pointer target type
+
    ptr = str;
+
        ^
+
 /home/ghadmin/Maslow/test/Firmware-master/cnc_ctrl_v1/cnc_ctrl_v1.ino: 15:0: warning: "SERIAL_RX_BUFFER_SIZE" redefined
+
  #define SERIAL_RX_BUFFER_SIZE 512
+
  ^
+
 In file included from /home/ghadmin/arduino-1.8.2/hardware/arduino/avr/cores/arduino/Arduino .h:232:0,
+
                  from sketch/cnc_ctrl_v1.ino.cpp:1:
+
 /home/ghadmin/arduino-1.8.2/hardware/arduino/avr/cores/arduino/Hardwar eSerial.h:53:0: note: this is the location of the previous definition
+
  #define SERIAL_RX_BUFFER_SIZE 64
+
  ^
+
 /home/ghadmin/M aslow/test/Firmware-master/cnc_ctrl_v1/cnc_ctrl_v1.ino: 16:0: warning: "SERIAL_TX_BUFFER_SIZE" redefined
+
  #define SERIAL_TX_BUFFER_SIZE 512
+
  ^
+
 In file included from /home/ghadmin/arduino-1.8.2/hardware/arduino/avr/cores/arduino/Arduino .h:232:0,
+
                  from sketch/cnc_ctrl_v1.ino.cpp:1:
+
 /home/ghadmin/arduino-1.8.2/hardware/arduino/avr/cores/arduino/Hardwar eSerial.h:46:0: note: this is the location of the previous definition
+
  #define SERIAL_TX_BUFFER_SIZE 64
+
  ^
+
 Sketch uses 36788 bytes (14%) of program storage space. Maximum is 253952 bytes.
+
 Global variables use 2927 bytes (35%) of dynamic memory, leaving 5265 bytes for local variables. Maximum is 8192 bytes.
 
+
+
 In GC I am back to the loop of connecting and loosing the connection.
+
+
 
 Next I'll try from the releases.
 
@@ -138,6 +184,8 @@ I can confirm again that with an other CG I have a stable connection and can mov
 Posted on **2017-06-09 12:42:22** by **Bar**:
 
 Hmmm, I just checked to make sure I'm not seeing the same behavior with the latest firmware/GC. I'm thinking it has something to do with the file being corrupted. I also am not getting the same warnings in Arduino. 
+
+
 
 You are using the stock Arduino Mega that came in the kit, right?
 
@@ -182,13 +230,21 @@ Thanks @dave. Will defiantly try that via GitKraken.
 Posted on **2017-06-10 03:36:18** by **gero**:
 
 Hey Linux buddies, how do achieve a download with a checksum? GitKraken is to complex and via terminal:
+
 git clone https://github.com/MaslowCNC/GroundControl.git
+
 Cloning into 'GroundControl'...
+
 remote: Counting objects: 5066, done.
+
 remote: Compressing objects: 100% (15/15), done.
+
 remote: Total 5066 (delta 7), reused 12 (delta 6), pack-reused 5045
+
 Receiving objects: 100% (5066/5066), 122.56 MiB | 2.82 MiB/s, done.
+
 Resolving deltas: 100% (2715/2715), done.
+
 Checking connectivity... done.
 
 ---
@@ -215,6 +271,8 @@ Posted on **2017-06-10 12:06:55** by **davidlang**:
 
 after you do the git clone, you have a directory called "Ground Control", go into that and you will see all the source. I believe that you can just run main.py from that directory.
 
+
+
 once you have cloned a project once, you can update to the current version by going to the directory it was cloned into and doing 'git pull' (as long as you haven't made any local modifications)
 
 ---
@@ -228,8 +286,11 @@ probably a silly question, but when you fire up arduino to compile the firmware,
 Posted on **2017-06-10 12:47:03** by **scottsm**:
 
 It looks like the version 73, the lines:
+
 #define SERIAL_RX_BUFFER_SIZE 512
+
 #define SERIAL_TX_BUFFER_SIZE 512
+
 are new to that version.
 
 ---
@@ -303,15 +364,26 @@ Sure, I'll think I can get the Uno to work as an serial adapter and I beleive I 
 Posted on **2017-06-11 16:11:01** by **scottsm**:
 
 Hook up ground and connect the Uno RX (pin0) to the beta Maslow board AUX5, which happens to be Rx0 for the Mega (oops!). Try using a serial terminal or Arduino Serial Monitor on the Uno to see whether you can 'hear' the characters coming to the Maslow. I'm not sure how to use the Uno as a serial adapter :(...
+
 On my unit I get:
 
-G20   
-B03 A2438.4 C1219.2 Q2995.65 E369.29 F310.2 R139 H79 I1 J8148.0 K10 M6.35 N3.17 P7560.0   
-B03 A2438.4 C1219.2 Q2995.65 E369.29 F310.2 R139 H79 I1 J8148.0 K10 M6.35 N3.17 P7560.0   
-B05   
+
+
 G20   
 
+B03 A2438.4 C1219.2 Q2995.65 E369.29 F310.2 R139 H79 I1 J8148.0 K10 M6.35 N3.17 P7560.0   
+
+B03 A2438.4 C1219.2 Q2995.65 E369.29 F310.2 R139 H79 I1 J8148.0 K10 M6.35 N3.17 P7560.0   
+
+B05   
+
+G20   
+
+
+
 Note: the B03 lines have wrapped - the M6.35 lines are part of the B03 lines...
+
+
 
 A hex dump looks like [this:](//muut.com/u/maslowcnc/s2/:maslowcnc:x8Yl:gctomegastartup.png.jpg) .
 
@@ -327,9 +399,15 @@ Posted on **2017-06-12 16:49:10** by **Bar**:
 
 I just want to jump in to say that I've been trying to figure this out on my end too, with no luck. I can't get the issue to happen. I've tried all the version of GC and they all seem to work. I though maybe the Arduino IDE updated since I downloaded mine, and so I uninstalled and updated that, with no change (still works).
 
+
+
 There is something weird going on where the compiler is optimizing away variables as 'unused' but we actually need them. Or at least that's what I think is going on. 
 
+
+
 The only other thing I can think to do is give [this](https://www.dropbox.com/sh/y7ml553ns66p58x/AABegurqSkQBiQCeTTfKJ6Vxa?dl=0) precompiled firmware a try. Also, maybe check the terminal in the Arduino IDE to make sure that the machine really is sending back information (when the connection drops it's because GC hasn't heard from the machine in two seconds).
+
+
 
 I'll let you guys know when I find out more
 
@@ -344,6 +422,7 @@ Have you tried clearing the EEPROM before installing new firmware? Or is there a
 Posted on **2017-06-13 09:45:41** by **gero**:
 
 Warning! This (fix?) is not recommended as it is unclear if it might break more then it fixes. On Kubuntu 14.04LTS pyserial 2.6 was the installed version. On Ubuntu-Mate 16.10 and Kubuntu 16.04LTS the version is pyserial 3.3. The command "sudo pip install pyserial --upgrade" uninstalled 2.6 and installed 3.3. GC is not dropping the connection anymore on Kubuntu 14.04LTS. Great thanks to @scottsm!!!
+
 P.S. Do not try this at home!!! :-o
 
 ---

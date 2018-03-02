@@ -3,7 +3,11 @@ Posted on **2017-04-25 09:30:04** by **rancher**:
 
 Mornin' gang.  I made you another thing.  Holy crap, the audio is atrocious.  My laptop sounds like a helicopter!  I also make a lot of mistakes, but hopefully you can learn how to do it better than me.
 
+
+
 Hope it's helpful.  It's certainly long.
+
+
 
 https://youtu.be/Q6w4MT29INY
 

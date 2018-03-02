@@ -50,7 +50,10 @@ Bar, I had a running machine, zero'd and calibrated.  I updated the firmware and
 Posted on **2017-07-07 20:00:57** by **blsteinhauer88**:
 
 I confirmed the right motor problem.  I built the new arms and motor mounts  [IMG_0255](//muut.com/u/maslowcnc/s3/:maslowcnc:qYIi:img_0255.jpg.jpg) 
+
 Then I loaded the FW 79 and GC 79. I ran through the Calibration of machine dimensions. Right motor would not turn ccw in the initial zero of the gear. I got through the rest of the settings and then to Chain calibration. The right motor does not move as shown here. https://m.youtube.com/watch?v=ByZ8BJGZfAA
+
+
 
 Switched back to FW 73 and it works again!
 
@@ -90,7 +93,11 @@ Posted on **2017-07-07 23:08:44** by **Bar**:
 
 Ok, perfect. So the issue is absolutely something that .79 introduced. The good news is that the only real benefit of .79 over .78 is that .79 can detect the Arduino Shield version which you don't need. 
 
+
+
 It's possible that maybe the firmware isn't detecting the PCB version right.
+
+
 
 When your machine connects do you see the words "Beta PCB v1.0 detected" right after "Connected on ..."? You might have to scroll up in the Ground Control terminal to see it.
 

@@ -2,6 +2,7 @@
 Posted on **2017-03-29 01:04:59** by **scottsm**:
 
 I learned tonight that the orange plastic goody that rides on the z-axis screw is a sacrificial item. The z-drive is more than powerful enough to chew the thread right off it. They're not expensive, but also not immediately available. There's enough meat left that I can carve a temporary thread to serve until a replacement arrives though.
+
  Next time I'm moving the sled around the workspace I'll release the latch and pull the motor back by hand instead of stacking up a few clicks on the z-out button to raise it then looking away for a moment.
 
 ---

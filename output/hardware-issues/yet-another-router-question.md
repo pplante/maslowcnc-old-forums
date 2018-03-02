@@ -3,13 +3,23 @@ Posted on **2017-05-26 03:43:51** by **danychouinard**:
 
 Hello from Canada!
 
+
+
 Since the tested router list is so small, I guess we will have quit a few of those.
+
+
 
 To complete an order, I have to actually choose the shaft cupler size.  Since I don't kno wich router I'll end up with, the decision is quit a wild guess.  That's bringup a few questions.
 
+
+
 I understand that the router by itself is not that important.  I mean the thing will just follow the base.  For the Z-Axis we only have to fit the motor to the adjustment knob.  My current router - A Mastercraft Maximum ( http://www.canadiantire.ca/en/pdp/maximum-fixed-plunge-router-0546810p.html#srp ) seems quit fit for the job but I notice the the motor wobble when the base lock is not engaged - something that I thought was normal.  I suppose that the recommended Ridgid router is able to operate steadily witout the lock level engaged.  Can anyone confirm this ?
 
+
+
 So since I might buy a new router, I might need a new coupler.  This is not excesively expensive ( https://www.al iexpress.com/category/146901/shaft-couplings.html?site=glo&tag= ) , but what I the provided motor shaft size ?
+
+
 
 Thanks
 
@@ -36,6 +46,8 @@ David, you run your Ridgid with the clamp closed?   Are you getting smooth Z mot
 Posted on **2017-05-26 07:02:51** by **davidlang**:
 
 I don't have one yet, but the trick is to adjust the screw under the latch to loosen it until you can move the router smoothly with latched with as little play as possible.
+
+
 
 Bar has shown this on one of the early video https://www.youtube.com/watch?v=R9Kv3GZI6Og&t=33s
 

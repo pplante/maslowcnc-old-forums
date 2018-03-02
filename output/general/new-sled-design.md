@@ -20,6 +20,7 @@ I could lift one of the chain brackets and let it go..it would rock back and for
 Posted on **2017-03-29 04:36:50** by **rollandelliott**:
 
 That is umhw plastic
+
 One could buy a whole sheet to make the sled out of also sold as tape
 
 ---
@@ -75,9 +76,13 @@ Posted on **2017-04-02 03:29:58** by **dantherugbyman**:
 Posted on **2017-04-02 17:07:32** by **nathanmiller**:
 
 there are plenty of size variations on Amazon. A quick search reveals many sizes and thicknesses. Unfortunately at 24"x24"x1/2" the prices start to get relatively high: 
+
 https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dindustrial&field-keywords=UHMW+24x24
 
+
+
 An alternative might be expanded PVC used for outdoor signage. The upsides are, lower cost, easy to cut/route, very slick, pretty easy to find locally (assuming there's a sign supply store somewhere. The downside, it's softer than UHMW. Another interesting property of it - with heat it can be moulded. So one could warm the sides and round the edges to make a sort of sled. 
+
 Here's some on Amazon: https://www.amazon.com/PVC-Foam-Board-Sheet-Celtec/dp/B00FN5XECS/ref=sr_1_6?s=industrial&ie=UTF8&qid=1491177863&sr=1-6&keywords=celtec+24x24+12mm
 
 ---
@@ -157,13 +162,22 @@ Experiment folks! Test. Fail. Fix. Improve! That's the beauty of open source.
 Posted on **2017-04-04 16:25:58** by **davidlang**:
 
 @nathanmiller
+
 the other part of opensource is sharing failures and helping other people avoid problems you've already run into.
+
+
 
 The furniture moving feet are the right type of plastic, and have rounded edges, and are relatively large, so they are far better than the screw-on feet which are a much softer plastic (and designed to grip rather than slide), have sharp edges, and are small.
 
+
+
 You want the sled to be slick, so per the information above, PVC is not a good plastic to use, UHMW is the best by far, and the cutting board material is somewhere in between.
 
+
+
 you want the contact surface to be large so that it can't fall into a hole that you have cut. How large it needs to be depends on what you are cutting and how large the resulting holes are. If you are just cutting lines with a 1/2" or smaller bit, you could probably get by with contact points that are 2" or so (think two lines that get cut close to each other so the material in between is loose), if you are cutting things that have larger openings, or recessed areas cut at partial depth, you could end up needing a  much larger contact area.
+
+
 
 The furniture moving pads are available in a few different sizes, use the largest ones you can (and try to remove the soft rubber on their back so that you can get a predictable height)
 
@@ -226,6 +240,7 @@ Brooklynn wanted Mini Mouse...
 Posted on **2017-04-07 09:01:25** by **scottsm**:
 
 You're right of course. [Here](//muut.com/u/maslowcnc/s1/:maslowcnc:nrmd:file_0sled.jpg.jpg)'s mine. Note the hole in the top edge - I put a screw in the middle of the 2x4 holding the motors and I hang the sled there when I want to unhook the chains.
+
 Your sled seems to do fine across the rough surface, and that's a complex cut! How long did it take? What feed rate did you use?
 
 ---
@@ -281,6 +296,8 @@ I am confused about this friction material thing. If I would put the chains in t
 Posted on **2017-04-08 20:57:01** by **davidlang**:
 
 @ghero, the 'stock' design has things tilted a fair bit (~15 degrees), we think that having everything closer to vertical will work better, but we haven't had anyone try it and report.
+
+
 
 Having the chains too far out can cause alignment problems as the sled gets close to the motors.
 

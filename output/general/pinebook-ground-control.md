@@ -21,6 +21,8 @@ Posted on **2017-05-23 10:13:26** by **davidlang**:
 
 They are running a few weeks behind in shipping the maslow kits (they don't want to cut the beta-test period short as it's providing so much value)
 
+
+
 people have run ground control on android, on Raspberry Pis, as well as on Windows/Mac/Linux desktops. It's a python app (and you can also use any grbl compatible control program to run the machine)
 
 ---

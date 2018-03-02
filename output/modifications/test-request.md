@@ -3,40 +3,77 @@ Posted on **2017-05-12 21:30:36** by **davidlang**:
 
 The purpose of this is to detect if the sled is sticking or sliding properly. If it is sliding properly, the cuts should be exactly on top of each other. If the sled is sticking, the cut back can end up rounding the corner.
 
+
+
 http://lang.hm/maslow/testpattern4.nc
+
+
 
 This goes to the bottom left corner of the work area, cuts a right angled down/right and then covers the same path left/up. This lowers the bit at the beginning of the cut and raises it at the end, so it's doable even without a motorized Z axis.
 
+
+
 This is testing one of the worst areas, where one chain is near vertical and the other has the lowest tension on it, with the sled moving away from the low tension test. It first cuts down (gravity helping) and to the right (tension being added to the chain) and then tests as you loosen the already slack chain and then start pulling up. If the sled sticks as the right chain looses tension, it can fail to move until the left chain starts pulling up, at which point it will swing.
 
+
+
 I'd like to see someone who has a frame they can easily tilt and a stock sled 
+
  test this.
+
+
 
  1. with and without dust collection
 
+
+
     a powerful dust collection system can vacuum the sled down to the workpiece. this test is to see if we need to cut slots in the sled to keep this from happening.
+
+
 
 2. with different weight on the sled
 
+
+
     do we really need so much weight in bricks? does it make a difference (assuming you have the chains attached far enough out for the sled to be balanced)?
+
+
 
 3. at a few different angles.
 
+
+
     The default is ~15 degrees, if we change the angle to 10 degrees or 5 degrees does it make things better? what if we change it to 20 degrees?
+
+
 
 If you can film it, you don't need to move the wood to make a fresh cut each time, the video  will let us see if it's going through the same path or not.
 
+
+
 my suspicion is that:
 
+
+
 1. the amount of weight on the sled will make very little, if any difference
+
  
+
     the weight of the sled falls out of all the motion math, and adding weight increases friction linearly along with the downward force on the sled
+
+
 
 2. things will be worse with dust collection on
 
+
+
     indicating a need to have some gap on the sled so that air can get in and not suction the sled down to the workpiece
 
+
+
 3. things will be better the closer the sled is to vertical.
+
+
 
     indicating that we are better off with an angle less than 15 degrees (for cutting purposes anyway, overall stability may require more of an angle or other weight on the base to keep it from being knocked over easily)
 
@@ -69,6 +106,8 @@ I'm at the beach this weekend. I'll run it when I get back.
 Posted on **2017-05-13 14:56:24** by **davidlang**:
 
 @jwolter0
+
+
 
 I expect that when the sled sticks, it's going to be a very dramatic change to the cut (a quarter circle rather than an angle), not some minor errors in repeatability
 
@@ -107,7 +146,9 @@ Will do
 Posted on **2017-05-15 17:10:18** by **gero**:
 
 > @davidlang
+
 > your local hardware store should have router bits available
+
 Sadly this does not apply to Bahrain. And 98% of Amazon does not ship to here. I ordered from Germany, but the price is to high for testing. I need to keep those for projects. Spending hours on searching and being hesitant with Ailbaba. I will get them, latest on my next trip abroad. This gives me hope: https://www.toolstoday.com/p-5645-solid-carbide-spiral-flute-plunge-2-flute-up-cut.aspx but still above $25 per piece and no info on how good the brand is.
 
 ---
@@ -133,7 +174,9 @@ I love the Chinese tungsten bits off aliexpress, very good pricing and quality. 
 Posted on **2017-05-17 02:19:34** by **gero**:
 
 > @rollandelliott
+
 Bulk and dirt cheap is exactly what I need to make a lot of dust.
+
 Do you by chance have a link to what you bought? I am bit overwhelmed with the choices.
 
 ---
@@ -226,9 +269,15 @@ Posted on **2017-05-19 22:13:52** by **davidlang**:
 
 Thanks for testing this. One thing I realized a few minutes ago is that we may have a little bit of rounding at full speed, simply due to the fact that gravity gives us so little force at such steep angles.
 
+
+
 I think it's interesting that one brick gives us very good results at 10 degrees, but not so good at 15 degrees. That makes me very curious to see what happens at 5 degrees (including with no bricks)
 
+
+
 It seems that at 15 degrees, dust collection doesn't make a difference. So don't bother doing with/without dust collection on all of them, just one test at 5 degrees, no bricks with/without to double check the most extreme case.
+
+
 
 I suspect that the new firmware will make a bit of a difference here (I don't think a huge difference), but if so, we may need to re-run some of these
 

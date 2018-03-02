@@ -21,7 +21,11 @@ Posted on **2017-04-08 18:52:30** by **Bar**:
 
 Thanks for making it easy for us. If you have any trouble finding it, let us know.
 
+
+
 Interesting that it happened while measuring out the chain. Measuring out the chain by hand was how the system worked originally, but I've been trying to move away from taking measurements by hand because it seems to give somewhat hit and miss results with regards to accuracy. 
+
+
 
 Did it happen because the chain became twisted or wound up around the sprocket? Or do you think it was just the act of hanging loose that caused the issue?
 
@@ -43,6 +47,8 @@ Posted on **2017-04-08 20:24:55** by **Bar**:
 
 Ok, yeah I was worried about that happening. I set them to feed out pretty slowly in the hopes that they wouldn't bind up at a lower speed, but that's clearly not enough. I still really think that the having the motors measure out the correct chain length is going to give much more accurate results, everyone (me included) keeps getting oval shaped circles when measuring by hand, but we need to find a safe way to do it. 
 
+
+
 It seems like chain skipping/binding is one of the bigger issues we're going to need to take care of. I'm open to any and all suggestions.
 
 ---
@@ -56,6 +62,8 @@ I used a paint pen to mark the chain so I did not have to keep measuring.
 Posted on **2017-04-08 20:52:36** by **davidlang**:
 
 as a place to get chain http://www.surpluscenter.com/Roller-Chain-Links/ANSI-Roller-Chain-Links/Roller-Chain/?page_no=1&fq=ATR_PowerTransPitch:25
+
+
 
 has a 10' length of type 25 chain for $15 (as well as all the fittings, etc)
 
@@ -76,6 +84,7 @@ I used a paint pen to mark the chain as well, but I still had to run the chain m
 Posted on **2017-04-09 09:03:30** by **rexklein**:
 
 what about the same idea as setting the z axis. put a center line on the work area and measure out a 1' 2' 3' cross along the center then use ground control to "sneak up on those intersections" 
+
 I really like the marker paint Idea
 
 ---

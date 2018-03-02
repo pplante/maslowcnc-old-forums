@@ -20,7 +20,9 @@ WAS IT LOUD?&quest;?!!!
 Posted on **2017-04-17 14:19:52** by **jbarchuk**:
 
 > @blsteinhauer88
+
 > WAS IT LOUD?&quest;?!!!
+
 WHAT?&quest; I CAN'T HEAR YOU!!!?&quest;?&quest;
 
 ---
@@ -28,7 +30,9 @@ WHAT?&quest; I CAN'T HEAR YOU!!!?&quest;?&quest;
 Posted on **2017-04-17 14:21:55** by **jbarchuk**:
 
 > @rancher
+
 > cut without issue.
+
 Awesome. All the way through the material? How did the edges and sides look? Do you have a magnifier to look at the steps? Wouldn't it be ironic if it cut aluminum better than plywood? :)
 
 ---
@@ -61,6 +65,8 @@ Posted on **2017-04-17 15:36:42** by **rancher**:
 
 It's not that it doesn't retract.  I have been having strange behavior at the start of the run, although I read what bar wrote today about home then retract then run the code.  I think that was a lot of my problems.  Anyway, due to whatever reason, I had to manually drop the bit into the first cut.  The first cuts always start way high, and I think it's due to some GC thing at the start.  So, I put the bit down, and then it does the step downs, but when it retracts to move, it thinks it's out when it's not.
 
+
+
 No, I don't think the bit scorched.  Or, I don't know enough to know.  The shavings were still chippy, not welded though.  Feed was I think 20ipm, router on high I believe.
 
 ---
@@ -74,9 +80,14 @@ Awesome Test, I am rebuilding a Beetle, I have some need to cut my own parts.  V
 Posted on **2017-04-17 17:50:11** by **rollandelliott**:
 
 I cut aluminum all the time with a 1/8" upcut bit has to be SINGLE flute 
+
 double or triple flutes  cut horribly. 
+
 6061 cuts the easiest. 5000 series is ok, and avoid 3000 series at all costs (diamondplate is usually 3032 alloy) tends to gum up the bit and then break. 
+
 one can cut 1/16 thick sheet metal in one swipe by hand. 
+
+
 
 The thing with aluminum is you ironically want to run it as fast as possible. Most people tend to slow it down which gives even worse results.
 
@@ -85,6 +96,7 @@ The thing with aluminum is you ironically want to run it as fast as possible. Mo
 Posted on **2017-04-17 17:52:14** by **rollandelliott**:
 
 bar I sent you some aluminum and bits to test a couple of weeks ago, you are probably to busy to test, but try it you will be surprised.
+
 hopefully.
 
 ---

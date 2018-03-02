@@ -9,7 +9,11 @@ Posted on **2017-05-06 14:21:26** by **Bar**:
 
 Nothing very exciting has changed since the update a couple weeks ago (nothing exciting is good :-) ), and everything is on schedule.
 
+
+
 I believe that the donated kits will go out with the second batch of kickstarter kits, but I need to check with Hannah to be 100% sure.
+
+
 
 If you are working on building the frame ahead of time I would consider holding off a week or so more because I'm working on a redesign of the assembly process taking into account everything we've learned from our beta testers so it might be worth giving that a glance before finishing your build.
 
@@ -25,7 +29,11 @@ Posted on **2017-05-06 18:51:35** by **Bar**:
 
 I think by incorporating some of the awesome ideas from everyone's builds we can make the whole build process simpler and end up with a better machine. I'm playing around with a design which trades off buying an extra 2x4 for a simpler construction process with fewer parts to cut.
 
+
+
 First I'm looking at removing the middle brace from the legs which makes it so we don't have to cut 8 plywood pieces.  [New Legs](//muut.com/u/maslowcnc/s1/:maslowcnc:Lbku:newlegs.jpg.jpg) 
+
+
 
 Second, I'd like to replace the arms with 2x4 sections. This lets us angle the motors so that the forces on the motor bracket and plywood which the motor is attached to is in plane with the wood (it's strongest direction). The result is an arm which is very rigid, very easy to build, and which has more chain wrapped around the sprocket. I'm testing it now so I'll have more to report for my update on Wednesday, but my initial impression is very good. The chains especially seem to feed noticeably cleaner.  [New Arm](//muut.com/u/maslowcnc/s1/:maslowcnc:Wmkq:newarm.jpg.jpg)
 

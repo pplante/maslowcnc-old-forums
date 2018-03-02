@@ -2,15 +2,26 @@
 Posted on **2017-03-09 11:10:06** by **garyw17**:
 
 Hello,
+
 Just thought I'd give an update for anyone not on the kickstarter buy list who may be thinking about trying to scratch build their own machine.   I posted earlier about trying a small Pololu motor with built in encoder, and that the gearbox failed.  I realize now that motor was woefully under powered compared to the Maslow motors.  I was not able to find any thing comparable to Maslow motor with a  worm drive and built in encoders, so ended up buying separate motor (Ebay Item ID: 162355094908 )and encoders (Item ID: 171947459869).  The encoders are 600 ppr (so much lower than standard Maslow but hopefully still good enough), and the motor has roughly twice the torque as the standard Maslow motor mentioned by Bar  But of course has a much higher current draw, so I don't think the L298 motor controllers will work.  I ended up buying a 10 amp dual motor controller for about $26 (Ebay Item ID: 171947459869).  In early testing I accidentally had a wood screw in the way of the motion of the sled and was looking the other way.  I did not notice any change in the motor so und when the sled hit the screw..... just a loud snap as it broke the screw off cleanly.  Clearly there is plenty of power here.  
+
+
 
 I am driving the whole thing using an old 12 volt deep cycle battery from my camper.  I do not yet have a router (or Z axis drive).
 
+
+
 For mounting the motors and encoders, I bought a 3x3 x 0.25 thick aluminum angle piece, and a 1.5x1.5 x .125 thick aluminum square U piece from www.online metals.com.  The angle piece holds the motor, and the U piece mounts to the face of the angle piece and holds the encoder, which connects to the motor via a small aluminum coupler.  A few pictures are attached showing the parts, and the final assembly.  I did not have access to a lathe or milling machine, so all parts were made with hand tools and a small drill press, but you do have to be pretty careful laying things out to make it all fit.
+
+
 
 Unfortunately last night I broke the power adapter for my Lenovo tablet, so testing is done for a couple days while I wait for a new one.  I was successful at moving the motors around and reading the encoder outputs by writing a small Arduino script, but did not get the actual Maslow software to control it yet.  There are a couple of challenges to resolve.  Since my encoders are mounted facing the motors, they actually turn in the opposite direction (CW versus CCW).  I think.  Depends on which side you look from I guess.  So my pulse count may (or may not) go in the wrong direction when the motors turn.  Maybe flipping the encoder A/B channels fixes this... or maybe not.  Also the L298 motor controllers have two pins which control direction of the motor with the H bridge.  This new motor controller only uses one pin.  High for one direction.... low for the opposite direction.  I tested that with my simple script and it works, but I still need to figure out which one of the pins coming off the Arduino to connect to each motor.  Sorting out these connection issues is not so easy (at least for me as a non-software type guy).
 
+
+
 That all for now.  If anyone has any advice I appreciate it.  Otherwise, I will update when I (hopefully) get things sorted.
+
+
 
  [Front_view](//muut.com/u/maslowcnc/s1/:maslowcnc:4Glz:front_view.jpg.jpg) [Parts](//muut.com/u/maslowcnc/s1/:maslowcnc:chmL:parts.jpg.jpg) [View1](//muut.com/u/maslowcnc/s1/:maslowcnc:COR6:view1.jpg.jpg) [View2](//muut.com/u/maslowcnc/s1/:maslowcnc:nI0K:view2.jpg.jpg)
 
@@ -32,9 +43,15 @@ Posted on **2017-03-09 11:53:17** by **Bar**:
 
 This is AWESOME! Amazing work!
 
+
+
 I think you are in some good luck with the encoder/H-bridge differences. Swapping the A/B channels will work to reverse the direction (good guess), and while our H-bridge has two control pins and yours only has one, the way we are using them the two pins are always opposite so forward is High-Low and reverse is Low-High so you should be able to get the right behavior using only one pin.
 
+
+
 Using both pins would allow us to do active breaking (I believe), but I don't see a need for that.
+
+
 
 Again, great great work. Keep us posted!
 
@@ -49,10 +66,15 @@ Thanks Bar.  One other thing related to the shield question from nloding.    I a
 Posted on **2017-03-09 15:31:28** by **jbarchuk**:
 
 > @garyw17
+
 > the shield in this case is the motor controller.
+
 This one-board solution is the best decision on several counts related to -efficiency-. The first and most important is that Bar et al. don't have to deal with supporting multiple different Arduino manufacturers, maaany more different kinds of motor boards, and random scavenged cables. I remember one comment Bar wrote that when looking at some sample chains one chain was clearly better than the other and that's the one he went with. That takes a variable out of the equation.
+
 Next is efficiency for the user. There are a LOT of people here who don't solder or know how to figure out how to use a crimper, or how to route and protect cables in a machine environment. The fewer wires flapping in the breeze the better EXCEPT for those supplied for the machine that fit as designed.
+
 Related to that, this is designed to be as plug-n-play as possible. The -intent- of the design is that the user should be able to build the machine and operate it, without having to 'figure out' the operations part of it other than learning  the UI and getting the g-code from the design software to the controller.
+
 The more control the designer has over things, the fewer variables introduced by users. That will happen anyway once in a while. Fewer variables are better when you're dealing with 1000 users.
 
 ---
@@ -67,11 +89,19 @@ Posted on **2017-03-12 16:41:44** by **garyw17**:
 
 I have run into a problem, and can't figure out what is going wrong.  Hopefully someone with a better understanding of the software can offer a suggestion.  I believe I have things connected up correctly.  But when I try to move the router using the arrows in ground control, I see the white circle with cross hatches move in the software in the commanded direction and distance, but the router itself does not move.  I even read in some simple gcode for a square, and when I press "run" the white circle follows a path around it as expected, but again no actual router motion.  The position output in the gui tracks the white circle.  I don't see a red circle (thought I remembered that from an earlier version?)
 
+
+
 However, if I run the motor calibration I get what I expect.  First the left motor lets chain in and out for a few minutes, then the right.  Looking at the gui afterwards, I see the calibration was successful and it lists the results.  So I think the software must be reading the encoders OK, and can certainly command the router to move.
+
+
 
 I also wrote a separate simple A rduino script that allows me to set the motor speed and direction and writes the encoder output to the serial monitor. as a check  When I look it shows that both encoders are behaving as expected.
 
+
+
 I m using the firmware and ground control downloaded from the pinned directories this morning.  Running on a windows 10 laptop.  The only mod I made was to change the encoder to 600 ppr and the sprocket from 10 teeth to 12.
+
+
 
 I think the fact that the router moves during motor calibration but not via the arrows is a clue.  I suspect the calibration uses a direct command to move, while the arrows instead move the desired position target, and teh PID control is supposed to take over and move there.  But I m not sure if my problem is hardware or software.
 
@@ -81,14 +111,25 @@ Posted on **2017-03-13 10:01:36** by **Bar**:
 
 I've seen that issue too. It's not a hardware thing, it has to do with the calibration not being correct. 
 
+
+
 If you aren't using the most recent version of GC and the firmware, I recommend grabbing them because I've been messing with that stuff in the last week.
+
+
 
 You are spot on that the calibration routine commands the motors directly while the regular motion uses the stored calibration. You can make the firmware ignore the calibration entirely by deleting lines 75-76 in the file GearMotor.h which are:
 
+
+
 "
+
 //linearize the motor
+
   speed = _convolve(speed);
+
 "
+
+
 
 When you run the calibration, what numbers do you see? My guess is that one motor or encoder is hooked up backwards.
 
@@ -103,6 +144,8 @@ I am running the most recent code (as of yesterday morning). I think it puts out
 Posted on **2017-03-13 10:11:35** by **Bar**:
 
 Those actually sound spot on. The second one should be negative. If something was reversed you would get something like +255/-255.
+
+
 
 If you remove those two lines of code, what happens? Are you using an Arduino Mega2560?
 
@@ -136,9 +179,15 @@ Posted on **2017-03-13 12:42:45** by **TheRiflesSpiral**:
 
 Right... what I was suggesting (poorly :D ) is that it's waiting for an encoder pulse but it never comes. That might be because PW isn't long enough to cause a move, or maybe the pin on which the pulse comes in is defined in two places? (And is wrong in one)
 
+
+
 Also, a little bit of learning on my part... Am I correct in saying the encoders don't indicate a position, only a change in position? The position is actually held in software as a result of the increment/decrement of a count due to pulses from the encoders. (which is used to calculate position) Have I got that right?
 
+
+
 If that's the case is it possible the variable holding current position is being overwritten with the target position so the net pulse expectation is 0?
+
+
 
 Sorry, I know these are stupid, basic things to check but I always go back to KISS when these kinds of things trip me up.
 
@@ -147,10 +196,16 @@ Sorry, I know these are stupid, basic things to check but I always go back to KI
 Posted on **2017-03-13 13:04:18** by **garyw17**:
 
 When it reads the encoder, the command looks something like
+
 _encoder.read()/NUMBER_OF_ENCODER_STEPS)
+
 The encoder.read function returns a count of number of pulses, which obviously gets divided by the encoder NUMBER_OF_ENCODER_STEPS (600 in my case) to get a number of revolutions.  So it is not waiting for an encoder pulse.  It just reads the encoder when that info is needed.
 
+
+
 So I think what happens is that the encoder count gets zero'ed out at the beginning.  There is a variable (something like ORIGIN_CHAIN_LENGTH) which I think comes in here.  Even though we are at zero encoder count, the software knows what the chain length is.  And then it can calculate the new chain length at any time by just reading the present value of the encoder.
+
+
 
 For debugging purposes, when I wrote a simple Arduino script to move the motors around, I wrote the encoder count out to the serial monitor using this.  But unfortunately I can not seem to use the serial monitor in Arduino at the same time that ground control is running, since ground control is the serial connection.  If I could find s ome way to monitor the outputs, it might help me debug.  Maybe I can modify the firmware sketch to export the values it is using in some fashion, but I'm not sure how to do that at the moment.
 
@@ -160,15 +215,27 @@ Posted on **2017-03-13 13:34:00** by **Bar**:
 
 I have a new theory about what's going on.
 
+
+
 Have you run the "Calibrate Chain Lengths" option? The way it works is that you hook the first link of each chain onto the top (12:00 o'clock) tooth on each gear and then click "Calibrate Chain Lengths". The motors will then measure out the correct length of chain to setup the machine the first time. I was experiencing the behavior you described with a fresh Arduino before running the chain length calibration.
+
+
 
 Sorry for the confusion, you are a week ahead of schedule so we're missing a lot of necessary documentation.
 
+
+
 @TheRiflesSpiral is right that the encoders don't indicate a position, but only a change in position. Because of that, they need to have a known starting ie first link at 12:00 o'clock. After that the length is stored in the Arduino's EEPROM which is preserved when power is disconnected or even if the firmware is upgraded so you shouldn't have to do the calibration very often.
+
+
 
 Huge props to @TheRiflesSpiral for guessing what was up without even ever touching hardware!
 
+
+
 Let us know if that changes anything.
+
+
 
 Also , keep an eye on the chains as they are starting, because they can get caught on the sprocket and wind themselves into a ball especially right at the beginning. Once there are a good number of links hanging down they tend to take care of themselves. The calibration will do the left chain first.
 
@@ -189,6 +256,8 @@ Aw, shucks... yer makin' me blush. :D
 Posted on **2017-03-13 15:40:28** by **Bar**:
 
 Yup, disconnect your sled and place the first link of each chain at 12:00 and it will feed towards the sled. Having a tooth pointed straight up would be ideal. There's an issue filed to add that behavior.
+
+
 
 You can run the process without the chains on at all if you want just to see how it goes.
 
@@ -222,7 +291,11 @@ Posted on **2017-03-14 09:52:53** by **Bar**:
 
 I tried to do all the internal calculations in the units of MM to keep things clear, but @davidlang is right that I is an important thing to change. The number of pulses per rotation is defined at the top of axis.cpp in line 29:
 
+
+
 #define NUMBER_OF_ENCODER_STEPS 8148.0 
+
+
 
 We should make a wiki page to talk about all the things that need to be changed. I bet we can save the next guy who does this a lot of time :-)
 
@@ -231,7 +304,9 @@ We should make a wiki page to talk about all the things that need to be changed.
 Posted on **2017-03-14 13:18:08** by **jbarchuk**:
 
 > @Bar
+
 > We should make a wiki page to talk about all the things that need to be changed.
+
 Anything you think needs adjustment, open an issue to make it obvious to others. Then that topic gets talked about right there.
 
 ---
@@ -240,6 +315,8 @@ Posted on **2017-03-14 14:33:57** by **garyw17**:
 
 Just had a thought that might address the possibility of my pulse count being so different causing an issue.  What if I left the numberofencoderseteps at 8144, which is the default value.  Then every time the encoder gets read, I multiply the pulse count that is read by the ratio of 8144/600.  So, if the motor turns one rev, the encoder.read would return 600, but multiplied by the scale factor we get 8144, which is what the code expects for one rev.  
 
+
+
 I think I just need to search and replace for all instances of   encoder.read
 
 ---
@@ -247,12 +324,19 @@ I think I just need to search and replace for all instances of   encoder.read
 Posted on **2017-03-14 15:31:36** by **jbarchuk**:
 
 > @garyw17
+
 > I think I just need to search and replace for all instances of encoder.read
+
 Yes but don't go editing all those instances when only a couple of lines of defines is necessary.
+
 Change #define NUMBER_OF_ENCODER_STEPS to NUMBER_OF_ENCODER_STEPS_BY_DESIGN. (With the 8148.0 left in place.)
+
 Add a new #define ENCODER_RATIO_FACTOR 1 or whatever appropriate name.
+
 Then add #define NUMBER_OF_ENCODER_STEPS (NUMBER_OF_ENCODER_STEPS_BY_DESIGN / ENCODER_RATIO_FACTOR)
+
 For your machine change the ~_FACTOR from 1 to 600, and all the other instances are automatically adjusted.
+
 I think I hit all of that right. If not let me know and I'll get someone to edit it.
 
 ---
@@ -267,7 +351,11 @@ Posted on **2017-03-14 17:18:40** by **garyw17**:
 
 OK.  Never mind all that.  I found the problem, and it was not the Kewl software at all.  Or my wiring.  I thought the encoders I bought (see part numbers above) were 600 ppr.  But I just checked, and they are giving me 2400 ppr.  Maybe the 600 ppr was if you only read 1 channel?  I'm not really sure of that, but regardless, I changed the number of encoder step parameter to 2400, and like magic it works!
 
+
+
 Amazing how many hours I stood there and stared at it doing the unexpected all because of that one detail.
+
+
 
 Anyway, thanks for all of you who read this and pitched in ideas.  Maybe it will save someone else in the future.
 

@@ -20,7 +20,9 @@ How much worse is the accuracy?
 Posted on **2017-04-21 20:09:22** by **MakerMark**:
 
 I think it's fine to leave in the soft limit. One less variable as we work to dial things in. I'm assuming this is the line?
+
 > feedrate = constrain(feedrate, 1, 25*_inchesToMMConversion);
+
 I'll run a few tests with lighter bricks to see if the speed/accuracy are related later this weekend.
 
 ---
@@ -28,6 +30,8 @@ I'll run a few tests with lighter bricks to see if the speed/accuracy are relate
 Posted on **2017-04-21 20:32:40** by **Bar**:
 
 @carlosrivers it really depends on the shape and how fast you are cutting. Basically sometimes it's fine, other times you get strange results. I should have it all ironed out in a couple weeks.
+
+
 
 @MakerMark I agree that anything we can eliminate as an issue for the next few weeks is probably for the best, we've got enough to keep track of. You are spot on that is the line, feel free to change it it if you want to experiment with going faster. My guess is that the issues have more to do with the way the feedback control system is set up, than with the weight of the sled, but I could be completely wrong! The more we know, the more we know.
 
@@ -43,6 +47,8 @@ Posted on **2017-04-23 16:18:11** by **MakerMark**:
 
 The error rate seemed small to me when running the feedback test but when cutting it made a big difference 😜
 
+
+
 Using the same g-code and controlling the speed via firmware limits. The cut on top was at 100in/min and bottom was 30in/min. (The z depth issues are my fault. Warped board and I should have used more hold down screws would have helped).  [Image](//muut.com/u/maslowcnc/s3/:maslowcnc:m7lZ:image.jpeg.jpg)  I love the results on both signs. The top one really gets the point across.
 
 ---
@@ -56,7 +62,9 @@ Those are GREAT!  The top one is amazing.  Visually, I mean, I love it too.  The
 Posted on **2017-04-29 19:46:15** by **MakerMark**:
 
 @Bar - Your guess was spot on.  I ran the tests again after lowering the weight and they were within the margin of error. These are the avg from 15 test runs under each condition. 
+
 Heavy sled = 1.09mm @ 25ipm and 2.17mm @ 100ipm
+
 lighter sled = 1.01mm @ 25ipm and 2.2mm @ 100ipm
 
 ---

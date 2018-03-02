@@ -3,6 +3,8 @@ Posted on **2017-04-21 16:15:28** by **Bar**:
 
 I've been playing around with the temporary sled as I've been writing the next part of the instructions and it works remarkably well without any bricks attached at all, especially towards the top of the sheet where we've been having issues with the tension being so high that we're slipping chain links, so my question is:
 
+
+
 Are two bricks too much weight? Can we get as good or better performance with just one?
 
 ---
@@ -59,6 +61,8 @@ Posted on **2017-04-21 20:53:11** by **mcginniwa**:
 
 With this in mind, I wonder if we should track weight of the router on the [Tested Routers List](https://github.com/MaslowCNC/Mechanics/wiki/Tested-Routers-List) as well.
 
+
+
 The Bosch GOF 1600 CE I'm going to be working with is 5.8 Kg according to the manual (I haven't weighed the actual fixed base set up yet). What's the Ridged R22002 weigh?
 
 ---
@@ -91,9 +95,15 @@ Posted on **2017-04-22 06:43:02** by **davidlang**:
 
 The bricks are there to create enough tension on the chains to keep them from sagging and an attempt to keep the sled from sticking.
 
+
+
 Going to a slicker sled, tilting the whole assembly closer to vertical, or improving the shape of the sled all reduce the sticking problem (and since the amount of friction is is part based on the weight applied, it's not clear that the bricks help more than hurt)
 
+
+
 If the problem ends up being sag in the chains, then we should model it and add it to the math.
+
+
 
 So beta testers, try your machines closer to vertical and with fewer bricks, see what happens. The problem areas are going to be the lower corners, and the direction of cut is going to matter. You are going to have more trouble moving away from the opposite motor when the tension is low. Cutting the test shape in the bottom right has been a problem for one person (the bottom right corner ended up being rounded), so I believe that it cuts this in the counter-clockwise direction.
 
@@ -114,10 +124,15 @@ Has anyone make their sleds out of Delrin or similar material? High wear resista
 Posted on **2017-04-29 19:38:26** by **MakerMark**:
 
 I lowered the weight of the bricks by over half and have not seen an impact to the cutting quality. I've finished 8hrs of cutting at 45ipm (modified firmware) with an 1/8th bit since the change.  I captured the motor PID data from running the calibration before and after. I'm not sure what all the numbers represent exactly, but figured I'd shared. They might be helpful to someone here ;)
+
 Left 4.5lbs = 72 & -31
+
 Right 4.8lbs = 77 & -28
+
 Left 1.1lbs = 56 & -31
+
 Right 1.1lbs = 63 & -32
+
 @bryanhaven - I hope to build a new sled next week using PTFE. A friend set aside a remnant from a project for me to test. I'll post the updates here.
 
 ---
@@ -132,6 +147,8 @@ Posted on **2017-05-03 09:07:05** by **MakerMark**:
 
 As an update, I had issues with the lighter sled when using a 1/4in bit @ 25ipm with 1/4in depth cuts.  The top of the sled would lean away from the cutting surface. Adding the weight back to the sled corrected the issue @25ipm. With the added weight I was even able to increase the speed to 45ipm without issues. I'll run a few tests tonight to determine the minimum weight needed for the 1/4in bit @ 45ipm.
 
+
+
 My MaslowCNC continues to be a workhorse! Last night I ran a 6hrs continuous job running using a 1/4in bit @ 45ipm. I estimate that I have ~35hrs of cutting time on mine. To improve it's longevity, my next modification will be to replace the screws that hold down the motor mount with bolts. I've had to tighten down the screws after each long cut job. Minor tweak to handle all the abuse that I give it ;)
 
 ---
@@ -145,6 +162,7 @@ Beautiful! Thanks for the update, keep us posted as you learn more.
 Posted on **2017-05-03 09:41:13** by **scottsm**:
 
 6 hrs at 45ipm - that's a quarter of a mile! It sounds like an interesting project to be sure.
+
  Let's add an odometer to the enhancements list :)
 
 ---
@@ -176,7 +194,10 @@ Posted on **2017-05-04 01:11:45** by **gero**:
 Posted on **2017-05-04 04:23:40** by **rollandelliott**:
 
 Slack was the wrong term. The Higher the chains the less stable sled becomes. Creates unecessary torque moments.
+
 In theory one wants the mounting points as low as possible.
+
+
 
 With any design optimally the sled should be flat with or without weights
 
@@ -204,9 +225,15 @@ Posted on **2017-05-04 12:28:55** by **davidlang**:
 
 @rollandellitott,
 
+
+
 having the chains further from the workpiece doesn't increase the torque on the router, it does give the chain a longer lever arm on the brackets, so if they are not strong enough, they can flex.
 
+
+
 but if you remove half the weight from the sled, and move the chains out twice as far, your flexing force should be the same (chain tension scales with totoal sled weight and the bricks are about as heavy as the router).
+
+
 
 so I don't think that this is likely to be a significant factor. If it is, it's also something that's relatively easy to fix with stronger brackets.
 
@@ -227,9 +254,13 @@ so has anyone tried changing the tilt? I'm guessing two standard bricks weight 1
 Posted on **2017-07-08 11:41:02** by **gero**:
 
 I have reduced the weight of the bricks by ~ 60% and increased the tilt from 6 degree to 10 degree. It means nothing because it can't be compared.
+
 There are 2 ways to go about this. The main question is if we take modified builds into account, or only compare standard builds.
+
 In any case there should be a group of at least 10 to do the same defined tests with different parameters to get a hint on where to go. A spreadsheet with all parameters is a must, including things like the center of gravity.
+
 I have a pretty heavy router and the bricks here are some local invention with no standard weight. At some point we should start actually weighing.
+
 Someone (I am not looking at David :-)) needs to create a series of tests going + and - 25% to see where we are and where the target is.
 
 ---

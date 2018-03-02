@@ -21,6 +21,8 @@ Posted on **2017-03-09 16:07:31** by **davidlang**:
 
 The Pi can run the IoT version of windows, but 99%+ of people run Linux on it. At the moment there's a fair amount of work needed to get it running, but as soon as I can get my hands on the info, I'll simplify it for people.
 
+
+
 The pi has an HDMI output, so if you have a TV in the area, you cna use that for the display. The basic Pi runs ~$35 (not counting a USB power supply, keyboard/mouse, microSD card and monitor)
 
 ---
@@ -40,6 +42,8 @@ Posted on **2017-03-09 16:53:19** by **davidlang**:
 Posted on **2017-03-09 17:50:16** by **tmaker**:
 
 How much processing power is really needed to run the Ground Control software?  I'm thinking about this: https://www.amazon.com/Lenovo-Ideapad-110s-Laptop-Storage/dp/B01N05RBC4/ref=sr_1_1?ie=UTF8&qid=1489109630&sr=8-1&keywords=lenovo+110s
+
+
 
 Here's the same thing but the 2 core processor version: https://www.amazon.com/dp/B01MQTJXWZ/ref=psdc_13896615011_t1_B01N05RBC4
 
@@ -66,6 +70,8 @@ Having the extra processing power is probably a good thing :-)
 Posted on **2017-03-10 12:06:02** by **mooselake**:
 
 @davidlang, probably not if you turn it off when you're not using it.    Here in REA land we pay $0.25/kw, or a nickel an hour to run a 200W PC.  Say $50 (low in my experience) for a RPi, decent SD card, power supply that's a thousand hours.  Anybody with reasonable power costs will get a lot more.  Not to diss the RPi, I have a V2 that's on all the time running my Ubiquiti AP controller.  By the time you add a display you're close to the new gen Netbook above.
+
+
 
 What are the chances Ground Control will run on a Chromebook?
 

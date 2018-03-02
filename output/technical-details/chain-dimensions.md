@@ -2,6 +2,7 @@
 Posted on **2017-06-20 13:07:30** by **gilbertjm**:
 
 Hello,
+
 since the original #25 chain is hard to get in Europe, I'm currently looking for alternatives. Is there a good reason to use a chain with such a small pitch of 1/4'' = 6,35mm. Here we have a norm called DIN 8187. The 04B-1 with a pitch of 6mm is quite close to the original specifications, but the 06B-1 with 3/8''=9,525mm is more common. At the moment I would like to give the 06B-1 a try... Thanks for your opinions
 
 ---
@@ -34,8 +35,13 @@ Posted on **2017-07-17 14:15:41** by **netzbasteln**:
 
 Another addition: CNC_Functions.h makes the dimensions of the chain and the number of teeth totally definable:
 
+
+
 #define DISTPERROT     10*6.35 //#teeth*pitch of chain
+
 #define ENCODERSTEPS   8148.0 //7*291*4 --- 7ppr, 291:1 gear ratio, quadrature encoding
+
+
 
 https://github.com/MaslowCNC/Firmware/blob/master/cnc_ctrl_v1/CNC_Functions.h
 

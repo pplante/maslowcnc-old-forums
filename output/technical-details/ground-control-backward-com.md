@@ -9,7 +9,11 @@ Posted on **2017-01-10 21:37:08** by **Bar**:
 
 Yes, not only will it be backward compatible, but I would like to maintain support for a conventional XYZ setup into the future. It would be relatively easy to take the motors from Maslow and use them to control a more conventional XYZ type CNC router. 
 
+
+
 I like the idea that you could get your Maslow kit, use it to cut out the parts for a 4x8 (or any size) CNC gantry and then do 3d relief work if you really wanted to.
+
+
 
 Keep us posted with how your build turns out, and let me know if you have any issues.
 
@@ -25,6 +29,8 @@ Posted on **2017-01-12 22:26:09** by **Bar**:
 
 Yeah, that's an issue. You can find them under the "releases" tab here: https://github.com/MaslowCNC/PCBs/releases. Because the goal is to continue support for conventional XYZ style machines I chose to not make a new repository, but instead build on the old one. 
 
+
+
 That made more sense early on because the original prototypes for Maslow used the same encoders as Makesmith and so the PCBs were derivatives of the Makesmith boards (in fact the first working prototype was built entirely from electronics scavenged from a Makesmith). As the design evolved, I chose to use higher resolution encoders built into the motors and all the PCBs changed meaning some of the obvious reasons to share a repository were lost.
 
 ---
@@ -33,7 +39,10 @@ Posted on **2017-01-13 13:33:25** by **stevet44**:
 
 Thanks for the link.  FYI, I'll be using the AMS encoder eval boards and a three channel r/c motor controller in my project.  Here's the links in case someone else wants to go down this road.
 
+
+
 http://www.digikey.com/product-detail/en/ams/AS5048B-TS_EK_AB/AS5048B-AB-1.0-ND/3188613
+
 http://robotpower.com/products/hydra_info.html
 
 ---

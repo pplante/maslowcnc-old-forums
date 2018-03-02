@@ -2,6 +2,7 @@
 Posted on **2017-04-12 16:27:11** by **sjsandman**:
 
 Does anyone know if the Maslow will work with this software?
+
 http://www.vectric.com/products/vcarve.htm
 
 ---
@@ -51,6 +52,7 @@ Thanks Guys!
 Posted on **2017-04-15 02:18:34** by **rollandelliott**:
 
 wow $700 for the pro version of vectric software. Can maslow do V carving? they have some neat free projects and files on their website like this inlay wood box
+
 http://www.vectric.com/cool-stuff/projects/2011/03-mar/files/Paradise_Box_Tutorial.pdf
 
 ---

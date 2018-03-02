@@ -2,6 +2,7 @@
 Posted on **2017-06-22 12:02:15** by **gero**:
 
 Do I need to be concerned about this messege in the terminal, or can I start with FW/GC 0.77 calibration?
+
  --> unable to read error value,'GroundControlApp' object has no attribute 'xval'<-- (feels like calibration 375... I am shure I calibrateted more then I am tears old :-))
 
 ---
@@ -22,6 +23,8 @@ Posted on **2017-06-22 13:00:39** by **Bar**:
 
 I've replaced the somewhat cryptic message with one that I think is more clear and less scary sounding.
 
+
+
 Great job keeping an eye on the terminal window for errors. It's really helpful for me to know what's popping up there
 
 ---
@@ -35,6 +38,8 @@ So just that I understand, only a red circle shows because I have not moved anyt
 Posted on **2017-06-22 13:44:29** by **Bar**:
 
 The red circle indicates where ground control estimates that the sled actually is, while the white circle shows where it should be.
+
+
 
 If you just see the red one, it's probably because they are stacked on top of each other meaning the machine is exactly where it should be
 

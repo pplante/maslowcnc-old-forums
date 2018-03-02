@@ -15,6 +15,8 @@ Posted on **2016-10-26 10:58:59** by **Bar**:
 
 The more I think about it, the more I think a cabinet contest is an awesome idea :-)
 
+
+
 If everyone who is participating already has a CNC machine, what can we award? Bragging rights? You get your name forever inscribed in the firmware? Maybe a trophy you download and cut yourself?
 
 ---

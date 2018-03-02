@@ -2,7 +2,10 @@
 Posted on **2017-02-02 14:04:33** by **kiwimaker**:
 
 The cost of #25 chain in New Zealand is prohibitive (It works out to US$6 per foot).  Is there any reason why I can't use a reinforced (fibreglass or carbon fibre) toothed belt instead of chain?
+
 I appreciate that the weight and therefore the catenary of a chain would be quite different to that of a lighter toothed belt. 
+
+
 
 Does the software account for the catenary, or are the bricks used to keep the chains straight?
 
@@ -11,6 +14,8 @@ Does the software account for the catenary, or are the bricks used to keep the c
 Posted on **2017-02-02 14:52:14** by **davidlang**:
 
 I would look for other roller chain (bicycle chain for example) rather than going to a toothed belt. This is given the way that a belt will stretch under load, and then not fit the sprockets, causing additional wear.
+
+
 
 But if roller chain is too expensive and the belt cheap enough, try it. The worst that will happen is that you need to replace the belt and sprockets with roller chain versions.
 
@@ -25,6 +30,8 @@ I found some 410 (bicycle chain but similar to #25) chain on trademe for <$1/ft 
 Posted on **2017-02-02 18:56:34** by **kiwimaker**:
 
 Cheers for that - have asked them to relist. 
+
+
 
 How did you get your PCB? Or more importantly, do you have any spares? I'm about to place an order on Oshpark but with their min order quantity being three boards, I'm thinking you might have some spares for sale
 

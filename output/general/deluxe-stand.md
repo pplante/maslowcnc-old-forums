@@ -3,13 +3,23 @@ Posted on **2017-03-25 08:00:47** by **jwolter0**:
 
 As I mentioned in a previous post, I had planned to make my stand do double duty, as a plywood cart as well as supporting the Maslow.  Then bill_s's post prompted me to add rails for a panel saw.  Then I had the bright idea to use the back side for a whiteboard (for discussing build ideas with our students).  So with all that history, I present the deluxe Maslow CNC stand. 
 
+
+
 A few notes:
+
+
 
 1. I show the design with four swivel casters, but I would actually build it with two locking swivel casters and two "fixed" casters.  Swivel casters were what I found in the 3D warehouse.
 
+
+
 2. The top and bottom rails are 1-5/8" Unistrut which will support the panel saw option as well as various clamping options, if needed.  As drawn right now, the top rail interferes with the ears.  My plan is to move it back slightly so it supports the ears, like in jknox's design.  
 
+
+
 I'm happy to share my Sketchup file with the community.  Via the GitHub, perhaps?
+
+
 
  [Plywood Cart view 3](//muut.com/u/maslowcnc/s3/:maslowcnc:VMuc:plywoodcartview3.jpg.jpg) [Plywood Cart view 2](//muut.com/u/maslowcnc/s3/:maslowcnc:g4uB:plywoodcartview2.jpg.jpg) [Plywood Cart view 1](//muut.com/u/maslowcnc/s3/:maslowcnc:ojQT:plywoodcartview1.jpg.jpg)
 
@@ -18,6 +28,8 @@ I'm happy to share my Sketchup file with the community.  Via the GitHub, perhaps
 Posted on **2017-03-25 08:18:54** by **Bar**:
 
 That's a whole lot of utility in a small space. Awesome design!
+
+
 
 Thanks for sharing it. I've been playing around with the idea of creating a GitHub repository just for us to all share designs. @theriflesspiral came up with the name "the community garden" which I like quite a bit. If I created that space would you add this as the first design?
 
@@ -56,6 +68,8 @@ Oh, gotcha.  I missed the "If" at the start of your sentence.  Reading comprehen
 Posted on **2017-03-25 11:35:42** by **Bar**:
 
 It's up: https://github.com/MaslowCNC/CommunityGarden
+
+
 
 Thanks for the idea, I think this is a great one.
 

@@ -26,12 +26,20 @@ The way it's coded right now the z-axisFix isn't fully coordinated with the XY m
 Posted on **2017-04-27 23:19:24** by **davidlang**:
 
 yes, all three should be fully coordinated, if you give
+
 g1x0y0z0
+
 g1x1y1z1
+
+
 
 the result should be a continuous slope in all three axis from the starting position to the ending position.
 
+
+
 now, it's less important to factor the z movement in when computing the feed rate (bit it wouldn't hurt).
+
+
 
 do you want it filed under the firmware or another repo?
 
@@ -47,6 +55,8 @@ Posted on **2017-04-28 07:46:43** by **Bar**:
 
 Perfect! I think putting it under firmware sounds like the thing to do. It shouldn't be too hard from a software side. 
 
+
+
 I really designed the machine to cut sheet goods so that kind of 3D relief work is really pushing the limits, but there's no reason to restrict the software capabilities.
 
 ---
@@ -54,9 +64,13 @@ I really designed the machine to cut sheet goods so that kind of 3D relief work 
 Posted on **2017-04-28 08:10:35** by **TomTheWhittler**:
 
 Bar wrote : "I really designed the machine to cut sheet goods..."
+
 I understand that and at first I will be using the MaslowCNC to that end. 
+
 With a X/Y/Z and other output control I can see all sorts of other possibility. 
+
 For example I can see a carriage that has either four nozzles or one nozzle with with a mixer. You have a MaslowCNC on a sliding carriage that you can press the frame against a wall then paint any  Mural picture on the wall.
+
 The key here is to be able to expand the MaslowCNC with longer chains and you could in theory create giant works of art or carvings.
 
 ---
@@ -65,7 +79,11 @@ Posted on **2017-04-28 08:18:18** by **mindeye**:
 
 So I don't think I even strictly need it at the moment, it just happens to be how Fusion 360 output the gcode - I highly suspect if it does all three axis movements but Z not coordinated the cut will come out just fine still. I'm currently just testing cutting a slope into one of the sides of the piece (well, rather very, very tiny terraces but it approximates a slope close enough for me - especially once sanded).
 
+
+
 Probably still give it a try later today (while keeping a very close eye on it). Having the ability to cut slopes into the sides of pieces allowed me to move from 3 parts to just 1 which both works better and will look way better.
+
+
 
 Thanks for the confirmation that this is indeed not totally there yet!
 
@@ -74,6 +92,8 @@ Thanks for the confirmation that this is indeed not totally there yet!
 Posted on **2017-04-28 08:38:30** by **Bar**:
 
 Very cool! Just let me know ow what you guys need and we'll make it happen.
+
+
 
 For shaping the sides of parts I had some good luck playing around with roundover bits to give the parts a rounded edges or 45 degree v-bits to give the edge a 45 degree angle which might be worth playing with :)
 
@@ -100,6 +120,7 @@ I'll put my vote in for this feature as well. Looking back at my speed test of 1
 Posted on **2017-04-28 18:35:11** by **mindeye**:
 
 So here's the 26 degree angle slope test.
+
 Works well enough to put it into a real design! [IMG_20170428_182838564](//muut.com/u/maslowcnc/s3/:maslowcnc:tiGV:img_20170428_182838564.jpg.jpg)
 
 ---

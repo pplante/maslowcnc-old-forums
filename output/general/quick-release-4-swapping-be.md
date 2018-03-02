@@ -32,6 +32,7 @@ The router motorss pull out of the Z axis shell from the rear/top, so if you hav
 Posted on **2017-07-17 06:51:50** by **rollandelliott**:
 
 Lol just realized that
+
 Also will be making pen holder out if 3" pvc pipe with some 1/16 shims so it can slide right into router mount
 
 ---

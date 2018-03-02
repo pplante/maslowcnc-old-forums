@@ -9,7 +9,11 @@ Posted on **2016-10-14 11:20:16** by **Bar**:
 
 Second ever forum post! Thank you for coming to the forums!
 
+
+
 Great question. The machine stops and the software will prompt you to raise and lower your router at the right point. 
+
+
 
 We are going to make a z-axis add-on soon (~$40) which will raise and lower your router for you automatically. I chose to leave it manual at first to keep the cost down, to keep it simple, and to get people cutting stuff as soon as possible.
 
@@ -60,6 +64,8 @@ If the z-axis is not part of the main kit. How much will it cost approximately. 
 Posted on **2016-10-18 20:11:35** by **Bar**:
 
 @mattyp That's the basic idea. There will be a separate motor with an encoder which will actuate the router plunge. Because the plunge mechanism on my router and most routers is very close to the body of the router, I had to find a gear box which would offset the shaft from the body of the motor enough to fit. A big part of the decision to not include it in the kit is that the basic kit works with more or less any router, so if you already have one you can use it. Adding a motor to control the router position is something which will only work with some types of routers.
+
+
 
 @alstaxi The extra parts will be available on our website after the kickstarter for about $60. We will have a prototype of the z-axis to show before the kickstarter finishes, so you can make an informed choice.
 

@@ -8,6 +8,7 @@ Hey is there particular 3/4" plywood we need to use? Working on grabbing materia
 Posted on **2017-04-01 16:08:13** by **davidlang**:
 
 you don't need expensive plywood, but you do need it to be flat.
+
 mdf works well for the sacraficial layer, but you probably want something a bit stiffer over time for the main board (mdf will tend to warp under stress over time more than plywood will)
 
 ---

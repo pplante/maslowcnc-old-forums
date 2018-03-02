@@ -9,6 +9,8 @@ Posted on **2017-06-25 11:09:32** by **davidlang**:
 
 right now we are still in the beta-test stage, the accuracy is currently not up to the 1/64" goal. The expectation is that this will be suitable for furniture building, there's definitely no reason why it would have any problem with furniture grade plywood (or other wood for that matter)
 
+
+
 dados are no problem
 
 ---

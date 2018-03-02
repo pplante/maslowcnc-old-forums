@@ -63,7 +63,11 @@ Posted on **2017-01-27 11:47:34** by **sparhawk2k**:
 
 Except me. :-D
 
+
+
 Though really, it's kinda hilarious when you really start getting into the weeds of the communities and neighborhoods in Seattle. Some of them are tiny (a few blocks across) and many of them overlap so you can be in different neighborhoods depending on the context or who you're talking to. There are umbrella neighborhoods that cover large areas with smaller neighborhoods contained within. And they're constantly shifting and changing, driven by changing demographics, construction, or realtors using different names to try to trick people into thinking an area is trendy.
+
+
 
 And we still try to draw them on a map...
 
@@ -133,6 +137,8 @@ Posted on **2017-04-18 08:47:30** by **mindeye**:
 
 Basic things end to end is totally doable. Parts fitting together is questionable currently (at least with my current calibration). My Maslow gets them close enough for minor adjustments to make them work but it's far from ideal currently. I'm hoping the coming improvements to make it a double closed-loop with auto-calibration will get it to a place where we can get really good CNC joinery out of it. Definitely something I'm excited to work with.
 
+
+
 For part of the demo I think we'll draw a box joint in sketchup, use makercam to generate the gcode, and then cut it out and see where we land.
 
 ---
@@ -170,6 +176,8 @@ Posted on **2017-04-20 22:39:35** by **kaboomfox**:
 Posted on **2017-04-20 22:49:15** by **sparhawk2k**:
 
 We certainly need a local user group of some sort... :)
+
+
 
 And thanks again to Mindeye. It was really helpful getting to see it.
 

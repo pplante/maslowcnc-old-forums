@@ -9,6 +9,8 @@ Posted on **2017-06-01 09:37:52** by **davidlang**:
 
 if you put all the parts in one g-code file, the maslow will cut them all at once. If you put them in separate files, you will need to load and cut each one individually.
 
+
+
 The normal thing is to do all the layout work and placement before you generate the g-code and export it all as a single file.
 
 ---

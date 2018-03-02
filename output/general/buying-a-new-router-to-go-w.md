@@ -9,7 +9,11 @@ Posted on **2017-05-15 13:40:08** by **TheRiflesSpiral**:
 
 Greetings! You can find a list of routers that our beta testers are using here: https://github.com/MaslowCNC/Mechanics/wiki/Tested-Routers-List
 
+
+
 Bar is using the Ridgid R2200 for his development work and there's an AEG-branded version available in the UK.
+
+
 
 I expect that list to grow as other Beta testers weigh in with their hardware and other users as well, as the other backers try theirs on.
 
@@ -24,6 +28,7 @@ I hope to see more beta testers weighing in with their hardware. :)
 Posted on **2017-05-15 16:27:02** by **rollandelliott**:
 
 THE RIGID is pretty popular I would just stick with that, but some bits off aliexpress to practice with 1/4" double flute upspiral is most common.
+
 solid carbide is most durable.
 
 ---

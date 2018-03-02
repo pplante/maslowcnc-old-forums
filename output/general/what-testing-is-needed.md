@@ -27,9 +27,15 @@ Posted on **2017-06-15 15:08:55** by **davidlang**:
 
 we need an accuracy test run, with all the recent changes to the code we don't know how accurate the machine is over it's range.
 
+
+
 the file http://lang.hm/maslow/testpattern.nc makes a bunch of squares around a 4x8 worksheet. It would be useful for someone to run this and measure the exact dimensions of each square (a caliper will be needed for this)
 
+
+
 We also need to know how straight (or not straight) a long horizontal cut is.
+
+
 
 @bar, did you ever get the simulator code built to see what sorts of errors show up from incorrect machine dimensions?
 
@@ -57,6 +63,8 @@ Posted on **2017-06-16 12:56:17** by **TheRiflesSpiral**:
 
 An accurate way to measure straightness of cuts over long distances is to cut two parts identically then flip them end-for-end and measure any gaps. Any error is exaggerated x2 so it's easier to detect. Something like the picture below...
 
+
+
  [Asset 1](//muut.com/u/maslowcnc/s1/:maslowcnc:kYki:asset1.png.jpg)
 
 ---
@@ -71,6 +79,8 @@ Posted on **2017-06-16 14:55:58** by **Bar**:
 
 Great suggestion @TheRiflesSpiral that's a way we could tune Maslow as well. I hadn't considered cutting out parts entirely, I was just thinking of making marks. Thanks for the idea.
 
+
+
 @Gero, I'll do my best!
 
 ---
@@ -79,6 +89,8 @@ Posted on **2017-06-16 20:33:45** by **davidlang**:
 
 The one issue with flipping end to end is that you now depend on how parallel the edges are.
 
+
+
 but in our case, the problem we have been fighting is the cut being curved up in the center, so we are less worried about one end being thicker than the other than we are of the center being thicker than either end.
 
 ---
@@ -86,6 +98,7 @@ but in our case, the problem we have been fighting is the cut being curved up in
 Posted on **2017-06-17 08:50:21** by **gero**:
 
 The laser is set up and it seems that could work.  [IMAG0858](//muut.com/u/maslowcnc/s1/:maslowcnc:qvod:imag0858.jpg.jpg)   [IMAG0857](//muut.com/u/maslowcnc/s1/:maslowcnc:Iw2f:imag0857.jpg.jpg) No cutting as calibration is not working for me. 
+
 Have we reached a stage where we should have a 'Stable Release' for cutting and 'Beta Release' for testing?
 
 ---
@@ -117,7 +130,9 @@ Posted on **2017-06-18 16:17:07** by **gero**:
 Posted on **2017-06-18 16:22:53** by **gero**:
 
 https://www.dropbox.com/s/v2ndrdmlglbw31m/pattern-new.xlsx?dl=0
+
 Take out column D and L on sheet 2 and export to .csv without any delemiters, then rename to .nc
+
 https://www.dropbox.com/s/maut89eaix0ocyk/pattern-new.nc?dl=0
 
 ---
@@ -156,7 +171,11 @@ Posted on **2017-06-18 18:21:50** by **Bar**:
 
 Good recommendation for defining zero better. I hear you and I'm working on it.
 
+
+
 I had the same issue.
+
+
 
 Is what you are imagining a "mark the center of the plywood with a pen and move the sled there" step?
 
@@ -178,17 +197,31 @@ Posted on **2017-06-18 21:41:12** by **davidlang**:
 
 can you double check the measurements on that bottom right square? it's a bit of an outlier compared to all the others.
 
+
+
 Any word on how straight a horizontal cut ends up being?
+
+
 
 Was this created by just entering the machine dimensions in? or was this by cutting test cuts and lying about the chain spacing until the test cut came out clean?
 
+
+
 One thing that bothers me is the vertical spacing on the bottom row, it varies quite a bit and it's not a consistant type of variation across the board, it goes up down up down by quite a bit from cut to cut.
+
+
 
 which file was this? the testpattern.nc that I posted the link to or the pattern-new.nc that gero posted?
 
+
+
 in either case, the file says to run the bit in a spacing of 106mm, which with a 1/8" (3.25mm) bit would result in 102.75mm (4.045") blocks being left 
 
+
+
 the vertical spacing (ignoring that bottom right block) ranges from 3.970 (-0.075" or -5/64) to 4.044 (close enough to exact), or just a bit over +-1/32 the median (which itself is off by ~1/32), about double what we are aiming for
+
+
 
 the vertical spacing ranges from 4.021 (- 0.024, -3/128) to 4.159 (+0.114, +7/64) for a range of a little over +-1/16 from the median (which is off by ~+1/32), about four times the error we are aiming for.
 

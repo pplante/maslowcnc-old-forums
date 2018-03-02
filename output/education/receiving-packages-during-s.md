@@ -15,6 +15,8 @@ Posted on **2017-04-29 09:34:46** by **davidbonar**:
 
 This is the first I have heard about a pushed back shipping!
 
+
+
 I'll check my junk mail filters as the school is fairly aggressive but I know that the original messages came through. Is there an estimated time? We get out of school very early (May 27th).
 
 ---

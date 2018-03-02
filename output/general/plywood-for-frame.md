@@ -9,6 +9,8 @@ Posted on **2017-03-21 15:32:51** by **Bar**:
 
 I played around with the idea of using the cheap flooring with tongue and groove too. I never actually tried it, but I can't see why it wouldn't work. The structural connection to the ears is the screws through the main sheet and into the part of the ear which goes behind the main sheet so I think the groove will be ok...but like I said I haven't done it.
 
+
+
 If you do it, let us know if it gives you any trouble.
 
 ---

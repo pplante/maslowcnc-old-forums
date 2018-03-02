@@ -69,6 +69,8 @@ Posted on **2017-03-24 12:34:12** by **Bar**:
 
 hmmmm :-(
 
+
+
 I'll keep looking into it. Thanks for trying that!
 
 ---
@@ -83,6 +85,8 @@ Posted on **2017-03-26 09:32:03** by **Bar**:
 
 That might be so. I bet it is possible to make it run because Kivy has been around for many years so it is likely that an older version of Kivy will work.
 
+
+
 Would you be willing to try the "run from the source" method? It might be that when you install python and Kivy directly it will recognize the older version of opengl.
 
 ---
@@ -90,6 +94,7 @@ Would you be willing to try the "run from the source" method? It might be that w
 Posted on **2017-03-26 21:12:59** by **mikeberg**:
 
 i made some research and i will  maybe try this,the problem here  i does not know how to modify .ky file
+
 http://stackoverflow.com/questions/34969990/kivy-does-not-detect-opengl-2-0?rq=1
 
 ---
@@ -127,6 +132,8 @@ thank you so much for your time I will try it today
 Posted on **2017-03-27 09:52:45** by **Bar**:
 
 Thank you so much for tracking down what to try!
+
+
 
 The updated version is compiling and uploading right now
 
@@ -172,6 +179,8 @@ Posted on **2017-03-27 12:26:58** by **Bar**:
 
 There are two ways to run Ground Control. You can open bat file from uncompressed file, or you can install python directly and run the program from the source code. There are instructions [here](https://github.com/MaslowCNC/GroundControl/wiki/Windows). 
 
+
+
 This way is more complicated, but may work on older computers.
 
 ---
@@ -209,9 +218,14 @@ you could try installing kivy manually via pip: https://kivy.org/docs/installati
 Posted on **2017-03-28 09:42:19** by **Bar**:
 
 In the line
+
 ---
+
 python -m pip install kivy.deps.sdl2
+
 ---
+
+
 
 is that the letter 'L' or the number '1' before the two? It should be the letter. That's the only reason I can think that pip might not be able to find the download.
 

@@ -9,7 +9,11 @@ Posted on **2017-03-16 07:27:32** by **TheRiflesSpiral**:
 
 I think that's largely going to depend on your existing knowledge... I had prior experience with graphics illustration software (Illustrator) and 2D drafting software (Autocad) so I found the transition from that 2D world to Sketchup to be very natural. Once I learned the navigation piece (and keyboard shortcuts) Sketchup has become very natural to me.
 
+
+
 On the recommendation I received here regarding Fusion 360 I tried it out but found it a bit... I don't know... opaque? Sketchup took me about 10 minutes to grasp and a day to be proficient in the simple stuff. Without any kind of tutorials... just browsing the help files. On the other hand, I worked with F360 watching tutorials, etc for about 3 days and never really "got it". I'll have to take the time to learn it eventually but right now it's just too much of a time commitment. You should try it out, though... it may be more natural to you than it was to me.
+
+
 
 If you're only working with 2D shapes, Sketchup is fin e. But if you want to see those shapes in 3D, you'll have to put the time in - regardless of which solution you choose.
 
@@ -73,6 +77,8 @@ Posted on **2017-05-09 13:29:49** by **traviscadden**:
 
 https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/How-to-activate-start-up-or-educational-licensing-for-Fusion-360.html
 
+
+
 This link covers it.
 
 ---
@@ -86,6 +92,8 @@ After the month it prompts you to either sign up as a commercial user or a hobby
 Posted on **2017-05-09 15:12:22** by **davidlang**:
 
 you may also want to look at onshape, it's free version has no feature or revenue limits, the limit is that any designs you make are publicly available (although someone would have to search for them)
+
+
 
 Personally, I dislike Autodesk due to their corporate attitude and history (among other things, lawsuits against customers to prohibit them selling software they no longer need), and the idea of having to send them corporate documents to prove that a business hasn't made too much money just isn't something I would willingly do.
 
@@ -131,7 +139,11 @@ Posted on **2017-05-13 14:53:43** by **davidlang**:
 
 the only 'pro feature' that onshape has is the ability to keep your designs secret from others. So there's not really much room for middle tiers.
 
+
+
 There is no change in tools or other functions in the pro tier, just the visibility (permissions and billing only make sense if the documents aren't freely available)
+
+
 
 onshape is not opensource, so it's free until the company goes out of business or changes their mind (same as fusion260)
 
@@ -140,12 +152,20 @@ onshape is not opensource, so it's free until the company goes out of business o
 Posted on **2017-05-14 13:56:47** by **jwolter0**:
 
 Here's the list of features OnShape advertises for the Pro tier only (not the Educational tier):
+
    Custom Properties
+
    Centralized Billing
+
    Company Document Ownership
+
    Priority Support
 
+
+
 While I agree there's not a lot to separate the pro from the free, there is room for a middle tier.  That middle tier is a limited number of private documents (for pro and educational, it's unlimited).  Originally the free account included 10 private documents, but OnShape took those away which caused quite the uproar in the community (imagine putting hours into a private document and then suddenly that document becomes read only).  
+
+
 
 Don't get me wrong, what OnShape offers to free accounts is still really good.  And I agree with Bar that for an open-source community like Maslow, the public-documents-only nature of free accounts is a great fit. I'm just saying that given OnShape's business model which is based on user subscriptions, they're missing an opportunity by not having a middle tier.
 

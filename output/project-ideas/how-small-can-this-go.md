@@ -33,6 +33,8 @@ Posted on **2016-10-25 09:14:05** by **Bar**:
 
 I had the same thought. Or maybe someone wants to go bigger to say paint a mural on a wall. 
 
+
+
 The software lets you define how big you want your machine to be and does all the necessary calculations based on your input :-)
 
 ---

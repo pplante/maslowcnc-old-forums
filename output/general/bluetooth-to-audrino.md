@@ -3,11 +3,19 @@ Posted on **2017-07-13 09:02:33** by **mrfugu**:
 
 I've been investigating porting Ground Control to iOS and the single largest stumbling block so far seems to be serial i/o from iOS devices via USB, and powering the MaslowCNC Audrino board (and/or iOS device).
 
+
+
 Apple's (strict) guidelines mandate that any device connected via USB be MFI (made for iphone) certified. While it still might be possible via the Camera Connection Kit to allow serial communications, it seems Apple recommends primarily Bluetooth for similar situations. Charging an iOS device and powering the Audrino make USB a little more problematic as well, although the new camera connection kit alleviates this i think, but  Bluetooth seems most compelling in the long run.
+
+
 
 As I understand it, this would require an additional board to be added to the stock Audrino Mega, or using a different Audrino board?
 
+
+
 Long Story short, what is the possibility of adding bluetooth to the Maslow's Audrino? Could this be done by finding an Audrino board with BT built i n? Adding a board? 
+
+
 
 It's early days for my iOS attempts, but there is a Kivy-ios port, I can get GC to compile etc, and I think it's entirely possible to create a working build if Bluetooth is used.
 
@@ -16,6 +24,8 @@ It's early days for my iOS attempts, but there is a Kivy-ios port, I can get GC 
 Posted on **2017-07-13 12:45:54** by **Bar**:
 
 I agree that Bluetooth sounds like the way to go. I'd look at something like this: http://makezine.com/projects/connect-an-arduino-to-a-7-bluetooth-serial-module/
+
+
 
 You would have to solder directly to the right pins, but I think it should work.
 

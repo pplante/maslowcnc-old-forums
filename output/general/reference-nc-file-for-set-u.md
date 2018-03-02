@@ -9,6 +9,8 @@ Posted on **2017-03-24 16:44:25** by **Bar**:
 
 I think that's a great idea. There are a couple available in the "gcodeForTesting" folder that comes with Ground Control (or [here](https://github.com/MaslowCNC/GroundControl/tree/master/gcodeForTesting). 
 
+
+
 I chose those because they are simple but each have some combination of curves and straight lines.
 
 ---

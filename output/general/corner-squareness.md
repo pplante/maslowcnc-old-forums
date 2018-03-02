@@ -9,6 +9,8 @@ Posted on **2017-06-01 19:58:52** by **davidlang**:
 
 it can make very crisp corners, as you note, it requires that the sled not stick (and not swing like a pendulum past the point they are supposed to stop). It does NOT require that the bit be at the point the chains would meet (the math takes that into account)
 
+
+
 people are experimenting with different angles of the machine, and different ways to make the sled not stick (polishing it, using a slippery plastic, waxing it among others)
 
 ---

@@ -9,6 +9,8 @@ Posted on **2017-05-31 12:19:49** by **Bar**:
 
 That is great news! 
 
+
+
 The port should be the same as in the Arduino IDE. Does that help?
 
 ---

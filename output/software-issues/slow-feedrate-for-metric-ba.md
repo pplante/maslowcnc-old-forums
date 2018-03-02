@@ -15,6 +15,8 @@ Posted on **2017-05-13 08:11:27** by **Bar**:
 
 Thanks for the heads up! I will find out why that's happened.
 
+
+
 Is this with the release version or the version from GitHub master branch?
 
 ---
@@ -34,15 +36,25 @@ If that is what the green download button does 8)
 Posted on **2017-05-13 08:20:01** by **gero**:
 
 Don't get nervous to soon, testing F-Carve (V-Carve). It nice for seeing coordinated x,y,z moves. Could come from the program that made the gcode. Starts like:
+
 G90
+
 G21
+
 G17 G64 P0.001 M3 S3000 
+
 F500.0
+
 G0 Z5.000
+
 G0 X0.000 Y140.000
+
 G1 Z-0.000
+
 G1 X0.000 Y140.000 Z-0.000
+
 G1 X3.000 Y140.254 Z-3.000
+
 G1 Y276.951
 
 ---
@@ -122,9 +134,14 @@ Bar! False alarm, I am sorry. It is the file. After this endless butterfly, my t
 Posted on **2017-05-13 10:17:14** by **Bar**:
 
 I think I know what's going on. Maslow is expecting the F command to be a part of a move command like 
+
 ---
+
 G01 X10 Y2.3 F500 
+
 ---
+
+
 
 so it's not picking up the feedrate. It should be an easy fix.
 

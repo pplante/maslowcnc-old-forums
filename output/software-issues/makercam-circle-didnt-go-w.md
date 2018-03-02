@@ -3,13 +3,22 @@ Posted on **2017-03-18 18:09:17** by **aalbinger**:
 
 I put my temp kit together.  Chucked a pencil for a cutter and used a piece of dollar tree foam board to see the path.
 
+
+
 I tried a 10cm circle drawn, profiled and exported as generic gcode from makercam.
+
+
 
 The machine would move to the start point but then I could not find an imput that would make it continue on.
 
+
+
 So next I tried one of the example gcode files that came with the groundcontrol windows zip file.  Seemed to work great.
 
+
+
 Wonder what I/makercam did that groundcontrol didn't like.
+
  [Pencil-cutter](//muut.com/u/maslowcnc/s1/:maslowcnc:EDxo:pencilcutter.jpg.jpg) [Test-gcode](//muut.com/u/maslowcnc/s3/:maslowcnc:WFDv:testgcode.jpg.jpg)
 
 ---
@@ -17,6 +26,8 @@ Wonder what I/makercam did that groundcontrol didn't like.
 Posted on **2017-03-18 18:27:03** by **Bar**:
 
 Hmm, maybe give using makercam in the "inches" mode, I haven't tested the centimeters setting nearly as thoroughly. Is there any way you can send me the file that didn't run? I can take a look at it and try to run it give you a better answer.
+
+
 
 Great work getting everything put together so quickly!
 
@@ -32,6 +43,8 @@ Posted on **2017-03-18 21:49:11** by **Bar**:
 
 Ok, I will add some code which will test the motors first thing tomorrow. 
 
+
+
 What happens when you run the "Calibrate Motors" option?
 
 ---
@@ -46,6 +59,8 @@ Posted on **2017-03-18 22:28:35** by **Bar**:
 
 That does seem off. I would expect the same behavior from both motors. When the calibration is running, what text is displayed on the console? 
 
+
+
 Can you confirm for me that the motors are plugged in to sockets 1 and 3 like in this  [Picture](//muut.com/u/maslowcnc/s1/:maslowcnc:4vK9:picture.jpg.jpg)?
 
 ---
@@ -53,6 +68,8 @@ Can you confirm for me that the motors are plugged in to sockets 1 and 3 like in
 Posted on **2017-03-18 22:36:38** by **blsteinhauer88**:
 
 Yes 1 and 3 like your photo.  the right starts first and only goes back and turns clockwise about 1/4 turn each time.  Then back counter clockwise.  Then the left goes, and does what I thinks it should, speed changes back and forth several times.  
+
+
 
 Panel says for right side, testing (then a number) stall.   The left gave values for the test and finished with a -27
 
@@ -80,7 +97,11 @@ Posted on **2017-03-18 22:47:17** by **Bar**:
 
 The calibrate chain lengths should only run one at a time, it should be one motor for quite a while (two minutes?) and then the other for the same length of time. Do you see the right side motor run for good amount of time, then stop? 
 
+
+
 I will write a testing module tomorrow which will test each motor in a clear way so we can learn more.
+
+
 
 The way the whole motor calibration thing works right now is pretty buggy and it can cause strange behavior which is one of the reasons I want to rewrite it ASAP. It works once it's all happy, but can be finicky.
 
@@ -89,6 +110,8 @@ The way the whole motor calibration thing works right now is pretty buggy and it
 Posted on **2017-03-18 22:47:58** by **davidlang**:
 
 my guess would be a problem with the encoder (or the wires from it)
+
+
 
 did you try swapping the wiring between the motors and see if it's the wiring or the motor?
 
@@ -103,6 +126,7 @@ I feel a lot better about the hardware than I do about the software at this poin
 Posted on **2017-03-18 22:50:04** by **blsteinhauer88**:
 
 Yes, tried swapping wires to motors. 
+
 The chain calibrate only runs on one motor, after about 2 minutes of a circle in the console from the zero point and getting larger on the screen.  It never runs the other motor
 
 ---
@@ -116,6 +140,8 @@ Sorry guys I know its late.
 Posted on **2017-03-18 22:53:54** by **Bar**:
 
 That's alright, thanks for bearing with us while we get all the kinks figured out.
+
+
 
 I don't have hardware at home to test, but I think the thing to do is that first thing tomorrow I'll write a test script that will tell us something conclusive.
 
@@ -131,9 +157,15 @@ Posted on **2017-03-18 22:58:17** by **aalbinger**:
 
 Interesting.  I compiled and ran https://www.arduino.cc/en/Tutorial/EEPROMClear?action=sourceblock&num=1
 
+
+
 Then compiled and ran the firmware from github.  Calibrate chain length. Calibrate motors.
 
+
+
 Then ran the gear looking example gcode without issue.  (pencil as a bit in the router)
+
+
 
 Immediately following the gcode running my setup goes back to loading and displaying any running gcode but no movement in the machine.
 
@@ -155,6 +187,8 @@ Posted on **2017-03-18 23:29:11** by **Bar**:
 
 I think the issue you are seeing @aalbinger is different from what @blsteinhauer88 is seeing, but I could be wrong. 
 
+
+
 I think the issue of both motors deciding not to move anymore after a while comes from an issue with the kinematics being unable to find a solution for the machine geometry. I just added the ability to change the machine dimensions on the fly a couple days ago and I think I may have broken something in the process. When you are in that state of being stuck, can you look at the Arduino [Serial monitor](//muut.com/u/maslowcnc/s1/:maslowcnc:tDRZ:serialmonitor.jpg.jpg)  and see what information the the machine is sending back? You will have to close Ground Control in order to open the serial monitor.
 
 ---
@@ -162,6 +196,8 @@ I think the issue of both motors deciding not to move anymore after a while come
 Posted on **2017-03-18 23:33:20** by **aalbinger**:
 
 I'll give it a look after some sleep :)
+
+
 
 1:30AM here and the garage temp just dropped below freezing so I think I'm going to call it a night.
 
@@ -189,7 +225,11 @@ Posted on **2017-03-19 09:32:14** by **Bar**:
 
 @aalbinger is right, you want to set the serial monitor to 19200 rather than the default of 9600. 
 
+
+
 You can make the change from the drop down in the bottom right corner  [Serial monitor](//muut.com/u/maslowcnc/s1/:maslowcnc:Ge1M:serialmonitor.jpg.jpg)  .
+
+
 
 Good recommendation.
 

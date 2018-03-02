@@ -2,9 +2,14 @@
 Posted on **2017-04-14 11:07:07** by **boandersen**:
 
 I am suddenly getting this in windows 10. I did not have the arduino connected for about a week, and now I get this every time. Windows has installed updates.. I do not think the arduino has faulted, because it does its motor init when connected..
+
 Anyone seen this?
 
+
+
 Windows has stopped this device because it has reported problems. (Code 43)
+
+
 
 A request for the USB device descriptor failed.
 
@@ -25,13 +30,21 @@ This forum post [here](http://forum.arduino.cc/index.php?topic=207505.0) says th
 Posted on **2017-04-14 17:04:36** by **rexklein**:
 
 Here is what I did. 
+
 Win10 Hardware properties. 
+
 unplug USB
+
 then delete com ports that are left over
+
 plug in usb
+
 see the com port for the arduino
+
 advanced com port settings set it to 1 or 3 
+
 with a speed of I 19200
+
 in ground control type in the com port you now know it is for sure.
 
 ---

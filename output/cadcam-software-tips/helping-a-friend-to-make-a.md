@@ -3,10 +3,16 @@ Posted on **2017-06-05 19:17:48** by **carlosrivers**:
 
 Hey guys I've got this PDF file, and I'm playing around with the software in Fusion 360 to work with her design. Can anyone help me understand how I get to a point where I can upload this to Fusion 360 and edit things such as thickness, width and height? Needs to be 12 by 48 with a thickness of 1 inch.
 
+
+
 PDF version
+
 https://drive.google.com/open?id=0BzFTyJ3YeFIIdG41YjJQXzZabUphUkpUbnZFaEk1VzVXX3lF
 
+
+
 DXF version
+
 https://drive.google.com/open?id=0BzFTyJ3YeFIIdEQtcjNSdEpIQ2l2ZjZFSHZrVUpoVzJldDFv
 
 ---
@@ -20,6 +26,8 @@ I think I'm onto something, I should go from PDF to JPEG to DXF?
 Posted on **2017-06-05 19:40:02** by **carlosrivers**:
 
 [Screen Shot 2017-06-05 at 7](//muut.com/u/maslowcnc/s3/:maslowcnc:JIYZ:screenshot20170605at7.38.57pm.png.jpg) 
+
+
 
 This is what comes up from a PDF to a DXF file.
 
@@ -53,7 +61,11 @@ Posted on **2017-06-06 01:28:09** by **carlosrivers**:
 
 Guys I think Im really close to having something useable. Would anyone who familiar with Fusion 360 mind looking at my file and see if it makes sense? If I understand my own file, I could use a one inch thick plywood?
 
+
+
 This is so cool to finally be at the stage of "I think Im getting the feel for this..."
+
+
 
 http://a360.co/2rw0Vgs
 
@@ -62,6 +74,8 @@ http://a360.co/2rw0Vgs
 Posted on **2017-06-06 01:42:56** by **carlosrivers**:
 
 So from Fusion360 I find a way to make g-code, (NC file) and I loaded into GC. Heres what comes up lol.
+
+
 
  [Screen Shot 2017-06-06 at 1](//muut.com/u/maslowcnc/s3/:maslowcnc:xXbM:screenshot20170606at1.45.08am.png.jpg)
 
@@ -95,6 +109,8 @@ Posted on **2017-06-06 10:39:17** by **carlosrivers**:
 
 Hey Bar heres the link for the NC file
 
+
+
 https://drive.google.com/open?id=0By4wTqIjhYwnTFBoMGFQd1VLckk
 
 ---
@@ -108,6 +124,7 @@ It appears in the simulator that David posted similar to how it appears in GC. I
 Posted on **2017-06-06 12:06:26** by **davidlang**:
 
 yes, that file is very odd. It doesn't send a bunch of g1 commands, instead it issues a g1 and then sends a bunch of different coordinates. The maslow will not work with this.
+
 what option did you use for the export?
 
 ---

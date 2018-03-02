@@ -9,6 +9,8 @@ Posted on **2017-05-26 11:23:27** by **davidlang**:
 
 There is at least one other person working on doing this. It should work, but you probably save a bit less space than you expect. The closer the chains are to vertical, the less force you have from gravity to move the router as you need to.
 
+
+
 grab the python file http://lang.hm/maslow/v-plotter.py and play around with it to get an idea of the dimensions you would want to end up going with to have a chance of getting the full cutting area.
 
 ---

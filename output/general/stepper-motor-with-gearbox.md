@@ -20,6 +20,7 @@ Can you give links for the motor and gearbox you’ve chosen?
 Posted on **2017-06-16 07:41:42** by **kentthoresen**:
 
 Of course the motors and gears i selected are over dimensioned you can also use a nema 24 stepper motor with a similar gearbox. Gearbox 24:1 : http://www.ebay.com/itm/112200189215?_trksid=p2057872.m2749.l2649&var=412406181485&ssPageName=STRK%3AMEBIDX%3AIT 
+
 Motor: http://www.ebay.com/itm/New-sale-2Axis-wantai-Nema34step-motor-with-1232oz-in-for-cnc-router-plasma-/322320015870?hash=item4b0bc521fe:g:y5QAAOSwnbZYH~Fk
 
 ---
@@ -27,6 +28,8 @@ Motor: http://www.ebay.com/itm/New-sale-2Axis-wantai-Nema34step-motor-with-1232o
 Posted on **2017-06-16 07:47:12** by **davidlang**:
 
 it will be interesting to see if that gearbox has enough resistance to being backdriven that the motors don't rotate when power is off.
+
+
 
 otherwise, you need to re-calibrate the chains each time you power up.
 
@@ -60,6 +63,8 @@ Posted on **2017-06-16 20:31:32** by **davidlang**:
 
 a stepper with a 24:1 gearbox is only 4800 pulses/rev. When you start microstepping you loose a lot of your torque (at about 10 microsteps you are down to ~10% of your rated torque)
 
+
+
 I'd love to see a method to automatically measure the chains at startup, that is one of the issues right now.
 
 ---
@@ -74,7 +79,11 @@ Posted on **2017-06-17 04:01:14** by **davidlang**:
 
 you have to have a pretty good idea of where you are to be able to get the sled to hit the switches.
 
+
+
 if you happen to be near the top left corner, you don't want to pull the sled towards you, and if you are near the bottom right corner you don't want to let the chain out.
+
+
 
 so you don't even know which way you can safely move the motors.
 
@@ -101,6 +110,8 @@ You'll need to fork the project and post a new project. I'm fairly certain Bar i
 Posted on **2017-06-20 09:26:07** by **Bar**:
 
 Great work! That's fantastic that it is done so quickly.
+
+
 
 Yes, TheRiflesSpiral is right, you would want to maintain a separate fork for the stepper version. That way it will be easy to update one version from the other.
 
@@ -134,6 +145,8 @@ Posted on **2017-06-20 14:07:10** by **kentthoresen**:
 
 My bad. 
 
+
+
 https://github.com/kentthoresen/Firmware
 
 ---
@@ -141,6 +154,8 @@ https://github.com/kentthoresen/Firmware
 Posted on **2017-06-22 03:40:44** by **kentthoresen**:
 
 How long are the chains?  gearboxes has arived.
+
+
 
  [20170622_121321](//muut.com/u/maslowcnc/s3/:maslowcnc:ysyo:20170622_121321.jpeg.jpg)
 
@@ -161,6 +176,7 @@ Thanks
 Posted on **2017-06-22 13:27:41** by **eserv**:
 
 I get error class'axis' does not have any field called "stepper'
+
  What am I missing?
 
 ---
@@ -199,9 +215,15 @@ Posted on **2017-06-26 11:29:56** by **mooselake**:
 
 Sorry about the lateness, been tied up.
 
+
+
 About nine days back @kentthoresen made a comment about torque loss due to microstepping.  That's actually a complicated subject, but there's a lot of myths surrounding it.   The short answer is you won't actually diminish the ability to move the motors, just the fractional step positional accuracy that's suspect anyway.  Microstepping drivers are quite inaccurate to start with (+/- 10 or higher percent numbers are regularly mentioned, best case), and stepper step positioning isn't always that great either.   Microstepping was intended to give smoother motion - rather than jerking from step (often 1.8 or 0.9 degrees) to step microstepping lets you move in smaller and smoother increments.  To continue with the short answer, assume you're probably ending up with full steps anyway but you were jerking around a lot less on the way.  The long answer involves some serious search-fu (it's been discussed a lot) and study.  Add going to open loop (steppers with no positional feedback) from closed loop (dc motors with encoders) and it's tak ing another potentional positional accuracy hit that won't include any hardware feedback.
 
+
+
 Since you've already put the cost way above that of a maslow (those gearboxes are already a big chunk of the total cost),  I'm guessing that this is being done for the joy of development rather than trying to save money (nothing wrong with that, lots of users would rather improve the machine than just cut out parts, I lean that way).  Have you given any thought to using servos instead of big steppers?  Home switches would solve the turn on problem, although you still have to figure out how to not pull the chain that's not being tightened off the sproket.  A third switch to detect the impending end of chain, as you only need it on the first homing, perhaps?  Or using servos with built-in brakes?
+
+
 
 Since you're making such a large departure from the original firmware intent perhaps you could investigate modifying smoothieware, LinuxCNC (BBB perhaps?  Plug-in kinematics is designed in already iirc), or one of the higher powered processor firmwares?
 
@@ -211,9 +233,15 @@ Posted on **2017-06-26 12:14:43** by **kentthoresen**:
 
 You are right its purely for the joy of developing, i just love machines.
 
+
+
 As far as stepping and power goes i am using nema 34 80V 7,8 amp motors now with a 20:1 wormgear. It easily lifts my body weight
 
+
+
 Anyway servos could work, good idea, i might try that later. Smoothie etc are also probably worth looking at. Thats far down the line ill see how far i go.
+
+
 
 For the chain i think i have a solution if i modify chain locks i can make  the trigger switches, im testing it out now.  ill see if it works like i want it to, i will need to park the machine i think to make the calibration work.
 
@@ -223,7 +251,11 @@ Posted on **2017-06-28 09:35:12** by **mooselake**:
 
 Whoops.  Called into work early and never hit the send button.
 
+
+
 Sounds like a lot of fun!  You might be able to lift a small car with those motors and gearboxes.  Keep the router stationary and just move the garage around :)
+
+
 
 Calibrating/zeroing a Maslow is a lot more complicated than the usual Cartesian machine since it's a lot more than just steps/mm (inch, furlong, whatever) and the usual terminology doesn't work.  Not sure what "parking" means in this context.  My mental concept of homing is to bring the chains to their shortest position on each side (if lower left is 0,0 then 0,max and max,max) with the trickiest part being what to do with the right chain when homing the left one.   Embarrassing to break the right chain if it starts too tight (well, it'd probably just stop the moving chain), also embarrassing to run it off the pulley if it's too loose. Bar's probably explained all this somewhere I've missed.
 
@@ -232,6 +264,8 @@ Calibrating/zeroing a Maslow is a lot more complicated than the usual Cartesian 
 Posted on **2017-06-29 00:44:50** by **kentthoresen**:
 
 Moving the garage! that is definately the next project! 
+
+
 
 For homing my current thinking is to use chain locks and exstend the locking plate on one side, By putting the lock plate on oposite sides i can trip 2 switches iwill call them A and B for Left C and D for right. One set on the left side of the chain and one on the right. by alternating the sequence at the start and at end of the chain i get the following switch sequence at minimum A.B and B.A at maksimum for left and C.D etc for right. So homing the left chain could be as easy as run right hand chain until D.C then home left to A.B Then left to B.A and right to C.D  Im pretty sure i can calibrate accurately this way.
 
@@ -253,9 +287,15 @@ Posted on **2017-06-29 03:05:10** by **davidlang**:
 
 where would you put the switches?
 
+
+
 I guess if you put them on the slack side of things you could just run the chain out until you hit them. But this may end up with the sled sitting on the ground if the other chain is also out far enough.
 
+
+
 you can't retract the chain unless you know that the other chain has enough slack, and if you run out the other chain as you would need to in the top center, it would drop the sled to the floor if you are at a bottom corner.
+
+
 
 but, as always, I could be wrong. try it and let us know how it works.
 
@@ -270,6 +310,8 @@ i think the best place to put the switches is on top of the sprocket, that way i
 Posted on **2017-06-29 04:44:50** by **davidlang**:
 
 well, if you start with the presumption that you know where the router is (it's "parked"), things are easy. with worm gears you have almost zero backdriving of the gear, so if you just remember where you were when you shutdown, you don't need to do any detection/measuring (this is how the maslow software operates now)
+
+
 
 Problems come when you have an emergency shutdown or disconnect so that you aren't parked and didn't get a chance to save your position.
 
@@ -291,9 +333,15 @@ Posted on **2017-06-29 14:29:26** by **mooselake**:
 
 Just some wild ideas from looking at the assembly pictures, since the real thing hasn't made it to Mooseland...
 
+
+
 I'm a bit leery of the bungee cords and s hook, but a roller switch that would actuate mid-travel in the slack loop (pushed sideways by the chain? optical?) would give you a mid-span position.   This assumes that the middle of the chain won't hit the floor, and allows enough slack so the other side can be fully retracted, or that there's a position where that's true.  "Home" to that, using the slack (already actuated) side first if there is one, to prevent the dreaded floor bump.  Then home to minimum tightness at Xmin, then Xmax,   On Xmax you know how much chain you can let out.  The downside is 4 switches, two per axis.
 
+
+
 Can you intercept an unexpected power drop while there's still time to save the current position in the EEPROM?  Never attempted that with an Arduino, and a quick search shows Atmel recommend external brown out detection circuitry.  Constantly updating the EEPROM probably isn't a good idea.
+
+
 
 http://www.atmel.com/Images/doc1051.pdf
 
@@ -308,6 +356,7 @@ On my ‘mostly’ standard version of the frame, the take-up side of the chain 
 Posted on **2017-06-30 02:02:25** by **kentthoresen**:
 
 My main reason for moving to a worm gear is to make sure it doesnt drop on power off.  @scottsm sounds interestin do you have a picture or something, this could be a quick fix option until we find some permananet solution.  BTW i got the new worm gears today and its so ridicilously overkill, force testing it my scale maxed out at 400kg and snapped off with a loud bang. It seamed like it still had loads of torque to go on. If you make a stepper version nema 24 is more than enough as long as you have a worm gear.  A high power nema 34 like i use is way way way over the top.  I will scale down once the testing is done.
+
  [20170630_105658](//muut.com/u/maslowcnc/s3/:maslowcnc:CMmd:20170630_105658.jpg.jpg)
 
 ---

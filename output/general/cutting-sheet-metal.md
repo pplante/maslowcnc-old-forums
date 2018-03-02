@@ -20,6 +20,7 @@ actually, the other possible problem is the speed of the router, the r220 can on
 Posted on **2017-03-27 05:26:34** by **rollandelliott**:
 
 just use a removable mounting tape like this one free samples to try
+
 http://www.essentraspecialtytapes.com/Remo-One-Rolls. stick permanent side to MDF or wasteboard.
 
 ---
@@ -27,6 +28,7 @@ http://www.essentraspecialtytapes.com/Remo-One-Rolls. stick permanent side to MD
 Posted on **2017-03-27 05:28:36** by **rollandelliott**:
 
 I cut 16 gauge aluminum sheet metal all the time with a 3/16 solid carbide SINGLE flute upcut bit works fine. 
+
 I occasionally cut 20 gauge steel, my gut feeling is steel will wear out the bit very fast use soap water spray to help cool the metal or air blower with compressor.  I cut at about 10,000 rpm with palm rounter
 
 ---

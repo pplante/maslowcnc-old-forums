@@ -3,6 +3,8 @@ Posted on **2017-02-10 15:13:37** by **tntahan**:
 
 I have a Bosch Router (1617EVS part of the 1617EVSPK kit). Long short, I am moving and it is in storage for a few months and i cant get to it, but I want to get my z-axis ordered. Anyone know what size coupler works with this? Also, I looked at pictures, any idea how to get off the fine adjustment knob so this coupler will fit on it? 
 
+
+
 Deb, can you start a forum page that is just people listing what size couples work with what routers to get a list going to help out people like me?
 
 ---
@@ -11,7 +13,11 @@ Posted on **2017-02-10 15:27:12** by **Bar**:
 
 I've played around with those in the store and it's a nice router. If I remember correctly there is a recessed screw on the top of the knob which threads into the top of the shaft. I don't know the size of shaft off the top of my head.
 
+
+
 You don't need me to start a thread :p
+
+
 
 I think you are right that having a central place to to keep track of that information is important. I'm going to look into setting up a wiki page on the website so we can list routers and information about them.
 
@@ -27,9 +33,15 @@ Posted on **2017-02-10 18:29:28** by **jbarchuk**:
 
 I have an RA1611 base for that router. The drive shaft is 0.250" and a nice chunk of hardened steel at that.
 
+
+
 Here's a pic that shows a flat in the shaft and knob so maybe it's pressed on. With proper support for the other end of the knob a few taps might release it -- or explode the knob. LOL! That would be a point of no return and I'm not ready to do that yet. ;)
 
+
+
 Also in that pic is a 1/2" hex shaped recess in the top of the knob. That's an optional drive port, but the plastic should wear out pretty quickly with any metal contacting it a lot. Maybe a hex plastic or even wood adapter would work in a pinch..
+
+
 
 The drive has no backlash because it's retained to the frame with a curved spring metal e-clip. Nice piece there too. Don't lose it. ;)
 
@@ -45,19 +57,34 @@ Posted on **2017-02-11 18:29:59** by **jbarchuk**:
 
 Here's a pic captured from a '360-deg view' at Lowes.com.
 
+
+
 Above, I was WRONG about saying that 'the' diameter of the shaft was 1/4". I can't edit that wrong fact thanks to muut-policy. [sigh]
+
+
 
 The notes in the pic, from bottom to top...
 
+
+
 The shaft diameter at the lower end is unthreaded 0.25"
+
+
 
 The threaded diameter is 0.375 3/8".
 
+
+
 Eyeballing the gap with a caliper, the space from the shaft through-hole and the router is -max- 0.6" but that's extremely tight and doesn't take into account that above the adjustment knob the router overhangs the hole it's mounted in.
+
+
 
 The knob has a slight taper and at the lowest edge is 1.125"
 
+
+
 The red line sketched in says that the edge of the adjustment knob is outside the diameter of the router, but that's an eyeball guess. Next time I'm near Lowes I'll stop in and look closer at that angle.
+
  [Bosch-1617-adjust-closeup-02](//muut.com/u/maslowcnc/s2/:maslowcnc:5J3c:bosch1617adjustcloseup02.png.jpg)
 
 ---
@@ -66,7 +93,11 @@ Posted on **2017-02-18 11:50:59** by **jbarchuk**:
 
 The 1617 router (outer) and base sleeve (inner) diameter is 3.5". At the top of the router the 'outdented' max diameter is 4". That's 1/4 added in radius.
 
+
+
 If we knew the diameter of the couplers that would tell if it would clear the router.
+
+
 
 Or, since we know the Ridgid router works, if we knew the radius of the top of that router we'd know that the 1617 would also work.
 
@@ -87,10 +118,15 @@ Thank you for the all the info on everything, but I am still a little confused l
 Posted on **2017-02-22 18:54:46** by **jbarchuk**:
 
 I finally bit the bullet and decided that the only way to answer this Q was to try to detach the knob from the shaft. On the plus side it wasn't difficult. I mounted the shaft/knob assembly in a vice such that the shaft passed down between the jaws, and the bottom of the knob was evenly supported on the top of the jaws. It took a few pretty serious hammer hits on a pin punch to press the shaft out of the knob. There was no damage to either part and it looks like the knob could be pressed back on the shaft.
+
 On the minus side the Q is still only 1/2 answered. The pic below shows some dimensions I took off the shaft.
+
 On the plus side the largest diameter of the shaft is a nice 3/8" and about 0.8" long.
+
 On the minus side that 3/8" portion -starts- about 0.7" from the -end- of the shaft.
+
 The other 1/2 of the issue issue is whether the coupler is long enough to accept that 0.7" -and- still be able to grab the shaft.
+
  [Bosch-ra1161-lead-screw-01](//muut.com/u/maslowcnc/s2/:maslowcnc:90uh:boschra1161leadscrew01.png.jpg)
 
 ---
@@ -128,9 +164,13 @@ If you look at the pictures in the Feb 1st update, they show a picture of the co
 Posted on **2017-02-28 20:29:33** by **jbarchuk**:
 
 In the lead screw -01 pic I think the 0.315" is pretty accurate. Sometimes it reads 0.314 but that's within the accuracy of the caliper. To fit a 5/16" coupler the numbers make sense because the coupler has to clamp down on the shaft. I've never used a couple like that but it has to have some clamping range. 
+
 The 0.5 -depth- of that segment is wrong, a typo. It's 0.15". Thanks to m00t policy it can't be deleted and replaced.
+
 It's that diameter and depth that frightens me slightly. It's such a tiny area and it has to stay very tight. I think that'd be a good spot to hit with blue loctite. Clean all surfaces with alcohol first.
+
 If this shaft weren't hardened it could be easily -cut- it so the coupler -could- reach the 3/8" segment! That would also couple closer to where the threads enter the router base so any slop would be less magnified. I'm not enough of a machinist to mess with it.
+
 Spinning the shaft with my fingernail in the thread groove is very smooth. It's -not- just a modified chunk of random threaded rod. It's a very clean and solid piece of hardware.
 
 ---
@@ -156,6 +196,8 @@ Just reading through this post because I also have the same router - did anyone 
 Posted on **2017-03-30 11:53:54** by **Bar**:
 
 I tracked down one in the shop here and at least for the Bosh RA1161 Base S you are looking for an 8mm shaft coupler. Budget at least half an hour to get that knob off...sheesh. It's just a press fit, but without a special puller it's a tough one.
+
+
 
  [IMG_20170330_114336677_HDR](//muut.com/u/maslowcnc/s1/:maslowcnc:T3TQ:img_20170330_114336677_hdr.jpg.jpg)
 

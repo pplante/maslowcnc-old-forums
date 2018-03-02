@@ -2,7 +2,9 @@
 Posted on **2016-12-10 21:09:44** by **christophersolar**:
 
 Hi-
+
 Are there any example images for parts cut from MDF? All the pictures I've seen are cuts made in relatively coarse/splintery plywood, so it makes it harder to see what the cut quality/line straightness are like.
+
 Thanks, Chris.
 
 ---
@@ -10,6 +12,8 @@ Thanks, Chris.
 Posted on **2016-12-12 11:05:44** by **Bar**:
 
 Good question!
+
+
 
 Yes. One of our backers sent in this dragon to cut a couple weeks ago and I cut it from MDF core, but we didn't really show any close ups of the cut edges, so here they are.  [Face](//muut.com/u/maslowcnc/s3/:maslowcnc:Xrb5:face.jpg.jpg)  [Edge3](//muut.com/u/maslowcnc/s3/:maslowcnc:kXu0:edge3.jpg.jpg)  [Edge2](//muut.com/u/maslowcnc/s3/:maslowcnc:dxVQ:edge2.jpg.jpg)  [Edge1](//muut.com/u/maslowcnc/s3/:maslowcnc:PFK5:edge1.jpg.jpg)
 
@@ -60,6 +64,8 @@ I in Arizona so that would be a heck of a lumber run. Is there a brand on it? Ma
 Posted on **2016-12-16 11:53:46** by **Bar**:
 
 I looked for a brand mark or a barcode sticker or anything and came up clean. Home depot sells MDF without a veneer or with a veneer which is meant to be written on with dry erase markers, but neither of those have the nice look of natural wood.
+
+
 
 Has anyone else seen this stuff in their area?
 

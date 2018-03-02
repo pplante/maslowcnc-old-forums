@@ -3,37 +3,71 @@ Posted on **2017-03-21 17:09:25** by **thatoneguydavid**:
 
 I have been working on a unique solution for Z axis control with a couple of my friends.  here is what we have come up with at this point. 
 
+
+
 we started from a DeWalt trim router. (DWP611)  its a bit less powerful than the original router suggested (1.25HP vs 2.25HP) but it spins a bit faster (max of 27Krpm vs 23Krpm)
+
+
 
 https://www.amazon.com/gp/product/B0048EFUV8/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1
 
+
+
 the interesting thing about this router is its depth control mechanism.  when the black collar on the top of the base is rotated the motor moves up and down.  The idea was to add a belt drive sprocket to this collar, and drive this from a servo.
+
 we chose to use the following motor: Pololu item #: 2827
+
+
 
 https://www.pololu.com/product/2827
 
+
+
 this motor has a gear head and an encoder.
+
+
 
 the gear head added to this is from stock drive parts:  A 6H25M016DF0906
 
+
+
 https://shop.sdp-si.com/catalog/Product.aspx?id=A_6H25M016DF0906
+
+
 
 the orange gear was modeled by a friend starting from a SDP model that turned out to not be a good model.  the teeth are pretty much non existent. (this  is being updated)
 
+
+
 the motor mount i built using parts from  MicroRax:
+
 http://www.microrax.com/MicroRAX-Home-10.html
+
+
 
 the ultimate goal is to bring AC power to and enclosure on the sled.  in that enclosure there would be a small microprocessor with Bluetooth connectivity. 
 
+
+
 the processor would:
+
 * drive a relay to turn on the router
+
 * control the z height servo
+
 * control the router speed (by modifying the router with a digital pot instead of the thumb wheel pot on the stock router)
+
 *monitor the encoder for stall condition if the height adjustment is for some reason bound up.
+
+
 
 eventually a z-height calibration would also be added to the system for after a tool change.  the idea would be that somewhere on the frame of the cutter there would be a calibration location where the z-height would be lowered until a sensor (tac switch, pressure sensor, gap sensor, etc.) is tripped.  this would be a fixed location so from that index the z-height can be adjusted to the surface of the material.
 
+
+
 as i complete these pieces i will post my progress as well as files for the community to use.
+
+
 
  [IMG_4299](//muut.com/u/maslowcnc/s3/:maslowcnc:M2iP:img_4299.jpg.jpg) [IMG_4300](//muut.com/u/maslowcnc/s3/:maslowcnc:nLdP:img_4300.jpg.jpg) [IMG_4298](//muut.com/u/maslowcnc/s3/:maslowcnc:ZYdE:img_4298.jpg.jpg)
 
@@ -60,6 +94,7 @@ If you link to a youtube video it embeds pretty nicely automatically, that's the
 Posted on **2017-03-21 17:33:05** by **thatoneguydavid**:
 
 here is a quick video i just shot.
+
 https://youtu.be/qfpYpDCoaiw
 
 ---
@@ -79,6 +114,7 @@ I am unbelievably humbled by that. errr..... Uhmm..... how much to you want for 
 Posted on **2017-03-23 09:59:26** by **thatoneguydavid**:
 
 thank you for the kind words.  
+
 when the next version of the gear is tested i will be posting a file for print.   I am also working on a sheet metal version of the motor mount bracket.  i will keep this thread up to date with progress.
 
 ---
@@ -86,6 +122,7 @@ when the next version of the gear is tested i will be posting a file for print. 
 Posted on **2017-05-18 10:11:20** by **thatoneguydavid**:
 
 video is a bit choppy, but here is V2 of the printed gear.
+
 https://youtu.be/IjgobAI4znk
 
 ---
@@ -99,6 +136,7 @@ That's awesome! So smooth.
 Posted on **2017-05-18 10:54:34** by **thatoneguydavid**:
 
 thanks!  
+
 im really getting excited about it.  should have a print file to upload in the next week.  there is a bit of tweaking to do on the I.D.  i will be interested to see if the maslow can cut it.....
 
 ---
@@ -119,12 +157,21 @@ Posted on **2017-06-05 11:14:49** by **thatoneguydavid**:
 
 as promised, i am now uploading the link to the custom gear for Z-axis system i have been working on.
 
+
+
 https://grabcad.com/library/64-tooth-htd-pulley-1
+
+
 
 there are two parts that must be glued together as most home 3D printers have limited overhang capabilities.
 
+
+
 this is designed to work with this router:
+
 https://www.amazon.com/gp/product/B0048EFUV8/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1
+
+
 
 the rest of the parts i have used are listed in previous posts in this thread.
 
@@ -145,7 +192,9 @@ but I guess if you already have it ...
 Posted on **2017-06-05 11:56:19** by **thatoneguydavid**:
 
 i was not trying to save money, i already had it and it seemed like a great mechanism for adding z-axis control.  if i do end up needing more power i will switch to this version:
+
 https://www.amazon.com/DEWALT-DW618-Electronic-Variable-Speed-Fixed-Base/dp/B00006JKXB/ref=sr_1_1?ie=UTF8&qid=1496688933&sr=8-1&keywords=DEWALT+DW618
+
 and design a new collar gear.
 
 ---

@@ -15,6 +15,8 @@ Posted on **2017-05-10 10:11:16** by **Bar**:
 
 It is .25 inches. The metric equivalent is 6mm router bit and it refers to the diameter. The other dimensions are not standard, but make sure your bit is long enough to cut through your wood.
 
+
+
 The bit in the link seems like it might be a little short, but would probably work. Unfortunately I don't speak German, but this bit here: https://www.cnc-kompakt.de/product_info.php?info=p6735_schaftfraeser-2z-lang-weldon-schaft.html looks very similar to the ones I use. It comes in a 6mm version.
 
 ---
@@ -28,10 +30,15 @@ Super, thanks guys, you're saving hours of clueless surfing! Looking forward for
 Posted on **2017-05-10 10:55:35** by **gero**:
 
 Guten Abend. I have ordered 2 x 4mm and 2 x 5mm bits from dictum.com. It took them 3 parcels and ages to deliver, so terrible company, but the order might help.
+
 Pos. 	Art-Nr. 	Menge 	Preis 	Summe
+
 1 	717786 	2 	36,05EUR 	72,10 EUR
+
 HW-Vollhartmetall Spiralnutfräser, Schaft Ø 8 mm, Ø 4 mm, NL 15 mm
+
 2 	717787 	2 	36,05EUR 	72,10 EUR
+
 HW-Vollhartmetall Spiralnutfräser, Schaft Ø 8 mm, Ø 5 mm, NL 17 mm
 
 ---
@@ -57,7 +64,9 @@ Ok thanks for the info, I will also see if go at the beginning with a cheaper on
 Posted on **2017-05-11 07:27:03** by **gero**:
 
 Spiralnutfräser Positive Spirale (Rechtsdrall) fein (Up Cut)
+
 Spiralnutfräser Negative Spirale (Linksdrall) fein (Down Cut)
+
 https://www.feinewerkzeuge.de/spiralnutfraeser.html
 
 ---

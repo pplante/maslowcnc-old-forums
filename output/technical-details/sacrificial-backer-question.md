@@ -3,6 +3,8 @@ Posted on **2016-11-01 09:02:30** by **bobbysteinmetz**:
 
 Due to material variation and user error there will always be some damage to the surface beneath the workpiece when doing through-cuts. To avoid replacing the main structure of the machine, is it possible to put a sacrificial backer behind the workpiece? Say 1/4" OSB, or foamboard?
 
+
+
 I guess worst case you'd just have to shim out the motors to keep the chains inline?
 
 ---
@@ -23,7 +25,11 @@ Posted on **2016-12-15 11:49:04** by **servant74**:
 
 There are some 'old school' DIY CNC machines that uses a 3/4 ply as a base, and you put a 3/4 MDF as sacrificial plate.  Once it gets 'too rough' they use the CNC to 'surface' the MDF for a new sacrificial surface.  After it gets close to the Ply, they surface it again, and just glue a new 3/4 MDF surface to the old MDF surface (only to give it a good smooth supported base) and run and play more.  The MDF never gets fully removed from the Plywood in their scenario.
 
+
+
 There are special 'surfacing' bits, but I think any strait router bit or a 'bowl' bit should work.  Smaller bits just make it take longer.  Some surfacing bits can be 2+" in diameter (and pricey), bowl bits are cheaper and leave rounded edges and flat surface on bottom is not as big as the diameter of the bit.
+
+
 
 I picked this up reading the MechMate.com forums.
 

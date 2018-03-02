@@ -16,19 +16,22 @@ def get_date(post):
 def write_meta(fp, post):
     fp.write(f"Posted on **{get_date(post)}** by **{get_author_name(post)}**:\n\n")
 
+def write_body(fp, post):
+    fp.write(post['body'].replace('\n', '\n\n'))
+
 def write_hr(fp):
     fp.write('\n\n---\n\n')
 
 def write_seed(fp, post):
     fp.write(f"## {post['title']}\n")
     write_meta(fp, post)
-    fp.write(post['body'])
+    write_body(fp, post)
     write_hr(fp)
 
 
 def write_reply(fp, post):
     write_meta(fp, post)
-    fp.write(post['body'])
+    write_body(fp, post)
     write_hr(fp)
 
 

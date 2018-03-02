@@ -3,7 +3,11 @@ Posted on **2017-03-06 05:44:57** by **carlosrivers**:
 
 What will ultimately allow me to cut faster?
 
+
+
 There is a file for a bed frame (http://atfab.co/?portfolio=silver-lining-bed) that requires 6 sheets to be cut, and I'd like to speed up the process as much as I can, but without sacrificing quality cuts.
+
+
 
 Thank you for helping a newbie!
 
@@ -13,7 +17,11 @@ Posted on **2017-03-06 09:57:04** by **TheRiflesSpiral**:
 
 Larger cutters (larger diameter) afford faster chip removal and higher speeds at the cutting surface which usually means higher feed speeds.
 
+
+
 A more powerful router will maintain rotational speed at higher feed rates, which usually means higher feed speeds.
+
+
 
 Neither of these things take motion control into consideration, which is firmly in the realm of Bar and his development of the firmware.
 
@@ -35,9 +43,15 @@ Posted on **2017-03-06 12:22:41** by **Bar**:
 
 The current limitation on the speed is how well the firmware's feedback control system can track a position, but I expect that to not be a limitation for much longer. After that we're limited by how fast the motors can turn.
 
+
+
 @TheRiflesSpiral is right that the bigger the cutter you are using, the faster you can cut and the deeper you can cut with each pass.
 
+
+
 @scottsm is right that some designs are sensitive to the size of the cutter. A smaller cutter will be slower, but lets you cut finer details. 
+
+
 
 No matter what you do, cutting up 6 full sheets will take a good amount of time. Keep in mind that CNC cutting time is different from your time. It's important to stay near the machine while it's running for safety, but you are free to work on other things like sanding, staining or assembling the parts which have already been cut.
 
@@ -47,9 +61,15 @@ Posted on **2017-03-06 14:17:52** by **davidlang**:
 
 The R2200 router has lots of power to be able to handle a large bit at a fast cutting speed.
 
+
+
 you can also do a 2-pass approach (especially if you have a powered Z and leave tabs to hold things in place)
 
+
+
 do one pass (or set of passes, depending on how close to full depth you can go) quickly with a large bit, ideally cutting everything 1/16 oversized.
+
+
 
 Then do a second pass with a very sharp, small bit. This will get any details the first pass misses and the edge will be much cleaner if you do a full-depth cut that only has to trim a little bit off of the work.
 
@@ -95,7 +115,11 @@ Posted on **2017-03-07 15:28:12** by **davidlang**:
 
 doing an additional cleanup pass is common.
 
+
+
 reversing gcode is going to be non-trival, there is potentially a lot of state that you would have to remember in order to undo things (not just the prior speeds, but also where the zero is off the top of my head)
+
+
 
 it's not just a matter of looking at the locations and moving in the opposite order.
 
@@ -123,7 +147,11 @@ Posted on **2017-03-07 20:06:28** by **spatialguy**:
 
 Im pretty sure the more flutes, the better the cut but the slower the slower the chip evacuation. As for smaller diameter bits, I get what you are saying about small = speed but there's like a break even point when using different types and thicknesses of material. A small bit will just break if pushed quickly where a larger bit will chew through it comfortably, also a large bit in easily to cut material will take a deeper (horizontal) cut per revolution than a small bit even though it has to remove more material per revolution. 
 
+
+
 It seems to me that what you are saying has some merit if the discussion was about twist drills only used for drilling holes; but with cutting bits, while what you are saying might SEEM intuitive, you are way off base and you (all of us) should be cautious with opinions or assumptions presented as hard fact. 
+
+
 
 There are plenty of people here who have no experience and this is their first adventure in this area. I'm actually the same, I've had plenty of machinest experience but read and listen keenly to anything said about the control software a nd how it interfaces with the Maslow router because I an totally new at it. If someone led me down the wrong track by stating opinions/guesses as fact, it would make things very confusing and unnecessarily make my learning curve a lot longer.
 
@@ -133,10 +161,16 @@ Posted on **2017-03-08 06:52:01** by **rollandelliott**:
 
 I've been using routers for years, and my comments are definitely not guesses!  Basically the answer is dependent n material. Aluminum sheet metal works best with Single flute upcut bit that is about 2x the thickenss of material trying to cut.  so 3/16" about for 1/16" material. Using multiple flutes on aluminum will just cl;og it up. And least not forget about different alloys. 3000 serioes is softer than 6061. 
 
+
+
 soft wood vs hardwoods? in general wood works better with multiple flutes and 1/4" or bigger bit depends on depth of cut. 
 
+
+
 How about plastics. There are hundreds of them. HDPE or poluycarbonate which is soft can be cut faster than  you can push the router. 
+
 all of this based on experience, not opinion.
+
 basically do your homework on what material you plan to cut.
 
 ---

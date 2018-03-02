@@ -14,6 +14,7 @@ Yes, there is nothing about the sled that requires a router. The sled drags acro
 Posted on **2017-06-05 16:56:40** by **fly-fast**:
 
 That nozzle, I guess, would work.  The sled isn't specific to a router.  
+
 But, jesus christ, that ultrasonic sprayer is $5,000
 
 ---

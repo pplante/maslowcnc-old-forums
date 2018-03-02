@@ -3,6 +3,8 @@ Posted on **2017-06-09 11:36:27** by **blsteinhauer88**:
 
 [IMG_0016](//muut.com/u/maslowcnc/s3/:maslowcnc:ee5q:img_0016.jpg.jpg) [IMG_0017](//muut.com/u/maslowcnc/s3/:maslowcnc:RwT5:img_0017.jpg.jpg)
 
+
+
 I made this for daughter wedding. I have been getting the drooping cuts at the bottom of patterns. Not just this one. The bit enters the wood after traversing to the location. Then lifts as it starts to move through the cut. Then ends , and relaxes into the initial hole. I have this in other patterns too.  Thought it was from my arms being loose, but now they are tight and still occurring. Unknown if in code, chain slack, or GC/firmware? Anyone have ideas?
 
 ---
@@ -10,6 +12,7 @@ I made this for daughter wedding. I have been getting the drooping cuts at the b
 Posted on **2017-06-09 11:41:23** by **blsteinhauer88**:
 
 [Image](//muut.com/u/maslowcnc/s3/:maslowcnc:WylW:image.jpg.jpg) 
+
 Happens on front and back of straight lines.
 
 ---
@@ -42,10 +45,16 @@ Posted on **2017-06-09 14:33:40** by **davidlang**:
 
 a few questions
 
+
+
 what depth of cut are you using?
+
 is the sled remaining flat to the workpiece?
+
 can you tell if the sled is twisting?
+
 can you check that your bit is a plunge bit (looking at the bottom of it, is there a cutting surface all the way across? or only at the edges?)
+
 where on the workpiece are you cutting? (is this all near the center? or is near one of the edges?)
 
 ---
@@ -60,7 +69,11 @@ Posted on **2017-06-09 16:24:37** by **davidlang**:
 
 I'm not completely sure I understand what you mean when you say "pulled up a bit", do you mean the sled is moving towards the top of the machine as it starts moving?
 
+
+
 when the machine drives the bit down into the wood, does it go down and cut the hole cleanly?
+
+
 
 can you get a video of this problem happening?
 

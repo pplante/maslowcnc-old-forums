@@ -9,7 +9,11 @@ Posted on **2017-03-06 18:03:58** by **Bar**:
 
 The router power isn't connected to the Maslow controller PCB at all so Ground Control doesn't know if the router is on or off. I chose to do that because I didn't want to encourage people to work with high voltages and having the software control the router seems dangerous when changing bits. Using the built in power switch on the router seems like the safest way to me.
 
+
+
 If I have a cut which is going wrong, I always stop the machine from moving by pressing the STOP button in Ground Control before turning off the router, because like you said if the machine is moving and you turn the router off it can break the bit. 
+
+
 
 There is a feature request for the ability to change the federate in real time while cutting which I think is a good idea (and probably not too hard to implement). I would expect to be able to change the speed without stopping soon.
 
@@ -31,6 +35,8 @@ Posted on **2017-03-06 23:44:16** by **davidlang**:
 
 that would work. It's very common for the gcode to be set to a higher speed when the cutter is not in the work and then be set for a slower speed for cutting. Being able to adust this over a range would be good.
 
+
+
 If someone specifies a speed faster than the machine can move, it should just move as fast as it can. It's good to have a setting for the machine to let you specify the max acceleration/deceleration so that you aren't zipping along at max speed and try to turn a corner or start cutting. This should be a knob that's as easy to get at as the one to override the g-code speed.
 
 ---
@@ -51,7 +57,10 @@ Posted on **2017-03-08 00:45:14** by **jamesbil**:
 
 Could the "stop" button in ground control take the form of an always visible big red STOP, like a road sign? When it stops the program does it lift the router out of the cut as fast as possible? It would need to if a bit breaks.
 
+
+
 Another side point, can the z axis motor speed be controlled? 
+
 On the ridgid with the large acme style thread one turn moves it up or down quite a bit, on other routers with, say, an m10 or m12 thread we would need a few revolutions of the shaft to move the same amount as one revolution of the acme thread.. hence the need to increase the speed of the z axis motor.
 
 ---

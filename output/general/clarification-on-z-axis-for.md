@@ -3,13 +3,23 @@ Posted on **2017-02-01 16:22:45** by **tmaker**:
 
 Hello,
 
+
+
 In your latest update you said:
+
+
 
 "If you are a Beta Tester: we aren’t certain we’ll receive the parts for the z-axis in time to ship them in the same box as your kit. If this turns out to be the case, we will ship you a second box with the z-axis parts for no extra charge as soon as we get all the necessary parts in stock (which should be very shortly after the kits ship)."
 
+
+
 Can you clarify if beta testers will automatically receive the z-axis parts?  From the above it sounds like it might be included in the beta tester kit.  Or do beta testers need to purchase the z-axis parts when they're available on the site?
 
+
+
 Thank you,
+
+
 
 Tommy
 

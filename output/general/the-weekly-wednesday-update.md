@@ -3,6 +3,8 @@ Posted on **2017-01-18 18:08:06** by **Bar**:
 
 This week Hannah takes us all the way from a idea to an object. You can check it out here:
 
+
+
 https://www.kickstarter.com/projects/1830738289/maslow-cnc-a-500-open-source-4-by-8-foot-cnc-machi/posts/1787186
 
 ---
@@ -10,6 +12,7 @@ https://www.kickstarter.com/projects/1830738289/maslow-cnc-a-500-open-source-4-b
 Posted on **2017-01-19 06:47:38** by **sjsandman**:
 
 Great video, Having problems adding sketchup-svg-outline-plugin
+
 to SketchUp Maker 2017. Has anyone been successful?
 
 ---
@@ -17,6 +20,7 @@ to SketchUp Maker 2017. Has anyone been successful?
 Posted on **2017-01-19 06:50:43** by **sjsandman**:
 
 I have tried adding the .rb to :
+
 SketchUp 2017: C:\Users\YOUR USERNAME\AppData\Roaming\SketchUp\SketchUp 2017\SketchUp\Plugins
 
 ---
@@ -91,9 +95,15 @@ Posted on **2017-01-26 07:05:04** by **TheRiflesSpiral**:
 
 On PC I'm at 17.1.174 64-bit.
 
+
+
 This is really weird... when I save a file but then search for it, I get shortcuts in the Recent Items and Recent folders but no actual file.
 
+
+
 I also don't get a file in Illustrator when I choose it as an editor.
+
+
 
 Looks like maybe this plugin is broken in the new version. I'll try my Mac tonight.
 
@@ -103,6 +113,8 @@ Posted on **2017-01-26 07:06:28** by **TheRiflesSpiral**:
 
 ...and the Flights Of Ideas website redirects me to a web search for "Cheap Flights" on Yahoo. Bummer.
 
+
+
 Well, off to look for a new export tool!
 
 ---
@@ -111,12 +123,21 @@ Posted on **2017-01-26 07:56:51** by **TheRiflesSpiral**:
 
 Got it working... There's a branch on GitHub of that plugin that's been updated to work with versions of Sketchup after 2010.
 
+
+
 You'll have to disable the existing one, close Sketchup and then go into the directory to delete the .rb file. (C:\Users\YOUR USERNAME\AppData\Roaming\SketchUp\SketchUp 2017\SketchUp\Plugins)
 
+
+
 Restart Sketchup then load the .rbz file from this repository:
+
 https://github.com/JoakimSoderberg/sketchup-svg-outline-plugin
 
+
+
 I just tested it on my machine and it's working.
+
+
 
 You'll know you got it right when you see the toolbar at the top with JUST the "SVG" button, and not the "SVG" and mosquito buttons.
 

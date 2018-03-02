@@ -15,7 +15,11 @@ Posted on **2017-03-11 02:45:52** by **TheRiflesSpiral**:
 
 SVG is a standard format for 2D vector graphics and is very portable.
 
+
+
 If you want to edit SVG files, I would recommend Inkscape on the PC.
+
+
 
 Whatever program you intend to use to make toolpaths will import the SVG file. If you're just starting out, I recommend makercam.com
 
@@ -55,7 +59,11 @@ Posted on **2017-03-12 12:53:42** by **spatialguy**:
 
 Even Autodesk wouldn't hire an old disabled Aussie Tom...lol. 
 
+
+
 Just tired of the endless 'which software' debate when I have no doubt that new users should start with Fudion 360, and the majority of existing CAD users should be using Fusion 360.
+
+
 
 I just want to get rid of any confusion for users and potential users. Use Fusion 360.
 
@@ -89,6 +97,8 @@ Posted on **2017-03-13 09:43:09** by **Bar**:
 
 @TomTheWhittler basically nailed it (thanks!), but I just want to confirm that he's right. This week's update will have all the details about how the machine cuts out it's own parts, but the basic version is that you mount the motors directly to a sheet of plywood and it operates with a somewhat limited work area to cut out it's own parts. We didn't want to assume that everyone has other tools like a jig saw and having the machine build itself seemed like the solution.
 
+
+
 Everyone has heard of the early 3D printers which could self replicate, but I'm not sure if anyone has done one which builds itself from scratch! :-)
 
 ---
@@ -103,7 +113,11 @@ Posted on **2017-03-14 07:25:42** by **davidlang**:
 
 @spacialguy, we've been on that treadmill for a century or more. Most of the common machines today could not have been built at any cost a few decades ago.
 
+
+
 Most of the 'cheap junk from the fa east' would have been high-precision parts not that long ago.
+
+
 
 it's most obvious in electronics, but even in traditional machinery where the precision of the resulting equipment hasn't increased that much, the cost of getting that precision has been plummeting because things that used to be horribly labor intensive have shifted to mass production (and no, simply shifting production to lower wage countries doesn't account for the price drop)
 
@@ -118,6 +132,8 @@ I've always loved the "Connecticut Yankee" type stories, and the good ones show 
 Posted on **2017-03-14 09:12:05** by **spatialguy**:
 
 Thanks David, I'll check it out. That's only 150 years before 'Australia' was invaded and stolen from the native people by the British. 
+
+
 
 (As a quick aside... I often find myself amazed when I look around...239 years ago there were nomadic tribes and virgin land. No wheel, no metal or glass, not one sheep, horse, cow, rabbit, fox, cat etc...the tribes did not cultivate anything, just moved where there was naitive bush food available and ate native animals. 17 years ago we hosted the Olympics for the second time... There were approximately 800,000 aborigines in 1788  when the British arrived. By 1888 there were about 60,000...I wish they had technology to fight back with, but they weren't inclined to fight, not even amongst themselves.)
 

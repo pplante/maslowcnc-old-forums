@@ -3,7 +3,11 @@ Posted on **2017-03-28 16:28:23** by **jessbussert**:
 
 So, I've used Mach 3 in the past and really like the UI and numerous features found within.  Can any of you code jockeys out there think of a way to modify a Maslow to be controlled by Mach 3?
 
+
+
 The big challenge for doing so would be a complete rewrite of the Maslow firmware.  Maslow currently receives raw g-code as input while Mach 3 reads encoder signals and outputs logical steps/pulses.  As such, the Maslow firmware would need to be rewritten to emulate this control process.
+
+
 
 It's been a long time since I messed with Mach 3.  At the time it was firmly rooted in a Cartesian coordinate system vs. Maslow's triangular approach.  I don't know how this might muck things up as well.
 

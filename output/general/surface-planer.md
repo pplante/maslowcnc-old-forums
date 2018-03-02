@@ -9,9 +9,15 @@ Posted on **2017-01-05 14:39:02** by **TheRiflesSpiral**:
 
 One of the projects on my list is to try out Maslow to smooth (not flatten) a huge chunk of Maple I've had for a while now. But it's a consistent thickness already, it just has saw marks all over it and a few checks from the drying process.
 
+
+
 Using a bowl bit (or a bottom cleaning bit) in a 2hp router is sketchy, so I'm going to have to experiment with feed rates, etc.
 
+
+
 I think it depends on what you mean by accuracy, though... certainly the x/y accuracy of around 0.5mm is plenty for a simple task like planing, which is just moving back and forth over the surface. But since Maslow isn't suspended over the piece like a traditional CNC, but instead rests on the piece, the consistency of the Z axis is going to be dependent on the surface already on your piece.
+
+
 
 My plan was to make a 1/16" deep spacer for the top of the base of the router, set the bit depth to 1/16" and start the cut just above the piece. Then plan a path back and forth from top to bottom so when the t op area meets the already flattened area, it's resting on the spacer... hard to describe... I'll sketch it out tonight.
 
@@ -20,6 +26,8 @@ My plan was to make a 1/16" deep spacer for the top of the base of the router, s
 Posted on **2017-01-05 19:39:18** by **davidlang**:
 
 I would not expect the maslow to work as a surface planer because it rides on the surface of the material being cut.
+
+
 
 Since the base is fairly large it will smooth things out a bit, but it's nothing close to what you would be able to do with a gantry based CNC
 

@@ -2,9 +2,13 @@
 Posted on **2017-05-21 19:06:23** by **pyrosrock**:
 
 Hi guys,
+
 I am looking at ordering a Maslow but thought id ask those that already have one.
+
 If I made the frame from steel and attached a plasma cutter torch to the sled would this be a feasible build?
+
 How hard would it be to get the Maslow to controll the trigger on the torch so that it can start and stop the plasma cutter?
+
 any other thoughts?
 
 ---
@@ -12,6 +16,8 @@ any other thoughts?
 Posted on **2017-05-21 19:09:16** by **davidlang**:
 
 You are far from the first person to think of this, nobody has reported back yet on building such a version.
+
+
 
 the maslow software does not turn the router on and off, Bar is afraid of the liability of adding that, but it would be a fairly trivial modification of the software to do so.
 
@@ -44,6 +50,7 @@ deffinetely would be cool to see a plasma maslow though.
 Posted on **2017-05-21 19:53:01** by **pyrosrock**:
 
 yeah moving the sheet around can be a hassle, but i should be able to move it with a forklift, even if I have to buy a sheet metal jaws.
+
 I have recently got a bunch of stuff laser cut and while it is cleaner edges it cost me $300. it was 3mm sheet.
 
 ---

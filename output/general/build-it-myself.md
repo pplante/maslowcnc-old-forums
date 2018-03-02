@@ -3,6 +3,8 @@ Posted on **2017-03-09 11:02:30** by **nloding**:
 
 I found about this project too late - I was looking at building the MPCNC in the next couple months, but this might work better for my purposes and space, and is slightly cheaper altogether. Everything I read said it was open source, but is that the firmware only? I haven't found any parts list outside of the additional hardware that needs to be purchased.
 
+
+
 I'm absolutely willing to source my own parts and build it myself and be a beta tester in that regard. All I need is a parts list! I should be able to piece together the PDU and whatnot with an Arduino Mega, the schematics don't look like the board provides additional logic.
 
 ---
@@ -10,6 +12,8 @@ I'm absolutely willing to source my own parts and build it myself and be a beta 
 Posted on **2017-03-09 11:03:43** by **chauhuh**:
 
 Here is a link to the hardware BOM.
+
+
 
 https://github.com/MaslowCNC/Mechanics/blob/master/BOM.txt
 
@@ -24,6 +28,8 @@ Thanks - do they list what brand/models of those that work? What came in the kit
 Posted on **2017-03-09 11:09:13** by **chauhuh**:
 
 I don't think so. If it was of import I think it would be more specific but it isn't so it probably doesn't matter too much. This might help as well.
+
+
 
 http://www.maslowcnc.com/whatsinthebox
 
@@ -45,7 +51,11 @@ Posted on **2017-03-09 11:17:25** by **chauhuh**:
 
 That is only the hardware BOM. You can find everything that is needed from the last link I posted. Compared to the other CNC machines I've put together this will be the easiest I think due to the simplicity of the machine. Other BOMs can be found in their respective categories.
 
+
+
 https://github.com/MaslowCNC
+
+
 
 Wish I had your breadboarding skills...
 
@@ -73,7 +83,11 @@ Posted on **2017-03-09 11:47:36** by **Bar**:
 
 We are using custom made motors/encoder/gear box combo so we can't link a part number or supplier :-/ 
 
+
+
 The minimum order quantity for the motors is 1,000 pcs so we can't sell them individually until we do another group buy of parts.
+
+
 
 I'm happy to look at any motor and see if I think it would work. I know that it's frustrating to not be able buy the parts directly.
 

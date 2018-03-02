@@ -14,6 +14,7 @@ I agree, it's not what it should be...
 Posted on **2017-03-15 13:24:03** by **scottsm**:
 
 I've created an issue for this on MaslowCNC/Mechanics:
+
 [Motor_Mount.svg file seems wrong. #7](https://github.com/MaslowCNC/Mechanics/issues/7)
 
 ---
@@ -46,6 +47,8 @@ Posted on **2017-03-15 16:26:12** by **Bar**:
 
 I added the missing files and regenerated the motor mount in PR #8 here, https://github.com/MaslowCNC/Mechanics/pull/8
 
+
+
 Do those look right?
 
 ---
@@ -53,6 +56,7 @@ Do those look right?
 Posted on **2017-03-15 16:55:25** by **scottsm**:
 
 MakerCam is happy with them all. InkScape sees the stroke as 90px wide, so renders them with hugely fat lines :( 
+
 Should there be one for the sled, as well?
 
 ---
@@ -60,6 +64,8 @@ Should there be one for the sled, as well?
 Posted on **2017-03-15 17:12:57** by **Bar**:
 
 :-) 
+
+
 
 There should indeed be one for the sled.
 

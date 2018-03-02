@@ -27,6 +27,8 @@ Posted on **2017-06-26 08:19:58** by **Meticulous Maynard**:
 
 Typically you'd use O-flute bits on plastic. They should be available in most regular sizes.
 
+
+
 Link: https://www.amazon.com/Freud-73-206-Diameter-Plastic-Cutting/dp/B001J9K5XI/ref=sr_1_3?ie=UTF8&qid=1498490260&sr=8-3&keywords=o+flute+router+bit
 
 ---

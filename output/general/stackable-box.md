@@ -15,8 +15,13 @@ Posted on **2017-04-12 17:06:49** by **blsteinhauer88**:
 
 Yea, I destroyed some wood trying that one....I ended up using Easel to get the Gcode, and I think that one the SVG from Illustrator or Inkscape.  And Try this:  https://www.dropbox.com/s/q7u2p3w74jg4vcf/Stacking%20Box%2016in.nc?dl=0
 
+
+
 I used a 48x48 sheet of Iron Wood from Home Depot, 12 bucks for the full sheet  1/4 inch width.  Cut with the "super long reach 1/16 in upcut 1/8 inch shaft bit.  
+
 https://bitsbits.com/index.php?main_page=product_info&cPath=138_2_85&products_id=677
+
+
 
 Still have to clean out the holes and a few were a little mis-shapped but it cut great.    Have fun my friend!
 
@@ -31,6 +36,7 @@ If you have trouble with the Gcode, I am on my way home and think I need to cent
 Posted on **2017-04-12 17:43:04** by **blsteinhauer88**:
 
 Here is the fixed Gcode for the Stacking box:
+
 https://www.dropbox.com/s/cuqz8nglybb9boi/Stacking%20Box.nc?dl=0
 
 ---
@@ -75,7 +81,11 @@ Posted on **2017-04-13 06:06:23** by **blsteinhauer88**:
 
 https://www.dropbox.com/s/gpq0j1slpvxfj4j/Stackable_Box_mini.dxf?dl=0
 
+
+
 https://www.dropbox.com/s/zzp1egww8eb6wnh/Stackable_Box_mini.svg?dl=0
+
+
 
 Here is both .dfx and .svg!
 

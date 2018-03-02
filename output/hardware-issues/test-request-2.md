@@ -3,9 +3,15 @@ Posted on **2017-05-22 23:24:04** by **davidlang**:
 
 I think we need to do a test and see if the chain brackets are flexing, I'd bet that they are.
 
+
+
 could someone please put a square to the brackets while it is off the machine, make sure they are square, then hook the sled to the chains and check if they remain square, and give us an idea of how much they flex from location to location.
 
+
+
 Please hook the chains to the uppermost holes to give us the worst-case situation.
+
+
 
 The lowest tension is going to be when at the bottom corner opposite the motor, the highest tension is going to be the top center.
 

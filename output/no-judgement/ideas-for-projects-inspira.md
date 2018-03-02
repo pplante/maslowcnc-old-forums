@@ -2,10 +2,15 @@
 Posted on **2017-03-05 05:47:03** by **neilmunro**:
 
 So what will I make?
+
 Lacking in immagination (which is why I am not a designer, I came across this site.... 
+
 http://www.cncrouting.co.uk/projects/
 
+
+
 Plywood car anyone?
+
 I suggest a list of such sites for us to peruse on a wet London Sunday afternoon!
 
 ---
@@ -19,6 +24,8 @@ Or a 43 degree C summer day down under. Good idea Neil, Where do we list sites?&
 Posted on **2017-03-06 12:15:33** by **Bar**:
 
 Great idea! I made a wiki page here: https://github.com/MaslowCNC/GroundControl/wiki/Project-Websites
+
+
 
 Which sites am I missing?
 

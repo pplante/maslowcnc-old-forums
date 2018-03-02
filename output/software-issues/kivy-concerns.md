@@ -3,22 +3,40 @@ Posted on **2017-06-04 11:22:10** by **matthewrr**:
 
 Hey folks,
 
+
+
 Getting some issues trying to get Ground Control updated and humming happily with Kivy.  Here's the terminal output from Linux Mint.
 
+
+
  sudo /home/makerstation/Downloads/GroundControl-master/main.py
+
 /home/makerstation/Downloads/GroundControl-master/main.py: 5: /home/makerstation/Downloads/GroundControl-master/main.py: 
+
+
 
 Kivy Imports
 
+
+
 : not found
+
 from: can't read /var/mail/kivy.config
+
 /home/makerstation/Downloads/GroundControl-master/main.py: 7: /home/makerstation/Downloads/GroundControl-master/main.py: Syntax error: word unexpected (expecting ")")
+
+
 
 Any suggestions?
 
+
+
 Also, I'd kill for an auto-update on Ground Control. 
 
+
+
 Thanks,
+
 Matthew
 
 ---
@@ -98,11 +116,17 @@ Hey, all of that you posted shows in terminal when I fire up GC. Unfortunately, 
 Posted on **2017-06-05 08:54:24** by **gero**:
 
 GC should display this:
+
 Connected on port /dev/ttyACM0
+
 Sending: B03 A2444 C1222 Q3005.8 E480.61 F304.8 R155 H52 I1 J8148.0 K10 M6.35 N2.3 P7560.0   
+
 Sending: B05
+
 Changing the port in >>Actions>>Port should display:
+
 update ports
+
 /dev/ttyACM0
 
 ---

@@ -15,6 +15,8 @@ Posted on **2017-02-01 10:52:46** by **TheRiflesSpiral**:
 
 Bar, (Or Hannah... sorry not sure who wrote the form) Click "Send" then "Add Collaborators" and set the sharing settings under "Who has access" to "On - Anyone with the link"
 
+
+
 That should sort it out.
 
 ---

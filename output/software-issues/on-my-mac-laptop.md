@@ -3,7 +3,11 @@ Posted on **2017-03-24 15:50:43** by **carlosrivers**:
 
 So when I run Ground Control with the Sled G-Code it crashes.
 
+
+
 I do the same thing on my Mac Desktop and it loads it perfectly. I see the colors and the pathway.
+
+
 
 What could it be?
 
@@ -36,6 +40,8 @@ Posted on **2017-03-24 18:19:24** by **carlosrivers**:
 Posted on **2017-03-24 18:22:24** by **Bar**:
 
 Best possible answer :-)
+
+
 
 Thanks for letting me know what worked so if someone else has the same issue I can help them
 

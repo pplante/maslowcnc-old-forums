@@ -8,13 +8,21 @@ Does anyone know if it is possible to use a Arduino Uno and a Adafruit Motor shi
 Posted on **2017-06-02 05:32:09** by **gero**:
 
 Hello @dennisgislum
+
 From my novice opinion, the general answer would be “Yes”.
+
 It’s open source and you are free to modify anything to make it work.
+
 So it is possible.
+
 The downside is quite huge however, compared to the savings.
+
 You might need to skip the automated Z-Axis due to reduced number of pinouts.
+
 You also might need to strip down the firmware code, due to reduced memory.
+
 The machine settings stored in the eeprom of the Mega and the processing speed are 2 more things that would need to be considered.
+
 So out of the box, “No”, I don’t think this will work.
 
 ---
@@ -23,7 +31,11 @@ Posted on **2017-06-02 05:47:56** by **dennisgislum**:
 
 Hi gero
 
+
+
 Thanks for your reply.
+
+
 
 Everything you write makes sense.
 

@@ -20,6 +20,7 @@ I worry that my local suppliers will look at me funny if I ask about "organic, f
 Posted on **2017-02-02 08:03:33** by **scottsm**:
 
 Thinking about the bee hives they show, I wouldn't worry about food grade plywood. In general bee ware is made from non-resinous wood chosen for low cost. Here in the northwest, hemlock or fir but not cedar or redwood. The internal surfaces that the bees come in contact with are generally not painted or finished - they do a great job of coating their home with propolis. 
+
 Moisture would be a greater concern, the process of turning nectar into honey involves driving a lot of water out of it. The plywood glue should be moisture resistant at least.
 
 ---
@@ -33,6 +34,8 @@ I know when we went to the local lumber yard to talk to the guy about FSC certif
 Posted on **2017-02-02 13:01:06** by **chadzimmerman**:
 
 You can use regular plywood, but it must be well drained and sealed completely. 
+
+
 
 What I would do is edge join a rot resistant wood to the size you need then cut on Maslow.
 
@@ -53,6 +56,8 @@ You could seal the plywood with tabletop epoxy (minimum 3 coats, as the first co
 Posted on **2017-02-08 21:20:19** by **mcginniwa**:
 
 It might be worth talking to some local woodworkers of different stripes that might be sourcing that kind of thing already.
+
+
 
 For example I met Jack from https://organicdynamic.co.nz at a eco show and asked him about plywood when we were discussing CNCs. He said he knew a direct supplier that had better prices for buying direct. I plan to circle back and get the contact info. Also take a surfboard building workshop from Jack when my surfing can justify it ;)
 

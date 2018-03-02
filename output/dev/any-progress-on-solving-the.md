@@ -3,7 +3,11 @@ Posted on **2017-05-25 10:40:52** by **davidlang**:
 
 While Bar was busy traveling in the last week, we had some people trying the new double-pid firmware and reporting that when the Z axis was moving (and the machine should have otherwise been still), the motors were moving around a bit.
 
+
+
 Has anyone had success in tweaking the PID loops to stabilize it?
+
+
 
 Does this solve the inaccuracies we were seeing in Y positioning?
 
@@ -55,9 +59,15 @@ Posted on **2017-05-25 11:43:46** by **Bar**:
 
 Chattering and the delay between hold and the machine pausing are both issues on my list. Skipping code is new to me and sounds like a top priority issue.
 
+
+
 Reducing the step size for yesterday's version should help the chattering somewhat, but the PID still needs to be tuned. 
 
+
+
 If we want to get technical I think that the issue comes from Kd being 0 for the speed control. Kd is zero because the speed measurements are pretty noisy so we need to add some software filtering before the signal is going to be clean enough to use with derivative feedback.
+
+
 
 The delay between when we press the hold button and when the machine stops is because the machine now has multiple lines of gcode in it's internal buffer. Pressing hold stops sending code to the machine, but it will still run what it has in buffer. That used to be just the line it was already running, which wasn't so bad. We may want to implement a hold feature in firmware that pauses the machine immediately.
 
@@ -85,6 +95,8 @@ Posted on **2017-05-25 12:02:14** by **Bar**:
 
 :( Very strange! It seems like you are absolutely correct that it skipped that  last area. Do you have the file that it was running so I can try to duplicate the issue?
 
+
+
 Was the chattering still happening?
 
 ---
@@ -104,6 +116,8 @@ Posted on **2017-05-25 12:07:50** by **blsteinhauer88**:
 Posted on **2017-05-25 12:10:57** by **Bar**:
 
 Ok, I will try to duplicate the issue. The z-axis ramping issue is one that I had hoped we solved, I hadn't seen it in a little while so good to know that is still a thing.
+
+
 
 Beautiful design, sorry for the issue.
 
@@ -131,9 +145,15 @@ Posted on **2017-05-25 15:21:23** by **Bar**:
 
 I think the issue has to do with the fact that this file uses only the G1 command so that curves are made up of many very small line segments which aren't being run smoothly. Instead there is a slight pause between the execution of each line which is causing the motors to move jerkily. 
 
+
+
 The fact that there are so many line segments is also causing the self calibration process to behave strangely. 
 
+
+
 Why this is affecting the z-axis is a mystery to me, because that should be a separate system.
+
+
 
 We may need to add path planning and look-ahead to to get this to be truly smooth. We can start by making lines process faster, and look into why the PID loops are acting so weird.
 
@@ -161,6 +181,8 @@ Posted on **2017-05-25 16:43:20** by **Bar**:
 
 I think that's a great idea that I wish I had done more of from the beginning. The biggest drawback to Grbl is pretty chip specific (lots of addressing registers directly) if I remember right. Can you even compile your own version of Grbl with the Arduino IDE? I vaguely remember it relying on some closed compiler.
 
+
+
 Neither of those things would prevent us from using their path planning and gcode reading code.
 
 ---
@@ -168,6 +190,7 @@ Neither of those things would prevent us from using their path planning and gcod
 Posted on **2017-05-25 17:10:42** by **davidlang**:
 
 apparently you can now.
+
 https://github.com/gnea/grbl/wiki/Compiling-Grbl
 
 ---
@@ -181,6 +204,8 @@ Very cool! If you ever want to pull any of their code into the firmware that's a
 Posted on **2017-05-25 17:21:53** by **davidlang**:
 
 I I did some digging on this topic a little while ago, and I ended up deciding that it would be easier to implement maslow movement inside grbl than to try and move the gcode processing and planning the other way. see the topic implement maslow kinematics in grbl?
+
+
 
 The chip specific things will only matter if/when we try to move off of the standard arduino boards to something significantly faster
 
@@ -214,9 +239,15 @@ Posted on **2017-05-26 14:50:13** by **Bar**:
 
 Alright, I believe that the latest firmware and GC should take care of the chattering. 
 
+
+
 There were a two issues 1) when dealing with files like those in which arcs are made up of many small lines the firmware wasn't processing the lines quickly enough (or really it wasn't requesting the next line early enough). 2) The motors weren't dis-engaging when they aren't needed
 
+
+
 The result of fixing both those things is that we can cut faster and smoother. Here's a video of part of my test cut of that file: https://www.youtube.com/watch?v=FE2s2nwuZ3g
+
+
 
 Sorry about the video quality, it was shot on my phone.
 
@@ -238,6 +269,8 @@ Posted on **2017-05-28 21:26:30** by **Bar**:
 
 I know! It's way too nice out to be inside.
 
+
+
 No rush, aslong as you aren't waiting on me :)
 
 ---
@@ -245,6 +278,7 @@ No rush, aslong as you aren't waiting on me :)
 Posted on **2017-05-29 03:46:09** by **gero**:
 
 @blsteinhauer88
+
 I love the opposites :-) Here it climes to a spring 40C/104F. We will not see a cloud again until November. It is the holy month of Ramadan, so no cigarette, no eating or drinking outside from sunrise to sundown. No way you will find me outside until October! The air-conditioned Maslow-Room is the place to be, if it's not the office or the car.
 
 ---
@@ -259,7 +293,11 @@ Posted on **2017-05-29 13:49:11** by **rancher**:
 
 Right there with you B.
 
+
+
  [IMG_4134s](//muut.com/u/maslowcnc/s3/:maslowcnc:ReZT:img_4134s.jpg.jpg)
+
+
 
  [IMG_4140s](//muut.com/u/maslowcnc/s3/:maslowcnc:KNa8:img_4140s.jpg.jpg)
 
@@ -286,6 +324,8 @@ Is that the fire box in the base? Do you smoke with it as well as grilling?
 Posted on **2017-05-29 15:50:29** by **rancher**:
 
 Yes and yes.  You can see the fuel and fire in those photos.
+
+
 
 Smoking requires a different configuration, and believe me, I have a few of them!
 

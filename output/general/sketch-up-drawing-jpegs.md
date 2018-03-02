@@ -14,6 +14,7 @@ If your phone browser supports HTML 5 and has a fairly hefty processor, you coul
 Posted on **2017-02-09 14:41:49** by **scottsm**:
 
 Here are some quick jpegs.
+
  [Machine Back](//muut.com/u/maslowcnc/s3/:maslowcnc:VrwE:machineback.jpg.jpg) [Machine Front](//muut.com/u/maslowcnc/s3/:maslowcnc:yd7N:machinefront.jpg.jpg) [Machine Iso](//muut.com/u/maslowcnc/s3/:maslowcnc:iLYR:machineiso.jpg.jpg) [Machine Side](//muut.com/u/maslowcnc/s3/:maslowcnc:R7HS:machineside.jpg.jpg)
 
 ---
@@ -21,6 +22,8 @@ Here are some quick jpegs.
 Posted on **2017-02-10 08:25:12** by **tjdux**:
 
 Thanks a ton for those.  With how popular movie Web use is I can't imagine I'm not the only one who will find those handy.  
+
+
 
 Also gonna test that my.sketchup.com. thanks guys.
 

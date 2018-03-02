@@ -15,6 +15,8 @@ Posted on **2017-04-14 19:49:41** by **davidlang**:
 
 what's wrong with asking questions here? or as comments to the existing videos?
 
+
+
 live interaction is very limiting in the number of people who can participate, simply due to scheduling issues. It's possible that there is enough value in it to make it worthwhile. Personally, I'd rather have a place that questions can be asked at any time, not just during a chat, and where the answers will remain in place for others to find, say a web forum of some kind :-)
 
 ---
@@ -28,8 +30,11 @@ The QA forum is great, but I'm sure some people would love to just talk CNC. I'v
 Posted on **2017-04-14 20:39:05** by **jbarchuk**:
 
 If a group want to get together to do that then by all means go for it.
+
 Bar did do a vid in that style to explain router features, requirements to operate under Maslow, and other pluses, and minuses.
+
 Personally I absolutely agree with @davidlang mainly because I don't have time to participate only a tiny amount, meaning contribution as compared to learning. I can read very fast but usually think very slowly (because I have so much history to filter through.) Very frequently I take hours or days to think of the right answer or solution to something.
+
 Definitely give it a try. Many people prefer that format. It's a  'digital meetup' style thing. As always, schedules vary widely.
 
 ---
@@ -37,6 +42,8 @@ Definitely give it a try. Many people prefer that format. It's a  'digital meetu
 Posted on **2017-04-14 22:25:42** by **mcginniwa**:
 
 @carlosrivers different things (and different combination of things) work for different people. I say give it a try.
+
+
 
 You'll probably get a more realistic feel for the response if you organize the specifics of time and how to get connected, etc. and then invite people. Maybe also describe a couple possible topics for the first one.
 

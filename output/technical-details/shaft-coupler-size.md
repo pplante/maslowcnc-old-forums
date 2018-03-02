@@ -3,7 +3,11 @@ Posted on **2017-05-30 09:37:51** by **skuba**:
 
 Hey everyone.  I am having trouble selecting a coupler for the Z axis for my router.  The router is a Triton 1/2" Precision Router.  It can be found on Amazon here:
 
+
+
 https://www.amazon.com/Triton-TRA001-Precision-Plunge-Router/dp/B00779ND0Q
+
+
 
 Would anyone be able to tell me which coupler I should choose?  Thanks in advance!
 
@@ -42,6 +46,7 @@ The diameter of the shaft needs to be measured, from 0:29 to 0:58 in this video 
 Posted on **2017-05-30 09:57:22** by **gero**:
 
 http://www.toolsparesonline.com/images/diagrams/330085%20MOF001%20Router%201400w.pdf
+
 part 31.6 is the shaft in ths part list, again, the is the MOF001
 
 ---
@@ -74,7 +79,11 @@ Posted on **2017-05-30 10:05:07** by **skuba**:
 
 So without having to take it apart... I found their site and scrolling down it says that a 1/4" collet and a 1/2" collet originally came with the machine:
 
+
+
 http://www.tritontools.com/en-AU/Product/Power%20Tools/Routers/TRA001
+
+
 
 Given that, which do you recommend I select?
 

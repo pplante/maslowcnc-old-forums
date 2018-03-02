@@ -9,9 +9,15 @@ Posted on **2016-11-03 12:17:32** by **Bar**:
 
 That is one cool tool! I'd never seen one of those before. I can't wait to see how it turns out.
 
+
+
 Other than the thing about the needing a hole to start I think you have a real chance. I'm really excited to see how it works with some of the materials which are harder to cut using a router (like aluminum). Because the force of that blade is into and out of the material I bet it has a different set of strengths and weaknesses than a rotating bit which could expand the machine's capabilities. 
 
+
+
 The entire router sled it attached with two quick release pins, for easy servicing, but you could easily just have two sleds one for the Kutawl and one for a router and switch between them.
+
+
 
 Thanks for sharing that!
 

@@ -9,7 +9,11 @@ Posted on **2017-06-04 23:40:56** by **davidlang**:
 
 the unit provided in the kit is custom built
 
+
+
 it rotates at about 10 rpm, produces 30kg-cm of force and has 8148 pulses/rev on the encoder. This is a gear reduction motor with a 28 pulse/rev encoder on the motor and a 291:1 worm gear final drive.
+
+
 
 This is a bit of overkill, higher speeds may be usable, testers have had their sled ripped apart from the force of the two motors pulling on it, and you could probably go down to 2k or so pulses/rev
 
@@ -18,6 +22,7 @@ This is a bit of overkill, higher speeds may be usable, testers have had their s
 Posted on **2017-06-05 10:35:35** by **taimooryousaf**:
 
 Could I use these motors?
+
 (link)https://www.aliexpress.com/item/Geared-Motor-High-Torque-Reduction-Motor-with-Encoder-Srong-Self-locking-30RPM/32785000612.html?spm=2114.13010308.0.0.CPxnBq(link)
 
 ---
@@ -31,6 +36,8 @@ It doesn't look like they specify torque on that unit? I'd be wary of plastic ge
 Posted on **2017-06-05 11:13:59** by **davidlang**:
 
 I've seen at least one other person say that they intend to try using something that looks very close to that.
+
+
 
 If the torque is too low, then you will have trouble cutting in the top center (where the tension is highest) and may have to slow down your cut speeds. raising the motors higher above the workpiece (and possibly out a bit) will help if you run into grief like this.
 
@@ -58,6 +65,8 @@ Posted on **2017-06-08 14:24:32** by **willishf**:
 
 Posted links for motors that we are using in the Post titled 
 
+
+
 Calibration for different motor/gearbox
 
 ---
@@ -65,10 +74,15 @@ Calibration for different motor/gearbox
 Posted on **2017-06-21 21:41:05** by **peer89**:
 
 Hi
+
 I'm new to the Maslow Community and thinking about to Build my own Maslow here in Germany.
+
 Im looking for Motors and find these 
+
 https://www.ebay.de/itm/201837824564 
+
 Do you think they should work ?
+
 Greetings from Germany 😉
 
 ---
@@ -88,9 +102,13 @@ see the topic 'open source parts' where the exact motor/gearbox that maslow uses
 Posted on **2017-06-21 22:07:55** by **peer89**:
 
 The specifications are 
+
 5Nm
+
 120rpm
+
 24v
+
 I would use 24v Motor driver for those.
 
 ---
@@ -104,6 +122,7 @@ those motors are faster and more powerful than the stock maslow motors, so they 
 Posted on **2017-06-21 23:54:54** by **peer89**:
 
 thats the Pro of this motor ... they have allready an encoder on the motor ;)
+
 nice!
 
 ---
@@ -117,6 +136,7 @@ how many pulses/rev on the output?
 Posted on **2017-06-22 00:55:48** by **peer89**:
 
 i waiting for an answer from the seller. 
+
 i keep updating.
 
 ---

@@ -50,7 +50,9 @@ link now received by email.
 Posted on **2017-05-25 08:48:44** by **TomTheWhittler**:
 
 Had the same problem. Probably lost my place in line ;)
+
 Was ordering a second one to play with at work.
+
 At least I hope all the bugs will be stomped out by the time they ship.
 
 ---

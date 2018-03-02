@@ -3,7 +3,11 @@ Posted on **2016-10-27 21:17:59** by **TheRiflesSpiral**:
 
 I love how simple the current sled design is. The one drawback I see is that the chains don't pivot around the tool, making any instability caused by terrible materials or dull tools a potential for positional malfeasance. My solution is quite a bit more complex but accomplishes the goal. I'm sure others will see it and simplify it. I don't think it's too bad for my first Sketchup drawing. :)
 
+
+
 This would require 3/4" ply, some 6" schedule 40 pipe, six R6-2RS bearings and some fasteners. (And a Maslow to cut it out) ;-) I think the handles would have to come off the router base too.
+
+
 
 I attached an image, but I can make the drawing available as well... not sure how to share it though. [Über Sled](//muut.com/u/maslowcnc/s1/:maslowcnc:E8Uc:ubersled.png.jpg)
 
@@ -31,6 +35,8 @@ Posted on **2016-10-28 15:56:31** by **David Bernard**:
 
 Great design! I like how you have the small bearings ride on the larger pipe. You may want to adjust the position of the bearings moving the two on the bottom closer together to better support the load (always in tension through an arc of 90deg).
 
+
+
 Bar: How would this affect the software dynamics? Have you figured out a way to account for the rotation of the sled?
 
 ---
@@ -44,6 +50,8 @@ I haven't got it fully implemented, but I have got plan for how to make the soft
 Posted on **2016-10-28 23:50:36** by **David Bernard**:
 
 Sounds great! 
+
+
 
 Thinking about it more; the load on the bearings will always be directly opposite the chain attachment point.
 
@@ -65,6 +73,8 @@ Posted on **2016-11-09 07:43:14** by **TheRiflesSpiral**:
 
 Just FYI if anyone's interested: I visited a Tools Direct this weekend and measured some routers... the base plate on the Ridgid has an OD of just over 6" (I would guess more like 6.0625"). The other router they had was a 1.5hp Ryobi for $58 (a steal at that price!) and its base plate was more like 6.125")
 
+
+
 Since I plan on dedicating a router to Maslow, I'll likely pick up the Ryobi, which has the exact same Z-axis lead screw as the Ridgid.
 
 ---
@@ -78,6 +88,8 @@ IIRC, the ryobi has a 1/4" collet instead of the 1/2" of the ridgid
 Posted on **2016-11-15 21:12:01** by **karlthorp**:
 
 I love the concept of the über sled but I'm a little concerned that having the arms pivot one over the other might cause some unwanted twisting as one chain pulls over the other, you might be better off having the pivot points nested on the same plane and have the connecting arms on top of the pivots again on the same plane.
+
+
 
 All in all, I don't think it would be THAT big of a concern, I just worry about the possibility of the bit binding while cutting
 
@@ -93,7 +105,11 @@ Posted on **2016-11-16 12:36:03** by **TheRiflesSpiral**:
 
 One thing worth noting is that the purpose of Übersled is to greatly diminish positional inaccuracies when there is a disturbance to the sled... Take a look here: https://www.youtube.com/watch?v=heicyEEYcoM&t=208
 
+
+
 At the start is the situation I'm trying to replicate... The situation we have now with Maslow is similar to what you see at 4:09 in that video. Given the weight and forces involved, I expect positional malfeasance to be minimal, and when Bar has the math worked out for the offset angle, really we're probably splitting hairs. The Über sled is purely meant to account for those times when poor materials or a dull bit or uneven surface causes instability in the sled. In these cases, the standard sled could cause positional inaccuracies whereas Über sled may not.
+
+
 
 All this remains to be seen... Can't wait to get my hands on one!
 

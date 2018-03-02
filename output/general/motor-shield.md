@@ -9,6 +9,8 @@ Posted on **2017-06-07 03:17:57** by **davidlang**:
 
 not at this time, it's a custom built item (all opensource, so the details are all available on github)
 
+
+
 see https://github.com/MaslowCNC/Mechanics/issues/52 for another option that's out there.
 
 ---
@@ -22,6 +24,7 @@ Posted on **2017-06-07 07:33:36** by **Bar**:
 Posted on **2017-06-08 01:39:01** by **dennisbingham**:
 
 @Bar that would be amazing. I didn't know this project existed until the Tested video, and by the time I decided I definitely wanted in, I missed the Kickstarter. 
+
 I've been able to figure out a something that isn't too far from spec for most parts to at least get started trying the design out, but your motor controller is the thing that I was really worried about trying to substitute. I'm really excited that you might have extras available soon.
 
 ---
@@ -53,6 +56,8 @@ Do they make a encoder/dc motor drive that works with the arduino cnc stepper mo
 Posted on **2017-06-09 01:27:27** by **davidlang**:
 
 Which arduino cnc stepper motor shield ? :-)
+
+
 
 but since steppers need very different interfaces than DC/encoder motors, there are not many boards that support both (the one mentioned in the second post in this topic is an arduino/shield combination and it can have both stepper and dc/encoder motors on it.
 

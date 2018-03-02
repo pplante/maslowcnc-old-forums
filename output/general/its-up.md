@@ -2,6 +2,7 @@
 Posted on **2017-03-20 16:28:10** by **rancher**:
 
 Got it set up and running without too much trouble.  Here's a little video for you guys.
+
 https://youtu.be/GCR6Sk1qEkA
 
 ---
@@ -15,6 +16,7 @@ Dude nice, Im still having trouble loading up files to Ground Control. Is there 
 Posted on **2017-03-20 16:38:51** by **rancher**:
 
 There's a "user's guide".
+
  https://github.com/MaslowCNC/GroundControl/wiki/Ground-Control-Users-Guide
 
 ---
@@ -46,6 +48,8 @@ Sorry about the holes! :-)
 Posted on **2017-03-20 21:13:36** by **Bar**:
 
 I just watched this again, thank you so much for making the video, it was absolutely the highlight of my day. It feels so good to see that machine built by someone else. 
+
+
 
 I can't wait to see what we can all get done in the next two months :)
 

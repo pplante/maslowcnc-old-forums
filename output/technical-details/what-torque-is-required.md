@@ -15,6 +15,8 @@ Posted on **2017-06-03 09:41:15** by **davidlang**:
 
 The motors used on the maslow produce ~30Kg-cm force at full power. That's been enough to rip the wood of the sleds apart on some beta-tester's machines when things went wrong enough.
 
+
+
 note that you will not be able to use the maslow firmware with your steppers, you will have to end up writing your own (but it is all open source)
 
 ---

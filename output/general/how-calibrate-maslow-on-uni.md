@@ -32,6 +32,7 @@ you can see the exact commands issued in the ground control source
 Posted on **2017-05-29 09:45:44** by **scottsm**:
 
 There is some computation involved as well as setting up sprocket and chain positions. Parameters need to be changed based on previous measurements. It could be done, but it is far beyond simply running a series of B commands.
+
 One could write a set of .nc files and a procedure to edit them and run them to achieve the calibration, a cookbook recipe to avoid Kivy and GroundControl.
 
 ---

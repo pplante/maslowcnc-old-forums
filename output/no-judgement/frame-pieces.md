@@ -32,10 +32,15 @@ Good suggestion. I've made an issue for it [here](https://github.com/MaslowCNC/G
 Posted on **2017-04-14 09:51:25** by **boandersen**:
 
 For reference, here are the the videos talking about gcode/makercam/design
+
 Makercam generate gcode:
+
 https://www.youtube.com/watch?v=ocmYJlFGjXY
 
+
+
 design idea to completion:
+
 https://www.youtube.com/watch?v=W0mW_mm1iBI&t=174s
 
 ---

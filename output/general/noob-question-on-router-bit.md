@@ -9,6 +9,8 @@ Posted on **2016-11-27 21:27:42** by **Bar**:
 
 There are a lot of good options out there, but if you are looking for something you can buy locally I've played around with these http://www.homedepot.com/p/Diablo-1-4-in-Up-Spiral-Router-Bit-DR75101/204073552 which you can get at Home Depot and they work well. 
 
+
+
 You can find cheaper ones on Amazon or Ebay but the quality can vary.
 
 ---
@@ -53,7 +55,11 @@ Posted on **2016-11-29 16:05:34** by **chadzimmerman**:
 
 When dealing with router bits, you get what you pay for.  You pay cheap you are getting cheap.  It is worth paying that extra to get a good quality bit.  
 
+
+
 I would highly recommend not going to a 1/8" shaft.  You will find them snapping easily.  Unless you are cutting thin material, you are going to be doing at least 2-4 passes to cut through.  This will burn up cheap bits.
+
+
 
 Even with good quality bits, I have to swap out and resharpen on a regular basis.
 
@@ -81,6 +87,8 @@ Posted on **2016-11-29 17:39:03** by **chadzimmerman**:
 
 One example would be the Skill bits I use.  I can get one large piece cut (out of 1/2 of a 4x8 sheet).  Before I have to let it cool off and sharpen it back up.  With my Rockler bit, I have yet to resharpen it.  And I have been using it three years.
 
+
+
 Not bashing the low cost bits, just giving a bit of buyer be aware.  My wood working mindset is that I should not have to replace a tools any time soon.  :)  Well, ok.. did have to replace my miter saw well before I wanted too.. but my daughter drove over it..
 
 ---
@@ -88,6 +96,7 @@ Not bashing the low cost bits, just giving a bit of buyer be aware.  My wood wor
 Posted on **2016-11-29 18:49:04** by **rollandelliott**:
 
 those aren't specific examples, within a brand like rockler there are hundreds of router bits, some of them are cheap High speed steel some are more expensive carbide, and they wear out at different rates with different material.  carbide tends to last longer. I"ve used 1" long 1/18" bits to cut 3/4" thick HDPE plastic and I break a lot of them but I still use them vs 1/4" bits because they cut faster and make less mess.
+
 one has to do testing and find out what bits are good for them on the material they use.
 
 ---

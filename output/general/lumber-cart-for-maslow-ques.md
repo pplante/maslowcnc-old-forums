@@ -9,6 +9,8 @@ Posted on **2017-03-24 11:28:19** by **davidlang**:
 
 that looks like a wonderful base to use, just replace the a-frame parts with that cart.
 
+
+
 As for the casters, if you get locking ones you should have no troubles. If you use normal ones you run the risk that the cart moves when the router is moved around, which could end up with a resonance developing.
 
 ---
@@ -22,11 +24,17 @@ I agree with @davidlang, other than some common sense things like not having it 
 Posted on **2017-03-24 12:06:17** by **jbarchuk**:
 
 > @davidlang
+
 > As for the casters, if you get locking ones you should have no troubles. If you use normal ones you run the risk that the cart moves when the router is moved around, which could end up with a resonance developing.
+
 Resonance still could be an issue. At first I was thinking that the router makes only very high frequency vibrations, which shouldn't affect any reasonably strong frame. And if there were a problem with that I think Bar's machine should have already turned up the problem.
+
 But the motors make fairly powerful medium to low frequency vibrations. That's mitigated by the facts that the frequencies are constantly changing, -and- the sled is constantly moving. So the whole assembly is almost never in a 'stable' state.
+
 However the casters have an axle in the vertical dimension, all pointed the same way. It's not totally impossible that the axles and the bottom of the casters -could- rotate -if- the resonance is strong enough, regardless of the resonance not lasting very long. 
+
 Resonance is weird stuff. Everyone's seen a washing machine walk around. With  casters. I'd feel more secure if there were also a small jack device that lifts the casters off the floor a fraction of an inch after setting the frame in position.
+
 Another MAJOR plus of having casters would be to add a tiny generator at a low central point behind the main board, and run the router while pushing it down the street!! (The whole assembly then also needs a canopy to protect it from rain.)
 
 ---
@@ -58,6 +66,8 @@ I'm excited by the possibility of a combining a panel saw with the Maslow! So fa
 Posted on **2017-03-25 08:06:31** by **jwolter0**:
 
 Actually, I think locking casters could be more stable than a wood frame in direct contact with the floor.  The rubber in the caster wheels would help to damp vibrations.  (Engineer's disclaimer: I haven't done any calculations or created a Campbell diagram, but that's my gut feel.)
+
+
 
 I just posted my put at at multipurpose design.  It's really cool to see all the different ideas folks are coming up with.
 

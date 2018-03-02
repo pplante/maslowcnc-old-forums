@@ -2,17 +2,30 @@
 Posted on **2017-04-01 02:27:38** by **davidlang**:
 
 image
+
 https://camo.githubusercontent.com/f84865d0937855f81b79986262bdf947ec273e52/68747470733a2f2f766974616e612e73652f6f707233642f74626561722f62696c6465722f53696465766965775f726f745f6c6974656e2e4a5047
 
+
+
 video of it in action with interview/explination
+
 https://www.youtube.com/watch?v=Jk4fhQvNoaM
 
+
+
 github repo of the code/instructions
+
 https://github.com/tobbelobb/hangprinter
+
+
 
 instead of having a set of rails, this printer is suspended from overhead with three tethers going horizontally. With motors for each of the four lines (all mounted on the center), it can move around in 3d and print throughout a large area.
 
+
+
 Once we get our maslow kits up and running, it would be interesting to consider extending the concept to true 3d capabilities like the hangprinter has.
+
+
 
 It's interesting that he talks about measurements being +- 1cm as being "good enough" for his printing, but he does limit the printing to a reasonably small area of the overall footprint.
 
@@ -40,11 +53,19 @@ Posted on **2017-04-02 18:47:04** by **davidlang**:
 
 I've been thinking along similar lines. 
 
+
+
 Using chain would be a lot harder (not too hard on the horizontal lines, if you make teach end able to swivil)
+
+
 
 what to do with the extra chain after you take it up is a hard problem
 
+
+
 and the vertical axis would be a much harder thing to do.
+
+
 
 but if I'm seeing the prices correctly, the 3d printer should be able to be built for <$100
 
@@ -60,9 +81,15 @@ Posted on **2017-04-03 17:56:54** by **davidlang**:
 
 The problem with cable is gripping it and winding it.
 
+
+
 On the hangprinter, they have a problem even using thin fishing line that as they wind it around the pulley, one rotation of the pulley winds more line than the prior rotation. they even have a problem that one of the three vertical lines is consistently taken up a little more than the other two (they did a 20' tall print and noticed that the printer started tilting as it went higher)
 
+
+
 using heavier lines like a router would need would make the problem worse.
+
+
 
 If instead of winding a line around a big pulley and counting the rotation o the big pulley to get your amount of line, you were to just use the big pulley as to take up the slack, and used something else to do the pulling and measure the amount of line, you would avoid some of this problem, but you would have the problem of how to accurately grip and measure the cable.
 

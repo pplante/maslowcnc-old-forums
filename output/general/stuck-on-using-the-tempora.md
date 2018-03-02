@@ -3,7 +3,11 @@ Posted on **2017-04-25 08:49:48** by **MikeT**:
 
 I watched the "Setup machine dimensions" video, took and entered the measurements in the GC/Settings dialog, and double-checked them. The GC/Actions/Calibrate Chain Length - Automatic step seemed to go OK, ending with the two chain ends dangling a couple inches above the floor. But when I clicked on GC/Actions/Calibrate Motors, the calibration process pulled the temporary sled above the top of the sheet of plywood, almost up to a direct line between the motors. At that point there was so much strain on the chain and motors that I thought something was about to break - clearly this is not how the Calibrate Motors step is supposed to work!
 
+
+
 First, any ideas what might be going wrong in the Calibrate Motors step? Second, how do I quickly turn off the motors when some dangerous condition arises and I want to stop them quickly?
+
+
 
 Thanks!
 
@@ -13,7 +17,11 @@ Posted on **2017-04-25 08:56:54** by **rancher**:
 
 I don't know the answer to your first question, but I have an idea for the second that just came to me and I think I'll test since I have the part.
 
+
+
 Everyone, is there any problem with killing the 12v to the motors as an emergency stop?  Amazon has super cheap 12v wireless relays, and I have a couple on hand.  I've almost torn my sled apart on numerous occasions, it would be awesome to have an emergency stop remote.
+
+
 
 Will that break anything?
 
@@ -23,7 +31,11 @@ Posted on **2017-04-25 09:07:53** by **Bar**:
 
 Cutting the 12v supply to the motors is a great option. It shouldn't effect anything other than the motors, because the 12 volt supply is isolated from the rest of the circut.
 
+
+
 Another option is to unplug the USB cord, that will also stop the machine immediately, however it won't remember it's position when you turn it back on, so you will need to do the calibrate chain lengths step again.
+
+
 
 As far as the original question, I'm a little stumped. That's not the behavior I would expect from calibrate motors at all. This was the first time you had run the calibrate motors function? Was it one or both motors that turned? Was any text printed in the text window in the bottom right of Ground Control? It might be worth trying to repeat the process without the sled attached, so that we can better figure out what is happening.
 
@@ -56,6 +68,8 @@ Bar, when you say "repeat the process without the sled attached", do you mean I 
 Posted on **2017-04-25 09:18:33** by **Bar**:
 
 Good question.
+
+
 
 I would unclip the ends of the chain from the sled and just leave them hanging or even take them off the motors entirely. That way if you see the same behavior where the sled tries to go off the top you can continue to observe what will happen, do the motors stop eventually? I would leave all the settings as is for now, but we might want to set them back to the defaults if we can't find another cause of the problem.
 
@@ -160,7 +174,9 @@ Is any text printed on the console in Ground Control when that happens?
 Posted on **2017-04-25 10:34:54** by **MikeT**:
 
 Testing left-axis motor: Direction 1, Fail; Direction 2; Pass
+
 Testing right-axis motor: Direction 1, Pass; Direction 2; Pass
+
 So direction #1 on the left-axis motor does not appear to be happy!
 
 ---
@@ -271,9 +287,15 @@ Posted on **2017-04-25 11:10:28** by **Bar**:
 
 Great! This is a big experiment.
 
+
+
 Next to each connector there are 4 diodes (the little black squares)
 
+
+
 [Diodes](//muut.com/u/maslowcnc/s1/:maslowcnc:Xww5:diodes.jpg.jpg) 
+
+
 
 You should be able to just pull off the ones next to the connector which isn't working with needle nose pliers (or unsolder them if you want to do it right)
 
@@ -523,8 +545,13 @@ Posted on **2017-04-25 13:11:54** by **MikeT**:
 
 "Falls to pieces"  is where it's at now. I pulled the diodes and tried the 3rd (from the left) connector, then tried the 2nd connector, and finally tried the 4th (right-most) connector. In all cases, Test Motors/Encoders reports:
 
+
+
 Testing left-axis motor: Direction 1, Fail; Direction 2 Fail
+
 Testing right-axis motor: Direction 1 Pass; Direction 2, Pass
+
+
 
 Then I tried Calibrate Chain Length - Automatic. With all three connectors, the left motor would never move at all, then when I hit the STOP button the right motor would rotate counter-clockwise slowly, feeding out the chain. I'd say communications with the left motor is gone.
 
@@ -540,8 +567,12 @@ Posted on **2017-04-25 13:14:22** by **Bar**:
 
 When the left motor is plugged into the middle port where the z-axis would normally be, what do you see for the z-axis motor test results?
 
+
+
 Testing left-axis motor: Direction 1, Fail; Direction 2 Fail
+
 Testing right-axis motor: Direction 1 Pass; Direction 2, Pass
+
 Testing z-axis motor: Direction 1 ?&quest;
 
 ---
@@ -616,9 +647,15 @@ Posted on **2017-04-25 13:49:55** by **Bar**:
 
 Alright, so it turned out to not take very much time at all :-)
 
+
+
 When you get back, give the version of the firmware [here](https://github.com/MaslowCNC/Firmware/tree/move-left-motor-to-z-axis) a try. 
 
+
+
 To download it use the green "Clone or Download" button in the upper right corner as shown in  [this picture](//muut.com/u/maslowcnc/s3/:maslowcnc:3fvL:howtodownload.jpg.jpg) 
+
+
 
 Let me know how it goes!
 
@@ -639,6 +676,8 @@ Sounds like progress. That's a good guess about some hard coded value. Let me se
 Posted on **2017-04-26 09:24:29** by **Bar**:
 
 I'm seeing both motors calibrate correctly, but I think I might have an idea of what is going on. There might be some weird junk stored in the Arduino's memory because of all the changes we've made. 
+
+
 
 Give clicking *Actions -> Advanced (in the bottom right) -> Wipe EEPROM* then *Actions -> Calibrate Motors* then *Actions -> Calibrate Chain Lengths* again
 
