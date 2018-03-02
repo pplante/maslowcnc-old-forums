@@ -4,5 +4,6 @@ This repository is a browsable backup of the old forums for Maslow CNC.  Previou
 
 GitHub allows you to browse old threads, and even allows you to search the content!
 
-# [Browse Forums](./output/)
-# [Search Forums](./search?utf8=✓&q=&type=)
+## [Browse Forums](./output/)
+## Search
+Use the textbox in the GitHub header to search this repository.
