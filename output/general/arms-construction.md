@@ -31,7 +31,7 @@ I was wanting to build arms while waiting for my kit(to skip the step of a tempo
 
 Posted on **2017-06-05 04:56:45** by **mattnelson**:
 
-Yes there are SVG files of the arms.  Look under the Source section of this website, then under Mechanical. [IMG_0031](/images/cG/DC/cGDC_img_0031.jpg.jpg) [IMG_0033](/images/7c/lj/7clj_img_0033.jpg.jpg) [IMG_0034](/images/8A/CP/8ACP_img_0034.jpg.jpg) [IMG_0036](/images/Ls/BD/LsBD_img_0036.jpg.jpg)
+Yes there are SVG files of the arms.  Look under the Source section of this website, then under Mechanical. [IMG_0031](/images/cg/cgdc_img_0031.jpg.jpg) [IMG_0033](/images/7c/7clj_img_0033.jpg.jpg) [IMG_0034](/images/8a/8acp_img_0034.jpg.jpg) [IMG_0036](/images/ls/lsbd_img_0036.jpg.jpg)
 
 ---
 

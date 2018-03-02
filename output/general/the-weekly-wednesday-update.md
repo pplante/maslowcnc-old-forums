@@ -39,7 +39,7 @@ Download the RBZ file. Go to Window > Extension Manager and click "Install Exten
 
 Posted on **2017-01-19 12:24:30** by **sjsandman**:
 
-Hi, thanks for the reply. I did try that and I can see the plugin, but it says it is unsigned. Not sure what that means. [Plugin](/images/HJ/jK/HJjK_plugin.jpg.jpg)
+Hi, thanks for the reply. I did try that and I can see the plugin, but it says it is unsigned. Not sure what that means. [Plugin](/images/hj/hjjk_plugin.jpg.jpg)
 
 ---
 

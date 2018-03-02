@@ -25,7 +25,7 @@ The sled should be as large, flat (with upcurved edges,) slippery-smooth and fea
 
 The router mounting hardware isn't included because that's different for every router.
 
-The chain attachment brackets have flathead countersunk screws so all it needs is a minor counterbo re, but I can't see by eye what the angle is. They're hex drive with hex key included. [Mcnc-sled-l-bracket-bolts-01](/images/yt/SE/ytSE_mcncsledlbracketbolts01.png.jpg)
+The chain attachment brackets have flathead countersunk screws so all it needs is a minor counterbo re, but I can't see by eye what the angle is. They're hex drive with hex key included. [Mcnc-sled-l-bracket-bolts-01](/images/yt/ytse_mcncsledlbracketbolts01.png.jpg)
 
 ---
 

@@ -5,7 +5,7 @@ I've gotten a number of people asking to see a square, and I keep putting it off
 
 
 
-I cut a crutch last night (see today's kickstarter update) that was sent in my one of our backers, and it produced a scrap piece with a right angle in it, so without further ado here's a right angle in a carpenters square  [RightAngle](/images/3O/rb/3Orb_rightangle.jpg.jpg) .
+I cut a crutch last night (see today's kickstarter update) that was sent in my one of our backers, and it produced a scrap piece with a right angle in it, so without further ado here's a right angle in a carpenters square  [RightAngle](/images/3o/3orb_rightangle.jpg.jpg) .
 
 
 

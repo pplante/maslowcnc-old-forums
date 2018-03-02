@@ -15,7 +15,7 @@ Good question!
 
 
 
-Yes. One of our backers sent in this dragon to cut a couple weeks ago and I cut it from MDF core, but we didn't really show any close ups of the cut edges, so here they are.  [Face](/images/Xr/b5/Xrb5_face.jpg.jpg)  [Edge3](/images/kX/u0/kXu0_edge3.jpg.jpg)  [Edge2](/images/dx/VQ/dxVQ_edge2.jpg.jpg)  [Edge1](/images/PF/K5/PFK5_edge1.jpg.jpg)
+Yes. One of our backers sent in this dragon to cut a couple weeks ago and I cut it from MDF core, but we didn't really show any close ups of the cut edges, so here they are.  [Face](/images/xr/xrb5_face.jpg.jpg)  [Edge3](/images/kx/kxu0_edge3.jpg.jpg)  [Edge2](/images/dx/dxvq_edge2.jpg.jpg)  [Edge1](/images/pf/pfk5_edge1.jpg.jpg)
 
 ---
 

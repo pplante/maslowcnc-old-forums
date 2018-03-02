@@ -143,7 +143,7 @@ The MaslowBH base is only vertical in the design. From the Scetchup file I got a
 
 Posted on **2017-02-18 03:30:09** by **gero**:
 
-Screenshot tilted  [Side-tilted](/images/iT/qj/iTqj_sidetilted.jpg.jpg)
+Screenshot tilted  [Side-tilted](/images/it/itqj_sidetilted.jpg.jpg)
 
 ---
 
@@ -197,13 +197,13 @@ I've thought about that too because for sure, or the geometry gets whacked when 
 
 To account for that variation I think an adjustable mount can be added at one of two places. This first one I think is better than the second. Here's a pic of the sled end of the chain.
 
- [Maslowcnc-01-sled-chain-attach-01](/images/uU/Pr/uUPr_maslowcnc01sledchainattach01.png.jpg) 
+ [Maslowcnc-01-sled-chain-attach-01](/images/uu/uupr_maslowcnc01sledchainattach01.png.jpg) 
 
 That bracket that the chain mounts to has plenty of extra length to easily be variable. That's the easiest way to do this because don't need a ladder to reach up to the motor mount. (Yeah, keep that in mind -- after the machine is built any work done at the motor end of the deal needs a ladder. Or tip it over an lay it flat, which kills the 'compact space saving' side of the equation.)
 
 Or, at the motor mount end of the chain, this pic:
 
- [Maslowcnc-motor-gear-chain-closeup-01](/images/uS/ej/uSej_maslowcncmotorgearchaincloseup01.png.jpg) 
+ [Maslowcnc-motor-gear-chain-closeup-01](/images/us/usej_maslowcncmotorgearchaincloseup01.png.jpg) 
 
 The 'master' plate in the pic that the motor mounts on can remain fixed. Imagine removing the motor , add another 'slave' plate that -slide- forward and backward, fastened to the lower plate with bolts that go through -slots-. Then the motor is mounted on that slave plate.
 
@@ -289,7 +289,7 @@ It is done.
 
 Despite mother nature's attempt to bring this island under sea level, 3 times in a row, my car giving up on me because it refused to be a boat. MaslowBH is alive and back on track.
 
-Nothing to be proud off, and not recommended for copy. More a: DO NOT TRY THIS AT HOME! It turned out as Frankensteins Monster of a Maslow. I hope I can find some time soon to post all the failures on this approach. It is hanging on the wall and supports it's weight plus mine. (tested). The car jack works well and can even be turned by hand. [Base](/images/U5/JJ/U5JJ_base.jpg.jpg)  [Jack](/images/4E/G8/4EG8_jack.jpg.jpg)
+Nothing to be proud off, and not recommended for copy. More a: DO NOT TRY THIS AT HOME! It turned out as Frankensteins Monster of a Maslow. I hope I can find some time soon to post all the failures on this approach. It is hanging on the wall and supports it's weight plus mine. (tested). The car jack works well and can even be turned by hand. [Base](/images/u5/u5jj_base.jpg.jpg)  [Jack](/images/4e/4eg8_jack.jpg.jpg)
 
 ---
 
@@ -339,7 +339,7 @@ The key failures:
 
 - For some stupid reason, I had my m ind set that it would be easier to have the complete frame mounted, before attaching it to the wall. This turned out to be the worst approach for alignment of 5 holes through 2 beams and in the wall. Max 2 out of 5 screws could be aligned with the anchors. After a few hours of helpless attempts to get it mounted anyway, assembly 2 was followed by disassembly 2.
 
-- The hinges needed to be fixed before hanging anything on the wall, because there was no space to the ceiling to do that later. The attempt to mount the wall beam and the frame beam without the rest of the frame worked out. Here I discovered that my workaround with holes in the frame beam, to get my wrench through, was totally unnecessary. Without the rest of the frame attached, I could just flip the front beam upwards with the hinges, to tighten the screws under it :-) . [Wrench](/images/FF/Gs/FFGs_wrench.jpg.jpg) 
+- The hinges needed to be fixed before hanging anything on the wall, because there was no space to the ceiling to do that later. The attempt to mount the wall beam and the frame beam without the rest of the frame worked out. Here I discovered that my workaround with holes in the frame beam, to get my wrench through, was totally unnecessary. Without the rest of the frame attached, I could just flip the front beam upwards with the hinges, to tighten the screws under it :-) . [Wrench](/images/ff/ffgs_wrench.jpg.jpg) 
 
 Failures that turned out to be good: 
 
@@ -347,15 +347,15 @@ Failures that turned out to be good:
 
 The good thing about this mistake is, that I can skip the base sheet now. I can cut on 1 sheet directly without having to worry that I cut into my frame. A reduced weight of 1 sheet is another advantage. 
 
-- Having the 4 ears cut by my dear fellows from Gandhi Land was a bad idea. Their level of acceptable tolerance is far off from mine. I did not check the angles, so my attempted 90 degree cutouts are not near a right angle. The advantage is that I need to squeeze the sheet in and it is clamped by this mistake. [Frame](/images/E7/ei/E7ei_frame.jpg.jpg) 
+- Having the 4 ears cut by my dear fellows from Gandhi Land was a bad idea. Their level of acceptable tolerance is far off from mine. I did not check the angles, so my attempted 90 degree cutouts are not near a right angle. The advantage is that I need to squeeze the sheet in and it is clamped by this mistake. [Frame](/images/e7/e7ei_frame.jpg.jpg) 
 
-I hope this post could provide some smiles or even laughter and can help others not to do such silly mistakes. Regards from the tiny Kingdom of Bahrain, Gero. [MaslowBH-Hinged](/images/br/V2/brV2_maslowbhhinged.jpg.jpg)
+I hope this post could provide some smiles or even laughter and can help others not to do such silly mistakes. Regards from the tiny Kingdom of Bahrain, Gero. [MaslowBH-Hinged](/images/br/brv2_maslowbhhinged.jpg.jpg)
 
 ---
 
 Posted on **2017-03-23 12:05:27** by **gero**:
 
-P.S. If the MaslowBH would ever cut itself some legs, they would probably look something like this quick and dirty sketch.  [Legs](/images/9V/BL/9VBL_legs.jpg.jpg) With less holes, for more structural strength. And I would need a couple of those. The flat-pack, to-go version needs a little more thoughts.
+P.S. If the MaslowBH would ever cut itself some legs, they would probably look something like this quick and dirty sketch.  [Legs](/images/9v/9vbl_legs.jpg.jpg) With less holes, for more structural strength. And I would need a couple of those. The flat-pack, to-go version needs a little more thoughts.
 
 ---
 
@@ -455,7 +455,7 @@ To face the CAD, take a look at Easel. It lets you create boxes or circles or ju
 
 Posted on **2017-04-08 15:29:59** by **gero**:
 
-No software movements today. :-( Part of the weekend stolen by work and the other part from me insisting to have different motor mounts. Shame on me for this design, but live is beating me up this year and a trip to the hardware store is out of question. So the scrap lying around had to do for the moment. A rusty TV-Mount was found and used.  [MtMnt1](/images/WS/DQ/WSDQ_mtmnt1.jpg.jpg)  [MtMnt2](/images/XH/TU/XHTU_mtmnt2.jpg.jpg) Cutting the gap for a U-Profile was hell at first, needed fiddling from both sides, at the end I could get rid of my thought how to tighten it. My jigsaw not cutting straight through 2 sheets made it so tight. I adjust buy ~0.5 mm by hammering in or out.  [U-cut](/images/ED/Z9/EDZ9_ucut.jpg.jpg) The frame almost vertical, chains on the sled in the 4th hole from down gave me 94mm from bottom of sled. The same was adjusted to motor mounts from surface to sprocket.  [MSLW-Bh-S](/images/Cw/6G/Cw6G_mslwbhs.jpg.jpg) The rubber stole some time because I counted the chain links in this picture. https://cdn.hackaday.io/images/8596731476320712737.jpg That was far to high, tried 150mm lower, still to tight and after more 300mm I was convinced tha t the sled could reach the outer-down corners without taring the rubber apart.  [Rub-hk](/images/25/X1/25X1_rubhk.jpg.jpg) It's hanging.  [MSLW-Bh-F](/images/z4/hD/z4hD_mslwbhf.jpg.jpg) Fair enough for today. To be continued.
+No software movements today. :-( Part of the weekend stolen by work and the other part from me insisting to have different motor mounts. Shame on me for this design, but live is beating me up this year and a trip to the hardware store is out of question. So the scrap lying around had to do for the moment. A rusty TV-Mount was found and used.  [MtMnt1](/images/ws/wsdq_mtmnt1.jpg.jpg)  [MtMnt2](/images/xh/xhtu_mtmnt2.jpg.jpg) Cutting the gap for a U-Profile was hell at first, needed fiddling from both sides, at the end I could get rid of my thought how to tighten it. My jigsaw not cutting straight through 2 sheets made it so tight. I adjust buy ~0.5 mm by hammering in or out.  [U-cut](/images/ed/edz9_ucut.jpg.jpg) The frame almost vertical, chains on the sled in the 4th hole from down gave me 94mm from bottom of sled. The same was adjusted to motor mounts from surface to sprocket.  [MSLW-Bh-S](/images/cw/cw6g_mslwbhs.jpg.jpg) The rubber stole some time because I counted the chain links in this picture. https://cdn.hackaday.io/images/8596731476320712737.jpg That was far to high, tried 150mm lower, still to tight and after more 300mm I was convinced tha t the sled could reach the outer-down corners without taring the rubber apart.  [Rub-hk](/images/25/25x1_rubhk.jpg.jpg) It's hanging.  [MSLW-Bh-F](/images/z4/z4hd_mslwbhf.jpg.jpg) Fair enough for today. To be continued.
 
 ---
 
@@ -467,9 +467,9 @@ Great progress. It's never simple :)
 
 Posted on **2017-04-23 15:07:31** by **gero**:
 
-Opening the parcel, mounting and calibrating things and start cutting a huge butterfly, that's not how it works.  [Bf](/images/b6/Bg/b6Bg_bf.jpg.jpg) 
+Opening the parcel, mounting and calibrating things and start cutting a huge butterfly, that's not how it works.  [Bf](/images/b6/b6bg_bf.jpg.jpg) 
 
-Back to earth and more knowledgeable about the meaning of 'Beta-Tester' (thanks for the reminder), today was a great day to see what is actually possible. A accuracy that just left me speechless.  100mm x 100mm within a 10th of a mm.  [Perfect](/images/0W/gM/0WgM_perfect.jpg.jpg) My sheet after a very interesting week.  [Sheet-24-04-17](/images/B4/Wg/B4Wg_sheet240417.jpg.jpg) Thanks to all of you!
+Back to earth and more knowledgeable about the meaning of 'Beta-Tester' (thanks for the reminder), today was a great day to see what is actually possible. A accuracy that just left me speechless.  100mm x 100mm within a 10th of a mm.  [Perfect](/images/0w/0wgm_perfect.jpg.jpg) My sheet after a very interesting week.  [Sheet-24-04-17](/images/b4/b4wg_sheet240417.jpg.jpg) Thanks to all of you!
 
 ---
 
@@ -507,9 +507,9 @@ You can not imagine how happy this test pattern made me.
 
 Body:
 
-The most important and difficult question raised by @MakerMark was, how many bottles of wine it took to create the .nc file and cut it. Not that easy to answer, because not all of the wine went into the process and some beers, but not all, went into it as well. But the total of wine is easy. 2 bottles [Wine](/images/Hn/PP/HnPP_wine.jpg.jpg) , each 2 Liter = 4 Liter, in US, 1.05669 gallon.
+The most important and difficult question raised by @MakerMark was, how many bottles of wine it took to create the .nc file and cut it. Not that easy to answer, because not all of the wine went into the process and some beers, but not all, went into it as well. But the total of wine is easy. 2 bottles [Wine](/images/hn/hnpp_wine.jpg.jpg) , each 2 Liter = 4 Liter, in US, 1.05669 gallon.
 
-From here [Start](/images/1D/8P/1D8P_start.jpg.jpg) to here [E nd](/images/S5/MO/S5MO_end.jpg.jpg) in 3 days, makes something like a 1/3 of a gallon per day.
+From here [Start](/images/1d/1d8p_start.jpg.jpg) to here [E nd](/images/s5/s5mo_end.jpg.jpg) in 3 days, makes something like a 1/3 of a gallon per day.
 
 SAFETY FIRST! (https://github.com/MaslowCNC/Mechanics/wiki/Safety-First) Do not operate cutting tools while intoxicated!
 
@@ -519,7 +519,7 @@ Now that I have somehow covered that question, we can move on to the less import
 
 Why did I alter the original test file https://github.com/MaslowCNC/Mechanics/tree/master/Testing%20and%20Calibration
 
-Being a metric guy since birth, only having a metal ruler with both, mm and Inch and a caliper that does not reach 152.4mm (6 Inch), I was forced. I wrote a 100mm x 100mm gcode for a 6 mm cutting bit and close to the centre, I was within a 10th of a mm. [Perfect](/images/b6/WG/b6WG_perfect.jpg.jpg) 
+Being a metric guy since birth, only having a metal ruler with both, mm and Inch and a caliper that does not reach 152.4mm (6 Inch), I was forced. I wrote a 100mm x 100mm gcode for a 6 mm cutting bit and close to the centre, I was within a 10th of a mm. [Perfect](/images/b6/b6wg_perfect.jpg.jpg) 
 
 That was a great motivation.
 
@@ -541,15 +541,15 @@ If someone could recommend a tape to add friction… lol, just kidding.
 
 I have a car jack on the mount and within less then a minute I have more angle = more friction.
 
-Deliberately choosing a to low frame angle of 6 degree, a ‘plex sheet’ that has a far to clean surface and a sled made out of some hybrid between paper and cardboard  [Sled](/images/hL/kC/hLkC_sled.jpg.jpg) , don’t know the name, that seems to be waxed already, I have a sled that is wiggling.
+Deliberately choosing a to low frame angle of 6 degree, a ‘plex sheet’ that has a far to clean surface and a sled made out of some hybrid between paper and cardboard  [Sled](/images/hl/hlkc_sled.jpg.jpg) , don’t know the name, that seems to be waxed already, I have a sled that is wiggling.
 
-This is noticeable clearly because my gcode goes directly from X to Y moves, resulting in corners that show the cutter to go a little wide on the turns [Top-middle](/images/Xp/sX/XpsX_topmiddle.jpg.jpg).  The other side of my test sheet I had painted, because I thought I will draw first, before cutting. I could not find a pen that is short enough, so that idea was dumped. Since I turned the sheet around, there is clear evidence that I need to increase my angle (and / or) friction. At least on this sheet.
+This is noticeable clearly because my gcode goes directly from X to Y moves, resulting in corners that show the cutter to go a little wide on the turns [Top-middle](/images/xp/xpsx_topmiddle.jpg.jpg).  The other side of my test sheet I had painted, because I thought I will draw first, before cutting. I could not find a pen that is short enough, so that idea was dumped. Since I turned the sheet around, there is clear evidence that I need to increase my angle (and / or) friction. At least on this sheet.
 
-The top and bottom on the right side have a curve on the right down edge, that I have seen before in an other post. [Highest-right](/images/JX/3q/JX3q_highestright.jpg.jpg)  [Lowest-right](/images/xw/zD/xwzD_lowestright.jpg.jpg) 
+The top and bottom on the right side have a curve on the right down edge, that I have seen before in an other post. [Highest-right](/images/jx/jx3q_highestright.jpg.jpg)  [Lowest-right](/images/xw/xwzd_lowestright.jpg.jpg) 
 
 The top right has that curve also on the top left corner. The top middle square has the most noticeable ‘wiggles’ / ‘waves’.
 
-Square 10 has a Z-Axis glitch [Z-gltch](/images/pe/1W/pe1W_zgltch.jpg.jpg) where the sled was moving to the centre while Z was still moving up. Tried to find the glitch in the code, but failed. To intoxicated maybe.
+Square 10 has a Z-Axis glitch [Z-gltch](/images/pe/pe1w_zgltch.jpg.jpg) where the sled was moving to the centre while Z was still moving up. Tried to find the glitch in the code, but failed. To intoxicated maybe.
 
 
 
@@ -751,19 +751,19 @@ I guess I am down for now, unless you know something else to try ;-)
 
 Posted on **2017-04-29 03:42:12** by **gero**:
 
-[Abo](/images/sN/s6/sNs6_abo.jpg.jpg)  [Adb](/images/Mn/0s/Mn0s_adb.jpg.jpg)
+[Abo](/images/sn/sns6_abo.jpg.jpg)  [Adb](/images/mn/mn0s_adb.jpg.jpg)
 
 ---
 
 Posted on **2017-04-29 03:45:26** by **gero**:
 
-[Bo](/images/lQ/WN/lQWN_bo.jpg.jpg)  [Cl](/images/0W/3d/0W3d_cl.jpg.jpg)
+[Bo](/images/lq/lqwn_bo.jpg.jpg)  [Cl](/images/0w/0w3d_cl.jpg.jpg)
 
 ---
 
 Posted on **2017-04-29 04:42:28** by **gero**:
 
-[Chip](/images/eq/bE/eqbE_chip.jpg.jpg) Measuring the diodes I found one that let through in both directions. Unslodering, lifting one side up I found it to be fine. Checking the chip the is a pass in both directions, that is not there on the other chip. That seems to confirm that the chip itself is fried. :-(
+[Chip](/images/eq/eqbe_chip.jpg.jpg) Measuring the diodes I found one that let through in both directions. Unslodering, lifting one side up I found it to be fine. Checking the chip the is a pass in both directions, that is not there on the other chip. That seems to confirm that the chip itself is fried. :-(
 
 ---
 
@@ -813,7 +813,7 @@ That would be great! Do you have a shop where I can buy some spare :-)
 
 Posted on **2017-04-29 11:21:38** by **gero**:
 
-My motor mounts and the sled survived the 'stess-test', but I could not get out of my mind, what if... So"  [Sled-chain](/images/E2/mL/E2mL_sledchain.jpg.jpg)
+My motor mounts and the sled survived the 'stess-test', but I could not get out of my mind, what if... So"  [Sled-chain](/images/e2/e2ml_sledchain.jpg.jpg)
 
 ---
 
@@ -1043,7 +1043,7 @@ I need to wait for the new motor shield to provide those. I was sure I had them,
 
 Posted on **2017-05-03 07:16:34** by **gero**:
 
-The parcel has arrived ! The security check was on your side this time. If you see Janeth and the Pope, please say thanks to them, for letting this weapon of mass distraction pass.  :-)  [Parcel](/images/f5/1I/f51I_parcel.jpg.jpg)
+The parcel has arrived ! The security check was on your side this time. If you see Janeth and the Pope, please say thanks to them, for letting this weapon of mass distraction pass.  :-)  [Parcel](/images/f5/f51i_parcel.jpg.jpg)
 
 ---
 

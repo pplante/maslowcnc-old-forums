@@ -9,7 +9,7 @@ When I woke up this morning I couldn't find it. Maybe I dreamt the whole thing, 
 
 
 
-Basically the question was this (if I remember right): Is droop in the chains an issue like this:  [Fig1](/images/7H/0x/7H0x_file_0fig1.png.jpg). 
+Basically the question was this (if I remember right): Is droop in the chains an issue like this:  [Fig1](/images/7h/7h0x_file_0fig1.png.jpg). 
 
 
 

@@ -65,7 +65,7 @@ The tooth skipping problem happens when the sled is at its closes to the motor s
 
 When the sled is closest to the motor, the bungee system is at its most relaxed, with least pull on the chain segment that goes to the sprocket. I think it was that less pull that, with a slight alignment inaccuracy, allowed the chain to catch on the corner of one tooth and ride up over the sprocket.
 
-That doesn't mean that the correct fix is to add more weight to the corner anchor side of things. :) It's not even that easy to do because one can't simply attach weight where the bungee attaches to the chain. Regardless, part of the fix above is to move the corner anchors closer to parallel with the motor sprocket. [Mcnc-chain-path-02](/images/oY/P8/oYP8_mcncchainpath02.png.jpg)
+That doesn't mean that the correct fix is to add more weight to the corner anchor side of things. :) It's not even that easy to do because one can't simply attach weight where the bungee attaches to the chain. Regardless, part of the fix above is to move the corner anchors closer to parallel with the motor sprocket. [Mcnc-chain-path-02](/images/oy/oyp8_mcncchainpath02.png.jpg)
 
 ---
 

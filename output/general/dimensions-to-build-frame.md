@@ -39,7 +39,7 @@ We can't wait to see what you build!
 
 Posted on **2017-05-04 08:15:15** by **tjennemann**:
 
-thank you for the quick response. looking forward to the date i get this. As a teaser here is the first thing i will cut. [PROTOTYPE CRUISER 2](/images/ZK/aB/ZKaB_prototypecruiser2.jpg.jpg)
+thank you for the quick response. looking forward to the date i get this. As a teaser here is the first thing i will cut. [PROTOTYPE CRUISER 2](/images/zk/zkab_prototypecruiser2.jpg.jpg)
 
 ---
 

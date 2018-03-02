@@ -7,7 +7,7 @@ can someone post a photo of the new motor mount (the one mounted directly on the
 
 Posted on **2017-05-22 18:25:40** by **scottsm**:
 
-[Here](/images/VK/6M/VK6M_img_0587.jpg.jpg) is mine. I used a screw and a short piece of tubing to make the fairlead. Use _lots_ of screws to affix the mount to the 2x4 - I started with 3 and found that it twisted.
+[Here](/images/vk/vk6m_img_0587.jpg.jpg) is mine. I used a screw and a short piece of tubing to make the fairlead. Use _lots_ of screws to affix the mount to the 2x4 - I started with 3 and found that it twisted.
 
 ---
 

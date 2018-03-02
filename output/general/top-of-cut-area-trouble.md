@@ -1,13 +1,13 @@
 ## Top of cut area trouble.
 Posted on **2017-05-09 19:37:18** by **blsteinhauer88**:
 
-I used F360 today and cut the chair they had designed in the class. The highest cut was the inverted chair side/leg. When over the +12 Y axis area. It shortened the part. I ran test befor in the upper quad and not much decay in the test pattern. Have a look : at my lips chair. [IMG_0757](/images/K6/gK/K6gK_img_0757.jpg.jpg) [IMG_0758](/images/HD/PZ/HDPZ_img_0758.jpg.jpg) [IMG_0759](/images/cO/A8/cOA8_img_0759.jpg.jpg) [IMG_0760](/images/8n/OY/8nOY_img_0760.jpg.jpg) [IMG_0761](/images/MJ/UR/MJUR_img_0761.jpg.jpg) [IMG_0762](/images/xt/S8/xtS8_img_0762.jpg.jpg) [IMG_0763](/images/JP/NT/JPNT_img_0763.jpg.jpg)
+I used F360 today and cut the chair they had designed in the class. The highest cut was the inverted chair side/leg. When over the +12 Y axis area. It shortened the part. I ran test befor in the upper quad and not much decay in the test pattern. Have a look : at my lips chair. [IMG_0757](/images/k6/k6gk_img_0757.jpg.jpg) [IMG_0758](/images/hd/hdpz_img_0758.jpg.jpg) [IMG_0759](/images/co/coa8_img_0759.jpg.jpg) [IMG_0760](/images/8n/8noy_img_0760.jpg.jpg) [IMG_0761](/images/mj/mjur_img_0761.jpg.jpg) [IMG_0762](/images/xt/xts8_img_0762.jpg.jpg) [IMG_0763](/images/jp/jpnt_img_0763.jpg.jpg)
 
 ---
 
 Posted on **2017-05-09 19:37:57** by **blsteinhauer88**:
 
-I did fix it with a quick jigsaw. [Image](/images/Wr/Al/WrAl_image.jpg.jpg)
+I did fix it with a quick jigsaw. [Image](/images/wr/wral_image.jpg.jpg)
 
 ---
 
@@ -27,7 +27,7 @@ I will add cutting more things right at the top to my testing list.
 
 Posted on **2017-05-09 22:21:58** by **blsteinhauer88**:
 
-Yea I found this from super Gero to explain.  [IMG_0764](/images/T6/Pn/T6Pn_img_0764.png.jpg)
+Yea I found this from super Gero to explain.  [IMG_0764](/images/t6/t6pn_img_0764.png.jpg)
 
 ---
 

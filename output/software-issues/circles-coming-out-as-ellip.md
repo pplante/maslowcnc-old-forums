@@ -11,7 +11,7 @@ On the big machine I get a perfect circle, on the little machine I get an ellips
 
 If you need round circles right away, I can say that the 
 
- [default settings](/images/k7/km/k7km_defaultsettings.jpg.jpg) will give you the right results, but you've got to find a way to position your motors the default distances from the corners of the plywood and construct a sled with the correct dimensions. 
+ [default settings](/images/k7/k7km_defaultsettings.jpg.jpg) will give you the right results, but you've got to find a way to position your motors the default distances from the corners of the plywood and construct a sled with the correct dimensions. 
 
 
 
@@ -75,7 +75,7 @@ All this measuring going on, I STILL don't trust any of these chinese tape measu
 
 Posted on **2017-03-24 18:49:20** by **blsteinhauer88**:
 
-I  put a screw dead center of the sheet and drew a crosshair. I  measured and got close and adjusted the measurements after to zero in on the target.  [IMG_0473](/images/NY/Dq/NYDq_img_0473.jpg.jpg)
+I  put a screw dead center of the sheet and drew a crosshair. I  measured and got close and adjusted the measurements after to zero in on the target.  [IMG_0473](/images/ny/nydq_img_0473.jpg.jpg)
 
 ---
 

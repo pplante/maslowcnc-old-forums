@@ -157,7 +157,7 @@ How long are the chains?  gearboxes has arived.
 
 
 
- [20170622_121321](/images/ys/yo/ysyo_20170622_121321.jpeg.jpg)
+ [20170622_121321](/images/ys/ysyo_20170622_121321.jpeg.jpg)
 
 ---
 
@@ -279,7 +279,7 @@ can you do a diagram? I don't understand exactly what you are suggesting.
 
 Posted on **2017-06-29 02:54:57** by **kentthoresen**:
 
-Basically i would add a standard chain lock and change the lock plate so it exstended beyond the chain. If you look at the picture you would get to spikes above the chain. By adding a switch that is triggered by the spike i could get a signal in a spesific sequence. this would tell the system if its the end or the beginning of the chain. [85249](/images/qN/LT/qNLT_85249.jpg.jpg)
+Basically i would add a standard chain lock and change the lock plate so it exstended beyond the chain. If you look at the picture you would get to spikes above the chain. By adding a switch that is triggered by the spike i could get a signal in a spesific sequence. this would tell the system if its the end or the beginning of the chain. [85249](/images/qn/qnlt_85249.jpg.jpg)
 
 ---
 
@@ -357,7 +357,7 @@ Posted on **2017-06-30 02:02:25** by **kentthoresen**:
 
 My main reason for moving to a worm gear is to make sure it doesnt drop on power off.  @scottsm sounds interestin do you have a picture or something, this could be a quick fix option until we find some permananet solution.  BTW i got the new worm gears today and its so ridicilously overkill, force testing it my scale maxed out at 400kg and snapped off with a loud bang. It seamed like it still had loads of torque to go on. If you make a stepper version nema 24 is more than enough as long as you have a worm gear.  A high power nema 34 like i use is way way way over the top.  I will scale down once the testing is done.
 
- [20170630_105658](/images/CM/md/CMmd_20170630_105658.jpg.jpg)
+ [20170630_105658](/images/cm/cmmd_20170630_105658.jpg.jpg)
 
 ---
 
@@ -369,7 +369,7 @@ For many years my mental project list has included adapting a DIY panel saw (lik
 
 Posted on **2017-07-08 01:44:00** by **kentthoresen**:
 
-Here is the wire diagram for using exsternal drivers. [Wirediagram](/images/oX/Qm/oXQm_wirediagram.jpg.jpg)
+Here is the wire diagram for using exsternal drivers. [Wirediagram](/images/ox/oxqm_wirediagram.jpg.jpg)
 
 ---
 

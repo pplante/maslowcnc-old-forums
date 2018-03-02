@@ -15,7 +15,7 @@ To save cut time I was -trying- to not cut out the entire top depression, but th
 
 This is a 'tiny-local' test. A wider test would be to cut out these kinds of test shapes from the center of a full sheet, and others in the four corners, and along the four sides at the middles.
 
- [Maslowcnc-test-block-01-3x3x0](/images/Cb/MC/CbMC_maslowcnctestblock013x3x0.75.png.jpg)
+ [Maslowcnc-test-block-01-3x3x0](/images/cb/cbmc_maslowcnctestblock013x3x0.75.png.jpg)
 
 ---
 

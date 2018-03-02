@@ -155,7 +155,7 @@ Does all this say that Connector #1, which the systems always believes is connec
 
 
 
- [ArduinoShield](/images/2u/46/2u46_arduinoshield.jpg.jpg)
+ [ArduinoShield](/images/2u/2u46_arduinoshield.jpg.jpg)
 
 ---
 

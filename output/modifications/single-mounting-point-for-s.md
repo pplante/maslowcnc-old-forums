@@ -33,7 +33,7 @@ But in any case, give it a try, adjust the machine dimensions to say there is no
 
 Posted on **2017-06-09 17:45:48** by **glenboudreaux**:
 
-I think I understand the mechanics he is describing... Here is my poor attempt at trying drawing it out  [Mount points](/images/Mo/X4/MoX4_mountpoints.png.jpg)
+I think I understand the mechanics he is describing... Here is my poor attempt at trying drawing it out  [Mount points](/images/mo/mox4_mountpoints.png.jpg)
 
 ---
 
@@ -153,7 +153,7 @@ With one bearing you will need to balance the two sled halves to make sure the C
 
 Posted on **2017-06-11 06:32:00** by **rollandelliott**:
 
-[Screen Shot 06-11-17 at 06](/images/Zh/UW/ZhUW_screenshot061117at06.19am.png.jpg) 
+[Screen Shot 06-11-17 at 06](/images/zh/zhuw_screenshot061117at06.19am.png.jpg) 
 
 these are $35 on ebay and support 500 lbs.  Once could cut 400mm inside circle out of wood and an outside doughnut that is 450mm ID and 500mm OD and expoxy them to the aluminum bearing. Alternative aluminum brackets can be welded to the lazy susan. really not that hard or expensive. I think Maslow buyers would gladly pay for such a premade part and it would give a better machine.
 

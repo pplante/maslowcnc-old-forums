@@ -5,13 +5,13 @@ I'm getting excited to take order of my Maslow but one thing I had hoped would b
 
 Do you know if any beta testers have worked on this? If not I will put it on my to-do list for when mine is set up. 
 
-I'm thinking a database would work well, and maybe some way to quickly visualize the tests (see my ugly attached image) [Untitled](/images/Um/kB/UmkB_untitled.png.jpg)
+I'm thinking a database would work well, and maybe some way to quickly visualize the tests (see my ugly attached image) [Untitled](/images/um/umkb_untitled.png.jpg)
 
 ---
 
 Posted on **2017-06-05 13:50:30** by **nathanmiller**:
 
-actually, I think the graph would be more like this:  [Untitled-0](/images/Ok/gZ/OkgZ_file_0untitled.png.jpg) 
+actually, I think the graph would be more like this:  [Untitled-0](/images/ok/okgz_file_0untitled.png.jpg) 
 
 At any rate, it would be nice to see what the typical successful speed/feed combo is like for various material and bit types.
 

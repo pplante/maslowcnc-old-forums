@@ -31,7 +31,7 @@ You do all this programing and still have time for answering. And so fast. AMAZI
 
 Posted on **2017-04-18 10:25:08** by **gero**:
 
-The theme is nice....lol  [GitKraken](/images/g5/SO/g5SO_gitkraken.jpg.jpg)
+The theme is nice....lol  [GitKraken](/images/g5/g5so_gitkraken.jpg.jpg)
 
 ---
 

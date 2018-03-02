@@ -65,7 +65,7 @@ Yes, there isn't a log, but there is an error message which will tell us what's 
 
 
 
-Would you be willing to open the *Launch Ground Control.bat* file in notepad and add the word "pause" to the second line like [this](/images/um/xX/umxX_this.jpg.jpg) ?
+Would you be willing to open the *Launch Ground Control.bat* file in notepad and add the word "pause" to the second line like [this](/images/um/umxx_this.jpg.jpg) ?
 
 ---
 
@@ -83,7 +83,7 @@ https://github.com/MaslowCNC/Mechanics/blob/master/Testing%20and%20Calibration/6
 
 
 
-[0_69 error](/images/ba/q6/baq6_0_69error.png.jpg)
+[0_69 error](/images/ba/baq6_0_69error.png.jpg)
 
 ---
 
@@ -169,7 +169,7 @@ Ahh. Ok. That seemed to be the issue. Still curious what I have the issue?
 
 Posted on **2017-05-01 11:58:31** by **Bar**:
 
-I would try the gCode in the "Gcode For Testing folder in Ground Control. The best way to get that folder is to download the whole source code by clicking the green download button in the upper right corner  [like this](/images/Yl/OM/YlOM_likethis.jpg.jpg)
+I would try the gCode in the "Gcode For Testing folder in Ground Control. The best way to get that folder is to download the whole source code by clicking the green download button in the upper right corner  [like this](/images/yl/ylom_likethis.jpg.jpg)
 
 ---
 
@@ -261,7 +261,7 @@ Becomes:
 
 
 
-And it still renders  [kinda](/images/Rx/jn/Rxjn_kinda.jpg.jpg) . The circle becomes a line.
+And it still renders  [kinda](/images/rx/rxjn_kinda.jpg.jpg) . The circle becomes a line.
 
 
 

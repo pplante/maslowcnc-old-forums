@@ -55,13 +55,13 @@ Can you try to upgrade your graphics driver like they describe here: https://buf
 
 Posted on **2017-03-24 12:11:24** by **mikeberg**:
 
-Same problem  [DSC_0299](/images/KU/Oh/KUOh_dsc_0299.jpg.jpg)
+Same problem  [DSC_0299](/images/ku/kuoh_dsc_0299.jpg.jpg)
 
 ---
 
 Posted on **2017-03-24 12:17:05** by **mikeberg**:
 
-Here when I do dxdiag  [Sketch-1490382990849](/images/st/aT/staT_sketch1490382990849.png.jpg)
+Here when I do dxdiag  [Sketch-1490382990849](/images/st/stat_sketch1490382990849.png.jpg)
 
 ---
 
@@ -153,7 +153,7 @@ it improve now! i can see the real version i have in open gl so the bad news its
 
 Posted on **2017-03-27 10:30:48** by **mikeberg**:
 
-[DSC_0303](/images/dJ/Yn/dJYn_dsc_0303.jpg.jpg)
+[DSC_0303](/images/dj/djyn_dsc_0303.jpg.jpg)
 
 ---
 
@@ -205,7 +205,7 @@ I run from source code main.py on cmd and a warning appear maybe it tell you som
 
 Posted on **2017-03-28 00:10:21** by **mikeberg**:
 
-[DSC_0304](/images/CX/2w/CX2w_dsc_0304.jpg.jpg)  [DSC_0305](/images/nI/s5/nIs5_dsc_0305.jpg.jpg)
+[DSC_0304](/images/cx/cx2w_dsc_0304.jpg.jpg)  [DSC_0305](/images/ni/nis5_dsc_0305.jpg.jpg)
 
 ---
 
@@ -245,7 +245,7 @@ I open main.py by the cmd with source code i got the same problem with open gl..
 
 Posted on **2017-03-28 09:48:16** by **mikeberg**:
 
-[DSC_0306](/images/IY/8x/IY8x_dsc_0306.jpg.jpg)
+[DSC_0306](/images/iy/iy8x_dsc_0306.jpg.jpg)
 
 ---
 

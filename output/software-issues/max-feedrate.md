@@ -39,7 +39,7 @@ Posted on **2017-04-21 20:32:40** by **Bar**:
 
 Posted on **2017-04-22 12:59:39** by **MakerMark**:
 
-My 1st test was to run the built-in feedback test function at various feed rates. Good news is that the error rate starts to level off after 80in/min. I stopped testing at 100in/min due to [my error](https://github.com/MaslowCNC/GroundControl/issues/222), but I'll start back tomorrow.   [Feedrate_Errorrate](/images/am/Wp/amWp_feedrate_errorrate.png.jpg)
+My 1st test was to run the built-in feedback test function at various feed rates. Good news is that the error rate starts to level off after 80in/min. I stopped testing at 100in/min due to [my error](https://github.com/MaslowCNC/GroundControl/issues/222), but I'll start back tomorrow.   [Feedrate_Errorrate](/images/am/amwp_feedrate_errorrate.png.jpg)
 
 ---
 
@@ -49,7 +49,7 @@ The error rate seemed small to me when running the feedback test but when cuttin
 
 
 
-Using the same g-code and controlling the speed via firmware limits. The cut on top was at 100in/min and bottom was 30in/min. (The z depth issues are my fault. Warped board and I should have used more hold down screws would have helped).  [Image](/images/m7/lZ/m7lZ_image.jpeg.jpg)  I love the results on both signs. The top one really gets the point across.
+Using the same g-code and controlling the speed via firmware limits. The cut on top was at 100in/min and bottom was 30in/min. (The z depth issues are my fault. Warped board and I should have used more hold down screws would have helped).  [Image](/images/m7/m7lz_image.jpeg.jpg)  I love the results on both signs. The top one really gets the point across.
 
 ---
 

@@ -53,7 +53,7 @@ Thanks, Bar!
 
 Posted on **2017-07-14 11:09:37** by **gero**:
 
-Not sure if this is still valid for the new shield, but the wiki shows the right motor on the left side and the left motor on the right. The connection on the old shield was as  [IMAG0875](/images/De/2m/De2m_imag0875.jpg.jpg)
+Not sure if this is still valid for the new shield, but the wiki shows the right motor on the left side and the left motor on the right. The connection on the old shield was as  [IMAG0875](/images/de/de2m_imag0875.jpg.jpg)
 
 ---
 

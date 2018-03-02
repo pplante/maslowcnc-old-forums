@@ -385,13 +385,13 @@ Note: the B03 lines have wrapped - the M6.35 lines are part of the B03 lines...
 
 
 
-A hex dump looks like [this:](/images/x8/Yl/x8Yl_gctomegastartup.png.jpg) .
+A hex dump looks like [this:](/images/x8/x8yl_gctomegastartup.png.jpg) .
 
 ---
 
 Posted on **2017-06-11 16:37:12** by **scottsm**:
 
-Just noticed that the hex dump got cut off. [Here's the whole thing](/images/MY/w3/MYw3_gctomegastartup.png.jpg)
+Just noticed that the hex dump got cut off. [Here's the whole thing](/images/my/myw3_gctomegastartup.png.jpg)
 
 ---
 

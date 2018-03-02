@@ -5,7 +5,7 @@ So I am working on my sign project and I cant seem to get the cam to work out in
 
 
 
-Here's some pictures. [Screen Shot 2017-06-20 at 2](/images/3v/hg/3vhg_screenshot20170620at2.37.25pm.png.jpg)  [Screen Shot 2017-06-20 at 2](/images/Pb/U1/PbU1_screenshot20170620at2.37.18pm.png.jpg)
+Here's some pictures. [Screen Shot 2017-06-20 at 2](/images/3v/3vhg_screenshot20170620at2.37.25pm.png.jpg)  [Screen Shot 2017-06-20 at 2](/images/pb/pbu1_screenshot20170620at2.37.18pm.png.jpg)
 
 ---
 
@@ -33,7 +33,7 @@ Try a pocket operation.  You will need a bit smaller than the line width.
 
 Posted on **2017-06-20 16:05:28** by **carlosrivers**:
 
-[Screen Shot 2017-06-20 at 4](/images/b4/Ni/b4Ni_screenshot20170620at4.06.38pm.png.jpg) 
+[Screen Shot 2017-06-20 at 4](/images/b4/b4ni_screenshot20170620at4.06.38pm.png.jpg) 
 
 
 
@@ -69,7 +69,7 @@ I can't see it Carlos, can you post a screenshot?
 
 Posted on **2017-06-20 19:17:47** by **carlosrivers**:
 
-[Screen Shot 2017-06-20 at 7](/images/4v/XA/4vXA_screenshot20170620at7.21.12pm.png.jpg)  [Screen Shot 2017-06-20 at 7](/images/ih/mf/ihmf_screenshot20170620at7.21.01pm.png.jpg)
+[Screen Shot 2017-06-20 at 7](/images/4v/4vxa_screenshot20170620at7.21.12pm.png.jpg)  [Screen Shot 2017-06-20 at 7](/images/ih/ihmf_screenshot20170620at7.21.01pm.png.jpg)
 
 ---
 
@@ -89,13 +89,13 @@ Heres a photo of it in GC
 
 
 
-In Gc it does look pretty good... [Screen Shot 2017-06-20 at 8](/images/FC/wt/FCwt_screenshot20170620at8.12.36pm.png.jpg)
+In Gc it does look pretty good... [Screen Shot 2017-06-20 at 8](/images/fc/fcwt_screenshot20170620at8.12.36pm.png.jpg)
 
 ---
 
 Posted on **2017-06-20 20:22:26** by **carlosrivers**:
 
-[Screen Shot 2017-06-20 at 8](/images/Zp/lI/ZplI_screenshot20170620at8.23.07pm.png.jpg) 
+[Screen Shot 2017-06-20 at 8](/images/zp/zpli_screenshot20170620at8.23.07pm.png.jpg) 
 
 
 

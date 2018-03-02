@@ -29,8 +29,8 @@ def write_body(fp, post):
         matches = re.findall(r'\((\/\/muut.com.+?)\)', body)
 
         for match in matches:
-            filename = match[37:].replace(':', '_')
-            path = f'images/{filename[:2]}/{filename[2:4]}/'
+            filename = match[37:].replace(':', '_').lower()
+            path = f'images/{filename[:2]}/'
             os.makedirs(path, exist_ok=True)
 
             file_path = os.path.join(path, filename)

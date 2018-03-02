@@ -153,7 +153,7 @@ I wanted to make sure this didn't fall off the radar. I'm working on getting a d
 
 Posted on **2017-07-15 02:45:28** by **gero**:
 
-Yup, time to move on :O  [666](/images/q3/5o/q35o_666.jpg.jpg)
+Yup, time to move on :O  [666](/images/q3/q35o_666.jpg.jpg)
 
 ---
 

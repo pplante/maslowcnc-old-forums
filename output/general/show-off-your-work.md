@@ -33,7 +33,7 @@ Here is a couple signs I did for friends businesses
 
 Posted on **2017-05-06 14:59:32** by **blsteinhauer88**:
 
-[IMG_0724](/images/o0/07/o007_img_0724.jpg.jpg) [IMG_0722](/images/30/5A/305A_img_0722.jpg.jpg)
+[IMG_0724](/images/o0/o007_img_0724.jpg.jpg) [IMG_0722](/images/30/305a_img_0722.jpg.jpg)
 
 ---
 

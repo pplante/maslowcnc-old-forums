@@ -121,7 +121,7 @@ Posted on **2017-04-28 18:35:11** by **mindeye**:
 
 So here's the 26 degree angle slope test.
 
-Works well enough to put it into a real design! [IMG_20170428_182838564](/images/ti/GV/tiGV_img_20170428_182838564.jpg.jpg)
+Works well enough to put it into a real design! [IMG_20170428_182838564](/images/ti/tigv_img_20170428_182838564.jpg.jpg)
 
 ---
 

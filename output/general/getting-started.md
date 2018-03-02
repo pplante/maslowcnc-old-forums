@@ -1,7 +1,7 @@
 ## Getting Started
 Posted on **2017-03-24 06:02:09** by **hnatkowicz**:
 
-[IMG_0977](/images/tP/BQ/tPBQ_img_0977.jpg.jpg) [IMG_0979](/images/Ex/Zt/ExZt_img_0979.jpg.jpg) [IMG_0981](/images/vp/rf/vprf_img_0981.jpg.jpg) [IMG_0982](/images/ic/9K/ic9K_img_0982.jpg.jpg) [IMG_0983](/images/e6/qI/e6qI_img_0983.jpg.jpg) [IMG_0985](/images/ii/ON/iiON_img_0985.jpg.jpg) [IMG_0986](/images/Sw/AN/SwAN_img_0986.jpg.jpg) [IMG_0987](/images/wC/W7/wCW7_img_0987.jpg.jpg) [IMG_0988](/images/GV/Dz/GVDz_img_0988.jpg.jpg) [IMG_0989](/images/Gl/Jt/GlJt_img_0989.jpg.jpg) [IMG_0990](/images/G1/sd/G1sd_img_0990.jpg.jpg)
+[IMG_0977](/images/tp/tpbq_img_0977.jpg.jpg) [IMG_0979](/images/ex/exzt_img_0979.jpg.jpg) [IMG_0981](/images/vp/vprf_img_0981.jpg.jpg) [IMG_0982](/images/ic/ic9k_img_0982.jpg.jpg) [IMG_0983](/images/e6/e6qi_img_0983.jpg.jpg) [IMG_0985](/images/ii/iion_img_0985.jpg.jpg) [IMG_0986](/images/sw/swan_img_0986.jpg.jpg) [IMG_0987](/images/wc/wcw7_img_0987.jpg.jpg) [IMG_0988](/images/gv/gvdz_img_0988.jpg.jpg) [IMG_0989](/images/gl/gljt_img_0989.jpg.jpg) [IMG_0990](/images/g1/g1sd_img_0990.jpg.jpg)
 
 ---
 
@@ -35,7 +35,7 @@ Yeah that's a first for me too, and I wonder what it is exactly?
 
 Posted on **2017-03-24 07:59:17** by **hnatkowicz**:
 
-[Fail](/images/lO/6t/lO6t_fail.jpg.jpg)
+[Fail](/images/lo/lo6t_fail.jpg.jpg)
 
 ---
 

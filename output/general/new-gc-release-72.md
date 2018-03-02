@@ -19,7 +19,7 @@ Video not sped up🙂👍🏻
 
 Posted on **2017-05-19 11:55:19** by **blsteinhauer88**:
 
-Sled moves around during Z retract due to jerking. Cuts into pattern a bit. Also it's not waiting for full Z retract before it moves again and drags bit while still retracting,  [Image](/images/Gf/cg/Gfcg_image.jpg.jpg)
+Sled moves around during Z retract due to jerking. Cuts into pattern a bit. Also it's not waiting for full Z retract before it moves again and drags bit while still retracting,  [Image](/images/gf/gfcg_image.jpg.jpg)
 
 ---
 
@@ -49,7 +49,7 @@ Mine is adjusting. It only ramped a few cuts. I will post a photo of the complet
 
 Posted on **2017-05-19 15:14:13** by **blsteinhauer88**:
 
-[IMG_0824](/images/YD/dk/YDdk_img_0824.jpg.jpg)
+[IMG_0824](/images/yd/yddk_img_0824.jpg.jpg)
 
 ---
 
@@ -57,7 +57,7 @@ Posted on **2017-05-19 17:13:27** by **blsteinhauer88**:
 
 Well cutting in the week spot, high and centerish, the motors chatter instead of a steady  turn. Zoom in on video of this to see, it causes chatter cuts in the piece. http://www.youtube.com/watch?v=Y2TjKvaJA1k
 
- [IMG_0827](/images/2g/9h/2g9h_img_0827.jpg.jpg) [IMG_0828](/images/bK/fJ/bKfJ_img_0828.jpg.jpg)
+ [IMG_0827](/images/2g/2g9h_img_0827.jpg.jpg) [IMG_0828](/images/bk/bkfj_img_0828.jpg.jpg)
 
 ---
 
@@ -165,7 +165,7 @@ Yes it was chattering low too! It was paused with Z movement and motors twitchin
 
 Posted on **2017-05-22 08:17:30** by **blsteinhauer88**:
 
-[IMG_0833](/images/fW/po/fWpo_img_0833.jpg.jpg) [IMG_0834](/images/xK/zO/xKzO_img_0834.jpg.jpg) [IMG_0835](/images/hw/UK/hwUK_img_0835.jpg.jpg)
+[IMG_0833](/images/fw/fwpo_img_0833.jpg.jpg) [IMG_0834](/images/xk/xkzo_img_0834.jpg.jpg) [IMG_0835](/images/hw/hwuk_img_0835.jpg.jpg)
 
 First photo is at about y=+6 second is y= -6 next one is perspective photo. Chatter on both upper and lower curve lines.
 

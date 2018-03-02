@@ -17,9 +17,9 @@ At that is exactly why we are all here and waiting for the MaslowCnc. We all hav
 
 Posted on **2017-03-10 06:56:11** by **nathanmiller**:
 
-FYI, the realization came to me when I saw this house's kitchen. At first glance I thought, "dang! That's complex" and then thought, "wait.... I could do this!!!"  [IS6af4no4vetfo0000000000](/images/OG/DE/OGDE_is6af4no4vetfo0000000000.jpg.jpg) 
+FYI, the realization came to me when I saw this house's kitchen. At first glance I thought, "dang! That's complex" and then thought, "wait.... I could do this!!!"  [IS6af4no4vetfo0000000000](/images/og/ogde_is6af4no4vetfo0000000000.jpg.jpg) 
 
- [ISy3ds4i0n6wfo0000000000](/images/3b/yH/3byH_isy3ds4i0n6wfo0000000000.jpg.jpg)
+ [ISy3ds4i0n6wfo0000000000](/images/3b/3byh_isy3ds4i0n6wfo0000000000.jpg.jpg)
 
 ---
 

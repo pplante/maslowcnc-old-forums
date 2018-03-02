@@ -17,7 +17,7 @@ Hi Jenmsuth, the distance of the chain mounts on the sled, is what you can tweak
 
 Posted on **2017-07-04 18:33:33** by **Bar**:
 
-Here's a [picture](/images/4k/hO/4khO_tuningcalibration.jpg.jpg) which should help, but the bigger issue is why isn't it stopping to let you adjust the z-axis.
+Here's a [picture](/images/4k/4kho_tuningcalibration.jpg.jpg) which should help, but the bigger issue is why isn't it stopping to let you adjust the z-axis.
 
 
 

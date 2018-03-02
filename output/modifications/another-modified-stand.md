@@ -1,7 +1,7 @@
 ## Another modified stand
 Posted on **2017-03-21 13:11:45** by **jknox**:
 
-I needed something to keep me busy today so I put together a model of the Maslow stand. I made a few changes along the way that I think will make it easier to assemble before the Maslow is operational (everything but the ears can be made with very basic tools). A couple areas should be stronger as well.  Still a work in progress:  [Stand](/images/tp/3P/tp3P_stand.png.jpg)
+I needed something to keep me busy today so I put together a model of the Maslow stand. I made a few changes along the way that I think will make it easier to assemble before the Maslow is operational (everything but the ears can be made with very basic tools). A couple areas should be stronger as well.  Still a work in progress:  [Stand](/images/tp/tp3p_stand.png.jpg)
 
 ---
 
@@ -113,7 +113,7 @@ One really nice thing about the 16 plates required from this stand is that they 
 
 Posted on **2017-03-23 06:55:44** by **jknox**:
 
-@hannahteagle Thanks for the kind words in the update yesterday but I'm not a beta tester, I'm not even a backer, I'm just someone who can't wait for the kits to be on sale! That said, I do have another small contribution today. I made a PDF that will print a template for a 8.5"x11" (paper sized) temporary sled. A picture is [here](/images/Du/Al/DuAl_temporarysled.png.jpg), but it may be easier to print the PDF to the proper scale (select "actual size" in the Adobe Reader print window). You can find "Temporary Sled.pdf" with the rest of the files here: [https://grabcad.com/library/maslow-cnc-stand-assembly-1](https://grabcad.com/library/maslow-cnc-stand-assembly-1)
+@hannahteagle Thanks for the kind words in the update yesterday but I'm not a beta tester, I'm not even a backer, I'm just someone who can't wait for the kits to be on sale! That said, I do have another small contribution today. I made a PDF that will print a template for a 8.5"x11" (paper sized) temporary sled. A picture is [here](/images/du/dual_temporarysled.png.jpg), but it may be easier to print the PDF to the proper scale (select "actual size" in the Adobe Reader print window). You can find "Temporary Sled.pdf" with the rest of the files here: [https://grabcad.com/library/maslow-cnc-stand-assembly-1](https://grabcad.com/library/maslow-cnc-stand-assembly-1)
 
 ---
 
@@ -149,7 +149,7 @@ I'm going to skip on the metal stud idea until I can physically evaluate it. I p
 
 Posted on **2017-03-24 06:43:44** by **jknox**:
 
-I made another temporary sled template, but this one requires that you have access to a printer that has b-sized paper (11" x 17"). This larger template has enough room for the bricks to mount, and includes a template for the brick holder within it.  [Here's a picture](/images/Rt/M6/RtM6_temporarysledlarge.png.jpg), the PDF is on GrabCAD: [https://grabcad.com/library/maslow-cnc-stand-assembly-1](https://grabcad.com/library/maslow-cnc-stand-assembly-1)
+I made another temporary sled template, but this one requires that you have access to a printer that has b-sized paper (11" x 17"). This larger template has enough room for the bricks to mount, and includes a template for the brick holder within it.  [Here's a picture](/images/rt/rtm6_temporarysledlarge.png.jpg), the PDF is on GrabCAD: [https://grabcad.com/library/maslow-cnc-stand-assembly-1](https://grabcad.com/library/maslow-cnc-stand-assembly-1)
 
 ---
 
@@ -167,7 +167,7 @@ I'll point out that if you use the letter size template to position the holes so
 
 Posted on **2017-03-24 12:17:00** by **jknox**:
 
-I never really tried to fit the bricks on the 8.5x11 template, I think it should actually work: [Small Sled with Bricks](/images/us/xr/usxr_temporarysledsmall2.png.jpg). I've updated "Temporary Sled - Small.pdf" on GrabCAD.
+I never really tried to fit the bricks on the 8.5x11 template, I think it should actually work: [Small Sled with Bricks](/images/us/usxr_temporarysledsmall2.png.jpg). I've updated "Temporary Sled - Small.pdf" on GrabCAD.
 
 ---
 

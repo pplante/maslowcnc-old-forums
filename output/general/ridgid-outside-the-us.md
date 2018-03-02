@@ -39,7 +39,7 @@ http://www.rotopino.co.uk/photo/productGallery/f1300x1300/router-aeg-mf-1400-ke-
 
 Posted on **2017-02-03 15:50:23** by **Bar**:
 
-Good deduction! I'd go out on a pretty stable limb and say that the spindle is identical. It looks like there is a fixed base version that is nearly the same except for the handles.  [AEG](/images/EN/R0/ENR0_aeg.jpg.jpg)
+Good deduction! I'd go out on a pretty stable limb and say that the spindle is identical. It looks like there is a fixed base version that is nearly the same except for the handles.  [AEG](/images/en/enr0_aeg.jpg.jpg)
 
 ---
 
@@ -231,7 +231,7 @@ Posted on **2017-02-08 09:02:34** by **gero**:
 
 Searched this complete island for days to find a router that would work with the Z-Axis. I found a Bosch GOF 2000 CE Professional and short circuited on purchase. Unpacking at home to measure the shaft, I found it quite heavy. It must be around 6 kg. Together with the bricks I am worried if that is to much for the motors. What does the Ridgid R2200 weigh?
 
-Anyone interested in details of that thing, I am happy to assist. [Bosh-GOF200CEPro](/images/M9/hd/M9hd_boshgof200cepro.jpg.jpg)
+Anyone interested in details of that thing, I am happy to assist. [Bosh-GOF200CEPro](/images/m9/m9hd_boshgof200cepro.jpg.jpg)
 
 ---
 

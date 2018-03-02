@@ -91,7 +91,7 @@ Posted on **2017-05-30 15:33:32** by **badaboomberlin**:
 
 Posted on **2017-06-27 23:58:51** by **badaboomberlin**:
 
-@Gero another question you can help me with maybe?  I have to order proper (...thing in the picture) for the bits I bought - of course no way of finding in the manual of the router the german name of it: [WP_20170626_15_23_56_Pro](/images/Hw/xr/Hwxr_wp_20170626_15_23_56_pro.jpg.jpg)  [WP_20170626_15_24_03_Pro](/images/5y/Sf/5ySf_wp_20170626_15_24_03_pro.jpg.jpg)
+@Gero another question you can help me with maybe?  I have to order proper (...thing in the picture) for the bits I bought - of course no way of finding in the manual of the router the german name of it: [WP_20170626_15_23_56_Pro](/images/hw/hwxr_wp_20170626_15_23_56_pro.jpg.jpg)  [WP_20170626_15_24_03_Pro](/images/5y/5ysf_wp_20170626_15_24_03_pro.jpg.jpg)
 
 ---
 

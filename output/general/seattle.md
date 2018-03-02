@@ -145,7 +145,7 @@ For part of the demo I think we'll draw a box joint in sketchup, use makercam to
 
 Posted on **2017-04-18 21:11:05** by **mindeye**:
 
-Demo success! CNC box joint using two tool paths, first tool falsely large by .05" and then second path true tool size, .25" [IMG_20170418_210249723](/images/yU/ZZ/yUZZ_img_20170418_210249723.jpg.jpg)
+Demo success! CNC box joint using two tool paths, first tool falsely large by .05" and then second path true tool size, .25" [IMG_20170418_210249723](/images/yu/yuzz_img_20170418_210249723.jpg.jpg)
 
 ---
 

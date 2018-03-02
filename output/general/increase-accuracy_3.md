@@ -155,7 +155,7 @@ I can easily see a 4-chain machine moving faster, but since it would double the 
 
 Posted on **2017-05-23 17:28:11** by **scottsm**:
 
-@justinlauzet, this sounds sort of like the mechanism behind a [parallel drafting ruler](/images/se/MZ/seMZ_parallelstraightedge.jpg.jpg) . Is that right?
+@justinlauzet, this sounds sort of like the mechanism behind a [parallel drafting ruler](/images/se/semz_parallelstraightedge.jpg.jpg) . Is that right?
 
 ---
 

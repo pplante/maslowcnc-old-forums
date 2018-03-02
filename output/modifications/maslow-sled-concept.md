@@ -13,13 +13,13 @@ Posted on **2017-06-28 04:05:32** by **iroc999**:
 
 Let's see if we can get those images uploaded.
 
- [Maslow Sled Top](/images/Xk/o7/Xko7_maslowsledtop.png.jpg) 
+ [Maslow Sled Top](/images/xk/xko7_maslowsledtop.png.jpg) 
 
- [Maslow Sled bottom](/images/z1/RR/z1RR_maslowsledbottom.png.jpg) 
+ [Maslow Sled bottom](/images/z1/z1rr_maslowsledbottom.png.jpg) 
 
- [Maslow Sled 3 quarter 1](/images/Ds/Ah/DsAh_maslowsled3quarter1.png.jpg) 
+ [Maslow Sled 3 quarter 1](/images/ds/dsah_maslowsled3quarter1.png.jpg) 
 
- [Maslow Sled 3 quarter 3](/images/Pa/f4/Paf4_maslowsled3quarter3.png.jpg)
+ [Maslow Sled 3 quarter 3](/images/pa/paf4_maslowsled3quarter3.png.jpg)
 
 ---
 
@@ -145,7 +145,7 @@ I've been trying to think of a better sled design while i've been planning out m
 
 
 
-[IMG_20170630_131250](/images/BV/hq/BVhq_img_20170630_131250.jpg.jpg) 
+[IMG_20170630_131250](/images/bv/bvhq_img_20170630_131250.jpg.jpg) 
 
 
 
@@ -335,13 +335,13 @@ Posted on **2017-07-12 21:35:24** by **iroc999**:
 
 That post about the sled mounted motors really peaked my interests. So I added it to my concept. Most of it could still be made with the Maslow it's self. Except the three metal motor mounts. 
 
- [Top](/images/QV/5q/QV5q_top.png.jpg) 
+ [Top](/images/qv/qv5q_top.png.jpg) 
 
- [Back top](/images/Dn/2z/Dn2z_backtop.png.jpg) 
+ [Back top](/images/dn/dn2z_backtop.png.jpg) 
 
- [Bottom Front 3 Quarter](/images/cr/Um/crUm_bottomfront3quarter.png.jpg) 
+ [Bottom Front 3 Quarter](/images/cr/crum_bottomfront3quarter.png.jpg) 
 
- [Front top 3 quarter](/images/1G/pB/1GpB_fronttop3quarter.png.jpg)
+ [Front top 3 quarter](/images/1g/1gpb_fronttop3quarter.png.jpg)
 
 ---
 

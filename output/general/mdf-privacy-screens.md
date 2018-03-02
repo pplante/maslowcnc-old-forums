@@ -3,11 +3,11 @@ Posted on **2017-02-10 10:16:33** by **myschizobuddy**:
 
 Can maslow create a full 4x8 mdf privacy screen like the image below without overheating. Can maslow run 24/7 cutting these types of full sheets?  Can it create intricate designs?
 
-[51bb11654cfe5efe528d6b2dd4f6a620](/images/YB/Vi/YBVi_51bb11654cfe5efe528d6b2dd4f6a620.jpg.jpg) 
+[51bb11654cfe5efe528d6b2dd4f6a620](/images/yb/ybvi_51bb11654cfe5efe528d6b2dd4f6a620.jpg.jpg) 
 
 
 
- [1b6a2ea870fc9b32c77388fa30322149](/images/JG/x0/JGx0_1b6a2ea870fc9b32c77388fa30322149.jpg.jpg)
+ [1b6a2ea870fc9b32c77388fa30322149](/images/jg/jgx0_1b6a2ea870fc9b32c77388fa30322149.jpg.jpg)
 
 ---
 

@@ -135,11 +135,11 @@ Yes, "plunging..." usually means it has no bearing surface. It also means that w
 
 Posted on **2017-02-27 12:31:04** by **Bar**:
 
-My  [roudover bit](/images/ZH/VQ/ZHVQ_roudoverbit.jpg.jpg) came over the weekend and I gave it a go this morning on a sheet of 3/4 AC plywood (because that was what was already loaded on the machine).
+My  [roudover bit](/images/zh/zhvq_roudoverbit.jpg.jpg) came over the weekend and I gave it a go this morning on a sheet of 3/4 AC plywood (because that was what was already loaded on the machine).
 
 
 
-The  [results](/images/nI/rG/nIrG_results.jpg.jpg) look pretty good.
+The  [results](/images/ni/nirg_results.jpg.jpg) look pretty good.
 
 
 

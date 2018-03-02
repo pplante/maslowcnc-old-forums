@@ -137,7 +137,7 @@ https://granworks.com/which-panel-carrier-is-best/
 
 Posted on **2017-04-26 17:30:30** by **gero**:
 
-Ask, before using your partners sewing machine pulleys!  [IMAG0669](/images/nu/qA/nuqA_imag0669.jpg.jpg) 
+Ask, before using your partners sewing machine pulleys!  [IMAG0669](/images/nu/nuqa_imag0669.jpg.jpg) 
 
 They make nice chain guides, but get permission first!
 
@@ -145,7 +145,7 @@ They make nice chain guides, but get permission first!
 
 Posted on **2017-04-26 17:39:01** by **gero**:
 
-[IMG-20170426-WA0006](/images/ZB/ih/ZBih_img20170426wa0006.jpeg.jpg) [IMG-20170426-WA0008](/images/Ju/eR/JueR_img20170426wa0008.jpeg.jpg)
+[IMG-20170426-WA0006](/images/zb/zbih_img20170426wa0006.jpeg.jpg) [IMG-20170426-WA0008](/images/ju/juer_img20170426wa0008.jpeg.jpg)
 
 ---
 

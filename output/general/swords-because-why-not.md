@@ -1,7 +1,7 @@
 ## Swords because why not!?
 Posted on **2017-05-11 15:03:46** by **hannahteagle**:
 
-Hey everybody. Bar and I got to talking about swords this morning (don't ask me how...) and I decided, heck, I'm just gonna cut some! It's something I've been wanting for a few months now. And an hour later... Two swords!  [Swords!](/images/jI/vv/jIvv_swords.jpg.jpg)
+Hey everybody. Bar and I got to talking about swords this morning (don't ask me how...) and I decided, heck, I'm just gonna cut some! It's something I've been wanting for a few months now. And an hour later... Two swords!  [Swords!](/images/ji/jivv_swords.jpg.jpg)
 
 ---
 

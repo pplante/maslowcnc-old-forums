@@ -143,7 +143,7 @@ First screencap, I downloaded literally yesterday and it offered a mac version.
 
 
 
-[Sketchup-01-mac-download](/images/WE/cF/WEcF_sketchup01macdownload.png.jpg) 
+[Sketchup-01-mac-download](/images/we/wecf_sketchup01macdownload.png.jpg) 
 
 
 
@@ -151,7 +151,7 @@ Second screencap shows the version inside the file. Well, that doesn't state wha
 
 
 
- [Sketchup-02-win-version](/images/Bd/tQ/BdtQ_sketchup02winversion.png.jpg)
+ [Sketchup-02-win-version](/images/bd/bdtq_sketchup02winversion.png.jpg)
 
 ---
 
@@ -179,7 +179,7 @@ b) The distance between the centre of the two motor  sprockets
 
 c) The distance from the centre of the motor sprocket to upper side of the down beam
 
-Thanks in advance and greetings from this temporary flooded Island. [Maslow-CNC-base-question](/images/uk/qf/ukqf_maslowcncbasequestion.jpg.jpg)
+Thanks in advance and greetings from this temporary flooded Island. [Maslow-CNC-base-question](/images/uk/ukqf_maslowcncbasequestion.jpg.jpg)
 
 ---
 
@@ -195,19 +195,19 @@ The sketchup model does not have the motors in it so I can only measure the base
 
 The total depth of the machine is 524mm (Back of the motor mount to the front of the ledge)
 
- [RCapture](/images/Oq/DG/OqDG_rcapture.jpg.jpg) 
+ [RCapture](/images/oq/oqdg_rcapture.jpg.jpg) 
 
 
 
 The total width of the machine is 3,147mm (Far left extent of the "arms" to the far right extent)
 
- [GCapture](/images/M8/K7/M8K7_gcapture.jpg.jpg) 
+ [GCapture](/images/m8/m8k7_gcapture.jpg.jpg) 
 
 
 
 The total height of the machine is 2,007mm (Bottom of base to top of motor mount)
 
- [ISOCapture](/images/Iw/O0/IwO0_isocapture.jpg.jpg)
+ [ISOCapture](/images/iw/iwo0_isocapture.jpg.jpg)
 
 ---
 
@@ -227,7 +227,7 @@ Happy to help!
 
 Posted on **2017-02-15 07:16:24** by **gero**:
 
-A teaser for the Base-Mod ;-) [Teaser](/images/EE/br/EEbr_teaser.jpg.jpg)
+A teaser for the Base-Mod ;-) [Teaser](/images/ee/eebr_teaser.jpg.jpg)
 
 ---
 

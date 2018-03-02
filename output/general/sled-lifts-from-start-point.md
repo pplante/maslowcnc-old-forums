@@ -1,7 +1,7 @@
 ## Sled lifts from start point
 Posted on **2017-06-09 11:36:27** by **blsteinhauer88**:
 
-[IMG_0016](/images/ee/5q/ee5q_img_0016.jpg.jpg) [IMG_0017](/images/Rw/T5/RwT5_img_0017.jpg.jpg)
+[IMG_0016](/images/ee/ee5q_img_0016.jpg.jpg) [IMG_0017](/images/rw/rwt5_img_0017.jpg.jpg)
 
 
 
@@ -11,7 +11,7 @@ I made this for daughter wedding. I have been getting the drooping cuts at the b
 
 Posted on **2017-06-09 11:41:23** by **blsteinhauer88**:
 
-[Image](/images/Wy/lW/WylW_image.jpg.jpg) 
+[Image](/images/wy/wylw_image.jpg.jpg) 
 
 Happens on front and back of straight lines.
 
@@ -87,7 +87,7 @@ Yes, and yes. See the "c,e, c,d" all have a clean hole. That is the start as it 
 
 Posted on **2017-06-09 17:20:06** by **blsteinhauer88**:
 
-[IMG_0019](/images/nz/CN/nzCN_img_0019.png.jpg) it happened in the next project as well on the straight lines. See the end of the line.  The beginning had same "divot".
+[IMG_0019](/images/nz/nzcn_img_0019.png.jpg) it happened in the next project as well on the straight lines. See the end of the line.  The beginning had same "divot".
 
 ---
 

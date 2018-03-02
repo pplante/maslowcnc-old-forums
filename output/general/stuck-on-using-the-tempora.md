@@ -293,7 +293,7 @@ Next to each connector there are 4 diodes (the little black squares)
 
 
 
-[Diodes](/images/Xw/w5/Xww5_diodes.jpg.jpg) 
+[Diodes](/images/xw/xww5_diodes.jpg.jpg) 
 
 
 
@@ -333,7 +333,7 @@ I really only need to see the 4 next to the connector which isn't working right
 
 Posted on **2017-04-25 11:29:25** by **MikeT**:
 
-Here the picture. I pulled off the adjacent heat sink to improve the view.  [IMG_20170425_112322382_HDR](/images/UK/Na/UKNa_img_20170425_112322382_hdr.jpg.jpg)
+Here the picture. I pulled off the adjacent heat sink to improve the view.  [IMG_20170425_112322382_HDR](/images/uk/ukna_img_20170425_112322382_hdr.jpg.jpg)
 
 ---
 
@@ -357,7 +357,7 @@ Let me see if I can get a picture that shows what I'm looking for
 
 Posted on **2017-04-25 11:37:12** by **Bar**:
 
-I got one, but it's tough. The [white lines](/images/ka/pm/kapm_whitelines.jpg.jpg)  really don't want to show up
+I got one, but it's tough. The [white lines](/images/ka/kapm_whitelines.jpg.jpg)  really don't want to show up
 
 ---
 
@@ -653,7 +653,7 @@ When you get back, give the version of the firmware [here](https://github.com/Ma
 
 
 
-To download it use the green "Clone or Download" button in the upper right corner as shown in  [this picture](/images/3f/vL/3fvL_howtodownload.jpg.jpg) 
+To download it use the green "Clone or Download" button in the upper right corner as shown in  [this picture](/images/3f/3fvl_howtodownload.jpg.jpg) 
 
 
 

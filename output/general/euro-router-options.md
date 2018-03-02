@@ -79,13 +79,13 @@ Posted on **2017-02-10 11:15:26** by **jamesbil**:
 
 A few pics of the shaft adjustment setup. @bar would you mount the z axis above or is there space below the shaft?
 
- [IMG_20170210_180020](/images/JM/5n/JM5n_img_20170210_180020.jpg.jpg) 
+ [IMG_20170210_180020](/images/jm/jm5n_img_20170210_180020.jpg.jpg) 
 
- [IMG_20170210_180028](/images/EY/eR/EYeR_img_20170210_180028.jpg.jpg) 
+ [IMG_20170210_180028](/images/ey/eyer_img_20170210_180028.jpg.jpg) 
 
- [IMG_20170210_180035](/images/0E/R2/0ER2_img_20170210_180035.jpg.jpg) 
+ [IMG_20170210_180035](/images/0e/0er2_img_20170210_180035.jpg.jpg) 
 
- [IMG_20170210_180054](/images/Ym/Ok/YmOk_img_20170210_180054.jpg.jpg) 
+ [IMG_20170210_180054](/images/ym/ymok_img_20170210_180054.jpg.jpg) 
 
 Last pic is it fully lowered.
 
@@ -135,13 +135,13 @@ Posted on **2017-02-11 07:51:57** by **jamesbil**:
 
 @thomasgkristensen the top of the shaft fits a 10mm spanner and has a 4mm threadded hole in the centre. Here are a few more pics, what do you think about mounting the z motor on a 300mm slider which is fixed to the ply base plate. This will allow the z motor to slide up and down with the router motor without having to fix into the body of the router.
 
- [IMG_20170211_151641](/images/H7/Oo/H7Oo_img_20170211_151641.jpg.jpg) 
+ [IMG_20170211_151641](/images/h7/h7oo_img_20170211_151641.jpg.jpg) 
 
- [IMG_20170211_151727](/images/60/VN/60VN_img_20170211_151727.jpg.jpg) 
+ [IMG_20170211_151727](/images/60/60vn_img_20170211_151727.jpg.jpg) 
 
- [IMG_20170211_151751](/images/8I/UI/8IUI_img_20170211_151751.jpg.jpg) 
+ [IMG_20170211_151751](/images/8i/8iui_img_20170211_151751.jpg.jpg) 
 
- [IMG_20170211_151759](/images/nT/nx/nTnx_img_20170211_151759.jpg.jpg)
+ [IMG_20170211_151759](/images/nt/ntnx_img_20170211_151759.jpg.jpg)
 
 ---
 
@@ -329,7 +329,7 @@ Finally fit the coupler to the rod... job done!
 
 Posted on **2017-03-16 00:44:38** by **edou**:
 
-[IMG_20170316_080607](/images/7s/Df/7sDf_img_20170316_080607.jpg.jpg) 
+[IMG_20170316_080607](/images/7s/7sdf_img_20170316_080607.jpg.jpg) 
 
 Am I correct that the Z-coupler should connect to the hexagonal top of part 34 “Metal Worm Shaft” on the Triton MOF001 1400W router?
 

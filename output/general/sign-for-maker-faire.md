@@ -5,11 +5,11 @@ We're packing up to head to Maker Faire tomorrow and so I've been practice cutti
 
 
 
- [Take one, not enough tabs to hold the letters in](/images/78/P2/78P2_screenshot_20170515120928.png.jpg) 
+ [Take one, not enough tabs to hold the letters in](/images/78/78p2_screenshot_20170515120928.png.jpg) 
 
 
 
- [Take two, more tabs added](/images/VA/JK/VAJK_screenshot_20170515140932.png.jpg)
+ [Take two, more tabs added](/images/va/vajk_screenshot_20170515140932.png.jpg)
 
 ---
 
@@ -67,7 +67,7 @@ Thanks for the .svg and with a scattered bit (thanks to china putting cement in 
 
 Posted on **2017-05-22 14:46:12** by **gero**:
 
-Not cut out yet, but the door sign for the Maslow Room  [MSLW-BH](/images/aA/nB/aAnB_mslwbh.jpg.jpg)
+Not cut out yet, but the door sign for the Maslow Room  [MSLW-BH](/images/aa/aanb_mslwbh.jpg.jpg)
 
 ---
 

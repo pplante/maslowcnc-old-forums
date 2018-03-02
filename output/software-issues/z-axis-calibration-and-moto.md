@@ -25,7 +25,7 @@ This is something we can revisit once everything is more stable, because you are
 
 Posted on **2017-07-16 14:07:52** by **jbnimble**:
 
-Thanks. I can say that once I finally got the calibration working (I must have run it at least 10 times in the last 2 days), that it appears to be cutting as expected. Top left corner had some issues, but I think that is known. Also the Z-Axis makes all the difference, cutting with that temp sled that did not have a Z-Axis was painful. A lot of lessons learned this weekend. Excited that things are mostly working! ... and I need a quieter vacuum, wowsa. [Progress...](/images/q5/78/q578_20170716_165916.jpg.jpg)
+Thanks. I can say that once I finally got the calibration working (I must have run it at least 10 times in the last 2 days), that it appears to be cutting as expected. Top left corner had some issues, but I think that is known. Also the Z-Axis makes all the difference, cutting with that temp sled that did not have a Z-Axis was painful. A lot of lessons learned this weekend. Excited that things are mostly working! ... and I need a quieter vacuum, wowsa. [Progress...](/images/q5/q578_20170716_165916.jpg.jpg)
 
 ---
 

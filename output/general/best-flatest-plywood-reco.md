@@ -195,7 +195,7 @@ Posted on **2017-03-25 00:09:26** by **jbarchuk**:
 
 I can very much relate to that now. I use round and square carbon fiber rods and when possible tubes. Near-zero decrease in strength at much less weight. Nature imitates technology too! ;) Eggshells do something similar, distributing the stress around the perimeter. Skulls are essentially hollow shells and very strong. Examples everywhere... The World Trade Center was designed to send the loads to the outer skin, which has been theorised was why it didn't collapse sooner than it did. The desk I'm sitting here working at was made from a hollow door. :) It's 'twisty' but weighs nothing.
 
-I figured out how to straighten the frame without adding any wood. I used two rows of screws running the length, but offset from the center, and staggered.  [Mcnc-06-vertical-screws](/images/ai/Tv/aiTv_mcnc06verticalscrews.png.jpg) 
+I figured out how to straighten the frame without adding any wood. I used two rows of screws running the length, but offset from the center, and staggered.  [Mcnc-06-vertical-screws](/images/ai/aitv_mcnc06verticalscrews.png.jpg) 
 
 The left side from this view is the side that's twisted 'away.' So, I'll add washers between the plywood and the stud on the right side to push it away and effectively pull the  left side closer. I'd rather fix the structure I have than add new structure. Yuck, more work but I'd rather have flat than think about issues later that might have to do with the wavy shape.
 

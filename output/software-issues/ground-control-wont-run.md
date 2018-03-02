@@ -1,7 +1,7 @@
 ## Ground control won't run
 Posted on **2017-03-17 14:55:57** by **blsteinhauer88**:
 
-Got my kit today, installing ground control  and installed per the instructions. Ran the batchfile and briefly saw an error message flashed on my screen. Had to use my iPhone to film it so I could slow it down and grab the frame to see what it says .  I have no idea what it means, if anyone can help me out? I would appreciate it thanks.  [IMG_0430](/images/90/jt/90jt_img_0430.png.jpg)
+Got my kit today, installing ground control  and installed per the instructions. Ran the batchfile and briefly saw an error message flashed on my screen. Had to use my iPhone to film it so I could slow it down and grab the frame to see what it says .  I have no idea what it means, if anyone can help me out? I would appreciate it thanks.  [IMG_0430](/images/90/90jt_img_0430.png.jpg)
 
 ---
 

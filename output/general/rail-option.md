@@ -63,7 +63,7 @@ You won't be the only one to abandon a gantry type CNC after having bought some 
 
 Posted on **2017-05-22 14:31:10** by **gero**:
 
-The Rial option for the current hardware and design is following me since I built the frame. At least a rail-supported option.  [RailMSLW](/images/3N/fZ/3NfZ_railmslw.jpg.jpg) 
+The Rial option for the current hardware and design is following me since I built the frame. At least a rail-supported option.  [RailMSLW](/images/3n/3nfz_railmslw.jpg.jpg) 
 
 The challenges would be not only that plenty of the math have to be changed. There is also the fact that the 4 horizontal tubes would be around 3m, so a droop is expected. The top and down one can be supported, but not the 2 at the sled. Bought bearings for this job would cost quite an amount. Not sure if DIY V-bearings could be done.
 

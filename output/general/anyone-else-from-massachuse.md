@@ -5,7 +5,7 @@ I am in Franklin, and was wondering if we had any other Bostonian builders?  Her
 
 
 
- [Dome on R2 frame](/images/F6/6y/F66y_domeonr2frame.jpg.jpg)
+ [Dome on R2 frame](/images/f6/f66y_domeonr2frame.jpg.jpg)
 
 ---
 

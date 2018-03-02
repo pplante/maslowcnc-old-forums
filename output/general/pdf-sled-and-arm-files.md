@@ -25,7 +25,7 @@ That's not ideal. Can you post a screen shot so I can see what they look like?
 
 Posted on **2017-03-22 13:31:38** by **hnatkowicz**:
 
-[Graphic6](/images/hl/q0/hlq0_graphic6.jpg.jpg)
+[Graphic6](/images/hl/hlq0_graphic6.jpg.jpg)
 
 ---
 

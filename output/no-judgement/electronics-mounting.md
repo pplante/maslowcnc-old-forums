@@ -7,7 +7,7 @@ Curious how people are mounting the electronics to the back of the cnc frame? An
 
 Posted on **2017-05-23 09:00:23** by **gero**:
 
-Mine are above because they benefit more from the window AC blowing parallel to the worksheet.   [IMAG0788](/images/m5/PK/m5PK_imag0788.jpg.jpg)
+Mine are above because they benefit more from the window AC blowing parallel to the worksheet.   [IMAG0788](/images/m5/m5pk_imag0788.jpg.jpg)
 
 ---
 

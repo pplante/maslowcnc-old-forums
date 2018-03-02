@@ -1,7 +1,7 @@
 ## Yet another corner case
 Posted on **2017-05-27 11:29:14** by **gero**:
 
-FreeCad v.17 daily build might be responsible for this interesting find. FreeCad is under development, so bugs are expected. I am not sure though, so I thought I will share this. I wanted to cut a shelf with cutouts for LED lamps. The circles go down in 3 steps and the last round has 4 holding tabs. MaslowBH decided that music notes would look much better.  [IMAG0801](/images/V6/ka/V6ka_imag0801.jpg.jpg) 
+FreeCad v.17 daily build might be responsible for this interesting find. FreeCad is under development, so bugs are expected. I am not sure though, so I thought I will share this. I wanted to cut a shelf with cutouts for LED lamps. The circles go down in 3 steps and the last round has 4 holding tabs. MaslowBH decided that music notes would look much better.  [IMAG0801](/images/v6/v6ka_imag0801.jpg.jpg) 
 
 It was interesting to see how it lost position, found itself and continued as if nothing had happened. Interesting also that after each position loss it assumed itself higher in GC, showing the error circle and displaying a downward move, while the sled was going up to meet the position GC showed. https://youtu.be/JTxUoL5ntzU It takes off at 1:12. The .nc is here (at own risk) https://www.dropbox.com/s/qc07z9749kxre45/light2.nc?dl=0
 
@@ -195,7 +195,7 @@ Posted on **2017-05-27 13:15:07** by **davidlang**:
 
 on another CNC machine I built, I used type 25 chain and milled the ends off a couple bolts, drilled a hole in them, and used a master link to attach the chain to the bolt. Doing something like this would give us as accurate a pivot point as we could get (limited by flex of the brackets)
 
- [Cnc_chain](/images/YG/MY/YGMY_cnc_chain.jpg.jpg)
+ [Cnc_chain](/images/yg/ygmy_cnc_chain.jpg.jpg)
 
 ---
 
@@ -315,7 +315,7 @@ I don't know if it will make a big difference, but it would be good to have some
 
 Posted on **2017-05-28 14:56:43** by **gero**:
 
-[Lights](/images/6W/nm/6Wnm_lights.jpg.jpg) The workflow in FreeCad, designing and generating the G-Code seems to be my current choice. The final cut went well and the result is near to perfect. A little sanding and painting and my LED will shine nicly in my shelf. Thanks for the always incredibly fast support!
+[Lights](/images/6w/6wnm_lights.jpg.jpg) The workflow in FreeCad, designing and generating the G-Code seems to be my current choice. The final cut went well and the result is near to perfect. A little sanding and painting and my LED will shine nicly in my shelf. Thanks for the always incredibly fast support!
 
 ---
 

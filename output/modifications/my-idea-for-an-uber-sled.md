@@ -9,7 +9,7 @@ This would require 3/4" ply, some 6" schedule 40 pipe, six R6-2RS bearings and s
 
 
 
-I attached an image, but I can make the drawing available as well... not sure how to share it though. [Über Sled](/images/E8/Uc/E8Uc_ubersled.png.jpg)
+I attached an image, but I can make the drawing available as well... not sure how to share it though. [Über Sled](/images/e8/e8uc_ubersled.png.jpg)
 
 ---
 
@@ -59,7 +59,7 @@ Thinking about it more; the load on the bearings will always be directly opposit
 
 Posted on **2016-10-29 11:43:20** by **TheRiflesSpiral**:
 
-David, that would be true if the sled were supported by only one point; the weight is actually spread between two points and unevenly, depending on where the sled's position is. There's a third force, gravity, that we have to accout for as well. I did, however, rotate the bearings around 60º to place two nearer the forces, rather than one. [Screen Shot 2016-10-29 at 1](/images/Tn/qJ/TnqJ_screenshot20161029at1.40.30pm.png.jpg)
+David, that would be true if the sled were supported by only one point; the weight is actually spread between two points and unevenly, depending on where the sled's position is. There's a third force, gravity, that we have to accout for as well. I did, however, rotate the bearings around 60º to place two nearer the forces, rather than one. [Screen Shot 2016-10-29 at 1](/images/tn/tnqj_screenshot20161029at1.40.30pm.png.jpg)
 
 ---
 

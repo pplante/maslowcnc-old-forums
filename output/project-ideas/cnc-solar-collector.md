@@ -19,7 +19,7 @@ https://drive.google.com/file/d/0B-ZcXNFKzjU9S1BjMG9tQjJnRU0/view?usp=sharing
 
 
 
-[Solar collector 04](/images/s9/6l/s96l_solarcollector04.jpg.jpg)
+[Solar collector 04](/images/s9/s96l_solarcollector04.jpg.jpg)
 
 ---
 

@@ -45,7 +45,7 @@ Open to suggestions and will be back to update after the first real trials.
 
 
 
-  [Metal Maslow Frame](/images/Lt/Y4/LtY4_metalmaslowframe.jpg.jpg)
+  [Metal Maslow Frame](/images/lt/lty4_metalmaslowframe.jpg.jpg)
 
 ---
 
@@ -107,7 +107,7 @@ However, the first option allows for the legs to fold and store the machine more
 
 
 
- [Frame Legs option 1](/images/1e/HZ/1eHZ_framelegsoption1.png.jpg)  [Frame Legs option 2](/images/vi/S9/viS9_framelegsoption2.png.jpg)
+ [Frame Legs option 1](/images/1e/1ehz_framelegsoption1.png.jpg)  [Frame Legs option 2](/images/vi/vis9_framelegsoption2.png.jpg)
 
 ---
 
@@ -167,7 +167,7 @@ Here is the frame standing on its own.
 
 
 
- [Metal Maslow Frame standing](/images/UA/6n/UA6n_metalmaslowframestanding.jpg.jpg)
+ [Metal Maslow Frame standing](/images/ua/ua6n_metalmaslowframestanding.jpg.jpg)
 
 ---
 
@@ -225,7 +225,7 @@ Now onto fine tuning and cutting out some projects. I think it would be great to
 
  
 
- [Hangingsled](/images/q2/3G/q23G_hangingsled.png.jpg)  [Testshape](/images/jL/oP/jLoP_testshape.png.jpg)  [Router plate](/images/Oc/8Z/Oc8Z_routerplate.png.jpg)
+ [Hangingsled](/images/q2/q23g_hangingsled.png.jpg)  [Testshape](/images/jl/jlop_testshape.png.jpg)  [Router plate](/images/oc/oc8z_routerplate.png.jpg)
 
 ---
 

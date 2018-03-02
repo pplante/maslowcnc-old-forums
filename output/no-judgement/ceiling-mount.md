@@ -33,7 +33,7 @@ Yours is not quite as simple as attaching hinges to joists, because the frame ha
 
 Totally doable.
 
- [Mcnc-01-frame-02-bench-hinge-uprights](/images/hG/Tt/hGTt_mcnc01frame02benchhingeuprights.png.jpg) [Mcnc-02-angle-brace-01](/images/R8/RL/R8RL_mcnc02anglebrace01.png.jpg) [Mcnc-03-angle-brace-02](/images/4g/mK/4gmK_mcnc03anglebrace02.png.jpg)
+ [Mcnc-01-frame-02-bench-hinge-uprights](/images/hg/hgtt_mcnc01frame02benchhingeuprights.png.jpg) [Mcnc-02-angle-brace-01](/images/r8/r8rl_mcnc02anglebrace01.png.jpg) [Mcnc-03-angle-brace-02](/images/4g/4gmk_mcnc03anglebrace02.png.jpg)
 
 ---
 

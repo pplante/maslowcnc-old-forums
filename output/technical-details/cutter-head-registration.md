@@ -83,7 +83,7 @@ Do you use AutoCAD or Sketchup or any other illustration tools? That's where you
 
 
 
-Start by inserting a 96"x48" rectangle to represent the cutting surface then insert your circles wherever you like. [SpatialGuy1](/images/Lj/nc/Ljnc_spatialguy1.jpg.jpg) 
+Start by inserting a 96"x48" rectangle to represent the cutting surface then insert your circles wherever you like. [SpatialGuy1](/images/lj/ljnc_spatialguy1.jpg.jpg) 
 
 
 

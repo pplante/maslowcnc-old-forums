@@ -31,7 +31,7 @@ Don't worry - you're doing well. Just wish I had more time to help..
 
 Posted on **2017-04-04 01:41:32** by **gero**:
 
-@boandersen Just letting you know that you are not the last in the class. My kit is on the island somewhere, but in a country like this, I can't nail the local post or the customs down to tell me when or if I will receive it. I have a hinged frame, cut the sled with a jig and now all i can do is hang the router on the frame with ropes to at least get a feeling of what it is going to look like :-)  [MaslowBH](/images/cq/df/cqdf_maslowbh.jpg.jpg)
+@boandersen Just letting you know that you are not the last in the class. My kit is on the island somewhere, but in a country like this, I can't nail the local post or the customs down to tell me when or if I will receive it. I have a hinged frame, cut the sled with a jig and now all i can do is hang the router on the frame with ropes to at least get a feeling of what it is going to look like :-)  [MaslowBH](/images/cq/cqdf_maslowbh.jpg.jpg)
 
 ---
 

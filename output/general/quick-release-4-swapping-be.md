@@ -7,7 +7,7 @@ I'd like to swap between two routers with different bits and also some type of s
 
 Posted on **2017-07-17 06:27:59** by **rollandelliott**:
 
-[Router quick release drawing](/images/3O/BH/3OBH_routerquickreleasedrawing.jpg.jpg)
+[Router quick release drawing](/images/3o/3obh_routerquickreleasedrawing.jpg.jpg)
 
 ---
 

@@ -223,7 +223,7 @@ Look what I just did.  Downforce!
 
 
 
-[DownZ1](/images/PN/49/PN49_downz1.jpg.jpg) [DownZ2](/images/fr/mL/frmL_downz2.jpg.jpg) [DownZ3](/images/NG/2Z/NG2Z_downz3.jpg.jpg)
+[DownZ1](/images/pn/pn49_downz1.jpg.jpg) [DownZ2](/images/fr/frml_downz2.jpg.jpg) [DownZ3](/images/ng/ng2z_downz3.jpg.jpg)
 
 ---
 
@@ -299,7 +299,7 @@ Posted on **2017-04-18 13:32:48** by **jbarchuk**:
 
 I said I'd be back. Rancher, congratulations, you are the first recipient of the *Maslow User Contribution Gold Star Award!* (Pronounced 'mugs.') So I edited your icon. Here are two different file formats depending on what you need.
 
- [Rancher-icon-01](/images/DO/oY/DOoY_ranchericon01.jpg.jpg) [Rancher-icon-01](/images/GL/xj/GLxj_ranchericon01.png.jpg)
+ [Rancher-icon-01](/images/do/dooy_ranchericon01.jpg.jpg) [Rancher-icon-01](/images/gl/glxj_ranchericon01.png.jpg)
 
 ---
 
@@ -427,7 +427,7 @@ I'm in the same boat. It seems like some days are better than others and I have 
 
 
 
-The next step I'm working on is fully automating the calibration process with a step by step process in Ground Control which will look like  [this](/images/B5/t5/B5t5_stepbystepprocedure.jpg.jpg) . All of the measurements will be done by the machine itself. I think that having at least a repeatable procedure where the last step is to cut a test shape will go a long way towards reducing variability. 
+The next step I'm working on is fully automating the calibration process with a step by step process in Ground Control which will look like  [this](/images/b5/b5t5_stepbystepprocedure.jpg.jpg) . All of the measurements will be done by the machine itself. I think that having at least a repeatable procedure where the last step is to cut a test shape will go a long way towards reducing variability. 
 
 
 
@@ -505,7 +505,7 @@ I left is like this so my 0,0 is not 0,0 on the sheet of ply, but my circles wer
 
 Posted on **2017-04-19 10:33:13** by **gero**:
 
-Did all from A - Z, new Firmware, new GroundControl, Calibrate chain length, confirmed and entered all measurements.  [Test-cut](/images/w4/j9/w4j9_testcut.jpg.jpg)
+Did all from A - Z, new Firmware, new GroundControl, Calibrate chain length, confirmed and entered all measurements.  [Test-cut](/images/w4/w4j9_testcut.jpg.jpg)
 
 ---
 
@@ -537,7 +537,7 @@ I've got good news and bad news. The bad news is that I definitely messed someth
 
 
 
-Here are my test results:  [square-x](/images/fO/hI/fOhI_img_20170419_105831366_hdr.jpg.jpg)  [square-y](/images/F1/0b/F10b_img_20170419_105858474_hdr.jpg.jpg)  [circle-x](/images/vK/Ss/vKSs_img_20170419_105929898_hdr.jpg.jpg)  [circle-y](/images/yP/4x/yP4x_img_20170419_110003070_hdr.jpg.jpg)  [Settings](/images/IH/IA/IHIA_settings.jpg.jpg) 
+Here are my test results:  [square-x](/images/fo/fohi_img_20170419_105831366_hdr.jpg.jpg)  [square-y](/images/f1/f10b_img_20170419_105858474_hdr.jpg.jpg)  [circle-x](/images/vk/vkss_img_20170419_105929898_hdr.jpg.jpg)  [circle-y](/images/yp/yp4x_img_20170419_110003070_hdr.jpg.jpg)  [Settings](/images/ih/ihia_settings.jpg.jpg) 
 
 
 
@@ -577,7 +577,7 @@ OK, shoot!
 
 Posted on **2017-04-19 11:29:15** by **Bar**:
 
-Even if you can't match all the dimensions exactly I would say put all the settings in exactly the same as mine. I think something non-linear is going on in the math so any differences might be amplified, while a real world difference will probably have less effect. Here are my [settings](/images/Oy/1V/Oy1V_settings.jpg.jpg)
+Even if you can't match all the dimensions exactly I would say put all the settings in exactly the same as mine. I think something non-linear is going on in the math so any differences might be amplified, while a real world difference will probably have less effect. Here are my [settings](/images/oy/oy1v_settings.jpg.jpg)
 
 ---
 
@@ -843,7 +843,7 @@ Posted on **2017-04-19 12:53:13** by **Bar**:
 
 Posted on **2017-04-19 12:53:35** by **scottsm**:
 
-Remember, though, that two days ago, I was [very close](/images/Z7/B4/Z7B4_img_0504.jpeg.jpg)  (middle cut) but yesterday off (left cut) and today good again (right cut). Since yesterday I altered the dimensions and did a chain re-cal.
+Remember, though, that two days ago, I was [very close](/images/z7/z7b4_img_0504.jpeg.jpg)  (middle cut) but yesterday off (left cut) and today good again (right cut). Since yesterday I altered the dimensions and did a chain re-cal.
 
 ---
 
@@ -867,7 +867,7 @@ So what we have now is that the motors were moved Horizontally to match Bar's se
 
 Posted on **2017-04-19 12:56:59** by **Bar**:
 
-@blsteinhauer88 The theory right now is that changing the settings to anything other than the defaults messes with the internal math. If you use my default [settings](/images/yP/N2/yPN2_settings.jpg.jpg) and try to make your machine physically match mine as closely as possible you will get [good results](/images/gu/1u/gu1u_squarex.jpg.jpg) . What I broke in the internal math is yet to be determined.
+@blsteinhauer88 The theory right now is that changing the settings to anything other than the defaults messes with the internal math. If you use my default [settings](/images/yp/ypn2_settings.jpg.jpg) and try to make your machine physically match mine as closely as possible you will get [good results](/images/gu/gu1u_squarex.jpg.jpg) . What I broke in the internal math is yet to be determined.
 
 ---
 
@@ -893,7 +893,7 @@ Posted on **2017-04-19 13:00:07** by **Bar**:
 
 I believe the procedure is:
 
-1) Enter all the settings like [this](/images/xf/EQ/xfEQ_settings.jpg.jpg) 
+1) Enter all the settings like [this](/images/xf/xfeq_settings.jpg.jpg) 
 
 2) Calibrate chain lengths - automatic
 
@@ -945,7 +945,7 @@ I was thinking that. You've been getting the best results because your frame is 
 
 Posted on **2017-04-19 13:32:21** by **gero**:
 
-If someone can replicate this, it might help. I had a wrong distance of the chains on the sled. Putting the right on I got close. Bumping up a little I am spot on. Still needs to be confirmed on part farther away from the center.  [Spot-on](/images/CO/xF/COxF_spoton.jpg.jpg)
+If someone can replicate this, it might help. I had a wrong distance of the chains on the sled. Putting the right on I got close. Bumping up a little I am spot on. Still needs to be confirmed on part farther away from the center.  [Spot-on](/images/co/coxf_spoton.jpg.jpg)
 
 ---
 
@@ -1075,7 +1075,7 @@ You are right. If it saves even one person from having to mess with them we shou
 
 Posted on **2017-04-19 15:57:19** by **Bar**:
 
-The settings are now disabled like [this](/images/pW/vS/pWvS_settings.jpg.jpg) in the newest version of Ground Control. The default values are now also used by the latest firmware. When the command to change the settings is sent to the latest firmware it will respond with "Settings Not Updated" to make it clear that the command was not accepted.
+The settings are now disabled like [this](/images/pw/pwvs_settings.jpg.jpg) in the newest version of Ground Control. The default values are now also used by the latest firmware. When the command to change the settings is sent to the latest firmware it will respond with "Settings Not Updated" to make it clear that the command was not accepted.
 
 
 
@@ -1155,7 +1155,7 @@ So now it's all narrowed down (soon to be fixed, I'm sure) :-)
 
 Posted on **2017-04-20 16:30:53** by **gero**:
 
-If it could to help to circle in, I have space to go out and up with the motor mounts. Going down and more narrow there is plenty of space. If anyone would like me to try specific measurements, let me know. Even a series of mounting points.  [IMAG0659](/images/8B/ZZ/8BZZ_imag0659.jpg.jpg)
+If it could to help to circle in, I have space to go out and up with the motor mounts. Going down and more narrow there is plenty of space. If anyone would like me to try specific measurements, let me know. Even a series of mounting points.  [IMAG0659](/images/8b/8bzz_imag0659.jpg.jpg)
 
 ---
 
@@ -1397,7 +1397,7 @@ Thank you so much for testing that!
 
 Posted on **2017-04-21 09:33:52** by **blsteinhauer88**:
 
-[IMG_0673](/images/pF/Zj/pFZj_img_0673.jpg.jpg) [IMG_0674](/images/dt/qu/dtqu_img_0674.jpg.jpg) [IMG_0675](/images/wv/iY/wviY_img_0675.jpg.jpg)
+[IMG_0673](/images/pf/pfzj_img_0673.jpg.jpg) [IMG_0674](/images/dt/dtqu_img_0674.jpg.jpg) [IMG_0675](/images/wv/wviy_img_0675.jpg.jpg)
 
 ---
 
@@ -1537,7 +1537,7 @@ I'm working on testing getting everything dialed in at the center right now and 
 
 Posted on **2017-04-21 11:11:21** by **blsteinhauer88**:
 
-Here is an edge test! Not bad!!!  [IMG_0676](/images/Am/c9/Amc9_img_0676.jpg.jpg) [IMG_0677](/images/a3/D8/a3D8_img_0677.jpg.jpg) [IMG_0678](/images/dl/Te/dlTe_img_0678.jpg.jpg)
+Here is an edge test! Not bad!!!  [IMG_0676](/images/am/amc9_img_0676.jpg.jpg) [IMG_0677](/images/a3/a3d8_img_0677.jpg.jpg) [IMG_0678](/images/dl/dlte_img_0678.jpg.jpg)
 
 ---
 
@@ -1549,7 +1549,7 @@ Taller and thinner but good!😀
 
 Posted on **2017-04-21 11:14:08** by **blsteinhauer88**:
 
-Sorry, here is center... [IMG_0679](/images/oO/E4/oOE4_img_0679.jpg.jpg)
+Sorry, here is center... [IMG_0679](/images/oo/ooe4_img_0679.jpg.jpg)
 
 ---
 
@@ -1615,7 +1615,7 @@ My settings are default except V offset is 450.
 
 Posted on **2017-04-21 12:20:18** by **Bar**:
 
-For dialing things in with the test shape I recommend moving down and diagonally with each test. That way it's easy to track your progress and it uses minimal material like  [this](/images/np/WH/npWH_img_20170421_121522123_hdr.jpg.jpg)
+For dialing things in with the test shape I recommend moving down and diagonally with each test. That way it's easy to track your progress and it uses minimal material like  [this](/images/np/npwh_img_20170421_121522123_hdr.jpg.jpg)
 
 ---
 
@@ -1627,7 +1627,7 @@ Posted on **2017-04-21 12:20:39** by **Bar**:
 
 Posted on **2017-04-21 12:22:17** by **blsteinhauer88**:
 
-Lower right weird!! [IMG_0681](/images/rH/xk/rHxk_img_0681.jpg.jpg) [IMG_0682](/images/Lq/5u/Lq5u_img_0682.jpg.jpg)
+Lower right weird!! [IMG_0681](/images/rh/rhxk_img_0681.jpg.jpg) [IMG_0682](/images/lq/lq5u_img_0682.jpg.jpg)
 
 ---
 
@@ -1815,7 +1815,7 @@ What if I take notes on exactly what I do, and if you read along with them, then
 
 Posted on **2017-04-21 13:45:44** by **rancher**:
 
-[IMG_1452](/images/T4/2x/T42x_img_1452.jpg.jpg) 
+[IMG_1452](/images/t4/t42x_img_1452.jpg.jpg) 
 
 
 
@@ -1961,25 +1961,25 @@ Okay,  here we go....
 
 Center cut was pretty dang great.
 
- [IMG_3785](/images/ms/A0/msA0_img_3785.jpg.jpg) [IMG_3787](/images/YX/qM/YXqM_img_3787.jpg.jpg) [IMG_3788](/images/fp/dU/fpdU_img_3788.jpg.jpg)
+ [IMG_3785](/images/ms/msa0_img_3785.jpg.jpg) [IMG_3787](/images/yx/yxqm_img_3787.jpg.jpg) [IMG_3788](/images/fp/fpdu_img_3788.jpg.jpg)
 
 
 
 Then I went up 8 inches and tried again.
 
-[Upper y](/images/Ye/Ap/YeAp_uppery.jpg.jpg) 
+[Upper y](/images/ye/yeap_uppery.jpg.jpg) 
 
 
 
 And changed sled width wider by 3, then 6.  Same results.  Not too bad, but it didn't get any better.  Have you guys tried one up high center?
 
- [IMG_3796](/images/zA/hH/zAhH_img_3796.jpg.jpg) 
+ [IMG_3796](/images/za/zahh_img_3796.jpg.jpg) 
 
 
 
 The new flock hit the pond for the first time while I cut.
 
- [IMG_3801](/images/Ee/97/Ee97_img_3801.jpg.jpg)
+ [IMG_3801](/images/ee/ee97_img_3801.jpg.jpg)
 
 ---
 
@@ -2047,7 +2047,7 @@ For me ‘Home’ is the centre of the sheet from where I would like to start al
 
 After chain and motor calibration.
 
-Am I missing the ‘Set Home’ button? Since my sled chain mounts are closer to the cutter (I might even turn them to get more close to the cutter), after chain calibration, I am in the middle horizontal and above centre vertical. With the original mounting, is the sled at the centre of the sheet? [Home](/images/qj/aK/qjaK_home.jpg.jpg)
+Am I missing the ‘Set Home’ button? Since my sled chain mounts are closer to the cutter (I might even turn them to get more close to the cutter), after chain calibration, I am in the middle horizontal and above centre vertical. With the original mounting, is the sled at the centre of the sheet? [Home](/images/qj/qjak_home.jpg.jpg)
 
 ---
 
@@ -2273,7 +2273,7 @@ I will look into it
 
 Posted on **2017-04-21 19:48:03** by **MakerMark**:
 
-How about icons instead of words?  [SetHome](/images/EZ/VO/EZVO_sethome.png.jpg)
+How about icons instead of words?  [SetHome](/images/ez/ezvo_sethome.png.jpg)
 
 ---
 
@@ -2447,7 +2447,7 @@ Posted on **2017-04-24 04:22:50** by **gero**:
 
 I had 0.5mm off on left up and left down, but with ridiculous slow speed.
 
-After the quick fix I was 1mm off on right up and right down with F450. Wondering if it was the speed. With my own 100mm x 100mm square and hand written gcode. No 'I' or 'J', pure X and Y moves. I want to use my caliper and that does not go 6'. This is the plan for tonight.  [Testpattern](/images/5H/SA/5HSA_testpattern.jpg.jpg)  Just a rough sketch, the .nc will have exact distances for the squares.
+After the quick fix I was 1mm off on right up and right down with F450. Wondering if it was the speed. With my own 100mm x 100mm square and hand written gcode. No 'I' or 'J', pure X and Y moves. I want to use my caliper and that does not go 6'. This is the plan for tonight.  [Testpattern](/images/5h/5hsa_testpattern.jpg.jpg)  Just a rough sketch, the .nc will have exact distances for the squares.
 
 Handwritten code in a spread sheet, exported to .csv, so not only the squares can be compared, also the distance between them.
 
@@ -2505,9 +2505,9 @@ Awesome work writing all that gcode by hand! I saw your post yesterday about gen
 
 Posted on **2017-04-26 02:45:26** by **gero**:
 
-Sorry that I need to keep you waiting for the report, but I need to sit back and enjoy this picture for a while  [IMAG0672](/images/5U/Ds/5UDs_imag0672.jpg.jpg) 
+Sorry that I need to keep you waiting for the report, but I need to sit back and enjoy this picture for a while  [IMAG0672](/images/5u/5uds_imag0672.jpg.jpg) 
 
-The center hole is drilled 16 times  [IMAG0673](/images/lS/Vo/lSVo_imag0673.jpg.jpg) and measures 6.5 mm, it's a 6mm cutter! I am not measuring the squares and distances between them now, because I am to drunk of happiness right now.
+The center hole is drilled 16 times  [IMAG0673](/images/ls/lsvo_imag0673.jpg.jpg) and measures 6.5 mm, it's a 6mm cutter! I am not measuring the squares and distances between them now, because I am to drunk of happiness right now.
 
 ---
 
@@ -2627,7 +2627,7 @@ Automation! I love it. I think a best practices checklist would be great... the 
 
 Posted on **2017-04-26 12:02:17** by **gero**:
 
-After cutting the pattern, I ordered Booze. No need to explain what happed after :-).  [IMAG0675](/images/S5/ed/S5ed_imag0675.jpg.jpg)
+After cutting the pattern, I ordered Booze. No need to explain what happed after :-).  [IMAG0675](/images/s5/s5ed_imag0675.jpg.jpg)
 
 ---
 
@@ -2831,7 +2831,7 @@ I can do this, what bit size? I've got 1/8" or 1/4" handy...
 
 Posted on **2017-04-28 15:43:15** by **scottsm**:
 
-davidlang, I bailed out because it looks to me like some of the measurements are [off the sheet](/images/5S/1a/5S1a_screenshot20170428at3.39.03pm.png.jpg) :( ?
+davidlang, I bailed out because it looks to me like some of the measurements are [off the sheet](/images/5s/5s1a_screenshot20170428at3.39.03pm.png.jpg) :( ?
 
 ---
 
@@ -2861,7 +2861,7 @@ Never mind that last, I misread the code.
 
 Posted on **2017-04-28 18:27:53** by **scottsm**:
 
-The .nc file looks [different](/images/ja/3Z/ja3Z_screenshot20170428at6.20.58pm.png.jpg) in [this g-code simulator](https://nraynaud.github.io/webgcode/), but when I ran it my sled headed [off the edge of the worksheet](/images/d3/ZG/d3ZG_screenshot20170428at6.15.21pm.png.jpg) :(...
+The .nc file looks [different](/images/ja/ja3z_screenshot20170428at6.20.58pm.png.jpg) in [this g-code simulator](https://nraynaud.github.io/webgcode/), but when I ran it my sled headed [off the edge of the worksheet](/images/d3/d3zg_screenshot20170428at6.15.21pm.png.jpg) :(...
 
 davidlang, do you want to open the issue in Firmware, or shall I?
 

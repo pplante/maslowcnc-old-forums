@@ -7,7 +7,7 @@ I'm so excited about your project! I'm going to share it with my CNC friends and
 
 ~ Emily Journey
 
- [Emily_Working](/images/W6/T3/W6T3_emily_working.jpg.jpg)
+ [Emily_Working](/images/w6/w6t3_emily_working.jpg.jpg)
 
 ---
 

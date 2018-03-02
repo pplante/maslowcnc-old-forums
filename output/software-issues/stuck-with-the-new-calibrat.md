@@ -237,7 +237,7 @@ First try clicking the arrow buttons to see if it moves, then try calibrate chai
 
 Posted on **2017-05-03 14:08:25** by **gero**:
 
-arrow buttons, only left motor, calibrate chain lengths – automatic, only left motor  [High-y](/images/Kt/rK/KtrK_highy.jpg.jpg)
+arrow buttons, only left motor, calibrate chain lengths – automatic, only left motor  [High-y](/images/kt/ktrk_highy.jpg.jpg)
 
 ---
 
@@ -249,7 +249,7 @@ Did it say "Starting pos:  something" when running the chain length calibration?
 
 Posted on **2017-05-03 14:10:56** by **gero**:
 
-No, only  [Chain-l](/images/AG/jT/AGjT_chainl.jpg.jpg)
+No, only  [Chain-l](/images/ag/agjt_chainl.jpg.jpg)
 
 ---
 
@@ -299,13 +299,13 @@ I think I got mine back to normal now, so hopefully it will do the same for your
 
 
 
-There should be a [message](/images/8J/Ze/8JZe_message.jpg.jpg) right at the top when it connects to make sure it's working right :)
+There should be a [message](/images/8j/8jze_message.jpg.jpg) right at the top when it connects to make sure it's working right :)
 
 ---
 
 Posted on **2017-05-03 14:49:27** by **gero**:
 
-Thanks for the greeting :-). Only left chain :-(  [Chain1](/images/zI/wl/zIwl_chain1.jpg.jpg)  [Chain2](/images/EV/TW/EVTW_chain2.jpg.jpg)  [Chain3](/images/qC/m9/qCm9_chain3.jpg.jpg)  [Chain4](/images/c5/n1/c5n1_chain4.jpg.jpg)
+Thanks for the greeting :-). Only left chain :-(  [Chain1](/images/zi/ziwl_chain1.jpg.jpg)  [Chain2](/images/ev/evtw_chain2.jpg.jpg)  [Chain3](/images/qc/qcm9_chain3.jpg.jpg)  [Chain4](/images/c5/c5n1_chain4.jpg.jpg)
 
 ---
 
@@ -345,7 +345,7 @@ When you have a chance, take a look at this branch here: https://github.com/Masl
 
 
 
-It should print out some values for the right axis pretty much all the time like  [this](/images/8O/oU/8OoU_printvalues.jpg.jpg) 
+It should print out some values for the right axis pretty much all the time like  [this](/images/8o/8oou_printvalues.jpg.jpg) 
 
 
 
@@ -369,7 +369,7 @@ Right-axis:
 
 
 
-The first 2 always stay same, the 3rd increases with left move and decreases with right move. With chain calibration it counts upwards from 0 till 26.58 and then shows 0.00 mm  [Test2-1](/images/fM/4U/fM4U_test21.jpg.jpg)  [Test2-2](/images/oT/Xb/oTXb_test22.jpg.jpg)  [Test2-3](/images/Tw/qK/TwqK_test23.jpg.jpg)  [Test2-4](/images/Bz/wW/BzwW_test24.jpg.jpg)
+The first 2 always stay same, the 3rd increases with left move and decreases with right move. With chain calibration it counts upwards from 0 till 26.58 and then shows 0.00 mm  [Test2-1](/images/fm/fm4u_test21.jpg.jpg)  [Test2-2](/images/ot/otxb_test22.jpg.jpg)  [Test2-3](/images/tw/twqk_test23.jpg.jpg)  [Test2-4](/images/bz/bzww_test24.jpg.jpg)
 
 ---
 
@@ -451,7 +451,7 @@ Not quite done :-(
 
 It did solve that the right motor refused to turn, but:
 
-After putting back the current firmware, the machine still does not know its position. Calibrate Motors and Calibrate Chain Length work well, but do not help. The error circle tries all sizes form xxl to xs and then 'Unable to find valid machine position. Please calibrate chain lengths.' Hold and continue is confusing. The picture shows that after another chain calibration, the message comes back.  [Pos-error](/images/a8/XN/a8XN_poserror.jpg.jpg)
+After putting back the current firmware, the machine still does not know its position. Calibrate Motors and Calibrate Chain Length work well, but do not help. The error circle tries all sizes form xxl to xs and then 'Unable to find valid machine position. Please calibrate chain lengths.' Hold and continue is confusing. The picture shows that after another chain calibration, the message comes back.  [Pos-error](/images/a8/a8xn_poserror.jpg.jpg)
 
 ---
 
@@ -549,11 +549,11 @@ Posted on **2017-05-05 04:45:22** by **gero**:
 
 So the machine is moving again :-). Strange findings on the way.
 
-a) At 5 of 8, it showed a negative number for Vertical offset  [Meas1](/images/BT/7r/BT7r_meas1.jpg.jpg)   , going back to set the sprocket to 12:00 for the chain length calibration and forward again this number had changed.  [Meas2](/images/HW/yD/HWyD_meas2.jpg.jpg)
+a) At 5 of 8, it showed a negative number for Vertical offset  [Meas1](/images/bt/bt7r_meas1.jpg.jpg)   , going back to set the sprocket to 12:00 for the chain length calibration and forward again this number had changed.  [Meas2](/images/hw/hwyd_meas2.jpg.jpg)
 
-b) After the chain length the hated popup was back  [Pos-err](/images/E9/Zb/E9Zb_poserr.jpg.jpg)
+b) After the chain length the hated popup was back  [Pos-err](/images/e9/e9zb_poserr.jpg.jpg)
 
-c) All arrows work, the left-up creates a with distance growing error circle, clicking repeatedly makes it grow bigger then the sled  [Err-cir](/images/MV/kx/MVkx_errcir.jpg.jpg) 
+c) All arrows work, the left-up creates a with distance growing error circle, clicking repeatedly makes it grow bigger then the sled  [Err-cir](/images/mv/mvkx_errcir.jpg.jpg) 
 
 d) I am not in the center of the sheet on X (10mm left), this is new. Y is off since tweaking the bracket distance (now 20mm below)
 

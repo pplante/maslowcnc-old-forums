@@ -47,7 +47,7 @@ Depending on scale, of course, an image like that one is well within the realm. 
 
 Posted on **2017-05-27 03:06:23** by **larry357**:
 
-[Tsp2](/images/Lm/f8/Lmf8_tsp2.svg.jpg) just a test file of the program, seems to load well and creates a tool path in makercam, was trying to extrude it in fu360 but it through a hissy fit :P
+[Tsp2](/images/lm/lmf8_tsp2.svg.jpg) just a test file of the program, seems to load well and creates a tool path in makercam, was trying to extrude it in fu360 but it through a hissy fit :P
 
 ---
 

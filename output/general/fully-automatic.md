@@ -1,7 +1,7 @@
 ## Fully automatic
 Posted on **2017-03-26 15:12:41** by **blsteinhauer88**:
 
-Picked up my Z access the other day and installed. Got my numbers right finally and have a circle. Decided to try a quick project on "full auto" .   Took one and a half hours, but turned out great and I cut it on the extreme left side of the plywood without any trouble. Now going to cut my frame. [51225858978__B006AC36-B3D0-4128-B5FA-5E2256AA4C99](/images/P3/Bv/P3Bv_51225858978__b006ac36b3d04128b5fa5e2256aa4c99.jpg.jpg) [51224711938__6275FFF8-99DD-4A56-9A6C-AF166E602A31](/images/GF/k9/GFk9_51224711938__6275fff899dd4a569a6caf166e602a31.jpg.jpg)
+Picked up my Z access the other day and installed. Got my numbers right finally and have a circle. Decided to try a quick project on "full auto" .   Took one and a half hours, but turned out great and I cut it on the extreme left side of the plywood without any trouble. Now going to cut my frame. [51225858978__B006AC36-B3D0-4128-B5FA-5E2256AA4C99](/images/p3/p3bv_51225858978__b006ac36b3d04128b5fa5e2256aa4c99.jpg.jpg) [51224711938__6275FFF8-99DD-4A56-9A6C-AF166E602A31](/images/gf/gfk9_51224711938__6275fff899dd4a569a6caf166e602a31.jpg.jpg)
 
 ---
 

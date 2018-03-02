@@ -383,7 +383,7 @@ why did you decide to go with 4x4 instead of just 2x4s? I would think that once 
 
 Posted on **2017-04-13 08:55:57** by **rexklein**:
 
-[Beta_rex_frame](/images/KB/QD/KBQD_beta_rex_frame.jpeg.jpg)
+[Beta_rex_frame](/images/kb/kbqd_beta_rex_frame.jpeg.jpg)
 
 ---
 

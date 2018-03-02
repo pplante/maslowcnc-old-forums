@@ -5,9 +5,9 @@ Ok, my z axis is bigger than the standard sled. So I have been working on a newe
 
 
 
- [20170609_110539](/images/pe/1U/pe1U_20170609_110539.jpg.jpg) 
+ [20170609_110539](/images/pe/pe1u_20170609_110539.jpg.jpg) 
 
- [20170609_110734](/images/sE/ni/sEni_20170609_110734.jpg.jpg) 
+ [20170609_110734](/images/se/seni_20170609_110734.jpg.jpg) 
 
 
 
@@ -45,11 +45,11 @@ Ok, here is an assembled sled. Only missing the drive motor. Weight is at 12 lbs
 
 
 
- [20170623_175345](/images/cb/1N/cb1N_20170623_175345.jpg.jpg) 
+ [20170623_175345](/images/cb/cb1n_20170623_175345.jpg.jpg) 
 
- [20170623_175411](/images/ut/7T/ut7T_20170623_175411.jpg.jpg) 
+ [20170623_175411](/images/ut/ut7t_20170623_175411.jpg.jpg) 
 
- [20170623_175426](/images/Ax/OH/AxOH_20170623_175426.jpg.jpg) 
+ [20170623_175426](/images/ax/axoh_20170623_175426.jpg.jpg) 
 
 
 

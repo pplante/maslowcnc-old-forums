@@ -37,7 +37,7 @@ Tests complete.
 
 Posted on **2017-03-19 17:39:02** by **blsteinhauer88**:
 
-[Image](/images/xI/g4/xIg4_image.jpg.jpg)
+[Image](/images/xi/xig4_image.jpg.jpg)
 
 ---
 
@@ -61,7 +61,7 @@ Here is the arduino serial monitor.
 
 Posted on **2017-03-19 18:04:08** by **blsteinhauer88**:
 
-[IMG_0435](/images/tC/6s/tC6s_img_0435.jpg.jpg)
+[IMG_0435](/images/tc/tc6s_img_0435.jpg.jpg)
 
 ---
 
@@ -119,7 +119,7 @@ I'm going to run the same thing on my setup and see if mine says pass or fail wi
 
 Posted on **2017-03-19 18:32:52** by **blsteinhauer88**:
 
-[IMG_0436](/images/R3/09/R309_img_0436.jpg.jpg)
+[IMG_0436](/images/r3/r309_img_0436.jpg.jpg)
 
 ---
 
@@ -131,7 +131,7 @@ Interesting, I'm seeing different behavior. Mine looks like this:
 
 Posted on **2017-03-19 18:38:04** by **Bar**:
 
-[Motor tests](/images/Ko/aN/KoaN_motortests.jpg.jpg)
+[Motor tests](/images/ko/koan_motortests.jpg.jpg)
 
 ---
 

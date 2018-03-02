@@ -221,7 +221,7 @@ yes, you can rig something up, but if you go that route, just look at the many d
 
 Posted on **2017-02-09 14:03:44** by **jamesbil**:
 
-The Triton one does have a fine adjustment screw that pulls it down. It is in the form of a threaded bar and rack and pinion setup. I have the 3.25 2400 watt version permanently mounted in a router table. It also comes with a handle that is inserted through the table top to wind the router up or down. The plunge spring is removed for this application. [Screenshot_2017-02-09-21-55-47](/images/f6/mJ/f6mJ_screenshot_20170209215547.png.jpg) 
+The Triton one does have a fine adjustment screw that pulls it down. It is in the form of a threaded bar and rack and pinion setup. I have the 3.25 2400 watt version permanently mounted in a router table. It also comes with a handle that is inserted through the table top to wind the router up or down. The plunge spring is removed for this application. [Screenshot_2017-02-09-21-55-47](/images/f6/f6mj_screenshot_20170209215547.png.jpg) 
 
 I use it daily in my cabinet workshop and love it. Heavy beast tho at 7.5kg
 
@@ -383,7 +383,7 @@ will post tonight if I have a chance :)
 
 Posted on **2017-04-03 14:26:57** by **larry357**:
 
-[WPDrawing2017-24-04_09_24_01](/images/ux/D3/uxD3_wpdrawing20172404_09_24_01.jpg.jpg) [WPDrawing2017-24-04_09_24_41](/images/1e/oD/1eoD_wpdrawing20172404_09_24_41.jpg.jpg) [WPDrawing2017-25-04_09_25_09](/images/K6/bc/K6bc_wpdrawing20172504_09_25_09.jpg.jpg)
+[WPDrawing2017-24-04_09_24_01](/images/ux/uxd3_wpdrawing20172404_09_24_01.jpg.jpg) [WPDrawing2017-24-04_09_24_41](/images/1e/1eod_wpdrawing20172404_09_24_41.jpg.jpg) [WPDrawing2017-25-04_09_25_09](/images/k6/k6bc_wpdrawing20172504_09_25_09.jpg.jpg)
 
 ---
 
