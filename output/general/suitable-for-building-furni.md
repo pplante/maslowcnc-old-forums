@@ -29,7 +29,7 @@ My current goal is a Lift desk utilizing only 1 and the entire sheet with minimu
 
 Posted on **2017-06-25 16:59:52** by **gero**:
 
-[Lift-desk](../../images/qC/LS/qCLS_liftdesk.jpg.jpg)  This are the horizontal supports of the desk. On the sheet (orange) they are vertical. Cutting 'spring-joints' in the down part will work. (So I believe) On the top I have my doubts. As a workaround, with mounted guides, I could flip the sheet and cut the top joints now down. I have taken the rest of the design out till I have cut it ;-)
+[Lift-desk](/images/qC/LS/qCLS_liftdesk.jpg.jpg)  This are the horizontal supports of the desk. On the sheet (orange) they are vertical. Cutting 'spring-joints' in the down part will work. (So I believe) On the top I have my doubts. As a workaround, with mounted guides, I could flip the sheet and cut the top joints now down. I have taken the rest of the design out till I have cut it ;-)
 
 ---
 

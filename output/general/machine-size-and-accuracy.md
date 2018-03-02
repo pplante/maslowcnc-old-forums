@@ -93,7 +93,7 @@ Better with the frame, cut a small box, bit size was the issue.  All the dimensi
 
 Posted on **2017-04-02 18:35:13** by **mindeye**:
 
-Yeah, I'm definitely at my wits end with accuracy at this point. My measurements are definitely good and a calibrated the motors immediately before the cut but my latest cut of a motor mount was horribly askew on top and bottom, while the sides were plumb. Overall sizing is mostly correct (within a 1/4") but for some reason horizontal cuts are totally wonky. [IMG_20170402_180952767](../../images/6z/CA/6zCA_img_20170402_180952767.jpg.jpg)
+Yeah, I'm definitely at my wits end with accuracy at this point. My measurements are definitely good and a calibrated the motors immediately before the cut but my latest cut of a motor mount was horribly askew on top and bottom, while the sides were plumb. Overall sizing is mostly correct (within a 1/4") but for some reason horizontal cuts are totally wonky. [IMG_20170402_180952767](/images/6z/CA/6zCA_img_20170402_180952767.jpg.jpg)
 
 ---
 
@@ -169,7 +169,7 @@ a different height offset should not make much of a difference, that just affect
 
 Posted on **2017-04-03 11:47:58** by **blsteinhauer88**:
 
-Did your mounts come out like this? (Your photo did not load in my computer) [IMG_0493](../../images/Iu/4r/Iu4r_img_0493.jpg.jpg) [IMG_0495](../../images/Qf/3E/Qf3E_img_0495.jpg.jpg)
+Did your mounts come out like this? (Your photo did not load in my computer) [IMG_0493](/images/Iu/4r/Iu4r_img_0493.jpg.jpg) [IMG_0495](/images/Qf/3E/Qf3E_img_0495.jpg.jpg)
 
 ---
 
@@ -205,7 +205,7 @@ Thanks for letting them know
 
 Posted on **2017-04-03 18:42:35** by **mindeye**:
 
-And feedrate was 99% of the issue. Slow it down to 20 ipm instead of 60 and it's just fine. It's actually very close to square... My picture taking ability isn't. [IMG_20170403_183909895](../../images/6J/MK/6JMK_img_20170403_183909895.jpg.jpg)
+And feedrate was 99% of the issue. Slow it down to 20 ipm instead of 60 and it's just fine. It's actually very close to square... My picture taking ability isn't. [IMG_20170403_183909895](/images/6J/MK/6JMK_img_20170403_183909895.jpg.jpg)
 
 ---
 
@@ -297,7 +297,7 @@ Scott, would you kindly share that gcode?  Perhaps it could be incorporated into
 
 Posted on **2017-04-04 14:41:08** by **Bar**:
 
-I started working on the next step in the instructions and immediately ran into this problem. I'm getting very oval circles on my temporary frame. I tested very carefully that I was getting consistently round circles last week so it's a bit of a mystery what changed at this point. My results back up what @scottsm saw with the error being consistent across the work area. I cut two circles one at the very center and one at the right side and they both came out with  [similar dimensions](../../images/WI/40/WI40_similardimensions.jpg.jpg) but both were  [very oval](../../images/zX/yA/zXyA_veryoval.jpg.jpg) .
+I started working on the next step in the instructions and immediately ran into this problem. I'm getting very oval circles on my temporary frame. I tested very carefully that I was getting consistently round circles last week so it's a bit of a mystery what changed at this point. My results back up what @scottsm saw with the error being consistent across the work area. I cut two circles one at the very center and one at the right side and they both came out with  [similar dimensions](/images/WI/40/WI40_similardimensions.jpg.jpg) but both were  [very oval](/images/zX/yA/zXyA_veryoval.jpg.jpg) .
 
 
 
@@ -307,15 +307,15 @@ I'm going to try to play around with it more and see if I can figure out what is
 
 Posted on **2017-04-05 08:34:18** by **scottsm**:
 
-I've written up the pen plot data [here](../../images/Kp/9e/Kp9e_penplotdata.png.jpg). I had trouble with the z-axis so I had to change one square to avoid the tear, and the crushed pen tip made very wide lines - hard to get accurate numbers from fat lines.
+I've written up the pen plot data [here](/images/Kp/9e/Kp9e_penplotdata.png.jpg). I had trouble with the z-axis so I had to change one square to avoid the tear, and the crushed pen tip made very wide lines - hard to get accurate numbers from fat lines.
 
 
 
- I made a version to cut outside the lines with a 1/8"bit and the [result](../../images/i0/kH/i0kH_img_0482.jpg.jpg) was surprising at first. The [left](../../images/dl/Kb/dlKb_img_0485.jpg.jpg) and [right](../../images/Aj/Te/AjTe_img_0483.jpg.jpg) edges were unusable and the [top center](../../images/z2/P2/z2P2_img_0484.jpg.jpg) kept jumping the sprocket of the left motor - notice the stairstep path.
+ I made a version to cut outside the lines with a 1/8"bit and the [result](/images/i0/kH/i0kH_img_0482.jpg.jpg) was surprising at first. The [left](/images/dl/Kb/dlKb_img_0485.jpg.jpg) and [right](/images/Aj/Te/AjTe_img_0483.jpg.jpg) edges were unusable and the [top center](/images/z2/P2/z2P2_img_0484.jpg.jpg) kept jumping the sprocket of the left motor - notice the stairstep path.
 
 
 
- The [accuracy](../../images/nB/7A/nB7A_routerdata.png.jpg) in the center and lower middle is quite good, though. I'm not sure why the pen was able to work in places the bit didn't. It was chucked up in the router, but not spinning. The machine is still the 'beginner model', so it's only 3010mm wide and 422mm to the motors. I used the main software branches as of the evening of 4/1. The plywood workarea sheet has 1.5" of bow across the width, and the ply I was routing was warped as well; I had to tack it down to the workarea sheet.
+ The [accuracy](/images/nB/7A/nB7A_routerdata.png.jpg) in the center and lower middle is quite good, though. I'm not sure why the pen was able to work in places the bit didn't. It was chucked up in the router, but not spinning. The machine is still the 'beginner model', so it's only 3010mm wide and 422mm to the motors. I used the main software branches as of the evening of 4/1. The plywood workarea sheet has 1.5" of bow across the width, and the ply I was routing was warped as well; I had to tack it down to the workarea sheet.
 
 
 
@@ -455,7 +455,7 @@ Thanks guys.  If there's anything I can do to help the process, let me know.
 
 Posted on **2017-04-09 12:30:22** by **blsteinhauer88**:
 
-I am using Maslow as designed. Except for my furniture movers on the sled. I think with the last few tweets by bar. The accuracy is dialed in.  I did a bench, which only failed because I for got to scale width of wood with my other scale reduction. Still cut 9 I sent iCal parts running up the wood. I'm impressed Bar!  [IMG_0528](../../images/ti/5d/ti5d_img_0528.jpg.jpg) [IMG_0533](../../images/Bd/1z/Bd1z_img_0533.jpg.jpg) [IMG_0534](../../images/gs/kJ/gskJ_img_0534.jpg.jpg)
+I am using Maslow as designed. Except for my furniture movers on the sled. I think with the last few tweets by bar. The accuracy is dialed in.  I did a bench, which only failed because I for got to scale width of wood with my other scale reduction. Still cut 9 I sent iCal parts running up the wood. I'm impressed Bar!  [IMG_0528](/images/ti/5d/ti5d_img_0528.jpg.jpg) [IMG_0533](/images/Bd/1z/Bd1z_img_0533.jpg.jpg) [IMG_0534](/images/gs/kJ/gskJ_img_0534.jpg.jpg)
 
 ---
 

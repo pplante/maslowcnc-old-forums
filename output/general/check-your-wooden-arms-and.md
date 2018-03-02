@@ -27,7 +27,7 @@ photos having trouble loading
 
 Posted on **2017-06-04 15:24:12** by **blsteinhauer88**:
 
-[IMG_0001](../../images/P9/Jj/P9Jj_img_0001.jpg.jpg) [IMG_0002](../../images/w5/g4/w5g4_img_0002.jpg.jpg) [IMG_0003](../../images/Rc/8Q/Rc8Q_img_0003.jpg.jpg) [IMG_0004](../../images/Sx/v2/Sxv2_img_0004.jpg.jpg)
+[IMG_0001](/images/P9/Jj/P9Jj_img_0001.jpg.jpg) [IMG_0002](/images/w5/g4/w5g4_img_0002.jpg.jpg) [IMG_0003](/images/Rc/8Q/Rc8Q_img_0003.jpg.jpg) [IMG_0004](/images/Sx/v2/Sxv2_img_0004.jpg.jpg)
 
 ---
 

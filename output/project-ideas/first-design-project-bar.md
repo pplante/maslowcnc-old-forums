@@ -17,7 +17,7 @@ If anyone wants to mess with the design you're welcome to it. It was more of an 
 
 
 
- [Stool_06_-_SketchUp_Make_2017](../../images/Yy/Ay/YyAy_stool_06__sketchup_make_2017.png.jpg)
+ [Stool_06_-_SketchUp_Make_2017](/images/Yy/Ay/YyAy_stool_06__sketchup_make_2017.png.jpg)
 
 ---
 
@@ -93,7 +93,7 @@ Based on what you're saying it would seem one should expect to explicitly expres
 
 Posted on **2017-03-01 07:58:27** by **TheRiflesSpiral**:
 
-In Sketchup you don't have a choice. The drawback to using that architecture is that it's not easy to edit the curve. You're forced to either scale or re-draw a lot. So in Illustrator/Corel Draw/InkScape/Other Vector Illustration Tool you can simply grab a node on a curve and change it's shape. Like this:  [Bezier](../../images/rZ/yO/rZyO_bezier.jpg.jpg) 
+In Sketchup you don't have a choice. The drawback to using that architecture is that it's not easy to edit the curve. You're forced to either scale or re-draw a lot. So in Illustrator/Corel Draw/InkScape/Other Vector Illustration Tool you can simply grab a node on a curve and change it's shape. Like this:  [Bezier](/images/rZ/yO/rZyO_bezier.jpg.jpg) 
 
 
 

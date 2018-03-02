@@ -201,13 +201,13 @@ Hmm, are you using the github desktop?
 
 Posted on **2017-03-30 10:44:27** by **Bar**:
 
-I think you may just want to click the  [sync](../../images/nO/KB/nOKB_sync.jpg.jpg) button when you are on master. That should download all of the latest changes.
+I think you may just want to click the  [sync](/images/nO/KB/nOKB_sync.jpg.jpg) button when you are on master. That should download all of the latest changes.
 
 ---
 
 Posted on **2017-03-30 10:50:01** by **Bar**:
 
-After doing that if you have a branch that is now out of date you can click the  [update from  master](../../images/Uk/wJ/UkwJ_afterthat.jpg.jpg) button to add all of the changes everyone has made to the branch (usually not necessary)
+After doing that if you have a branch that is now out of date you can click the  [update from  master](/images/Uk/wJ/UkwJ_afterthat.jpg.jpg) button to add all of the changes everyone has made to the branch (usually not necessary)
 
 ---
 

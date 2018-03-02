@@ -49,7 +49,7 @@ I'm getting nervous, isn't the final product supposed to ship in a couple of wee
 
 Posted on **2017-06-17 10:24:45** by **blsteinhauer88**:
 
-Don't be nervous this was with FW 73 [IMG_0033](../../images/Z4/d3/Z4d3_img_0033.jpg.jpg)
+Don't be nervous this was with FW 73 [IMG_0033](/images/Z4/d3/Z4d3_img_0033.jpg.jpg)
 
 ---
 

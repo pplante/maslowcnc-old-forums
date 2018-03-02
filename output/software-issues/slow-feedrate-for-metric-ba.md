@@ -79,7 +79,7 @@ G0, when Z is safe, is faster. Only affects the G1 moves
 
 Posted on **2017-05-13 08:39:17** by **gero**:
 
-[Bf](../../images/dB/az/dBaz_bf.jpg.jpg)  :-)
+[Bf](/images/dB/az/dBaz_bf.jpg.jpg)  :-)
 
 ---
 
@@ -109,7 +109,7 @@ Although the outside is a square frame, it cut that lame as well. Its just filli
 
 Posted on **2017-05-13 09:35:09** by **gero**:
 
-@blsteinhauer88 If you are open mined enough to be able to see the beauty in imperfection and know enough about art to understand 'Abstract' ... yes... it is nice, hahaha  [IMAG0748](../../images/yV/RU/yVRU_imag0748.jpg.jpg)
+@blsteinhauer88 If you are open mined enough to be able to see the beauty in imperfection and know enough about art to understand 'Abstract' ... yes... it is nice, hahaha  [IMAG0748](/images/yV/RU/yVRU_imag0748.jpg.jpg)
 
 ---
 

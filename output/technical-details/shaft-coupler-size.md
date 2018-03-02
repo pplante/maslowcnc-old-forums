@@ -91,7 +91,7 @@ Given that, which do you recommend I select?
 
 Posted on **2017-05-30 10:06:52** by **gero**:
 
-The collects are for the diameter of you cutting bits. The coupler attaches to router as in this picture  [IMAG0570](../../images/pT/u8/pTu8_imag0570.jpg.jpg)
+The collects are for the diameter of you cutting bits. The coupler attaches to router as in this picture  [IMAG0570](/images/pT/u8/pTu8_imag0570.jpg.jpg)
 
 ---
 
@@ -127,7 +127,7 @@ Oh, you have the router? Can you post a pic?
 
 Posted on **2017-05-30 10:13:02** by **skuba**:
 
-[IMG_20170530_111045](../../images/yz/OE/yzOE_img_20170530_111045.jpg.jpg)
+[IMG_20170530_111045](/images/yz/OE/yzOE_img_20170530_111045.jpg.jpg)
 
 ---
 
@@ -145,7 +145,7 @@ Got it back together and the other knob unscrewed.  The thing is, when I try to 
 
 Posted on **2017-05-30 10:22:31** by **skuba**:
 
-[IMG_20170530_112010](../../images/eH/rX/eHrX_img_20170530_112010.jpg.jpg)  [IMG_20170530_111955](../../images/H7/Os/H7Os_img_20170530_111955.jpg.jpg)
+[IMG_20170530_112010](/images/eH/rX/eHrX_img_20170530_112010.jpg.jpg)  [IMG_20170530_111955](/images/H7/Os/H7Os_img_20170530_111955.jpg.jpg)
 
 ---
 
@@ -157,7 +157,7 @@ Hm, strange, according to the parts list I posted it should just come off by pul
 
 Posted on **2017-05-30 10:27:17** by **skuba**:
 
-Apparently I just wasn't giving it enough muscle.  Now I see this [IMG_20170530_112602](../../images/ao/nF/aonF_img_20170530_112602.jpg.jpg)
+Apparently I just wasn't giving it enough muscle.  Now I see this [IMG_20170530_112602](/images/ao/nF/aonF_img_20170530_112602.jpg.jpg)
 
 ---
 
@@ -181,7 +181,7 @@ I guess it will work. Worst case would be you need longer screws in the coupler.
 
 Posted on **2017-05-30 10:31:33** by **skuba**:
 
-[IMG_20170530_113036](../../images/sB/2Y/sB2Y_img_20170530_113036.jpg.jpg)
+[IMG_20170530_113036](/images/sB/2Y/sB2Y_img_20170530_113036.jpg.jpg)
 
 ---
 
@@ -205,7 +205,7 @@ Looking at my coupler you should be able to mount it on the round part down. Loo
 
 Posted on **2017-05-30 10:37:46** by **skuba**:
 
-Looks like 3/8" then!  Thank you so much for the help Gero! [IMG_20170530_113651](../../images/j4/OT/j4OT_img_20170530_113651.jpg.jpg)
+Looks like 3/8" then!  Thank you so much for the help Gero! [IMG_20170530_113651](/images/j4/OT/j4OT_img_20170530_113651.jpg.jpg)
 
 ---
 

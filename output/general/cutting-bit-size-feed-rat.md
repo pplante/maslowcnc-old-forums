@@ -41,7 +41,7 @@ just make two drawing files that that is slightly bigger. many drawing programs 
 
 Posted on **2017-03-21 15:02:55** by **rollandelliott**:
 
-[Screen Shot 03-21-17 at 03](../../images/qc/xJ/qcxJ_screenshot032117at03.01pm.png.jpg) 
+[Screen Shot 03-21-17 at 03](/images/qc/xJ/qcxJ_screenshot032117at03.01pm.png.jpg) 
 
 here is a sample, red line is the countrour cut out spaced .3" out from the final cut.
 

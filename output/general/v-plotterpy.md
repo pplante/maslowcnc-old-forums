@@ -87,7 +87,7 @@ I -think- it does. It would be clearer if the output included numbers about dime
 
 TYVM!
 
-[Maslow-v-plotter-screencap-01](../../images/1p/OP/1pOP_maslowvplotterscreencap01.png.jpg)
+[Maslow-v-plotter-screencap-01](/images/1p/OP/1pOP_maslowvplotterscreencap01.png.jpg)
 
 ---
 

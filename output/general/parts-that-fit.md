@@ -13,7 +13,7 @@ I'm happy to say, as of this morning, I cut parts of my own design that fit toge
 
 
 
- [Letter Box](../../images/GU/jh/GUjh_letterbox.jpg.jpg)
+ [Letter Box](/images/GU/jh/GUjh_letterbox.jpg.jpg)
 
 ---
 

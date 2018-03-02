@@ -1,7 +1,7 @@
 ## 1/2 inch bits
 Posted on **2017-02-24 12:06:15** by **Bar**:
 
-Someone asked about using bigger bits so I bummed some 1/2 inch tooling from the custom fab shop next door  [1-2 Inch Mills](../../images/Yx/sj/Yxsj_12inchmills.jpg.jpg). From left to right are the 1/4 inch up-cut bit I used in the update, a 1/2 inch straight bit, and a 1/2 inch compression bit. 
+Someone asked about using bigger bits so I bummed some 1/2 inch tooling from the custom fab shop next door  [1-2 Inch Mills](/images/Yx/sj/Yxsj_12inchmills.jpg.jpg). From left to right are the 1/4 inch up-cut bit I used in the update, a 1/2 inch straight bit, and a 1/2 inch compression bit. 
 
 
 
@@ -9,7 +9,7 @@ They said they almost never run the 1/2 inch compression bits because you have t
 
 
 
-I ran the same test as in the update in MDF with the 1/2 inch straight bit and the cut quality looks even a little better than it did with the 1/4 inch bit.  [1-2 Inch MDF](../../images/cy/Rc/cyRc_12inchmdf.jpg.jpg) 
+I ran the same test as in the update in MDF with the 1/2 inch straight bit and the cut quality looks even a little better than it did with the 1/4 inch bit.  [1-2 Inch MDF](/images/cy/Rc/cyRc_12inchmdf.jpg.jpg) 
 
 
 

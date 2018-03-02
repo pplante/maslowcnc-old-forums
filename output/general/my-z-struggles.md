@@ -9,15 +9,15 @@ First and foremost, the lack of down force on the router and resulting backlash.
 
 
 
-[DownZ1](../../images/KM/kF/KMkF_downz1.jpg.jpg)
+[DownZ1](/images/KM/kF/KMkF_downz1.jpg.jpg)
 
 
 
- [DownZ2](../../images/4j/yS/4jyS_downz2.jpg.jpg) 
+ [DownZ2](/images/4j/yS/4jyS_downz2.jpg.jpg) 
 
 
 
-[DownZ3](../../images/PX/bD/PXbD_downz3.jpg.jpg) 
+[DownZ3](/images/PX/bD/PXbD_downz3.jpg.jpg) 
 
 
 
@@ -57,7 +57,7 @@ Yea! cut and arch that lifts it off and is held in place by the band.
 
 Posted on **2017-04-19 18:02:47** by **scottsm**:
 
-I really like your down-pressure idea, [here's my version](../../images/0r/sY/0rsY_fullsizerender.jpg.jpg). A piece of bungee cord folded and pulled through a ball fitting and held with a couple hog rings.
+I really like your down-pressure idea, [here's my version](/images/0r/sY/0rsY_fullsizerender.jpg.jpg). A piece of bungee cord folded and pulled through a ball fitting and held with a couple hog rings.
 
  I'm with you on the z-motor cap. If you look at my z-motor you'll see a strip of velcro cable-tie holding the cable to the motor body. This has kept the connector from coming loose, and when the cap gets popped off :( while fussing with the depth screw, at least it stays 'in the neighborhood'. I may tape the cap in place but haven't gotten around to that. I notice the velcro has climbed up to cover the motor's air hole, probably not good.
 
@@ -179,7 +179,7 @@ http://www.ereplacementparts.com/ridgid-r2200-heavy-duty-2hp-router-combo-kit-pa
 
 Posted on **2017-04-20 16:05:37** by **blsteinhauer88**:
 
-This is what I've set up for Z pressure and the loose cap. [IMG_0668](../../images/pO/lu/pOlu_img_0668.jpg.jpg) [IMG_0669](../../images/rw/O3/rwO3_img_0669.jpg.jpg) [IMG_0670](../../images/NS/Vf/NSVf_img_0670.jpg.jpg)
+This is what I've set up for Z pressure and the loose cap. [IMG_0668](/images/pO/lu/pOlu_img_0668.jpg.jpg) [IMG_0669](/images/rw/O3/rwO3_img_0669.jpg.jpg) [IMG_0670](/images/NS/Vf/NSVf_img_0670.jpg.jpg)
 
 ---
 
@@ -223,7 +223,7 @@ After running the test shape on the temporary frame with the temporary sled succ
 
 
 
- [IMG_0370](../../images/PJ/CI/PJCI_img_0370.jpg.jpg) 
+ [IMG_0370](/images/PJ/CI/PJCI_img_0370.jpg.jpg) 
 
 
 
@@ -449,7 +449,7 @@ Posted on **2017-05-02 20:57:39** by **mcginniwa**:
 
 
 
- [IMG_5594](../../images/Ap/Gv/ApGv_img_5594.jpg.jpg) 
+ [IMG_5594](/images/Ap/Gv/ApGv_img_5594.jpg.jpg) 
 
 
 
@@ -667,7 +667,7 @@ Posted on **2017-05-04 17:03:05** by **mcginniwa**:
 
 
 
- [IMG_5595](../../images/hY/Ru/hYRu_img_5595.jpg.jpg) [IMG_5596](../../images/he/9x/he9x_img_5596.jpg.jpg)
+ [IMG_5595](/images/hY/Ru/hYRu_img_5595.jpg.jpg) [IMG_5596](/images/he/9x/he9x_img_5596.jpg.jpg)
 
 ---
 

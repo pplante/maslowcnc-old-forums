@@ -45,7 +45,7 @@ Haha.  Thanks guys!  It actually wasn't very loud, not really much louder than t
 
 Posted on **2017-04-17 15:29:47** by **rancher**:
 
-[Aluminum test](../../images/nl/TU/nlTU_aluminumtest.jpg.jpg)
+[Aluminum test](/images/nl/TU/nlTU_aluminumtest.jpg.jpg)
 
 ---
 

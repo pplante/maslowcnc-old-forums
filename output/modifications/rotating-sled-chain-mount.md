@@ -1,7 +1,7 @@
 ## Rotating Sled Chain Mount
 Posted on **2017-04-24 21:50:00** by **jbnimble**:
 
-I was inspired by @jessbussert and @jknox in the thread where they [discussed @jessbussert's Maslow](https://www.maslowcnc.com/forums/#!/general:my-maslow-is-up-and-running). I started designing my sled in [OpenSCAD](http://www.openscad.org) based on the [sled in the repository](https://github.com/MaslowCNC/Mechanics/tree/master/SVG%20Files), and decided to add a [chain rotation feature](../../images/Q8/rs/Q8rs_maslowsledbearingrotate.svg.jpg).
+I was inspired by @jessbussert and @jknox in the thread where they [discussed @jessbussert's Maslow](https://www.maslowcnc.com/forums/#!/general:my-maslow-is-up-and-running). I started designing my sled in [OpenSCAD](http://www.openscad.org) based on the [sled in the repository](https://github.com/MaslowCNC/Mechanics/tree/master/SVG%20Files), and decided to add a [chain rotation feature](/images/Q8/rs/Q8rs_maslowsledbearingrotate.svg.jpg).
 
 
 

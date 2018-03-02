@@ -41,7 +41,7 @@ I think (hope) I initially cloned instead of forking..
 
 Posted on **2017-04-14 10:46:48** by **Bar**:
 
-[Here's what mine looks like](../../images/Wg/Ib/WgIb_updatefrommaster.jpg.jpg)
+[Here's what mine looks like](/images/Wg/Ib/WgIb_updatefrommaster.jpg.jpg)
 
 ---
 

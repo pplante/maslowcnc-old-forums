@@ -45,7 +45,7 @@ But i soon got another problem..
 
 
 
- [Screen](../../images/sg/jA/sgjA_screen.png.jpg) 
+ [Screen](/images/sg/jA/sgjA_screen.png.jpg) 
 
 
 
@@ -155,7 +155,7 @@ Don't run it with those settings.  It will tear apart.  Somewhere Bar posted a s
 
 Posted on **2017-03-26 08:05:46** by **rancher**:
 
-[Maslowcnc k7km defaultsettings](../../images/81/Hh/81Hh_maslowcnck7kmdefaultsettings.jpg.jpg.jpg)
+[Maslowcnc k7km defaultsettings](/images/81/Hh/81Hh_maslowcnck7kmdefaultsettings.jpg.jpg.jpg)
 
 ---
 

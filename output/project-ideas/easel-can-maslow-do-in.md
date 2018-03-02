@@ -15,7 +15,7 @@ b.)   While watching the YouTube video I wondered if you could clamp smaller sur
 
 Thanks for your generous consideration,
 
-Steph_Louisiana [Inlays](../../images/yk/FM/ykFM_inlays.jpg.jpg)  [Horse](../../images/lG/XL/lGXL_horse.jpg.jpg)  [Coffee](../../images/Rd/iq/Rdiq_coffee.jpg.jpg)
+Steph_Louisiana [Inlays](/images/yk/FM/ykFM_inlays.jpg.jpg)  [Horse](/images/lG/XL/lGXL_horse.jpg.jpg)  [Coffee](/images/Rd/iq/Rdiq_coffee.jpg.jpg)
 
 ---
 

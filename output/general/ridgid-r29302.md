@@ -17,7 +17,7 @@ it's the correct router, but you are paying for the extra base you don't need.
 
 Posted on **2017-06-24 10:52:01** by **scottarseneau**:
 
-Thanks David. I just picked it up since it's my only option here. [Image](../../images/v4/x3/v4x3_image.jpg.jpg)
+Thanks David. I just picked it up since it's my only option here. [Image](/images/v4/x3/v4x3_image.jpg.jpg)
 
 ---
 

@@ -213,7 +213,7 @@ That's a good plan.
 
 
 
-When the calibration finishes, try clicking the arrow keys to move the machine around. Do you see commands being sent and the machine responding like this:  [Command responses](../../images/AQ/hW/AQhW_commandresponses.jpg.jpg)
+When the calibration finishes, try clicking the arrow keys to move the machine around. Do you see commands being sent and the machine responding like this:  [Command responses](/images/AQ/hW/AQhW_commandresponses.jpg.jpg)
 
 ---
 
@@ -277,7 +277,7 @@ Bar, I did have a repeatable serial connection issue where GC stopped communicat
 
 
 
- [IMG_0421](../../images/m6/HG/m6HG_img_0421.jpg.jpg) [IMG_0422](../../images/J1/1F/J11F_img_0422.jpg.jpg)
+ [IMG_0421](/images/m6/HG/m6HG_img_0421.jpg.jpg) [IMG_0422](/images/J1/1F/J11F_img_0422.jpg.jpg)
 
 ---
 

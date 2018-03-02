@@ -143,7 +143,7 @@ So put one brick on one side of the router, and the other brick exactly opposite
 
 Posted on **2017-07-07 17:31:58** by **scottsm**:
 
-I'm not certain I follow - is [this](../../images/Qk/Cg/QkCg_maslowswivelsled2.jpg.jpg) the idea? The bricks are balanced with respect to the circle they are mounted to.
+I'm not certain I follow - is [this](/images/Qk/Cg/QkCg_maslowswivelsled2.jpg.jpg) the idea? The bricks are balanced with respect to the circle they are mounted to.
 
 ---
 

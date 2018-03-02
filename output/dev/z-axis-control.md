@@ -69,7 +69,7 @@ as i complete these pieces i will post my progress as well as files for the comm
 
 
 
- [IMG_4299](../../images/M2/iP/M2iP_img_4299.jpg.jpg) [IMG_4300](../../images/nL/dP/nLdP_img_4300.jpg.jpg) [IMG_4298](../../images/ZY/dE/ZYdE_img_4298.jpg.jpg)
+ [IMG_4299](/images/M2/iP/M2iP_img_4299.jpg.jpg) [IMG_4300](/images/nL/dP/nLdP_img_4300.jpg.jpg) [IMG_4298](/images/ZY/dE/ZYdE_img_4298.jpg.jpg)
 
 ---
 

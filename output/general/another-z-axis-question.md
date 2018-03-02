@@ -5,7 +5,7 @@ I want to order a Z-axis to ship along with my Maslow, but I don't yet have a ro
 
 
 
- [2017-06-02 at 8](../../images/ge/km/gekm_20170602at8.55am.png.jpg)
+ [2017-06-02 at 8](/images/ge/km/gekm_20170602at8.55am.png.jpg)
 
 ---
 

@@ -13,11 +13,11 @@ I'm going to move my router to the new sled and see if I can get it mounted and 
 
 
 
-I'm taking more detailed notes on my computer through this morning's process and will post those once I can get my wifi to work again(storm took out our power last night and everything's not quite back to normal yet).  [Image](../../images/UU/u7/UUu7_image.jpg.jpg) 
+I'm taking more detailed notes on my computer through this morning's process and will post those once I can get my wifi to work again(storm took out our power last night and everything's not quite back to normal yet).  [Image](/images/UU/u7/UUu7_image.jpg.jpg) 
 
 
 
- [IMG_0423](../../images/DQ/pZ/DQpZ_img_0423.jpg.jpg)
+ [IMG_0423](/images/DQ/pZ/DQpZ_img_0423.jpg.jpg)
 
 ---
 
@@ -61,11 +61,11 @@ When it's stuck is the last text line on the terminal "ready"?
 
 Posted on **2017-03-22 08:56:04** by **Jennifer D**:
 
-I believe it did, however, it finished the motor calibration on the new sled and this is what I see  [Image](../../images/UP/J3/UPJ3_image.jpg.jpg) 
+I believe it did, however, it finished the motor calibration on the new sled and this is what I see  [Image](/images/UP/J3/UPJ3_image.jpg.jpg) 
 
 
 
- [Image-0](../../images/XR/il/XRil_file_0image.jpg.jpg)
+ [Image-0](/images/XR/il/XRil_file_0image.jpg.jpg)
 
 
 

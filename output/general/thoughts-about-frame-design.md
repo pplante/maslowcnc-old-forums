@@ -15,7 +15,7 @@ I know many of you have stock builds.  Anyone else experimenting?
 
 Posted on **2017-06-08 10:19:12** by **gero**:
 
-Welcome, I could not wait for the kit so built a hinged version with a car jack for testing different angles. The squares where originally to try different motor positions, but I never got to try that.  [IMAG0565](../../images/yc/tn/yctn_imag0565.jpg.jpg) The is a metal frame (mexicanmilionare) and one that is mounted to the ceiling, so when the car needs the space it is pulled up. The are design concepts for one on wheels. Waiting for what you come up with. :-)
+Welcome, I could not wait for the kit so built a hinged version with a car jack for testing different angles. The squares where originally to try different motor positions, but I never got to try that.  [IMAG0565](/images/yc/tn/yctn_imag0565.jpg.jpg) The is a metal frame (mexicanmilionare) and one that is mounted to the ceiling, so when the car needs the space it is pulled up. The are design concepts for one on wheels. Waiting for what you come up with. :-)
 
 ---
 

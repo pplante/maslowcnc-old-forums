@@ -42,7 +42,7 @@ def write_body(fp, post):
                 with open(file_path, 'wb') as dest:
                     dest.write(response.read())
 
-            body = body.replace(match, f'../../{file_path}')
+            body = body.replace(match, f'/{file_path}')
 
     fp.write(body)
 

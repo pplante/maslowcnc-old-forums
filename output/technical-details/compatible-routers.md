@@ -11,7 +11,7 @@ Thank you for being the first ever forum post! You rock!
 
 
 
-The weight shouldn't be an issue, it might even be a good thing. Most of my prototypes were done using this ancient  [Craftsman Router](../../images/hg/a3/hga3_craftsmanrouter.jpg.jpg)  that I picked up at the flea market for $10, which actually works pretty well. It's quite heavy, and that hasn't been an issue.
+The weight shouldn't be an issue, it might even be a good thing. Most of my prototypes were done using this ancient  [Craftsman Router](/images/hg/a3/hga3_craftsmanrouter.jpg.jpg)  that I picked up at the flea market for $10, which actually works pretty well. It's quite heavy, and that hasn't been an issue.
 
 
 

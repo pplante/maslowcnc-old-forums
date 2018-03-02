@@ -9,7 +9,7 @@ I wrote a simulation of how errors in the measurements produced by the calibrati
 
 
 
-It looks like this when you run it [Simulation](../../images/En/sj/Ensj_simulation.jpg.jpg) 
+It looks like this when you run it [Simulation](/images/En/sj/Ensj_simulation.jpg.jpg) 
 
 
 

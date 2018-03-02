@@ -17,7 +17,7 @@ Steel frame in progress...
 
 
 
-[20170409_173117](../../images/e4/Ks/e4Ks_20170409_173117.jpg.jpg)
+[20170409_173117](/images/e4/Ks/e4Ks_20170409_173117.jpg.jpg)
 
 ---
 
@@ -31,7 +31,7 @@ https://goo.gl/photos/JW3dD1HCwkC8ZLKc9
 
 Posted on **2017-04-18 22:07:27** by **gero**:
 
-[IMAG0565](../../images/Vm/Ld/VmLd_imag0565.jpg.jpg)
+[IMAG0565](/images/Vm/Ld/VmLd_imag0565.jpg.jpg)
 
 ---
 
@@ -43,19 +43,19 @@ I'll take a few more pics tonight. You're welcome to use the pics that I posted 
 
 Posted on **2017-04-19 07:04:53** by **mattnelson**:
 
-[IMG_9379](../../images/pd/Xv/pdXv_img_9379.jpg.jpg) [IMG_9380](../../images/Sn/2u/Sn2u_img_9380.jpg.jpg)
+[IMG_9379](/images/pd/Xv/pdXv_img_9379.jpg.jpg) [IMG_9380](/images/Sn/2u/Sn2u_img_9380.jpg.jpg)
 
 ---
 
 Posted on **2017-04-19 08:36:51** by **blsteinhauer88**:
 
-[IMG_0503](../../images/5b/Ht/5bHt_img_0503.jpg.jpg)
+[IMG_0503](/images/5b/Ht/5bHt_img_0503.jpg.jpg)
 
 ---
 
 Posted on **2017-04-19 08:56:02** by **rancher**:
 
-[Frame](../../images/TE/xj/TExj_frame.jpg.jpg)
+[Frame](/images/TE/xj/TExj_frame.jpg.jpg)
 
 ---
 

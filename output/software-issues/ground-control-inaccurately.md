@@ -33,7 +33,7 @@ Posted on **2017-07-04 17:36:54** by **gero**:
 
 2) Giving the cut file that causes the issue helps others to check. Even if it is only the part that causes the problem. 
 
-3) At the very beginning I and others had strange behavior of Z because of the connector on the motor. We strapped the cord somewhere to avoid movements on the connection while the sled moves.   [IMAG0702](../../images/1O/cp/1Ocp_imag0702.jpg.jpg)
+3) At the very beginning I and others had strange behavior of Z because of the connector on the motor. We strapped the cord somewhere to avoid movements on the connection while the sled moves.   [IMAG0702](/images/1O/cp/1Ocp_imag0702.jpg.jpg)
 
 ---
 

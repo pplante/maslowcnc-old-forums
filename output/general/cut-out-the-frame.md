@@ -1,7 +1,7 @@
 ## Cut out the frame
 Posted on **2017-03-25 19:29:06** by **mattnelson**:
 
-I cut out the Maslow frame today at a local makerspace.  Used a $50 sheet of maple veneer.  Should be very pretty after I router the edges and polyurethane everything.   [IMG_91692](../../images/cn/AI/cnAI_img_91692.jpg.jpg)
+I cut out the Maslow frame today at a local makerspace.  Used a $50 sheet of maple veneer.  Should be very pretty after I router the edges and polyurethane everything.   [IMG_91692](/images/cn/AI/cnAI_img_91692.jpg.jpg)
 
 ---
 

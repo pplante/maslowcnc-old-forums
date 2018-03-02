@@ -109,7 +109,7 @@ Yes it was, I will attach the file, it happened near as I can tell at about 850 
 
 Posted on **2017-05-25 12:07:50** by **blsteinhauer88**:
 
-[IMG_9136](../../images/3N/C2/3NC2_img_9136.jpg.jpg)
+[IMG_9136](/images/3N/C2/3NC2_img_9136.jpg.jpg)
 
 ---
 
@@ -231,7 +231,7 @@ Yep! I'm merging in the changes I made to fix the problem and uploading the vide
 
 Posted on **2017-05-26 14:37:40** by **Bar**:
 
-Here's the picture of mine  [sun moon stars cut](../../images/Vr/ym/Vrym_screenshot_20170526143611.png.jpg)
+Here's the picture of mine  [sun moon stars cut](/images/Vr/ym/Vrym_screenshot_20170526143611.png.jpg)
 
 ---
 
@@ -295,11 +295,11 @@ Right there with you B.
 
 
 
- [IMG_4134s](../../images/Re/ZT/ReZT_img_4134s.jpg.jpg)
+ [IMG_4134s](/images/Re/ZT/ReZT_img_4134s.jpg.jpg)
 
 
 
- [IMG_4140s](../../images/KN/a8/KNa8_img_4140s.jpg.jpg)
+ [IMG_4140s](/images/KN/a8/KNa8_img_4140s.jpg.jpg)
 
 ---
 

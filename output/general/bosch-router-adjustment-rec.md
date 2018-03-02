@@ -5,7 +5,7 @@ I just received my Bosch 1617EVSPK  combo kit. I don't actually intend to use th
 
 
 
-This Bosch router, along with several others I've used, have a recess in the fine adjustment knob into which an extension can be placed. The part number is RA1002 and it's just a 10mm (I think) hex pattern on the end of a shaft with a knob at the end. [RA1002](../../images/cF/Ch/cFCh_ra1002.jpg.jpg) 
+This Bosch router, along with several others I've used, have a recess in the fine adjustment knob into which an extension can be placed. The part number is RA1002 and it's just a 10mm (I think) hex pattern on the end of a shaft with a knob at the end. [RA1002](/images/cF/Ch/cFCh_ra1002.jpg.jpg) 
 
 
 
@@ -63,11 +63,11 @@ What? 1/8 of a turn? No. Not even close.
 
 
 
-Maybe you meant 1/8 of a turn total (1/16 one direction, 1/16 the other?) Even then, that's 22.5 degrees in one direction meaning you're putting a  9.5mm bolt in an 11mm socket.  [22.5 Degrees](../../images/an/bQ/anbQ_davidlang.jpg.jpg) 
+Maybe you meant 1/8 of a turn total (1/16 one direction, 1/16 the other?) Even then, that's 22.5 degrees in one direction meaning you're putting a  9.5mm bolt in an 11mm socket.  [22.5 Degrees](/images/an/bQ/anbQ_davidlang.jpg.jpg) 
 
 
 
-The clearance between those parts should be thousandths of an inch... even at 5 thousandths clearance, there would be only about 1 degree of play and that's a very loose fit. [5 thousandths clearance](../../images/2J/ND/2JND_davidlang2.jpg.jpg)
+The clearance between those parts should be thousandths of an inch... even at 5 thousandths clearance, there would be only about 1 degree of play and that's a very loose fit. [5 thousandths clearance](/images/2J/ND/2JND_davidlang2.jpg.jpg)
 
 ---
 
@@ -159,11 +159,11 @@ I have a router table base on the way along with all the dust collection accesso
 
 
 
-[Standing Front](../../images/ui/Fk/uiFk_image3.png.jpg) - [Standing Back](../../images/yR/El/yREl_image4.png.jpg)
+[Standing Front](/images/ui/Fk/uiFk_image3.png.jpg) - [Standing Back](/images/yR/El/yREl_image4.png.jpg)
 
 
 
-[Sitting Front](../../images/PM/h0/PMh0_image5.png.jpg) - [Sitting Back](../../images/1c/50/1c50_image6.png.jpg)
+[Sitting Front](/images/PM/h0/PMh0_image5.png.jpg) - [Sitting Back](/images/1c/50/1c50_image6.png.jpg)
 
 
 

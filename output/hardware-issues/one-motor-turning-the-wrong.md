@@ -27,7 +27,7 @@ Has anyone seen similar issues or have any ideas as to what I might have done wr
 
 Posted on **2017-06-20 04:15:35** by **gero**:
 
-Hello, do you have the motors connected this way?  [IMAG0875](../../images/Pr/mW/PrmW_imag0875.jpg.jpg)
+Hello, do you have the motors connected this way?  [IMAG0875](/images/Pr/mW/PrmW_imag0875.jpg.jpg)
 
 Are you using the firmware and groudcontrol from the releases or from the green download button?
 

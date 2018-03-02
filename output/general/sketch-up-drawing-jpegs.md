@@ -15,7 +15,7 @@ Posted on **2017-02-09 14:41:49** by **scottsm**:
 
 Here are some quick jpegs.
 
- [Machine Back](../../images/Vr/wE/VrwE_machineback.jpg.jpg) [Machine Front](../../images/yd/7N/yd7N_machinefront.jpg.jpg) [Machine Iso](../../images/iL/YR/iLYR_machineiso.jpg.jpg) [Machine Side](../../images/R7/HS/R7HS_machineside.jpg.jpg)
+ [Machine Back](/images/Vr/wE/VrwE_machineback.jpg.jpg) [Machine Front](/images/yd/7N/yd7N_machinefront.jpg.jpg) [Machine Iso](/images/iL/YR/iLYR_machineiso.jpg.jpg) [Machine Side](/images/R7/HS/R7HS_machineside.jpg.jpg)
 
 ---
 

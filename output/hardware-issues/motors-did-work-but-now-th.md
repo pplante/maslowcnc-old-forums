@@ -1,7 +1,7 @@
 ## Motors did work, but now they dont?
 Posted on **2017-03-23 14:31:53** by **carlosrivers**:
 
-I took these screen shots... [Screen Shot 2017-03-23 at 2](../../images/9b/c0/9bc0_screenshot20170323at2.33.16pm.png.jpg) [Screen Shot 2017-03-23 at 2](../../images/zs/v6/zsv6_screenshot20170323at2.33.34pm.png.jpg)
+I took these screen shots... [Screen Shot 2017-03-23 at 2](/images/9b/c0/9bc0_screenshot20170323at2.33.16pm.png.jpg) [Screen Shot 2017-03-23 at 2](/images/zs/v6/zsv6_screenshot20170323at2.33.34pm.png.jpg)
 
 ---
 
@@ -33,7 +33,7 @@ like Carlos I was able to get it going although I had to reset a few times. but 
 
 Posted on **2017-03-23 18:37:52** by **rexklein**:
 
-Here is how far I got till the left side just stopped altogether.  [2017-03-23_18-35-55](../../images/YX/Sg/YXSg_20170323_183555.jpeg.jpg)
+Here is how far I got till the left side just stopped altogether.  [2017-03-23_18-35-55](/images/YX/Sg/YXSg_20170323_183555.jpeg.jpg)
 
 ---
 
@@ -139,7 +139,7 @@ I just added a new firmware version which just commands the motors to run. I don
 
 
 
-Give this version [here](https://github.com/MaslowCNC/Firmware) a try, but instead of installing the normal firmware, install  [test_electronics_firmware](../../images/JJ/em/JJem_testfirmware.jpg.jpg) . With the firmware installed, try plugging the same motor into each socket 1 at a time and let me know what happens. The goal is that in three of them it will turn for 1 second, stop for 1 second, and then reverse on and on forever.
+Give this version [here](https://github.com/MaslowCNC/Firmware) a try, but instead of installing the normal firmware, install  [test_electronics_firmware](/images/JJ/em/JJem_testfirmware.jpg.jpg) . With the firmware installed, try plugging the same motor into each socket 1 at a time and let me know what happens. The goal is that in three of them it will turn for 1 second, stop for 1 second, and then reverse on and on forever.
 
 ---
 

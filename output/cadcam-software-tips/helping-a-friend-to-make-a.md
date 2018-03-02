@@ -25,7 +25,7 @@ I think I'm onto something, I should go from PDF to JPEG to DXF?
 
 Posted on **2017-06-05 19:40:02** by **carlosrivers**:
 
-[Screen Shot 2017-06-05 at 7](../../images/JI/YZ/JIYZ_screenshot20170605at7.38.57pm.png.jpg) 
+[Screen Shot 2017-06-05 at 7](/images/JI/YZ/JIYZ_screenshot20170605at7.38.57pm.png.jpg) 
 
 
 
@@ -77,13 +77,13 @@ So from Fusion360 I find a way to make g-code, (NC file) and I loaded into GC. H
 
 
 
- [Screen Shot 2017-06-06 at 1](../../images/xX/bM/xXbM_screenshot20170606at1.45.08am.png.jpg)
+ [Screen Shot 2017-06-06 at 1](/images/xX/bM/xXbM_screenshot20170606at1.45.08am.png.jpg)
 
 ---
 
 Posted on **2017-06-06 01:44:05** by **carlosrivers**:
 
-[Screen Shot 2017-06-06 at 1](../../images/Ap/I1/ApI1_screenshot20170606at1.46.44am.png.jpg)
+[Screen Shot 2017-06-06 at 1](/images/Ap/I1/ApI1_screenshot20170606at1.46.44am.png.jpg)
 
 ---
 

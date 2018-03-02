@@ -3,7 +3,7 @@ Posted on **2017-07-17 12:38:47** by **taylor47**:
 
 I am trying to do my initial calibration and my connection to COM 3 keeps timing out every few seconds. On a windows 10 machine
 
- [Timed out](../../images/QX/RD/QXRD_timedout.png.jpg)
+ [Timed out](/images/QX/RD/QXRD_timedout.png.jpg)
 
 ---
 
@@ -25,7 +25,7 @@ Which set of firmware? I am trying to setup the machine dimensions and I am unab
 
 Posted on **2017-07-17 13:14:55** by **Bar**:
 
-If we're seeing the disconnect issue, and neither motor is moving at all I think it's possible that the firmware didn't properly end up on the Arduino. When the firmware upload was complete did it look like this:  [Done Uploading](../../images/2s/Rs/2sRs_doneuploading.jpg.jpg)
+If we're seeing the disconnect issue, and neither motor is moving at all I think it's possible that the firmware didn't properly end up on the Arduino. When the firmware upload was complete did it look like this:  [Done Uploading](/images/2s/Rs/2sRs_doneuploading.jpg.jpg)
 
 ---
 
@@ -33,7 +33,7 @@ Posted on **2017-07-17 13:23:18** by **taylor47**:
 
 Here is what I am seeing after the firmware update
 
- [Arduino](../../images/Qa/AE/QaAE_arduino.png.jpg)
+ [Arduino](/images/Qa/AE/QaAE_arduino.png.jpg)
 
 ---
 

@@ -49,7 +49,7 @@ Bar, I had a running machine, zero'd and calibrated.  I updated the firmware and
 
 Posted on **2017-07-07 20:00:57** by **blsteinhauer88**:
 
-I confirmed the right motor problem.  I built the new arms and motor mounts  [IMG_0255](../../images/qY/Ii/qYIi_img_0255.jpg.jpg) 
+I confirmed the right motor problem.  I built the new arms and motor mounts  [IMG_0255](/images/qY/Ii/qYIi_img_0255.jpg.jpg) 
 
 Then I loaded the FW 79 and GC 79. I ran through the Calibration of machine dimensions. Right motor would not turn ccw in the initial zero of the gear. I got through the rest of the settings and then to Chain calibration. The right motor does not move as shown here. https://m.youtube.com/watch?v=ByZ8BJGZfAA
 
@@ -123,7 +123,7 @@ In my case it says 1.0. (Sadly no cuts or moves since the sled is still off :-()
 
 Posted on **2017-07-08 11:47:05** by **blsteinhauer88**:
 
-I just reloaded and confirmed that it detected the beta board.  [Screenshot 2017-07-08 11](../../images/us/AG/usAG_screenshot2017070811.45.54.png.jpg) [Screenshot 2017-07-08 11](../../images/pG/4o/pG4o_screenshot2017070811.46.10.png.jpg)
+I just reloaded and confirmed that it detected the beta board.  [Screenshot 2017-07-08 11](/images/us/AG/usAG_screenshot2017070811.45.54.png.jpg) [Screenshot 2017-07-08 11](/images/pG/4o/pG4o_screenshot2017070811.46.10.png.jpg)
 
 ---
 

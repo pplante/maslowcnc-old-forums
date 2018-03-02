@@ -5,7 +5,7 @@ So i received the AEG MF 1400 KE router and it is definately the exact same as t
 
 Ordered at http://www.rotopino.de/ as they were the cheapest option i found (290 /wo VAT, shipping included) they shipped fast and the contact was friendly and competent.
 
-(../../images/LP/ne/LPne_image4.jpg.jpg)  [Image1](../../images/d5/V7/d5V7_image1.jpg.jpg) [Image2](../../images/1t/Hl/1tHl_image2.jpg.jpg) [Image3](../../images/bb/VG/bbVG_image3.jpg.jpg) [Image4](image4.jpg)
+(/images/LP/ne/LPne_image4.jpg.jpg)  [Image1](/images/d5/V7/d5V7_image1.jpg.jpg) [Image2](/images/1t/Hl/1tHl_image2.jpg.jpg) [Image3](/images/bb/VG/bbVG_image3.jpg.jpg) [Image4](image4.jpg)
 
 ---
 

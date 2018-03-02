@@ -65,7 +65,7 @@ I'm pretty sure the issue was on our end, not in the gcode because everything re
 
 Posted on **2017-05-31 12:18:20** by **Bar**:
 
-Here's the final [desk](../../images/et/fJ/etfJ_img_20170531_084952612_hdr.jpg.jpg) ! I also made a [video of the build process](https://www.youtube.com/watch?v=CIQC5ZyzfDM&) for the Kickstarter update today.
+Here's the final [desk](/images/et/fJ/etfJ_img_20170531_084952612_hdr.jpg.jpg) ! I also made a [video of the build process](https://www.youtube.com/watch?v=CIQC5ZyzfDM&) for the Kickstarter update today.
 
 
 

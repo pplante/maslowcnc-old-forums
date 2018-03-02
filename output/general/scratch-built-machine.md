@@ -23,7 +23,7 @@ That all for now.  If anyone has any advice I appreciate it.  Otherwise, I will 
 
 
 
- [Front_view](../../images/4G/lz/4Glz_front_view.jpg.jpg) [Parts](../../images/ch/mL/chmL_parts.jpg.jpg) [View1](../../images/CO/R6/COR6_view1.jpg.jpg) [View2](../../images/nI/0K/nI0K_view2.jpg.jpg)
+ [Front_view](/images/4G/lz/4Glz_front_view.jpg.jpg) [Parts](/images/ch/mL/chmL_parts.jpg.jpg) [View1](/images/CO/R6/COR6_view1.jpg.jpg) [View2](/images/nI/0K/nI0K_view2.jpg.jpg)
 
 ---
 

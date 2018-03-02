@@ -197,7 +197,7 @@ Thanks aabinger! My attempt to cut the sled with the router connected directly t
 
 
 
-I used a little wood glue to adhere the template to the wood. It didn't snag or bind when using it, but I'm sure glue stick would be better.  [Image](../../images/Ku/Hj/KuHj_image.jpeg.jpg)
+I used a little wood glue to adhere the template to the wood. It didn't snag or bind when using it, but I'm sure glue stick would be better.  [Image](/images/Ku/Hj/KuHj_image.jpeg.jpg)
 
 ---
 
@@ -209,7 +209,7 @@ Thanks @aalbinger!
 
 Posted on **2017-03-22 15:39:35** by **rexklein**:
 
-ok I cheated I was concerned about the safety and basic extra work of making a temp router mount. I looked around and found a lp gas holder from lowes I am sure a lot of people have these.  [IMG_20170322_153354](../../images/uf/80/uf80_img_20170322_153354.jpg.jpg)
+ok I cheated I was concerned about the safety and basic extra work of making a temp router mount. I looked around and found a lp gas holder from lowes I am sure a lot of people have these.  [IMG_20170322_153354](/images/uf/80/uf80_img_20170322_153354.jpg.jpg)
 
 ---
 
@@ -241,7 +241,7 @@ Posted on **2017-03-23 18:44:21** by **rexklein**:
 
 here is how my cheat ended up I have a experiment I am going to try for the brick alignment.
 
-[2017-03-23_18-41-34](../../images/8D/V9/8DV9_20170323_184134.jpeg.jpg)
+[2017-03-23_18-41-34](/images/8D/V9/8DV9_20170323_184134.jpeg.jpg)
 
 ---
 
@@ -265,7 +265,7 @@ I redesigned the sled to have the counter sinks for the bolt holes cut.  It came
 
 Posted on **2017-03-25 09:08:18** by **blsteinhauer88**:
 
-[IMG_0476](../../images/yE/xu/yExu_img_0476.jpg.jpg) [IMG_0477](../../images/kS/3I/kS3I_img_0477.jpg.jpg)
+[IMG_0476](/images/yE/xu/yExu_img_0476.jpg.jpg) [IMG_0477](/images/kS/3I/kS3I_img_0477.jpg.jpg)
 
 ---
 
@@ -335,7 +335,7 @@ Posted on **2017-03-25 13:34:34** by **scottsm**:
 
 Here's what I understood for the center gravity.
 
- [Maslow Center of Gravity](../../images/o7/o0/o7o0_maslowcenterofgravity.jpeg.jpg) The round rod winds up under the bricks, parallel to the chain attachment line.
+ [Maslow Center of Gravity](/images/o7/o0/o7o0_maslowcenterofgravity.jpeg.jpg) The round rod winds up under the bricks, parallel to the chain attachment line.
 
 ---
 

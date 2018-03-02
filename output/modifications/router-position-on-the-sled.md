@@ -3,9 +3,9 @@ Posted on **2017-05-21 05:38:38** by **chadzimmerman**:
 
 Ok, I am wondering if the router position needs to be dead center. In working on my z axis design, to have the router dead center I am off the sled. 
 
- [20170521_082525](../../images/Pf/sE/PfsE_20170521_082525.jpg.jpg) 
+ [20170521_082525](/images/Pf/sE/PfsE_20170521_082525.jpg.jpg) 
 
- [20170521_082534](../../images/3N/CT/3NCT_20170521_082534.jpg.jpg) 
+ [20170521_082534](/images/3N/CT/3NCT_20170521_082534.jpg.jpg) 
 
 
 

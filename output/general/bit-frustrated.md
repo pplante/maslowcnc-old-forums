@@ -41,11 +41,11 @@ To answer your questions:
 
 
 
-1) The cotter pins attach with a  [cotter pin](../../images/2T/y0/2Ty0_cotterpin.jpg.jpg) 
+1) The cotter pins attach with a  [cotter pin](/images/2T/y0/2Ty0_cotterpin.jpg.jpg) 
 
 2) All of the files are available from the mechanics [GitHub page](https://github.com/MaslowCNC/Mechanics/tree/master/SVG%20Files)
 
-3) The arms are attached to the frame with wood screws. Each arm comes in a front and  back half. The front half rests in the corner of the plywood sheet, the back half extends behind the plywood sheet and is attached with screws. Here is an "x-ray" view of the sketchup model  [Transparent arm](../../images/kz/Np/kzNp_transparentarm.jpg.jpg) 
+3) The arms are attached to the frame with wood screws. Each arm comes in a front and  back half. The front half rests in the corner of the plywood sheet, the back half extends behind the plywood sheet and is attached with screws. Here is an "x-ray" view of the sketchup model  [Transparent arm](/images/kz/Np/kzNp_transparentarm.jpg.jpg) 
 
 4) If you need anything, let me know and I'll do my best.
 

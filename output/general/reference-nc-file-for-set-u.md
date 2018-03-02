@@ -23,7 +23,7 @@ Nice!  Thank you Bar.
 
 Posted on **2017-03-24 17:32:48** by **Bar**:
 
-They really don't make it easy to download files. If you are looking for how to actually download these it's like this:  [How to download](../../images/8e/0c/8e0c_how.jpg.jpg)
+They really don't make it easy to download files. If you are looking for how to actually download these it's like this:  [How to download](/images/8e/0c/8e0c_how.jpg.jpg)
 
 ---
 

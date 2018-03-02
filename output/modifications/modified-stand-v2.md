@@ -1,7 +1,7 @@
 ## Modified Stand V2
 Posted on **2017-03-27 13:44:06** by **jknox**:
 
-I started a new stand with simplicity and rigidity in mind, this is what I have so far:  [V2 Concept](../../images/dm/nH/dmnH_mk2preliminary.png.jpg) 
+I started a new stand with simplicity and rigidity in mind, this is what I have so far:  [V2 Concept](/images/dm/nH/dmnH_mk2preliminary.png.jpg) 
 
 
 
@@ -33,7 +33,7 @@ Posted on **2017-03-27 13:45:48** by **jknox**:
 
 Posted on **2017-03-28 06:42:29** by **jknox**:
 
-[V2 Concept 2](../../images/CU/Eu/CUEu_mk2preliminary2.png.jpg)
+[V2 Concept 2](/images/CU/Eu/CUEu_mk2preliminary2.png.jpg)
 
 ---
 
@@ -55,7 +55,7 @@ I was planning to use the same motor mount plate, or at least one similar, on to
 
 Posted on **2017-04-03 06:12:39** by **ericleahy**:
 
-I really like your design, very similar to what I was planning, though I'm using aluminum, as I'm hoping to mount a DIY panel saw on the back side. [Assembly_Version_3_2017-Apr-02_10-36-20PM-000_CustomizedView7541649624](../../images/jR/EK/jREK_assembly_version_3_2017apr02_103620pm000_customizedview7541649624.png.jpg)  [Assembly_Version_3_2017-Apr-02_10-46-23PM-000_CustomizedView258031503](../../images/Iy/BS/IyBS_assembly_version_3_2017apr02_104623pm000_customizedview258031503.png.jpg)
+I really like your design, very similar to what I was planning, though I'm using aluminum, as I'm hoping to mount a DIY panel saw on the back side. [Assembly_Version_3_2017-Apr-02_10-36-20PM-000_CustomizedView7541649624](/images/jR/EK/jREK_assembly_version_3_2017apr02_103620pm000_customizedview7541649624.png.jpg)  [Assembly_Version_3_2017-Apr-02_10-46-23PM-000_CustomizedView258031503](/images/Iy/BS/IyBS_assembly_version_3_2017apr02_104623pm000_customizedview258031503.png.jpg)
 
 ---
 

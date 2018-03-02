@@ -1,7 +1,7 @@
 ## New sled design
 Posted on **2017-03-28 19:03:18** by **blsteinhauer88**:
 
-Saw an infomercial for furniture movers, anti-friction plates. Went to Fred Meyer and grab some, re-cut a sled with pockets, glued in the anti friction gliders, glides like butter on a hot skillet.  So far it has not caught on anything.  [IMG_0491](../../images/x0/c5/x0c5_img_0491.jpg.jpg)
+Saw an infomercial for furniture movers, anti-friction plates. Went to Fred Meyer and grab some, re-cut a sled with pockets, glued in the anti friction gliders, glides like butter on a hot skillet.  So far it has not caught on anything.  [IMG_0491](/images/x0/c5/x0c5_img_0491.jpg.jpg)
 
 ---
 
@@ -185,7 +185,7 @@ The furniture moving pads are available in a few different sizes, use the larges
 
 Posted on **2017-04-05 00:03:25** by **scottsm**:
 
-I've recently started using this [1/8" UHMW sheet](https://www.amazon.com/UHMW-Sheet-Virgin-Natural-Thick/dp/B00FMY9CQW/ref=sr_1_11?s=industrial&ie=UTF8&qid=1491371447&sr=1-11&keywords=UHMW+24x24) on my plywood sled, held in place with this [carpet tape](../../images/h7/DE/h7DE_img_0445.jpg.jpg). It was a bit of a tussle prying the previous 1/32" sheet off - that tape does stick!
+I've recently started using this [1/8" UHMW sheet](https://www.amazon.com/UHMW-Sheet-Virgin-Natural-Thick/dp/B00FMY9CQW/ref=sr_1_11?s=industrial&ie=UTF8&qid=1491371447&sr=1-11&keywords=UHMW+24x24) on my plywood sled, held in place with this [carpet tape](/images/h7/DE/h7DE_img_0445.jpg.jpg). It was a bit of a tussle prying the previous 1/32" sheet off - that tape does stick!
 
 ---
 
@@ -209,7 +209,7 @@ I was using a 11.5" x  15" UHMW flexible cutting board about 1/32" thick. The sh
 
 Posted on **2017-04-07 08:44:36** by **blsteinhauer88**:
 
-I just cut these using mine on some scrap even transitioning over the gap's and on the different wood I got some pretty precise cuts.  [Image](../../images/7F/pB/7FpB_image.jpg.jpg)
+I just cut these using mine on some scrap even transitioning over the gap's and on the different wood I got some pretty precise cuts.  [Image](/images/7F/pB/7FpB_image.jpg.jpg)
 
 ---
 
@@ -239,7 +239,7 @@ Brooklynn wanted Mini Mouse...
 
 Posted on **2017-04-07 09:01:25** by **scottsm**:
 
-You're right of course. [Here](../../images/nr/md/nrmd_file_0sled.jpg.jpg)'s mine. Note the hole in the top edge - I put a screw in the middle of the 2x4 holding the motors and I hang the sled there when I want to unhook the chains.
+You're right of course. [Here](/images/nr/md/nrmd_file_0sled.jpg.jpg)'s mine. Note the hole in the top edge - I put a screw in the middle of the 2x4 holding the motors and I hang the sled there when I want to unhook the chains.
 
 Your sled seems to do fine across the rough surface, and that's a complex cut! How long did it take? What feed rate did you use?
 

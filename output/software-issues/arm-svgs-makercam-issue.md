@@ -499,7 +499,7 @@ Well, we were just able to cut the part we had trouble with by turning the SVG o
 
 
 
-On another note, can anyone confirm the size of the Arm_Front piece? We printed a pdf poster of the SVG and then cut the new gcode and ended up with two different sizes. I've attached some photos of the differences. The physical piece is not quite square, but that could be an artifact from how we spun the svg or the same reason we get slightly oval cuts. Anyways, still testing. Thanks. [20170326_141853](../../images/lc/Bq/lcBq_20170326_141853.jpg.jpg) [20170326_141808](../../images/Zy/kH/ZykH_20170326_141808.jpg.jpg)  [20170326_141905](../../images/Um/Lb/UmLb_20170326_141905.jpg.jpg)
+On another note, can anyone confirm the size of the Arm_Front piece? We printed a pdf poster of the SVG and then cut the new gcode and ended up with two different sizes. I've attached some photos of the differences. The physical piece is not quite square, but that could be an artifact from how we spun the svg or the same reason we get slightly oval cuts. Anyways, still testing. Thanks. [20170326_141853](/images/lc/Bq/lcBq_20170326_141853.jpg.jpg) [20170326_141808](/images/Zy/kH/ZykH_20170326_141808.jpg.jpg)  [20170326_141905](/images/Um/Lb/UmLb_20170326_141905.jpg.jpg)
 
 ---
 
@@ -511,7 +511,7 @@ Gorgeous! I'll check the measurements right now
 
 Posted on **2017-03-26 11:58:44** by **Bar**:
 
-The sketchup model says the correct distance for that opening is  [120mm](../../images/st/Nf/stNf_120mm.jpg.jpg) which is about 4.7inches so I would say the wood one is correct
+The sketchup model says the correct distance for that opening is  [120mm](/images/st/Nf/stNf_120mm.jpg.jpg) which is about 4.7inches so I would say the wood one is correct
 
 ---
 
@@ -533,7 +533,7 @@ I'm investigating the weird behavior you were seeing with the original model rig
 
 Posted on **2017-03-26 12:08:53** by **chadheiser**:
 
-The actual measurement of that opening is between .5 and .25 mm on the small side, so I'd say that's a pretty good result! [20170326_150203](../../images/5Q/ui/5Qui_20170326_150203.jpg.jpg) [20170326_150218](../../images/EO/XP/EOXP_20170326_150218.jpg.jpg) Also I set the hole for the U-bolt to cut on the outside and it looks to be a bit large, most likely should have cut inside on that. The edges are pretty uniform as well, there isn't really any difference between the cuts through the layers (we had some issues earlier when we had the temporary sled.)
+The actual measurement of that opening is between .5 and .25 mm on the small side, so I'd say that's a pretty good result! [20170326_150203](/images/5Q/ui/5Qui_20170326_150203.jpg.jpg) [20170326_150218](/images/EO/XP/EOXP_20170326_150218.jpg.jpg) Also I set the hole for the U-bolt to cut on the outside and it looks to be a bit large, most likely should have cut inside on that. The edges are pretty uniform as well, there isn't really any difference between the cuts through the layers (we had some issues earlier when we had the temporary sled.)
 
 ---
 

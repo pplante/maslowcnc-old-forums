@@ -31,7 +31,7 @@ Great job keeping an eye on the terminal window for errors. It's really helpful 
 
 Posted on **2017-06-22 13:20:09** by **gero**:
 
-So just that I understand, only a red circle shows because I have not moved anything? Sled is not attached, so I can tell if that will change.  [Red-circle](../../images/Wg/BU/WgBU_redcircle.jpg.jpg)
+So just that I understand, only a red circle shows because I have not moved anything? Sled is not attached, so I can tell if that will change.  [Red-circle](/images/Wg/BU/WgBU_redcircle.jpg.jpg)
 
 ---
 

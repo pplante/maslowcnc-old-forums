@@ -5,7 +5,7 @@ i have a good solution for using fusion 360 for making 3d parts first you will b
 
 okay lets say you having a sheet of plywood of half an inchs for making  your project entirely....no problem it think about respecting all dimension if you want! many feature of assembling . ok lets say you want to make it with stacking option it calculate each sheet to shape an object in 3d to 2d . nope its not finish ! all that layers is drawed on each sheet of plywood, it can be export in  dxf file or 
 
-svg i know some people have talked of this earlier but i want to show how its powerful like  software        [123Dmake_2](../../images/yn/py/ynpy_123dmake_2.png.jpg)
+svg i know some people have talked of this earlier but i want to show how its powerful like  software        [123Dmake_2](/images/yn/py/ynpy_123dmake_2.png.jpg)
 
 ---
 
